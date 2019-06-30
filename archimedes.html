@@ -53,6 +53,15 @@
 			<a-mixin id="s4_4p" position="0 -6.1937 0"></a-mixin>
 			<a-mixin id="s4_4q" position="0 -6.3541 0"></a-mixin>
 	     
+	     		<a-mixin id="s5_1p" position="0 0 2.065"></a-mixin> <!--apotema do pentagono-->
+			<a-mixin id="s5_1t" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
+			<a-mixin id="s5_2p" position="0 -1.5 2.065"></a-mixin> <!--apotema do pentagono + metade da aresta -->
+			<a-mixin id="s5_2t" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
+			<a-mixin id="s5_3p" position="0 5.943 0"></a-mixin> <!--apotema do solido-->
+			<a-mixin id="s5_3t" position="0 6.231 0"></a-mixin> <!--apotema do solido-->
+			<a-mixin id="s5_4p" position="0 -5.943 0"></a-mixin>
+			<a-mixin id="s5_4t" position="0 -6.231 0"></a-mixin>
+	     
 			<a-mixin id="esfera" geometry="radius: 0.2;"></a-mixin> <!--vertices-->
 			<a-mixin id="arestas" geometry="radius: 0.05; height:3"></a-mixin> <!--arestas-->
 	     		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.01 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
@@ -2546,10 +2555,10 @@
 		</a-entity>
 	  </a-marker>  
 	
-	  <a-marker type="barcode" value="20">
+	  <a-marker type="barcode" value="18">
 	   	<a-link mixin="lnk" href="vr/rhombicosidodecahedron.html"></a-link>
-	   	<a-entity position="1.5 0.8 0" id="prop1" scale="0.2 0.2 0.2">
-	<a-entity id="baixo">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.2 0.2 0.2">
+				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s4_1p" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s4_2p"></a-sphere>
@@ -3547,7 +3556,1061 @@
 				</a-entity>
 			</a-entity>
 	  </a-marker>
-		 
+	
+	  <a-marker type="barcode" value="20">
+	   	<a-link mixin="lnk" href="vr/snub_dodecahedron.html"></a-link>
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.2 0.2 0.2">
+	  			<a-entity id="baixo">
+					<a-entity rotation="0 0 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+					</a-entity>
+					<a-entity rotation="0 72 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+					</a-entity>
+					<a-entity rotation="0 144 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+					</a-entity>
+					<a-entity rotation="0 216 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+					</a-entity>
+					<a-entity rotation="0 288 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+					</a-entity>
+					<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+						<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+								</a-entity>
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 144 0">
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+								</a-entity>
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 216 0">
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+								</a-entity>
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 288 0">
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+								</a-entity>
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral1" mixin="s5_3p">
+						<a-entity rotation="61.1 -21.3 24.5">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral2" mixin="s5_3p" rotation="0 72 0">
+						<a-entity rotation="61.1 -21.3 24.5">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral3" mixin="s5_3p" rotation="0 144 0">
+						<a-entity rotation="61.1 -21.3 24.5">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral4" mixin="s5_3p" rotation="0 216 0">
+						<a-entity rotation="61.1 -21.3 24.5">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral5" mixin="s5_3p" rotation="0 288 0">
+						<a-entity rotation="61.1 -21.3 24.5">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+
+					<a-entity id="lateral6" mixin="s5_3p">
+						<a-entity rotation="54.7 -150.3 -142.7">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral7" mixin="s5_3p" rotation="0 72 0">
+						<a-entity rotation="54.7 -150.3 -142.7">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral8" mixin="s5_3p" rotation="0 144 0">
+						<a-entity rotation="54.7 -150.3 -142.7">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral9" mixin="s5_3p" rotation="0 216 0">
+						<a-entity rotation="54.7 -150.3 -142.7">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+					<a-entity id="lateral10" mixin="s5_3p" rotation="0 288 0">
+						<a-entity rotation="54.7 -150.3 -142.7">
+							<a-entity mixin="s5_4p">
+								<a-entity rotation="0 0 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 72 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 144 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 216 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity rotation="0 288 90">
+									<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+								</a-entity>
+								<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+									<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 144 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 216 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												
+											</a-entity>
+											<a-entity rotation="0 240 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												<a-sphere mixin="esfera mtl9 s5_2t"></a-sphere>
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+								<a-entity mixin="s5_3p">
+									<a-entity rotation="152.56 288 0">
+										<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+											<a-entity rotation="0 120 90">
+												<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+												
+											</a-entity>
+										</a-entity>
+									</a-entity>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					
+				</a-entity>
+				
+				<a-entity id="cima" position="0 11.8855 0" rotation="0 11 180">
+					<a-entity rotation="0 0 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p" ></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2p"></a-sphere>
+					</a-entity>
+					<a-entity rotation="0 72 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2p"></a-sphere>
+					</a-entity>
+					<a-entity rotation="0 144 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2p"></a-sphere>
+					</a-entity>
+					<a-entity rotation="0 216 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2p"></a-sphere>
+					</a-entity>
+					<a-entity rotation="0 288 90">
+						<a-cylinder mixin="arestas mtl8 s5_1p"></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2p"></a-sphere>
+					</a-entity>
+					<a-entity mixin="s5_3p"> <!--joga para o centro do dodecaedro-->
+						<a-entity rotation="152.56 0 0"> <!--angulo entre as faces-->
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 72 0"> <!--angulo entre as faces + lateral -->
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 144 0">
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 216 0">
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3p">
+						<a-entity rotation="152.56 288 0">
+							<a-entity mixin="s5_3t"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1t"></a-cylinder>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+	  </a-marker>		
 	  
      </a-scene>
 </body>
