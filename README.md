@@ -45,3 +45,7 @@
  <img src="ar/14.png" width="180px">
  <br><br>Truncated cuboctahedron has 26 faces, with 12 squares, 8 hexagons and 6 octagons. This solid has 72 edges, 48 vertices and it is also known as great rhombicuboctahedron. There is only one uniform coloring of the faces of this polyhedron, one color for each face type.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cuboctahedron.html">VR link</a>
+ <h4>10. Rhombicuboctahedron</h4>
+ <img src="ar/13.png" width="180px">
+ <br><br>Rhombicuboctahedron has 26 faces, with 18 squares and 8 triangles. This solid has 48 edges, 24 vertices and it is also known as small rhombicuboctahedron. This solid may also be called an expanded (or cantellated) cube or octahedron.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/rhombicuboctahedron.html">VR link</a>
