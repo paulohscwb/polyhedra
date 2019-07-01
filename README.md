@@ -53,3 +53,7 @@
  <img src="ar/12.png" width="180px">
  <br><br>Truncated cube has 14 faces, with 8 triangles and 6 octagons. This solid has 36 edges, 24 vertices and is one of a family of uniform polyhedra related to the cube and regular octahedron.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cube.html">VR link</a>
+ <h4>12. Cuboctahedron</h4>
+ <img src="ar/11.png" width="180px">
+ <br><br>Cuboctahedron has 14 faces, with 8 triangles and 6 squares. This solid has 24 edges, 12 vertices and appears in the lower left as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars".
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/cuboctahedron.html">VR link</a>
