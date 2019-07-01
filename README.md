@@ -11,6 +11,6 @@
  <br>14 faces: 6 squares and 8 hexagons; 36 edges and 24 vertices.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_octahedron.html">VR link</a>
  <h4>2. Truncated icosahedron</h4>
- <br><img src="ar/kanji.png" width="180px">
+ <img src="ar/kanji.png" width="180px">
  <br>32 faces: 12 pentagons and 20 hexagons; 90 edges and 60 vertices.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosahedron.html">VR link</a>
