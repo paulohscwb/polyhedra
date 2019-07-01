@@ -6,3 +6,6 @@
 <br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages.
  <br><br><b>Archimedean polyhedra</b>
  <br>An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
+ <br>
+ <br><b>2. Truncated icosahedron</b>
+ <br><img scr="ar/kanji.jpg">
