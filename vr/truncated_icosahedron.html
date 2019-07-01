@@ -32,9 +32,10 @@
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 
-		<a-entity scale="0.6 0.6 0.6" position="0 0 0">
+		<a-entity scale="0.55 0.55 0.55" position="0 0 0">
 	  		<a-entity position="0 -6.9823 0"> <!--apotema-->
 				<a-entity id="baixo">
+					<a-entity id="pentagono">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s2_1p" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s2_2p"></a-sphere>
@@ -60,7 +61,8 @@
 						<a-sphere mixin="esfera mtl9 s2_2p"></a-sphere>
 						<a-entity faceset="vertices: 0 0 0  -1.5 0 2.065  1.5 0 2.065;" mixin="mtl0 mtl1" rotation="0 0 -90"></a-entity>
 					</a-entity>
-					
+					</a-entity>
+
 					<a-entity mixin="s2_3p"> <!--joga para o centro do dodecaedro-->
 						<a-entity rotation="142.62 0 0"> <!--angulo entre as faces-->
 							<a-entity mixin="s2_3h"> <!--joga na lateral a partir do centro-->
