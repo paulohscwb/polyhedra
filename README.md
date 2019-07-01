@@ -5,11 +5,11 @@
 <br>The RA environment was created with the <b>Jerome Etienne</b> scripts.
 <br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages.
 <br><br>To view Archimedean polyhedra in AR, simply visit 
-<p align="center"<a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
+<p align="center"><a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <br><br><p align="center"><img src="ar/example.jpg" width="80%"></p>
- <h3>Archimedean polyhedra</h3>
+ <h3>Archimedean polyhedra</h3><hr>
  An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
  <h4>1. Truncated octahedron</h4>
  <img src="ar/hiro.png" width="180px">
