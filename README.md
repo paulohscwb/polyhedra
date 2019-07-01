@@ -17,3 +17,7 @@
  <img src="ar/kanji.png" width="180px">
  <br><br>Truncated icosahedron has 32 faces, with 12 pentagons and 20 hexagons. This solid has 90 edges, 60 vertices and it is the shape used in the construction of soccer balls.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosahedron.html">VR link</a>
+ <h4>3. Truncated icosidodecahedron</h4>
+ <img src="ar/19.png" width="180px">
+ <br><br>Truncated icosidodecahedron has 62 faces, with 30 squares, 20 hexagons and 12 decagons. This solid has 180 edges, 120 vertices and It is also known as the great rhombicosidodecahedron.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosidodecahedron.html">VR link</a>
