@@ -33,3 +33,8 @@
  <img src="ar/16.png" width="180px">
  <br><br>Truncated dodecahedron has 32 faces, with 20 triangles and 12 decagons. This solid has 150 edges, 60 vertices and it is used in the cell-transitive hyperbolic space-filling tessellation, the bitruncated icosahedral honeycomb.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_dodecahedron.html">VR link</a>
+ <h4>6. Icosidodecahedron</h4>
+ <img src="ar/20.png" width="180px">
+ <br><br>Icosidodecahedron has 32 faces, with 20 triangles and 12 pentagons. This solid has 60 edges, 30 vertices and it is contains 12 pentagons of the dodecahedron and 20 triangles of the icosahedron.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosidodecahedron.html">VR link</a>
+
