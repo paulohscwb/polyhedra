@@ -23,5 +23,10 @@
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosidodecahedron.html">VR link</a>
  <h4>4. Rhombicosidodecahedron</h4>
  <img src="ar/18.png" width="180px">
- <br><br>Rhombicosidodecahedron has 62 faces, with 20 triangles, 30 squares and 12 pentagons. This solid has 120 edges, 60 vertices and It is also known as the small rhombicosidodecahedron or small dodecicosidodecahedron.
+ <br><br>Rhombicosidodecahedron has 62 faces, with 20 triangles, 30 squares and 12 pentagons. This solid has 120 edges, 60 vertices and it is also known as the small rhombicosidodecahedron or small dodecicosidodecahedron.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/rhombicosidodecahedron.html">VR link</a>
+ <h4>5. Snub dodecahedron</h4>
+ <img src="ar/17.png" width="180px">
+ <br><br>Snub dodecahedron has 92 faces, with 80 triangles and 12 pentagons. This solid has 150 edges, 60 vertices and it is a chiral solid, and therefore exists in two enantiomorphous forms, commonly called laevo (left-handed) and dextro (right-handed).
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/snub_dodecahedron.html">VR link</a>
+ snub_dodecahedron
