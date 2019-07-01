@@ -37,4 +37,7 @@
  <img src="ar/20.png" width="180px">
  <br><br>Icosidodecahedron has 32 faces, with 20 triangles and 12 pentagons. This solid has 60 edges, 30 vertices and it is contains 12 pentagons of the dodecahedron and 20 triangles of the icosahedron.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosidodecahedron.html">VR link</a>
-
+<h4>8. Snub cube</h4>
+ <img src="ar/15.png" width="180px">
+ <br><br>Snub cube has 38 faces, with 32 triangles and 6 squares. This solid has 60 edges, 24 vertices and it is  also known as snub cuboctahedron. It is a chiral solid, and hence has two enantiomorphous forms known as laevo (left-handed) and dextro (right-handed).
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/snubcube.html">VR link</a>
