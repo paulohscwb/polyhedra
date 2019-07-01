@@ -39,5 +39,9 @@
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosidodecahedron.html">VR link</a>
 <h4>8. Snub cube</h4>
  <img src="ar/15.png" width="180px">
- <br><br>Snub cube has 38 faces, with 32 triangles and 6 squares. This solid has 60 edges, 24 vertices and it is  also known as snub cuboctahedron. It is a chiral solid, and hence has two enantiomorphous forms known as laevo (left-handed) and dextro (right-handed).
+ <br><br>Snub cube has 38 faces, with 32 triangles and 6 squares. This solid has 60 edges, 24 vertices and it is also known as snub cuboctahedron. It is a chiral solid, and hence has two enantiomorphous forms known as laevo (left-handed) and dextro (right-handed).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/snubcube.html">VR link</a>
+ <h4>9. Truncated cuboctahedron</h4>
+ <img src="ar/14.png" width="180px">
+ <br><br>Truncated cuboctahedron has 26 faces, with 12 squares, 8 hexagons and 6 octagons. This solid has 72 edges, 48 vertices and it is also known as great rhombicuboctahedron. There is only one uniform coloring of the faces of this polyhedron, one color for each face type.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cuboctahedron.html">VR link</a>
