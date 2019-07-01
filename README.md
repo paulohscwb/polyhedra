@@ -49,3 +49,7 @@
  <img src="ar/13.png" width="180px">
  <br><br>Rhombicuboctahedron has 26 faces, with 18 squares and 8 triangles. This solid has 48 edges, 24 vertices and it is also known as small rhombicuboctahedron. This solid may also be called an expanded (or cantellated) cube or octahedron.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/rhombicuboctahedron.html">VR link</a>
+ <h4>11. Truncated cube</h4>
+ <img src="ar/12.png" width="180px">
+ <br><br>Truncated cube has 14 faces, with 8 triangles and 6 octagons. This solid has 36 edges, 24 vertices and is one of a family of uniform polyhedra related to the cube and regular octahedron.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cube.html">VR link</a>
