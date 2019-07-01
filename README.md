@@ -21,3 +21,7 @@
  <img src="ar/19.png" width="180px">
  <br><br>Truncated icosidodecahedron has 62 faces, with 30 squares, 20 hexagons and 12 decagons. This solid has 180 edges, 120 vertices and It is also known as the great rhombicosidodecahedron.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosidodecahedron.html">VR link</a>
+ <h4>4. Rhombicosidodecahedron</h4>
+ <img src="ar/19.png" width="180px">
+ <br><br>Rhombicosidodecahedron has 62 faces, with 20 triangles, 30 squares and 12 pentagons. This solid has 120 edges, 60 vertices and It is also known as the small rhombicosidodecahedron or small dodecicosidodecahedron.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/rhombicosidodecahedron.html">VR link</a>
