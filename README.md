@@ -57,3 +57,7 @@
  <img src="ar/11.png" width="180px">
  <br><br>Cuboctahedron has 14 faces, with 8 triangles and 6 squares. This solid has 24 edges, 12 vertices and appears in the lower left as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars".
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/cuboctahedron.html">VR link</a>
+ <h4>13. Truncated tetrahedron</h4>
+ <img src="ar/10.png" width="180px">
+ <br><br>Truncated tetrahedron has 8 faces, with 4 triangles and 4 hexagons. This solid has 18 edges, 12 vertices. The Tetraminx puzzle has a truncated tetrahedral shape. This puzzle shows a dissection of a truncated tetrahedron into 4 octahedra and 6 tetrahedra.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_tetrahedron.html">VR link</a>
