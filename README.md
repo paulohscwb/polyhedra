@@ -4,7 +4,9 @@
 <br>The Archimedean and Plato polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
 <br>The RA environment was created with the <b>Jerome Etienne</b> scripts.
 <br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages.
-<br><br>To view the polyhedra in AR, simply visit <a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/archimedes.html</a> with any browser with a webcam device (smartphone, tablet or notebook). 
+<br><br>To view the polyhedra in AR, simply visit 
+<p align="center"<a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img src="ar/example.jpg" width="80%"></p>
  <h3>Archimedean polyhedra</h3>
