@@ -10,8 +10,8 @@
  <br><b>1. Truncated octahedron</b>
  <br>14 faces: 6 squares and 8 hexagons; 36 edges and 24 vertices.
  <br><img src="ar/hiro.png">
- <br>VR link: <a href="vr/truncated_octahedron.html"></a>
+ <br><a href="vr/truncated_octahedron.html">VR link</a>
  <br><br><b>2. Truncated icosahedron</b>
  <br>32 faces: 12 pentagons and 20 hexagons; 90 edges and 60 vertices.
  <br><img src="ar/kanji.png">
- <br>VR link: <a href="vr/truncated_icosahedron.html"></a>
+ <br><a href="vr/truncated_icosahedron.html">VR link</a>
