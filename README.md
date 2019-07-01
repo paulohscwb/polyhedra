@@ -2,7 +2,7 @@
  <b>Show polyhedra in Augmented Reality and Virtual Reality</b>
  
 <br>The Archimedean and Plato polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
-<br>The RA environment was created with the Jerome Etienne scripts.
-<br>The orbit scripts developed by Till Hinrichs were used on the VR pages.
+<br>The RA environment was created with the <b>Jerome Etienne</b> scripts.
+<br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages.
  <br><br><b>Archimedean polyhedra</b>
  <br>An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
