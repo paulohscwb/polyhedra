@@ -8,4 +8,5 @@
  <br>An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
  <br>
  <br><b>2. Truncated icosahedron</b>
- <br><img src="ar/kanji.png">
+ <br>32 faces: 12 pentagons and 20 hexagons; 90 edges and 60 vertices.
+ <p align="center"><img src="ar/kanji.png"></p>
