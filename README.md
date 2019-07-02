@@ -1,5 +1,5 @@
-# Show polyhedra in Augmented Reality and Virtual Reality
- <br><i>author: Paulo Henrique Siqueira - Universidade Federal do Paraná</i>
+# Visualization of polyhedra with Augmented Reality and Virtual Reality
+ <i>author: Paulo Henrique Siqueira - Universidade Federal do Paraná</i>
  <br>contact: <a href="#">paulohscwb@gmail.com</a>
  <br><br>The Archimedean and Plato polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
 <br>The RA environment was created with the <b>Jerome Etienne</b> scripts.
