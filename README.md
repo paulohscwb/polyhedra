@@ -86,3 +86,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/6.png" width="180px">
  <br><br>The cube has 6 square faces, 12 edges and 8 vertices. It has three square faces meeting at each vertex. The cube is also a square parallelepiped, an equilateral cuboid and a right rhombohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/cube.html">VR link</a>
+ <h4>5. Tetrahedron</h4>
+ <img src="ar/5.png" width="180px">
+ <br><br>The tetrahedron has 4 triangular faces, 6 edges and 4 vertices. It has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/tetrahedron.html">VR link</a>
