@@ -82,3 +82,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/7.png" width="180px">
  <br><br>The octahedron has 12 pentagonal faces, 12 edges and 6 vertices. It has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/octahedron.html">VR link</a>
+ <h4>4. Cube</h4>
+ <img src="ar/7.png" width="180px">
+ <br><br>The cube has 6 square faces, 12 edges and 8 vertices. It has three square faces meeting at each vertex. The cube is also a square parallelepiped, an equilateral cuboid and a right rhombohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/cube.html">VR link</a>
