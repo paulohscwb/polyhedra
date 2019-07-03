@@ -78,3 +78,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/8.png" width="180px">
  <br><br>The dodecahedron has 12 pentagonal faces, 30 edges and 20 vertices. It has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/dodecahedron.html">VR link</a>
+ <h4>3. Octahedron</h4>
+ <img src="ar/7.png" width="180px">
+ <br><br>The octahedron has 12 pentagonal faces, 12 edges and 6 vertices. It has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/octahedron.html">VR link</a>
