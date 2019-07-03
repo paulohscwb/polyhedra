@@ -67,7 +67,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr><h3>Platonic polyhedra</h3>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
  <br>To view Platonic polyhedra in AR, simply visit 
-<p align="center"><a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
+<p align="center"><a href="https://paulohscwb.github.io/polyhedra/platonic.html">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <h4>1. Icosahedron</h4>
