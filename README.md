@@ -64,3 +64,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/10.png" width="180px">
  <br><br>The truncated tetrahedron has 8 faces, with 4 triangles and 4 hexagons. This solid has 18 edges, 12 vertices. The Tetraminx puzzle has a truncated tetrahedral shape. This puzzle shows a dissection of a truncated tetrahedron into 4 octahedra and 6 tetrahedra.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_tetrahedron.html">VR link</a>
+ <h3>Platonic polyhedra</h3>
+ An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
+<h4>1. Icosahedron</h4>
+ <img src="ar/9.png" width="180px">
+ <br><br>The icosahedron has 20 triangular faces, 30 edges and 12 vertices. It has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosahedron.html">VR link</a>
