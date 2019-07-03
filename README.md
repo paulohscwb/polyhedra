@@ -66,6 +66,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_tetrahedron.html">VR link</a>
  <hr><h3>Platonic polyhedra</h3>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
+ <br>To view Platonic polyhedra in AR, simply visit 
+<p align="center"><a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <h4>1. Icosahedron</h4>
  <img src="ar/9.png" width="180px">
  <br><br>The icosahedron has 20 triangular faces, 30 edges and 12 vertices. It has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations.
