@@ -74,3 +74,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/9.png" width="180px">
  <br><br>The icosahedron has 20 triangular faces, 30 edges and 12 vertices. It has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosahedron.html">VR link</a>
+ <h4>2. Dodecahedron</h4>
+ <img src="ar/8.png" width="180px">
+ <br><br>The dodecahedron has 12 pentagonal faces, 30 edges and 20 vertices. It has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron.
+ <br><a href="https://paulohscwb.github.io/polyhedra/vr/dodecahedron.html">VR link</a>
