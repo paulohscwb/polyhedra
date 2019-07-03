@@ -1,4 +1,4 @@
-# Visualization of polyhedra with Augmented Reality and Virtual Reality
+# Visualization of polyhedra with Augmented Reality and Virtual Reality in A-frame 
  <i>author: Paulo Henrique Siqueira - Universidade Federal do Paraná</i>
  <br>contact: <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/poliedros/">versão em português</a>
