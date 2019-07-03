@@ -80,7 +80,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/dodecahedron.html">VR link</a>
  <h4>3. Octahedron</h4>
  <img src="ar/7.png" width="180px">
- <br><br>The octahedron has 12 pentagonal faces, 12 edges and 6 vertices. It has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations.
+ <br><br>The octahedron has 8 triangular faces, 12 edges and 6 vertices. It has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/octahedron.html">VR link</a>
  <h4>4. Cube</h4>
  <img src="ar/6.png" width="180px">
@@ -88,5 +88,5 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/cube.html">VR link</a>
  <h4>5. Tetrahedron</h4>
  <img src="ar/5.png" width="180px">
- <br><br>The tetrahedron has 4 triangular faces, 6 edges and 4 vertices. It has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces
+ <br><br>The tetrahedron has 4 triangular faces, 6 edges and 4 vertices. It has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/tetrahedron.html">VR link</a>
