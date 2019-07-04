@@ -16,7 +16,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/hiro.png" width="180px">
  <br><br>The truncated octahedron has 14 faces, with 6 squares and 8 hexagons. This solid has 36 edges, 24 vertices and It was called the "mecon" by Buckminster Fuller.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_octahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
-<table><tr bgcolor="#FF0000"><td><h4>2. Truncated icosahedron</h4>
+<table><tr><td bgcolor="#FF0000"><h4>2. Truncated icosahedron</h4>
  <img src="ar/kanji.png" width="180px">
  <br><br>The truncated icosahedron has 32 faces, with 12 pentagons and 20 hexagons. This solid has 90 edges, 60 vertices and it is the shape used in the construction of soccer balls.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
