@@ -5,7 +5,7 @@
  <br><br>The Archimedean and Plato polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages: <a href="https://github.com/tizzle/aframe-orbit-controls-component">A-frame orbit controls component</a>.
-<h3>Archimedean polyhedra</h3>
+<hr><h3>Archimedean polyhedra</h3>
  An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
 <br>To view Archimedean polyhedra in AR, simply visit 
 <p align="center"><a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
@@ -90,3 +90,4 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/5.png" width="180px">
  <br><br>The tetrahedron has 4 triangular faces, 6 edges and 4 vertices. It has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces.
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/tetrahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
+ <hr>
