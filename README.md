@@ -70,6 +70,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="https://paulohscwb.github.io/polyhedra/platonic.html">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<br><br><center><img src="ar/example1.jpg" width="70%"></center>
 <table><tr><td><h4>1. Icosahedron</h4>
  <img src="ar/9.png" width="180px">
  <br><br>The icosahedron has 20 triangular faces, 30 edges and 12 vertices. It has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations.
