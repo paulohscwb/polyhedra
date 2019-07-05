@@ -32,6 +32,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/17.png" width="180px">
  <br><br>The snub dodecahedron has 92 faces, with 80 triangles and 12 pentagons. This solid has 150 edges, 60 vertices and it is a chiral solid, and therefore exists in two enantiomorphous forms, commonly called laevo (left-handed) and dextro (right-handed).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/snub_dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
+<hr>
+<img src="vr/44_2.PNG">
+<a href="https://paulohscwb.github.io/polyhedra/vr/snub_dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a><hr>
 <table><tr><td><h4>6. Truncated dodecahedron</h4>
  <img src="ar/16.png" width="180px">
  <br><br>The truncated dodecahedron has 32 faces, with 20 triangles and 12 decagons. This solid has 150 edges, 60 vertices and it is used in the cell-transitive hyperbolic space-filling tessellation, the bitruncated icosahedral honeycomb.
