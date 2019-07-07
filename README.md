@@ -6,8 +6,10 @@
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages: <a href="https://github.com/tizzle/aframe-orbit-controls-component">A-frame orbit controls component</a>.
 <br><b>References:</b>
-<br>Weisstein, Eric W. "Archimedean Solid." From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
+<br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
+<br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
 <hr><h3>Archimedean polyhedra</h3>
  An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
 <br>To view Archimedean polyhedra in AR, simply visit 
@@ -78,7 +80,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <table><tr><td><h4>13. Truncated tetrahedron</h4>
  <img src="ar/10.png" width="180px">
  <br><br>The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
- <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angle:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
+ <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_tetrahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
  <hr><h3>Platonic polyhedra</h3>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
@@ -89,7 +91,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><center><img src="ar/example1.jpg" width="70%"></center>
 <table><tr><td><h4>1. Icosahedron</h4>
  <img src="ar/9.png" width="180px">
- <br><br>The icosahedron has 20 triangular faces, 30 edges and 12 vertices. It has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations.
+ <br><br>The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
+<br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.939 | <b>Diedral angle:</b> 138.1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">More...</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>2. Dodecahedron</h4>
  <img src="ar/8.png" width="180px">
