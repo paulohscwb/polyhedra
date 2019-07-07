@@ -24,7 +24,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>3. Truncated icosidodecahedron</h4>
  <img src="ar/19.png" width="180px">
- <br><br>The truncated icosidodecahedron has 62 faces, with 30 squares, 20 hexagons and 12 decagons. This solid has 180 edges, 120 vertices and It is also known as the great rhombicosidodecahedron.
+ <br><br>The truncated icosidodecahedron is also known as the great rhombicosidodecahedron, and if a set of all 13 Archimedean solids were constructed with all edge lengths equal, the truncated icosidodecahedron would be the largest. It has more vertices and edges than any other convex nonprismatic uniform polyhedron.
+ <br><b>Faces:</b> 62 | <b>Polygons:</b> 30 squares, 20 hexagons and 12 decagons | <b>Edges:</b> 180 | <b>Vertices:</b> 120 | <b>Sphericity:</b> 0.97 | <b>Diedral angles:</b> 142.62° (6-10), 148.28° (4-10) and 159.095° (4-6).  
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosidodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>4. Rhombicosidodecahedron</h4>
  <img src="ar/18.png" width="180px">
