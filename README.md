@@ -65,15 +65,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <table><tr><td><h4>11. Truncated cube</h4>
  <img src="ar/12.png" width="180px">
  <br><br>The truncated cube is one of a family of uniform polyhedra related to the cube and regular octahedron. This solid can be dissected into a central cube, with six square cupola around each of the cube's faces, and 8 regular tetrahedral in the corners. This dissection can also be seen within the runcic cubic honeycomb, with cube, tetrahedron, and rhombicuboctahedron cells.
- <br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 octagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.849 | <b>Diedral angle:</b> 125°15′51″ (8-3) and 95° (8-8). 
+ <br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 octagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.849 | <b>Diedral angle:</b> 125°15′51″ (8-3) and 90° (8-8). 
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cube.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>12. Cuboctahedron</h4>
  <img src="ar/11.png" width="180px">
- <br><br>The cuboctahedron has 14 faces, with 8 triangles and 6 squares. This solid has 24 edges, 12 vertices and appears in the lower left as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars".
+ <br><br>The cuboctahedron is the unique convex polyhedron in which the long radius (center to vertex) is the same as the edge length. A hexagon can be obtained by taking an equatorial cross section of a cuboctahedron. This solid can be dissected into two triangular cupolas by a common hexagon passing through the center of the cuboctahedron.
+ <br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 squares | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.905 | <b>Diedral angle:</b> 125.26° (4-3). 
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/cuboctahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>13. Truncated tetrahedron</h4>
  <img src="ar/10.png" width="180px">
- <br><br>The truncated tetrahedron has 8 faces, with 4 triangles and 4 hexagons. This solid has 18 edges, 12 vertices. The Tetraminx puzzle has a truncated tetrahedral shape. This puzzle shows a dissection of a truncated tetrahedron into 4 octahedra and 6 tetrahedra.
+ <br><br>The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
+ <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angle:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). 
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_tetrahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
  <hr><h3>Platonic polyhedra</h3>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
