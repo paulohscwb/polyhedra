@@ -14,12 +14,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><center><img src="ar/example.jpg" width="80%"></center>
 <table><tr><td><h4>1. Truncated octahedron</h4>
  <img src="ar/hiro.png" width="180px">
- <br><br>A truncated octahedron is constructed from a regular octahedron with side length 3a by the removal of six right square pyramids, one from each point. These pyramids have both base side length <b>a</b> and lateral side length <b>e</b> of <b>a</b>, to form equilateral triangles. The truncated octahedron can be dissected into a central octahedron, surrounded by 8 triangular cupola on each face, and 6 square pyramids above the vertices. The truncated octahedron exists in the structure of the faujasite crystals.
- <br><b>Faces:</b> 14 | <b>Polygons:</b> 6 squares and 8 hexagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.905 | <b>Diedral angles:</b>125°15′51″ (4-6) and 109°28′16″ (6-6)  
+ <br><br>A truncated octahedron is constructed from a regular octahedron with side length <b>3a</b> by the removal of six right square pyramids, one from each point. These pyramids have both base side length <b>a</b> and lateral side length <b>e</b> of <b>a</b>, to form equilateral triangles. The truncated octahedron can be dissected into a central octahedron, surrounded by 8 triangular cupola on each face, and 6 square pyramids above the vertices. The truncated octahedron exists in the structure of the faujasite crystals.
+ <br><b>Faces:</b> 14 | <b>Polygons:</b> 6 squares and 8 hexagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.905 | <b>Diedral angles:</b> 125°15′51″ (4-6) and 109°28′16″ (6-6).  
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_octahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>2. Truncated icosahedron</h4>
  <img src="ar/kanji.png" width="180px">
- <br><br>The truncated icosahedron has 32 faces, with 12 pentagons and 20 hexagons. This solid has 90 edges, 60 vertices and it is the shape used in the construction of soccer balls.
+ <br><br>This geometry is associated with footballs (soccer balls) typically patterned with white hexagons and black pentagons. This polyhedron can be constructed from an icosahedron with the 12 vertices truncated, such that one third of each edge is cut off at each of both ends. This creates 12 new pentagon faces, and leaves the original 20 triangle faces as regular hexagons. Thus the length of the edges is one third of that of the original edges. 
+ <br><b>Faces:</b> 32 | <b>Polygons:</b> 12 pentagons and 20 hexagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.967 | <b>Diedral angles:</b> 138.1897° (6-6) and 142.62° (5-6). 
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>3. Truncated icosidodecahedron</h4>
  <img src="ar/19.png" width="180px">
