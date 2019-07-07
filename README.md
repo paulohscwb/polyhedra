@@ -29,7 +29,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_icosidodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>4. Rhombicosidodecahedron</h4>
  <img src="ar/18.png" width="180px">
- <br><br>The rhombicosidodecahedron has 62 faces, with 20 triangles, 30 squares and 12 pentagons. This solid has 120 edges, 60 vertices and it is also known as the small rhombicosidodecahedron or small dodeicosidodecahedron.
+ <br><br>The rhombicosidodecahedron is also known as the small rhombicosidodecahedron or small dodeicosidodecahedron. If you expand an icosahedron by moving the faces away from the origin the right amount, without changing the orientation or size of the faces, and do the same to its dual dodecahedron, and patch the square holes in the result, you get a rhombicosidodecahedron. It can also be called an expanded dodecahedron or icosahedron, from truncation operations on either uniform polyhedron.
+ <br><b>Faces:</b> 62 | <b>Polygons:</b> 30 squares, 20 triangles and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.979 | <b>Diedral angles:</b> 159°05′41″ (3-4) and 148°16′57″ (4-5).  
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/rhombicosidodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>5. Snub dodecahedron</h4>
  <img src="ar/17.png" width="180px">
