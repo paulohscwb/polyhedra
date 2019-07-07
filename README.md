@@ -39,7 +39,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/snub_dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>6. Truncated dodecahedron</h4>
  <img src="ar/16.png" width="180px">
- <br><br>The truncated dodecahedron has 32 faces, with 20 triangles and 12 decagons. This solid has 150 edges, 60 vertices and it is used in the cell-transitive hyperbolic space-filling tessellation, the bitruncated icosahedral honeycomb.
+ <br><br>The truncated dodecahedron is used in the cell-transitive hyperbolic space-filling tessellation, the bitruncated icosahedral honeycomb. This polyhedron can be formed from a dodecahedron by truncating the corners so the pentagon faces become decagons and the corners become triangles. It is part of a truncation process between a dodecahedron and icosahedron.
+ <br><b>Faces:</b> 32 | <b>Polygons:</b> 20 triangles and 12 decagons | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.926 | <b>Diedral angles:</b> 116.57° (10-10) and 142.62° (3-10).  
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
  <table><tr><td><h4>7. Icosidodecahedron</h4>
  <img src="ar/20.png" width="180px">
