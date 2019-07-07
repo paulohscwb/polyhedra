@@ -96,7 +96,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>2. Dodecahedron</h4>
  <img src="ar/8.png" width="180px">
- <br><br>The dodecahedron has 12 pentagonal faces, 30 edges and 20 vertices. It has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron.
+ <br><br>The dodecahedron has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron. If the five Platonic solids are built with same volume, the regular dodecahedron has the shortest edges.
+<br><b>Faces:</b> 12 pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Sphericity:</b> 0.91 | <b>Diedral angle:</b> 116.5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">More...</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>3. Octahedron</h4>
  <img src="ar/7.png" width="180px">
