@@ -60,11 +60,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <table><tr><td><h4>10. Rhombicuboctahedron</h4>
  <img src="ar/13.png" width="180px">
  <br><br>The rhombicuboctahedron is also known as small rhombicuboctahedron. This solid may also be called an expanded cube or octahedron and it can be dissected into two square cupolae and a central octagonal prism. There are three pairs of parallel planes that each intersect the rhombicuboctahedron in a regular octagon.
- <br><b>Faces:</b> 26 | <b>Polygons:</b> 18 squares and 8 triangles | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.954 | <b>Diedral angle:</b> 144°44′08″ (4-3) and 135° (4-4) and 125°15′51″ (6-8).
+ <br><b>Faces:</b> 26 | <b>Polygons:</b> 18 squares and 8 triangles | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.954 | <b>Diedral angle:</b> 144°44′08″ (4-3) and 135° (4-4).
 <br><a href="https://paulohscwb.github.io/polyhedra/vr/rhombicuboctahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>11. Truncated cube</h4>
  <img src="ar/12.png" width="180px">
- <br><br>The truncated cube has 14 faces, with 8 triangles and 6 octagons. This solid has 36 edges, 24 vertices and is one of a family of uniform polyhedra related to the cube and regular octahedron.
+ <br><br>The truncated cube is one of a family of uniform polyhedra related to the cube and regular octahedron. This solid can be dissected into a central cube, with six square cupola around each of the cube's faces, and 8 regular tetrahedral in the corners. This dissection can also be seen within the runcic cubic honeycomb, with cube, tetrahedron, and rhombicuboctahedron cells.
+ <br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 octagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.849 | <b>Diedral angle:</b> 125°15′51″ (8-3) and 95° (8-8). 
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cube.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>12. Cuboctahedron</h4>
  <img src="ar/11.png" width="180px">
