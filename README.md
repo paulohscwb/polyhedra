@@ -14,7 +14,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><center><img src="ar/example.jpg" width="80%"></center>
 <table><tr><td><h4>1. Truncated octahedron</h4>
  <img src="ar/hiro.png" width="180px">
- <br><br>The truncated octahedron has 14 faces, with 6 squares and 8 hexagons. This solid has 36 edges, 24 vertices and It was called the "mecon" by Buckminster Fuller.
+ <br><br>A truncated octahedron is constructed from a regular octahedron with side length 3a by the removal of six right square pyramids, one from each point. These pyramids have both base side length <b>a</b> and lateral side length <b>e</b> of <b>a</b>, to form equilateral triangles. The truncated octahedron can be dissected into a central octahedron, surrounded by 8 triangular cupola on each face, and 6 square pyramids above the vertices. The truncated octahedron exists in the structure of the faujasite crystals.
+ <br><b>Faces:</b> 14 | <b>Polygons:</b> 6 squares and 8 hexagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.905 | <b>Diedral angles:</b>125°15′51″ (4-6) and 109°28′16″ (6-6)  
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_octahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>2. Truncated icosahedron</h4>
  <img src="ar/kanji.png" width="180px">
