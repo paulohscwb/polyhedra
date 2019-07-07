@@ -54,7 +54,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/snubcube.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>9. Truncated cuboctahedron</h4>
  <img src="ar/14.png" width="180px">
- <br><br>The truncated cuboctahedron has 26 faces, with 12 squares, 8 hexagons and 6 octagons. This solid has 72 edges, 48 vertices and it is also known as great rhombicuboctahedron. There is only one uniform coloring of the faces of this polyhedron, one color for each face type.
+ <br><br>The truncated cuboctahedron is also known as great rhombicuboctahedron. The truncated cuboctahedron is the convex hull of a rhombicuboctahedron with cubes above its 12 squares on 2-fold symmetry axes. The rest of its space can be dissected into 6 square cupolas below the octagons and 8 triangular cupolas below the hexagons.
+ <br><b>Faces:</b> 26 | <b>Polygons:</b> 12 squares, 8 hexagons and 6 octagons | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Sphericity:</b> 0.943 | <b>Diedral angle:</b> 144°44′08″ (4-6), 135° (4-8) and 125°15′51″ (6-8).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_cuboctahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>10. Rhombicuboctahedron</h4>
  <img src="ar/13.png" width="180px">
