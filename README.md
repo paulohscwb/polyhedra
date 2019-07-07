@@ -101,7 +101,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>3. Octahedron</h4>
  <img src="ar/7.png" width="180px">
- <br><br>The octahedron has 8 triangular faces, 12 edges and 6 vertices. It has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations.
+ <br><br>The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
+<br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Diedral angle:</b> 109.4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/octahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>4. Cube</h4>
  <img src="ar/6.png" width="180px">
