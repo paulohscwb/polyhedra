@@ -73,7 +73,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <table><tr><td><h4>12. Cuboctahedron</h4>
  <img src="ar/11.png" width="180px">
  <br><br>The cuboctahedron is the unique convex polyhedron in which the long radius (center to vertex) is the same as the edge length. A hexagon can be obtained by taking an equatorial cross section of a cuboctahedron. This solid can be dissected into two triangular cupolas by a common hexagon passing through the center of the cuboctahedron.
- <br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 squares | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.905 | <b>Diedral angle:</b> 125.26° (4-3). 
+ <br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 squares | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.905 | <b>Diedral angle:</b> 125.26° (4-3). <a href="http://mathworld.wolfram.com/Cuboctahedron.html" target="_blank">More...</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/cuboctahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>13. Truncated tetrahedron</h4>
  <img src="ar/10.png" width="180px">
