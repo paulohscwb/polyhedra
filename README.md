@@ -44,7 +44,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/truncated_dodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
  <table><tr><td><h4>7. Icosidodecahedron</h4>
  <img src="ar/20.png" width="180px">
- <br><br>Icosidodecahedron has 32 faces, with 20 triangles and 12 pentagons. This solid has 60 edges, 30 vertices and it is contains 12 pentagons of the dodecahedron and 20 triangles of the icosahedron.
+ <br><br>Icosidodecahedron contains 12 pentagons of the dodecahedron and 20 triangles of the icosahedron. The truncated cube can be turned into an icosidodecahedron by dividing the octagons into two pentagons and two triangles. The icosidodecahedron has 6 central decagons.
+ <br><b>Faces:</b> 32 | <b>Polygons:</b> 20 triangles and 12 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Sphericity:</b> 0.951 | <b>Diedral angle:</b> 142.62° (5-3).
  <br><a href="https://paulohscwb.github.io/polyhedra/vr/icosidodecahedron.html"><img src="vr/VRaframe.PNG" width="150px"></a></td></tr></table>
 <table><tr><td><h4>8. Snub cube</h4>
  <img src="ar/15.png" width="180px">
