@@ -1,7 +1,7 @@
 <h2>Visualization of polyhedra with Augmented Reality and Virtual Reality in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
- <br><a href="https://paulohscwb.github.io/poliedros/">versão em português</a>
+ <br><a href="https://paulohscwb.github.io/poliedros/pt-br/">versão em português</a>
  <br><br>The Archimedean and Plato polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages: <a href="https://github.com/tizzle/aframe-orbit-controls-component">A-frame orbit controls component</a>.
