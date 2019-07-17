@@ -13,8 +13,8 @@
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 12; side:double; color: black"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #262626; align: center;"></a-mixin>
 			<a-mixin id="s1_1q" position="0 0 1.5"></a-mixin> <!--apotema do quadrado-->
 			<a-mixin id="s1_1h" position="0 0 2.5981"></a-mixin> <!--apotema do hexagono-->
 			<a-mixin id="s1_2q" position="0 -1.5 1.5"></a-mixin> <!--apotema do quadrado + metade da aresta -->
@@ -28,6 +28,10 @@
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 
+		<a-entity scale="2 2 2" position="0 0 0.1">
+			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.5" position="0 -1 2" rotation="-45 0 0" 
+			  text="value:TRUNCATED OCTAHEDRON  |  Faces: 14  |  Polygons: 6 squares and 8 hexagons  |  Edges: 36  |  Vertices: 24  |  Sphericity: 0.905  |  Diedral angles: 125.16″ (4-6) and 109.28 (6-6) degrees;"></a-plane>
+		</a-entity>
 		<a-entity scale="1 1 1" position="0 0 0">
 	  		<!--<a-sphere mixin="esfera mtl9"></a-sphere>
 			<a-text position="0.2 -0.2 0" value="O" mixin="texto"></a-text>

@@ -15,8 +15,8 @@
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #262626; align: center;"></a-mixin>
 			<a-mixin id="s2_1p" position="0 0 2.065"></a-mixin> <!--apotema do pentagono-->
 			<a-mixin id="s2_1h" position="0 0 2.5981"></a-mixin> <!--apotema do hexagono-->
 			<a-mixin id="s2_2p" position="0 -1.5 2.065"></a-mixin> <!--apotema do pentagono + metade da aresta -->
@@ -32,6 +32,7 @@
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 
+		
 		<a-entity scale="0.55 0.55 0.55" position="0 0 0">
 	  		<a-entity position="0 -6.9823 0"> <!--apotema-->
 				<a-entity id="baixo">
@@ -976,7 +977,10 @@
 				
 			</a-entity>
 		</a-entity>
-
+		<a-entity scale="2 2 2" position="0 0 0.5">
+			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.2" position="0 -1 2" rotation="-45 0 0" 
+			  text="value:TRUNCATED ICOSAHEDRON  |  Faces: 32  |  Polygons: 12 pentagons and 20 hexagons  |  Edges: 90  |  Vertices: 60  |  Sphericity: 0.967  |  Diedral angles: 138.19 (6-6) and 142.62 (5-6) degrees;"></a-plane>
+		</a-entity>
 		<a-entity camera look-controls orbit-controls="target: 0 0 0; minDistance: 0.5; maxPolarAngle: 180; maxDistance: 180; initialPosition: 0 2 8"></a-entity>
 	  
 		<!--<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
