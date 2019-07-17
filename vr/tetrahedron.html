@@ -14,7 +14,7 @@
 			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
-			<a-mixin id="texto" text="color: #404040"></a-mixin>
+			<a-mixin id="texto" text="color: #262626"></a-mixin>
 			<a-mixin id="s5_1" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
 			<a-mixin id="s5_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
 			<a-mixin id="s5_3" position="0 0.6123 0"></a-mixin> <!--apotema do solido-->
@@ -26,7 +26,7 @@
 		<a-entity gearvr-controls></a-entity>
 
 		<a-entity scale="2 2 2" position="0 0 0">
-			<a-plane mixin="mtl0p mtl9 texto" width="5" position="0 -1 2" rotation="-45 0 0" 
+			<a-plane mixin="mtl0p texto" material="color: #b3b3b3 width="5" position="0 -1 2" rotation="-45 0 0" 
 			  text="value:TETRAHEDRON  |  Faces: 4 triangles  |  Edges: 6  |  Vertices: 4  |  Sphericity: 0.671  |  Diedral angle: 70.5288 degrees; 
 			  "></a-plane>
 	  		<a-entity position="0 -0.6123 0"> <!--apotema-->
