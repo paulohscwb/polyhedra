@@ -13,8 +13,8 @@
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #262626; align:center;"></a-mixin>
 			<a-mixin id="s13_1h" position="0 0 2.5981"></a-mixin> <!--apotema do hexagono-->
 			<a-mixin id="s13_1t" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
 			<a-mixin id="s13_2h" position="0 -1.5 2.5981"></a-mixin> <!--apotema do hexagono + metade da aresta -->
@@ -27,7 +27,11 @@
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
-
+		
+		<a-entity scale="2 2 2" position="0 0 0">
+			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.5" position="0 -1 2" rotation="-45 0 0" 
+			  text="value:TRUNCATED TETRAHEDRON  |  Faces: 8  |  Polygons: 4 triangles and 4 hexagons  |  Edges: 18  |  Vertices: 12  |  Sphericity: 0.775  |  Diedral angles: 109.28 (6-3) and 70.31 (6-6) degrees;"></a-plane>
+		</a-entity>
 		<a-entity scale="1 1 1" position="0 0 0">
 	  		<a-entity position="0 -1.8371 0"> <!--apotema-->
 				<a-entity id="baixo">

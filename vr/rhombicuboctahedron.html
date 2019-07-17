@@ -13,8 +13,8 @@
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #262626; align: center;"></a-mixin>
 			<a-mixin id="s10_1q" position="0 0 1.5"></a-mixin> <!--apotema do quadrado-->
 			<a-mixin id="s10_2q" position="0 -1.5 1.5"></a-mixin> <!--apotema do quadrado + metade da aresta -->
 			<a-mixin id="s10_3q" position="0 3.6213 0"></a-mixin> <!--apotema do solido-->
@@ -25,6 +25,10 @@
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 
+		<a-entity scale="2 2 2" position="0 0 0.5">
+			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.2" position="0 -1 2" rotation="-45 0 0" 
+			  text="value:RHOMBICUBOCTAHEDRON  |  Faces: 26  |  Polygons: 18 squares and 8 triangles  |  Edges: 48  |  Vertices: 24  |  Sphericity: 0.954  |  Diedral angles: 144.44 (4-3) and 135 (4-4) degrees;"></a-plane>
+		</a-entity>
 		<a-entity scale="1 1 1" position="0 0 0">
 	  		<a-entity position="0 -3.6213 0"> <!--apotema-->
 				<a-entity id="baixo">
