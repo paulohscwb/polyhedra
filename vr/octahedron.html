@@ -13,8 +13,8 @@
 			<a-mixin id="mtl8" material="color: #b3b3ff; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 9; side:double; color: black"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #262626"></a-mixin>
 			<a-mixin id="s3_1" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
 			<a-mixin id="s3_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
 			<a-mixin id="s3_3" position="0 1.2246 0"></a-mixin> <!--apotema do solido-->
@@ -26,6 +26,8 @@
 		<a-entity gearvr-controls></a-entity>
 
 		<a-entity scale="1.8 1.8 1.8" position="0 0 0">
+	  		<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="5" position="0 -1 2" rotation="-45 0 0" 
+			  text="value:OCTAHEDRON  |  Faces: 8 triangles  |  Edges: 12  |  Vertices: 6  |  Sphericity: 0.846  |  Diedral angle: 109.4712 degrees;"></a-plane>
 	  		<a-entity position="0 -1.2246 0"> <!--apotema-->
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
