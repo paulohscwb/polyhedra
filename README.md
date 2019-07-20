@@ -4,7 +4,7 @@
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
  <br><br>The Archimedean and Plato polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js">AR.js - Augmented Reality for the Web</a>.
-<br>The orbit scripts developed by <b>Till Hinrichs</b> were used on the VR pages: <a href="https://github.com/tizzle/aframe-orbit-controls-component">A-frame orbit controls component</a>.
+<br>The orbit scripts developed by <b>Ernest Wong</b> were used on the VR pages: <a href="https://github.com/chewong/aframe-orbit-controls">A-frame orbit controls</a>.
 <br><br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
 <br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
