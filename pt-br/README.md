@@ -4,7 +4,7 @@
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
 <br><br>Os poliedros de Arquimedes e Platão podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, o poliedro pode ser visto em RV.
 <br>O ambiente RA foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
-<br>Os scripts de órbita desenvolvidos por <b>Till Hinrichs</b> foram usados nas páginas de RV: <a href="https://github.com/tizzle/aframe-orbit-controls-component"> A-frame orbit controls component</a>.
+<br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.
 <br><br><b>Referências:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
 <br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
