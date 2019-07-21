@@ -42,12 +42,12 @@
 	     
 			<a-mixin id="esfera" geometry="radius: 0.2;"></a-mixin> <!--vertices-->
 			<a-mixin id="arestas" geometry="radius: 0.05; height:3"></a-mixin> <!--arestas-->
-	     		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.01 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
+	     		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		</a-assets>
 
     <a-entity camera></a-entity>
     
-	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:5; smoothThreshold:4">
+	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:3">
 		<a-link mixin="lnk" href="vr/icosahedron.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.31 0.31 0.31">
 				<a-entity id="baixo">
@@ -310,7 +310,7 @@
 			</a-entity>
 	</a-marker>
 	 
-	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:5; smoothThreshold:4">
+	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:3">
 		<a-link mixin="lnk" href="vr/dodecahedron.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.23 0.23 0.23">
 				<a-entity id="baixo">
@@ -560,7 +560,7 @@
 			</a-entity>
 	</a-marker>	
 	  
-	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:5; smoothThreshold:4">
+	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:3">
 		<a-link mixin="lnk" href="vr/octahedron.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.4 0.4 0.4">
 				<a-entity id="baixo">
@@ -637,7 +637,7 @@
 			</a-entity>
 	</a-marker>
 	  
-	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:5; smoothThreshold:4">
+	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:3">
 		<a-link mixin="lnk" href="vr/cube.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.35 0.35 0.35">	  
 	  			<a-entity id="baixo">
@@ -733,7 +733,7 @@
 			</a-entity>
 	</a-marker>
 	  
-	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:5; smoothThreshold:4">
+	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:3">
 		<a-link mixin="lnk" href="vr/tetrahedron.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.43 0.43 0.43">
 				<a-entity id="baixo">
