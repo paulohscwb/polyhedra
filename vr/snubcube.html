@@ -30,7 +30,7 @@
 		<a-entity gearvr-controls></a-entity>
 
 		<a-entity scale="2 2 2" position="0 0 0.3">
-			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.2" position="0 -1 2" rotation="-45 0 0" 
+			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.2" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:SNUB CUBE  |  Faces: 38  |  Polygons: 32 triangles and 6 squares  |  Edges: 60  |  Vertices: 24  |  Sphericity: 0.965  |  Diedral angles: 153.14 (3-3) and 142.59 (3-4) degrees;"></a-plane>
 		</a-entity>
 		<a-entity scale="1 1 1" position="0 0 0">
@@ -457,7 +457,7 @@
 				</a-entity>
 		</a-entity>
 
-		<a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 2 8"></a-entity>
+		<a-entity camera="fov:1; near:10;" look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 150 650"></a-entity>
 	  
 		<!--<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
 <a-light type="directional" intensity="1.1" position="3 3 3" target="#directionaltarget" light="castShadow:true;">
