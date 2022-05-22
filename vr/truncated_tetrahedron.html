@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
 </head>  
@@ -15,15 +15,15 @@
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
-			<a-mixin id="texto" text="color: #262626; align:center;"></a-mixin>
+			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
 			<a-mixin id="s13_1h" position="0 0 2.5981"></a-mixin> <!--apotema do hexagono-->
 			<a-mixin id="s13_1t" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
 			<a-mixin id="s13_2h" position="0 -1.5 2.5981"></a-mixin> <!--apotema do hexagono + metade da aresta -->
 			<a-mixin id="s13_2t" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
 			<a-mixin id="s13_3h" position="0 1.8371 0"></a-mixin> <!--apotema do solido-->
 			<a-mixin id="s13_3t" position="0 3.0619 0"></a-mixin> <!--apotema do solido-->
-			<a-mixin id="esfera" geometry="radius: 0.2;"></a-mixin> <!--vertices-->
-			<a-mixin id="arestas" geometry="radius: 0.05; height:3"></a-mixin> <!--arestas-->
+			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.3; roughness:0.5;"></a-mixin> <!--vertices-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.3; roughness:0.5;"></a-mixin> <!--arestas-->
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
@@ -175,15 +175,13 @@
 			</a-entity>
 		</a-entity>
 
-		<a-entity camera="fov:1; near:10;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 150 650"></a-entity>
-		<!--<a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 2 8"></a-entity>
+		<a-entity camera="fov:1; near:10;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 280 280 550"></a-entity>
 	  
-		<a-light type="ambient" color="#eaeaea" intensity="1"></a-light>
-<a-light type="directional" intensity="1.1" position="3 3 3" target="#directionaltarget" light="castShadow:true;">
- <a-entity id="directionaltarget" position="0 -1 0" ></a-entity>
-</a-light> -->
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-3 2 1" light="castShadow:true"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="3 -2 1" light="castShadow:true"></a-light>
 
-		<a-sky color="rgba(150,200,255)"></a-sky>
+		<a-sky color="rgb(190,230,255)"></a-sky>
 
 	</a-scene>
 </body>
