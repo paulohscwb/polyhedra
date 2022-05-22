@@ -1,7 +1,7 @@
 <!doctype HTML>
 <html>
 <head>
-	<script src="https://aframe.io/releases/0.9.2/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.1.0/aframe.js"></script>
 	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
 	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
 	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
@@ -14,7 +14,7 @@
 	</div>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
-	   embedded arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+	   embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
      
      <a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.1;"></a-mixin>
@@ -47,12 +47,16 @@
 			<a-mixin id="s5_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
 			<a-mixin id="s5_3" position="0 0.6123 0"></a-mixin> <!--apotema do solido-->
 	     
-			<a-mixin id="esfera" geometry="radius: 0.2;"></a-mixin> <!--vertices-->
-			<a-mixin id="arestas" geometry="radius: 0.05; height:3"></a-mixin> <!--arestas-->
+			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 	     		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		</a-assets>
 
     <a-entity camera></a-entity>
+
+	<a-light type="ambient" color="white" intensity="0.8"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1" light="castShadow:true"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1" light="castShadow:true"></a-light>
     
 	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1">
 		<a-link mixin="lnk" href="vr/icosahedron.html"></a-link>
