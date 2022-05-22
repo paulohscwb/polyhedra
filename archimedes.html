@@ -119,13 +119,17 @@
 			<a-mixin id="s13_3h" position="0 1.8371 0"></a-mixin> <!--apotema do solido-->
 			<a-mixin id="s13_3t" position="0 3.0619 0"></a-mixin> <!--apotema do solido-->
 	     
-			<a-mixin id="esfera" geometry="radius: 0.2;"></a-mixin> <!--vertices-->
-			<a-mixin id="arestas" geometry="radius: 0.05; height:3"></a-mixin> <!--arestas-->
-	     		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
+	     	<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		</a-assets>
 
     <a-entity camera></a-entity>
     
+	<a-light type="ambient" color="white" intensity="0.8"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1" light="castShadow:true"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1" light="castShadow:true"></a-light>
+		
 	<a-marker preset="hiro" smooth="smooth:true; smoothCount:1">
 	   <a-link mixin="lnk" href="vr/truncated_octahedron.html"></a-link>
 	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.16 0.16 0.16">
