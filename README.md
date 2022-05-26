@@ -16,7 +16,7 @@
 <p align="center"><a href="https://paulohscwb.github.io/polyhedra/archimedes.html">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<br><br><center><img src="ar/example.jpg" width="80%"></center>
+<br><br><center><img src="ar/example.jpg" width="85%"></center>
 <table><tr><td><h4>1. Truncated octahedron</h4>
  <img src="ar/hiro.png" width="180px">
  <br><br>A truncated octahedron is constructed from a regular octahedron with side length <b>3a</b> by the removal of six right square pyramids, one from each point. These pyramids have both base side length <b>a</b> and lateral side length <b>e</b> of <b>a</b>, to form equilateral triangles. The truncated octahedron can be dissected into a central octahedron, surrounded by 8 triangular cupola on each face, and 6 square pyramids above the vertices. The truncated octahedron exists in the structure of the faujasite crystals. 
@@ -88,7 +88,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="https://paulohscwb.github.io/polyhedra/platonic.html">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<br><center><img src="ar/example1.jpg" width="70%"></center>
+<br><center><img src="ar/example1.jpg" width="85%"></center>
 <table><tr><td><h4>1. Icosahedron</h4>
  <img src="ar/9.png" width="180px">
  <br><br>The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
