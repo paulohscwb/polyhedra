@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 </head>  
 <body>
@@ -26,8 +26,8 @@
 		<a-entity gearvr-controls></a-entity>
 		
 		<a-entity scale="2 2 2" position="0 0 0">
-			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0" 
-			  text="value:CUBE  |  Faces: 6 squares  |  Edges: 12  |  Vertices: 8  |  Sphericity: 0.806  |  Diedral angle: 90 degrees;"></a-plane>
+			<a-plane mixin="mtl0p" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0"</a-plane> 
+			<a-text mixin="texto" value="value:CUBE  |  Faces: 6 squares  |  Edges: 12  |  Vertices: 8  |  Sphericity: 0.806  |  Diedral angle: 90 degrees;"></a-text>
 		</a-entity>
 		<a-entity scale="1.7 1.7 1.7" position="0 0 0">
 	  		<a-entity position="0 -1.5 0"> <!--apotema-->
