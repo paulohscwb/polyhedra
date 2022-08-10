@@ -14,7 +14,7 @@
 			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.1; roughness: 0.9; metalness: 0.3;"></a-mixin>
-			<a-mixin id="texto" text="color: #556B2F; align:center;"></a-mixin>
+			<a-mixin id="texto" text="width: 5; color: #556B2F; align:center;" rotation="-45 0 0"></a-mixin>
 			<a-mixin id="s4_1" position="0 0 1.5"></a-mixin> <!--apotema do quadrado-->
 			<a-mixin id="s4_2" position="0 -1.5 1.5"></a-mixin> <!--apotema do quadrado + metade da aresta -->
 			<a-mixin id="s4_3" position="0 1.5 0"></a-mixin> <!--apotema do solido-->
@@ -27,7 +27,7 @@
 		
 		<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0"</a-plane> 
-			<a-text mixin="texto" value="value:CUBE  |  Faces: 6 squares  |  Edges: 12  |  Vertices: 8  |  Sphericity: 0.806  |  Diedral angle: 90 degrees;"></a-text>
+			<a-text mixin="texto" position="0 -1 2.5" value="value:CUBE  |  Faces: 6 squares  |  Edges: 12  |  Vertices: 8  |  Sphericity: 0.806  |  Diedral angle: 90 degrees;"></a-text>
 		</a-entity>
 		<a-entity scale="1.7 1.7 1.7" position="0 0 0">
 	  		<a-entity position="0 -1.5 0"> <!--apotema-->
