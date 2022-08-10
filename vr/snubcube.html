@@ -2,13 +2,12 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
 </head>  
 <body>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-	<a-scene>
+	<a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -30,10 +29,10 @@
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 
-		<a-entity scale="2 2 2" position="0 0 0.3">
+		<!--<a-entity scale="2 2 2" position="0 0 0.3">
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.2" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:SNUB CUBE  |  Faces: 38  |  Polygons: 32 triangles and 6 squares  |  Edges: 60  |  Vertices: 24  |  Sphericity: 0.965  |  Diedral angles: 153.14 (3-3) and 142.59 (3-4) degrees;"></a-plane>
-		</a-entity>
+		</a-entity>-->
 		<a-entity scale="1 1 1" position="0 0 0">
 	  		<a-entity position="0 -3.64 0"> <!--apotema-->
 				<a-entity id="baixo">
