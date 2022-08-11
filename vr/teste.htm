@@ -16,9 +16,10 @@
 			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.1;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		</a-assets>
+		
 		<a-sky color="#66ccff"></a-sky>
-		<a-entity camera orbit-controls="target: 0 0 0; minDistance: 0.05; maxDistance: 180; initialPosition: 1 1 2"></a-entity>
-		<a-entity position="0 0 0" scale="0.5 0.5 0.5" rotation="-90 0 0">
+		
+		<a-entity position="0 0 0" scale="0.6 0.6 0.6" rotation="-90 0 0">
 			<a-obj-model src="#objeto" mtl="#objeto-mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="1.06066 -1.06066 -1.06066"></a-sphere>
 			<a-sphere mixin="esfera mtl9" position="-1.06066 -1.06066 1.06066"></a-sphere>
