@@ -6,13 +6,30 @@
   <body>
     <a-scene>
 		<a-assets>
-			<a-asset-item id="objeto" src="TriakisTetrahedron.obj"></a-asset-item>
-			<a-asset-item id="objeto-mtl" src="solidos.mtl"></a-asset-item>
+			<!--<a-asset-item id="objeto" src="TriakisTetrahedron.obj"></a-asset-item>
+			<a-asset-item id="objeto-mtl" src="solidos.mtl"></a-asset-item>-->
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
+			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.1;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		</a-assets>
 		<a-sky color="#66ccff"></a-sky>
 		<a-entity camera orbit-controls="target: 0 0 0; minDistance: 0.05; maxDistance: 180; initialPosition: 1 1 2"></a-entity>
-		<a-entity position="0 0 0" scale="0.8 0.8 0.8" rotation="-90 0 0">
-			<a-obj-model src="#objeto" mtl="#objeto-mtl" shadow ></a-obj-model>
+		<a-entity position="0 0 0" scale="0.5 0.5 0.5" rotation="-90 0 0">
+			<a-obj-model src="#objeto" mtl="#objeto-mtl"></a-obj-model>
+			<a-sphere mixin="esfera mtl9" position="1.06066 -1.06066 -1.06066"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-1.06066 -1.06066 1.06066"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-1.06066 1.06066 -1.06066"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.63639 -0.63639 0.6363"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.63639 0.63639 -0.63639"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.63639 0.63639 0.63639"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.63639 -0.63639 -0.6363"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="1.06066 1.06066 1.06066"></a-sphere>
+			<a-entity line="start: 0.63639 -0.63639 0.63639; end: 1.06066 1.06066 1.06066; color: Teal" line__2="start: 1.06066 1.06066 1.06066; end: -1.06066 -1.06066 1.06066; color: Teal" line__3="start: -1.06066 -1.06066 1.06066; end: 0.63639 -0.63639 0.63639; color: Teal" line__4="start: 1.06066 -1.06066 -1.06066; end: -1.06066 -1.06066 1.0606; color: Teal" line__5="start: 1.06066 -1.06066 -1.06066; end: 0.63639 -0.63639 0.63639; color: Teal" line__6="start: 1.06066 -1.06066 -1.06066; end: 1.06066 1.06066 1.06066; color: Teal" line__7="start: 0.63639 0.63639 -0.63639; end: 1.06066 1.06066 1.06066; color: Teal" line__8="start: 1.06066 -1.06066 -1.06066; end: 0.63639 0.63639 -0.63639; color: Teal" line__9="start: 1.06066 -1.06066 -1.06066; end: -1.06066 1.06066 -1.06066; color: Teal" line__10="start: 1.06066 -1.06066 -1.06066; end: -1.06066 1.06066 -1.06066; color: Teal" line__11="start: -1.06066 1.06066 -1.06066; end: 0.63639 0.63639 -0.63639; color: Teal" line__12="start: -1.06066 1.06066 -1.06066; end: 1.06066 1.06066 1.06066; color: Teal" line__13="start: -0.63639 0.63639 0.63639; end: 1.06066 1.06066 1.06066; color: Teal" line__14="start: -1.06066 1.06066 -1.06066; end: -0.63639 0.63639 0.63639; color: Teal" line__15="start: -1.06066 1.06066 -1.06066; end: -1.06066 -1.06066 1.06066; color: Teal" line__16="start: -1.06066 -1.06066 1.06066; end: -0.63639 0.63639 0.63639; color: Teal" line__17="start: -0.63639 -0.63639 -0.63639; end: 1.06066 -1.06066 -1.06066; color: Teal" line__18="start: -1.06066 -1.06066 1.06066; end: -0.63639 -0.63639 -0.63639; color: Teal"	line__19="start: -0.63639 -0.63639 -0.63639; end: -1.06066 1.06066 -1.06066; color: Teal"	
+			></a-entity>		
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 300 300 650"></a-entity>
