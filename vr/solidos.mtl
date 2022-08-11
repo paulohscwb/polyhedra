@@ -1,19 +1,19 @@
 ## Alias MTL Material File
 
 newmtl Cor
-Ka 0.0 0.0 0.0
-Kd 0.1 0.2 0.7
-Ks 0.1 0.1 0.1
+Ka 0.3 0.3 0.3
+Kd 0.2 0.2 0.7
+Ks 0.3 0.3 0.3
 d 0.3
 
 newmtl Cor2
-Ka 0.0 0.0 0.0
-Kd 0.7 0.2 0.1
-Ks 0.1 0.1 0.1
+Ka 0.3 0.3 0.3
+Kd 0.7 0.2 0.2
+Ks 0.3 0.3 0.3
 d 0.3
 
-newmtl White
-Ka 0.0 0.0 0.0
-Kd 0.8 0.3 0.3
-Ks 0.1 0.1 0.1
-d 0.6
+newmtl Cor3
+Ka 0.3 0.3 0.3
+Kd 0.3 0.8 0.3
+Ks 0.3 0.3 0.3
+d 0.8
