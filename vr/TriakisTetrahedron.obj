@@ -8,17 +8,27 @@ v 0.63639 0.63639 -0.63639
 v -0.63639 0.63639 0.63639
 v -0.63639 -0.63639 -0.63639
 v 1.06066 1.06066 1.06066
-usemtl Cor2
+usemtl Cor
 f 4 8 2
+usemtl Cor2
 f 4 2 1
-f 4 1 8
-f 5 8 1
-f 5 1 3
-f 5 3 8
 usemtl Cor3
+f 4 1 8
+usemtl Cor4
+f 5 8 1
+usemtl Cor5
+f 5 1 3
+usemtl Cor
+f 5 3 8
+usemtl Cor2
 f 6 8 3
+usemtl Cor3
 f 6 3 2
+usemtl Cor4
 f 6 2 8
+usemtl Cor5
 f 7 1 2
+usemtl Cor
 f 7 2 3
+usemtl Cor2
 f 7 3 1
