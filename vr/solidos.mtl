@@ -4,28 +4,28 @@ newmtl Cor
 Ka 0.1 0.1 0.1
 Kd 0.3 0.3 0.8
 Ks 0.2 0.2 0.2
-d 0.5
+d 0.6
 
 newmtl Cor2
 Ka 0.1 0.1 0.1
 Kd 0.8 0.3 0.3
 Ks 0.2 0.2 0.2
-d 0.5
+d 0.6
 
 newmtl Cor3
 Ka 0.1 0.1 0.1
 Kd 0.3 0.8 0.3
 Ks 0.2 0.2 0.2
-d 0.5
+d 0.6
 
 newmtl Cor4
 Ka 0.1 0.1 0.1
 Kd 0.3 0.8 0.8
 Ks 0.2 0.2 0.2
-d 0.5
+d 0.6
 
 newmtl Cor5
 Ka 0.1 0.1 0.1
 Kd 0.8 0.8 0.3
 Ks 0.2 0.2 0.2
-d 0.5
+d 0.6
