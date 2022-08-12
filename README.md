@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="scripts/style.css">
 <h2>Visualization of polyhedra with Augmented Reality and Virtual Reality in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
