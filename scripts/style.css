@@ -3,7 +3,7 @@ table {width:100%;}
 details {
   border: 1px solid #a2dec0;
   border-bottom: none;
-  padding: 3px;
+  padding: 5px;
   border-radius: 4px;
   width:100%;
 }
@@ -21,6 +21,15 @@ summary {
   text-shadow: 1px 1px 1px rgb(227,243,235);
 }
 
+h4 {
+  font-size: 15px;
+  text-shadow: 1px 1px 1px rgb(227,243,235);
+  margin-top: 0;
+}
+
+hr {border-top: 1px solid skyblue;
+  border-bottom: none;}
+  
 .embed-container {
   position: relative;
   padding-bottom: 70%;
@@ -39,8 +48,8 @@ summary {
 }
 
 iframe {
-  border: 1px solid skyblue;
+  border-top: 1px solid skyblue;
+  border-bottom: 1px solid skyblue;
   margin: 0 auto;
   display: block;
-  border-radius:7px;
 }
