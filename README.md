@@ -114,6 +114,20 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><br>The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
- <hr>
- <br>Triakis Tetrahedron<a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
- <br>Rhombic Dodecahedron<a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr><h3>Catalan polyhedra</h3>
+ The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler [1]. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
+ <br>To view Catalan polyhedra in AR, simply visit 
+<p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img src="ar/example1.jpg" width="85%"></p>
+<table><tr><td><h4>1. Triakis Tetrahedron</h4>
+ <img src="ar/165.png" width="180px">
+ <br><br>The triakis tetrahedron... 
+<br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
+ <br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
+ <table><tr><td><h4>2. Rhombic Dodecahedron</h4>
+ <img src="ar/165.png" width="180px">
+ <br><br>The rhombic dodecahedron... 
+<br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
