@@ -115,5 +115,5 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
  <hr>
- <br>Triakis Tetrahedron<a href="vr/triakis_tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
- <br>Rhombic Dodecahedron<a href="vr/rhombic_dodecahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <br>Triakis Tetrahedron<a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <br>Rhombic Dodecahedron<a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
