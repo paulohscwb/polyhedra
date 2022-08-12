@@ -1,6 +1,25 @@
 table {width:100%;}
 
-.boxSite {width:100%;}
+details {
+  border: 1px solid #a2dec0;
+  border-bottom: none;
+  padding: 3px;
+  border-radius: 4px;
+  width:100%;
+}
+
+details[open] summary ~ * {
+  animation: open .5s ease-in-out;
+}
+
+summary {
+  font-size: 18px;
+  color: #159957;
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom:8px;
+  text-shadow: 1px 1px 1px rgb(227,243,235);
+}
 
 .embed-container {
   position: relative;

@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="scripts/style.css">
-<div class="boxSite">
 <h2>Visualization of polyhedra with Augmented Reality and Virtual Reality in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
@@ -12,7 +11,9 @@
 <br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
-<hr><h3>Archimedean polyhedra</h3>
+
+<details>
+  <summary>Archimedean polyhedra</summary>
  An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
 <br>To view Archimedean polyhedra in AR, simply visit 
 <p align="center"><a href="archimedes.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
@@ -84,7 +85,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><br>The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
  <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
  <br><a href="vr/truncated_tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
- <hr><h3>Platonic polyhedra</h3>
+ </details>
+ 
+ <details>
+  <summary>Platonic polyhedra</summary>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
  <br>To view Platonic polyhedra in AR, simply visit 
 <p align="center"><a href="platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
@@ -93,19 +97,22 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img src="ar/example1.jpg" width="85%"></p>
 <table><tr><td><h4>1. Icosahedron</h4>
  <img src="ar/9.png" width="180px">
- <br><br>The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
+ <div class="embed-container"><iframe src="vr/icosahedron.html" width="100%" title="cube" loading="lazy"></iframe></div>
+ The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
 <br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.939 | <b>Diedral angle:</b> 138.1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">More...</a>
- <br><a href="vr/icosahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
+ <!--<br><a href="vr/icosahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
 <table><tr><td><h4>2. Dodecahedron</h4>
  <img src="ar/8.png" width="180px">
- <br><br>The dodecahedron has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron. If the five Platonic solids are built with same volume, the regular dodecahedron has the shortest edges.
+ <div class="embed-container"><iframe src="vr/dodecahedron.html" width="100%" title="cube" loading="lazy"></iframe></div>
+ The dodecahedron has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron. If the five Platonic solids are built with same volume, the regular dodecahedron has the shortest edges.
 <br><b>Faces:</b> 12 pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Sphericity:</b> 0.91 | <b>Diedral angle:</b> 116.5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/dodecahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
+ <!--<br><a href="vr/dodecahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
 <table><tr><td><h4>3. Octahedron</h4>
  <img src="ar/7.png" width="180px">
- <br><br>The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
+ <div class="embed-container"><iframe src="vr/octahedron.html" width="100%" title="cube" loading="lazy"></iframe></div>
+ The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
 <br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Diedral angle:</b> 109.4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
- <br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
+ <!--<br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
 <table><tr><td><h4>4. Cube</h4>
  <img src="ar/6.png" width="180px">
  <div class="embed-container"><iframe src="vr/cube.html" width="100%" title="cube" loading="lazy"></iframe></div>
@@ -118,7 +125,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
- <hr><h3>Catalan polyhedra</h3>
+</details>
+ 
+<details>
+  <summary>Catalan polyhedra</summary>
  The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler [1]. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
  <br>To view Catalan polyhedra in AR, simply visit 
 <p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
@@ -137,4 +147,4 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... 
 <br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
-</div>
+</details>
