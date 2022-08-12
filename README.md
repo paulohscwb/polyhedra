@@ -111,9 +111,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
  <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
  <!--<br><a href="vr/truncated_tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
- </details>
+<br>
+</details>
  
- <details>
+<details>
   <summary>Platonic polyhedra</summary>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
  <br>To view Platonic polyhedra in AR, simply visit 
@@ -156,6 +157,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+<br>
 </details>
  
 <details style="border-bottom: 1px solid #a2dec0;">
