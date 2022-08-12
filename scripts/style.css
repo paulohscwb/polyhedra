@@ -4,8 +4,7 @@ table {width:100%;}
 
 .embed-container {
   position: relative;
-  padding-bottom: 65%;
-  height: 0;
+  padding-bottom: 50%;
   overflow: hidden;
   max-width: 100%; 
   box-shadow: 0px 5px 5px -6px grey;
