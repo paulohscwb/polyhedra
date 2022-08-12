@@ -95,39 +95,44 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img src="ar/example1.jpg" width="85%"></p>
-<table><tr><td><h4>1. Icosahedron</h4>
+<hr>
+<h4>1. Icosahedron</h4>
  <img src="ar/9.png" width="180px">
  <div class="embed-container"><iframe src="vr/icosahedron.html" width="100%" title="cube" loading="lazy"></iframe></div>
  The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
 <br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.939 | <b>Diedral angle:</b> 138.1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">More...</a>
- <!--<br><a href="vr/icosahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
-<table><tr><td><h4>2. Dodecahedron</h4>
+ <!--<br><a href="vr/icosahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+<hr>
+<h4>2. Dodecahedron</h4>
  <img src="ar/8.png" width="180px">
  <div class="embed-container"><iframe src="vr/dodecahedron.html" width="100%" title="cube" loading="lazy"></iframe></div>
  The dodecahedron has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron. If the five Platonic solids are built with same volume, the regular dodecahedron has the shortest edges.
 <br><b>Faces:</b> 12 pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Sphericity:</b> 0.91 | <b>Diedral angle:</b> 116.5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">More...</a>
- <!--<br><a href="vr/dodecahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
-<table><tr><td><h4>3. Octahedron</h4>
+ <!--<br><a href="vr/dodecahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+<hr>
+<h4>3. Octahedron</h4>
  <img src="ar/7.png" width="180px">
  <div class="embed-container"><iframe src="vr/octahedron.html" width="100%" title="cube" loading="lazy"></iframe></div>
  The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
 <br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Diedral angle:</b> 109.4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
- <!--<br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
-<table><tr><td><h4>4. Cube</h4>
+ <!--<br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+<hr>
+<h4>4. Cube</h4>
  <img src="ar/6.png" width="180px">
  <div class="embed-container"><iframe src="vr/cube.html" width="100%" title="cube" loading="lazy"></iframe></div>
  The cube has three square faces meeting at each vertex. The cube is also a square parallelepiped, an equilateral cuboid and a right rhombohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations. The cube can be cut into six identical square pyramids. If these square pyramids are then attached to the faces of a second cube, a rhombic dodecahedron is obtained.
 <br><b>Faces:</b> 6 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 8 | <b>Sphericity:</b> 0.806 | <b>Diedral angle:</b> 90°. <a href="http://mathworld.wolfram.com/Cube.html" target="_blank">More...</a>
- <!--<br><a href="vr/cube.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
-<table><tr><td><h4>5. Tetrahedron</h4>
+ <!--<br><a href="vr/cube.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+<hr>
+<h4>5. Tetrahedron</h4>
  <img src="ar/5.png" width="180px">
  <div class="embed-container"><iframe src="vr/tetrahedron.html" width="100%" title="tetrahedron" loading="lazy"></iframe></div>
  The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
- <!--<br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
+ <!--<br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
 </details>
  
-<details>
+<details style="border-bottom: 1px solid #a2dec0;">
   <summary>Catalan polyhedra</summary>
  The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler [1]. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
  <br>To view Catalan polyhedra in AR, simply visit 
@@ -135,16 +140,19 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img src="ar/example1.jpg" width="85%"></p>
-<table><tr><td><h4>1. Triakis Tetrahedron</h4>
+<hr>
+<h4>1. Triakis Tetrahedron</h4>
  <img src="ar/165.png" width="180px">
  <div class="embed-container"><iframe src="vr/triakis_tetrahedron.htm" width="100%" title="triakis_tetrahedron" loading="lazy"></iframe></div>
  The triakis tetrahedron... The triakis tetrahedron... The triakis tetrahedron... The triakis tetrahedron... 
 <br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
- <!--<br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
- <table><tr><td><h4>2. Rhombic Dodecahedron</h4>
+ <!--<br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+ <hr>
+ <h4>2. Rhombic Dodecahedron</h4>
  <img src="ar/165.png" width="180px">
  <div class="embed-container"><iframe src="vr/rhombic_dodecahedron.htm" width="100%" title="rhombic_dodecahedron" loading="lazy"></iframe></div>
  The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... 
 <br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
- <!--<br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
+ <!--<br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+ <hr>
 </details>
