@@ -13,7 +13,7 @@ details[open] summary ~ * {
 }
 
 summary {
-  font-size: 18px;
+  font-size: 22px;
   color: #159957;
   font-weight: bold;
   cursor: pointer;
@@ -48,10 +48,8 @@ hr {border-top: 1px solid skyblue;
 }
 
 iframe {
-  border-top: 1px solid skyblue;
-  border-bottom: 1px solid skyblue;
-  border-left: none;
-  border-right: none;
+  border: 1px solid skyblue;
   margin: 0 auto;
   display: block;
+  border-radius:7px;
 }
