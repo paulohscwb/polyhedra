@@ -191,6 +191,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  The triakis octahedron... 
 <br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 147.35°. <a href="https://mathworld.wolfram.com/SmallTriakisOctahedron.html" target="_blank">More...</a>
  <hr>
+ <h4>5. Deltoidal Icositetrahedron</h4>
+ <img src="ar/168.png" width="180px">
+ <div class="embed-container"><iframe src="vr/deltoidal_icositetrahedron.htm" width="100%" title="deltoidal_icositetrahedron" loading="lazy"></iframe></div>
+ The deltoidal icositetrahedron... 
+<br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
+ <hr>
 </details>
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
