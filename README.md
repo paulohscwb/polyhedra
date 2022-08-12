@@ -108,13 +108,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
 <table><tr><td><h4>4. Cube</h4>
  <img src="ar/6.png" width="180px">
- <div class="embed-container"><iframe src="vr/cube.html" title="cube" loading="lazy"></iframe></div>
+ <div class="embed-container"><iframe src="vr/cube.html" width="100%" title="cube" loading="lazy"></iframe></div>
  The cube has three square faces meeting at each vertex. The cube is also a square parallelepiped, an equilateral cuboid and a right rhombohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations. The cube can be cut into six identical square pyramids. If these square pyramids are then attached to the faces of a second cube, a rhombic dodecahedron is obtained.
 <br><b>Faces:</b> 6 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 8 | <b>Sphericity:</b> 0.806 | <b>Diedral angle:</b> 90°. <a href="http://mathworld.wolfram.com/Cube.html" target="_blank">More...</a>
  <!--<br><a href="vr/cube.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
 <table><tr><td><h4>5. Tetrahedron</h4>
  <img src="ar/5.png" width="180px">
- <div class="embed-container"><iframe src="vr/tetrahedron.html" title="tetrahedron" loading="lazy"></iframe></div>
+ <div class="embed-container"><iframe src="vr/tetrahedron.html" width="100%" title="tetrahedron" loading="lazy"></iframe></div>
  The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
@@ -127,13 +127,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img src="ar/example1.jpg" width="85%"></p>
 <table><tr><td><h4>1. Triakis Tetrahedron</h4>
  <img src="ar/165.png" width="180px">
- <div class="embed-container"><iframe src="vr/triakis_tetrahedron.htm" title="triakis_tetrahedron" loading="lazy"></iframe></div>
+ <div class="embed-container"><iframe src="vr/triakis_tetrahedron.htm" width="100%" title="triakis_tetrahedron" loading="lazy"></iframe></div>
  The triakis tetrahedron... The triakis tetrahedron... The triakis tetrahedron... The triakis tetrahedron... 
 <br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
  <table><tr><td><h4>2. Rhombic Dodecahedron</h4>
  <img src="ar/165.png" width="180px">
- <div class="embed-container"><iframe src="vr/rhombic_dodecahedron.htm" title="rhombic_dodecahedron" loading="lazy"></iframe></div>
+ <div class="embed-container"><iframe src="vr/rhombic_dodecahedron.htm" width="100%" title="rhombic_dodecahedron" loading="lazy"></iframe></div>
  The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... 
 <br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>--></td></tr></table>
