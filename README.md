@@ -126,13 +126,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <table><tr><td><h4>1. Triakis Tetrahedron</h4>
  <img src="ar/165.png" width="180px">
  <div class="embed-container"><iframe width="100%" height="100%" src="vr/triakis_tetrahedron.htm" frameborder="0" loading="lazy"></iframe></div>
- <br><br>The triakis tetrahedron... 
+ <br><br>The triakis tetrahedron... The triakis tetrahedron... The triakis tetrahedron... The triakis tetrahedron... 
 <br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
  <table><tr><td><h4>2. Rhombic Dodecahedron</h4>
  <img src="ar/165.png" width="180px">
  <div class="embed-container"><iframe width="100%" height="100%" src="vr/rhombic_dodecahedron.htm" frameborder="0" loading="lazy"></iframe></div>
- <br><br>The rhombic dodecahedron... 
+ <br><br>The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... 
 <br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a></td></tr></table>
 </div>
