@@ -178,10 +178,16 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... The rhombic dodecahedron... 
 <br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
  <!--<br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>-->
+ <h4>3. Tetrakis Hexahedron</h4>
+ <img src="ar/166.png" width="180px">
+ <div class="embed-container"><iframe src="vr/tetrakis_hexahedron.htm" width="100%" title="tetrakis_hexahedron" loading="lazy"></iframe></div>
+ The tetrakis hexahedron... 
+<br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 143.13°. <a href="https://mathworld.wolfram.com/TetrakisHexahedron.html" target="_blank">More...</a>
  <hr>
 </details>
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
 <br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
+<br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
