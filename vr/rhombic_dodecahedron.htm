@@ -1,0 +1,72 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+  </head>
+  <body>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.08;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+		</a-assets>
+		
+		<a-sky color="#66ccff"></a-sky>
+		
+		<a-entity position="0 0 0" scale="2.8 2.8 2.8" rotation="0 0 0">
+			<a-obj-model src="catalan/RhombicDodecahedron.obj" mtl="catalan/solidos.mtl"></a-obj-model>
+			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -1.06066"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="1.06066 0.0 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-1.06066 0.0 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.0 1.06066 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.0 -1.06066 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.53033 0.53033 0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.53033 0.53033 -0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.53033 -0.53033 0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="00.53033 -0.53033 -0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.53033 0.53033 0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.53033 0.53033 -0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.53033 -0.53033 0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.53033 -0.53033 -0.53033"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.0 0.0 1.06066"></a-sphere>
+			<a-entity line="start: 0.53033 0.53033 0.53033; end: 0.0 0.0 1.06066; color: DarkOliveGreen" 
+			line__2="start: 0.0 0.0 1.06066; end: 0.53033 -0.53033 0.53033; color: DarkOliveGreen" 
+			line__3="start: 0.53033 -0.53033 0.53033; end: 1.06066 0.0 0.0; color: DarkOliveGreen" 
+			line__4="start: 1.06066 0.0 0.0; end: 0.53033 0.53033 0.53033; color: DarkOliveGreen" 
+			line__5="start: 1.06066 0.0 0.0; end: 0.53033 0.53033 -0.53033; color: DarkOliveGreen" 
+			line__6="start: 0.53033 0.53033 -0.53033; end: 0.0 1.06066 0.0; color: DarkOliveGreen" 
+			line__7="start: 0.0 1.06066 0.0; end: 0.53033 0.53033 0.53033; color: DarkOliveGreen" 
+			line__8="start: 0.0 1.06066 0.0; end: -0.53033 0.53033 0.53033; color: DarkOliveGreen" 
+			line__9="start: -0.53033 0.53033 0.53033; end: 0.0 0.0 1.06066; color: DarkOliveGreen" 
+			line__10="start: 0.53033 -0.53033 -0.53033; end: 0.0 0.0 -1.06066; color: DarkOliveGreen" 
+			line__11="start: 0.0 0.0 -1.06066; end: 0.53033 0.53033 -0.53033; color: DarkOliveGreen" 
+			line__12="start: 0.53033 0.53033 -0.53033; end: 1.06066 0.0 0.0; color: DarkOliveGreen" 
+			line__13="start: 1.06066 0.0 0.0; end: 0.53033 -0.53033 -0.53033; color: DarkOliveGreen" 
+			line__14="start: 0.53033 -0.53033 0.53033; end: 0.0 -1.06066 0.0; color: DarkOliveGreen" 
+			line__15="start: 0.0 -1.06066 0.0; end: 0.53033 -0.53033 -0.53033; color: DarkOliveGreen" 
+			line__16="start: -0.53033 -0.53033 -0.53033; end: 0.0 0.0 -1.06066; color: DarkOliveGreen" 
+			line__17="start: 0.0 0.0 -1.06066; end: -0.53033 0.53033 -0.53033; color: DarkOliveGreen" 
+			line__18="start: -0.53033 -0.53033 -0.53033; end: -1.06066 0.0 0.0; color: DarkOliveGreen" 
+			line__19="start: -1.06066 0.0 0.0 ; end: -0.53033 0.53033 0.53033; color: DarkOliveGreen" 
+			line__20="start: 0.0 1.06066 0.0; end: -0.53033 0.53033 -0.53033; color: DarkOliveGreen" 
+			line__21="start: -1.06066 0.0 0.0; end: -0.53033 -0.53033 0.53033; color: DarkOliveGreen" 
+			line__22="start: -0.53033 -0.53033 0.53033; end: 0.0 0.0 1.06066; color: DarkOliveGreen" 
+			line__23="start: 0.0 -1.06066 0.0; end: -0.53033 -0.53033 -0.53033; color: DarkOliveGreen" 
+			line__24="start: 0.0 -1.06066 0.0; end: -0.53033 -0.53033 0.53033; color: DarkOliveGreen"
+			line__25="start: -1.06066 0.0 0.0 ; end: -0.53033 0.53033 -0.53033; color: DarkOliveGreen"
+			></a-entity>		
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 300 300 650"></a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1" light="castShadow:true"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1" light="castShadow:true"></a-light>
+
+		<a-sky color="rgb(190,230,255)"></a-sky>
+    </a-scene>
+  </body>
+</html>
