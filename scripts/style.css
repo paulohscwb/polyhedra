@@ -4,11 +4,9 @@ table {width:100%;}
 
 .embed-container {
   position: relative;
-  padding-bottom: 50%;
+  padding-bottom: 70%;
   overflow: hidden;
-  max-width: 100%; 
-  box-shadow: 0px 5px 5px -6px grey;
-  margin-bottom:7px;
+  width: 100%; 
   transition: all 0.5s;
 }
 
