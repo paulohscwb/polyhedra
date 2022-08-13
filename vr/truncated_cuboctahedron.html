@@ -9,20 +9,20 @@
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
 	<a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
-			<!--<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
 			<a-mixin id="s9_1o" position="0 0 3.6213"></a-mixin> <!--apotema do octogono-->
-			<!--<a-mixin id="s9_2o" position="0 -1.5 3.6213"></a-mixin> <!--apotema do octogono + metade da aresta -->
-			<!--<a-mixin id="s9_3o" position="0 5.7426 0"></a-mixin> <!--apotema do octogono-->
-			<!--<a-mixin id="s9_1q" position="0 0 1.5"></a-mixin> <!--apotema do quadrado-->
-			<!--<a-mixin id="s9_2q" position="0 -1.5 1.5"></a-mixin> <!--apotema do quadrado + metade da aresta -->
-			<!--<a-mixin id="s9_3q" position="0 6.6213 0"></a-mixin> <!--apotema do quadrado-->
-			<!--<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
-			<!--<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
+			<a-mixin id="s9_2o" position="0 -1.5 3.6213"></a-mixin> <!--apotema do octogono + metade da aresta -->
+			<a-mixin id="s9_3o" position="0 5.7426 0"></a-mixin> <!--apotema do octogono-->
+			<a-mixin id="s9_1q" position="0 0 1.5"></a-mixin> <!--apotema do quadrado-->
+			<a-mixin id="s9_2q" position="0 -1.5 1.5"></a-mixin> <!--apotema do quadrado + metade da aresta -->
+			<a-mixin id="s9_3q" position="0 6.6213 0"></a-mixin> <!--apotema do quadrado-->
+			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
@@ -32,10 +32,10 @@
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.2" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:TRUNCATED CUBOCTAHEDRON  |  Faces: 26  |  Polygons: 12 squares, 8 hexagons and 6 octagons  |  Edges: 72  |  Vertices: 48  |  Sphericity: 0.943  |  Diedral angles: 144.4 (4-6), 135 (4-8) and 125.2 (6-8) degrees;"></a-plane>
 		</a-entity>-->
-		<a-entity scale="1.4 1.4 1.4" position="0 0 0">
-	  		<a-gltf-model src="archimedes/truncated_cuboctahedron.glb"></a-gltf-model>
-			<!--<a-entity position="0 -5.7426 0"> <!--apotema-->
-			<!--	<a-entity id="baixo">
+		<a-entity scale="0.65 0.65 0.65" position="0 0 0">
+	  		<!--<a-gltf-model src="archimedes/truncated_cuboctahedron.glb"></a-gltf-model>-->
+			<a-entity position="0 -5.7426 0"> <!--apotema-->
+			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s9_1o" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
@@ -69,9 +69,9 @@
 						<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-			<!--			<a-entity rotation="135 0 0"> <!--angulo entre as faces-->
-			<!--				<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-			<!--					<a-entity rotation="0 0 90">
+					<a-entity rotation="135 0 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -90,8 +90,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 45 0"> <!--angulo entre as faces-->
-			<!--				<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-			<!--					<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -102,8 +102,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 0 0"> <!--angulo entre as faces-->
-			<!--				<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
-			<!--					<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1o" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
 								</a-entity>
@@ -139,9 +139,9 @@
 						</a-entity>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-			<!--			<a-entity rotation="135 90 0"> <!--angulo entre as faces-->
-			<!--				<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-			<!--					<a-entity rotation="0 0 90">
+					<a-entity rotation="135 90 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -160,8 +160,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 135 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -172,8 +172,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 90 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
-				<!--				<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1o" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
 								</a-entity>
@@ -209,9 +209,9 @@
 						</a-entity>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-				<!--		<a-entity rotation="135 180 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+					<a-entity rotation="135 180 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -230,8 +230,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 225 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -242,8 +242,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 180 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
-				<!--				<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1o" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
 								</a-entity>
@@ -279,9 +279,9 @@
 						</a-entity>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-				<!--		<a-entity rotation="135 270 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+					<a-entity rotation="135 270 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -300,8 +300,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 315 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -312,8 +312,8 @@
 							</a-entity>
 						</a-entity>
 						<a-entity rotation="90 270 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
-				<!--				<a-entity rotation="0 0 90">
+						<a-entity mixin="s9_3o"> <!--joga na lateral a partir do centro-->						
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1o" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
 								</a-entity>
@@ -384,9 +384,9 @@
 						<a-sphere mixin="esfera mtl9 s9_2o"></a-sphere>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-				<!--		<a-entity rotation="135 0 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+					<a-entity rotation="135 0 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -406,9 +406,9 @@
 						</a-entity>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-				<!--		<a-entity rotation="135 90 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+					<a-entity rotation="135 90 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -428,9 +428,9 @@
 						</a-entity>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-				<!--		<a-entity rotation="135 180 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+					<a-entity rotation="135 180 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
@@ -450,9 +450,9 @@
 						</a-entity>
 					</a-entity>
 					<a-entity mixin="s9_3o"> <!--joga para o centro do dodecaedro-->
-				<!--		<a-entity rotation="135 270 0"> <!--angulo entre as faces-->
-				<!--			<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
-				<!--				<a-entity rotation="0 0 90">
+					<a-entity rotation="135 270 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s9_3q"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s9_1q" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s9_2q"></a-sphere>
 								</a-entity>
