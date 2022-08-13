@@ -9,17 +9,17 @@
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
 	<a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
-			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<!--<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #87CEFA; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="color: #556B2F; align:center;"></a-mixin>
 			<a-mixin id="s2_1" position="0 0 2.0645"></a-mixin> <!--apotema do pentagono-->
-			<a-mixin id="s2_2" position="0 -1.5 2.0645"></a-mixin> <!--apotema do pentagono + metade da aresta -->
-			<a-mixin id="s2_3" position="0 3.3405 0"></a-mixin> <!--apotema do dodecaedro-->
-			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
-			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
+			<!--<a-mixin id="s2_2" position="0 -1.5 2.0645"></a-mixin> <!--apotema do pentagono + metade da aresta -->
+			<!--<a-mixin id="s2_3" position="0 3.3405 0"></a-mixin> <!--apotema do dodecaedro-->
+			<!--<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
+			<!--<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
@@ -30,8 +30,9 @@
 			  text="value:DODECAHEDRON  |  Faces: 12 pentagons  |  Edges: 30  |  Vertices: 20  |  Sphericity: 0.91  |  Diedral angle: 116.5651 degrees;"></a-plane>
 		</a-entity>-->
 		<a-entity scale="1.4 1.4 1.4" position="0 0 0">
-	  		<a-entity position="0 -3.3405 0"> <!--apotema-->
-				<a-entity id="baixo">
+	  		<a-gltf-model src="plato/dodecahedron.glb"></a-gltf-model>
+			<!--<a-entity position="0 -3.3405 0"> <!--apotema-->
+			<!--	<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s2_1" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s2_2"></a-sphere>
@@ -53,9 +54,9 @@
 						<a-sphere mixin="esfera mtl9 s2_2"></a-sphere>
 					</a-entity>
 					<a-entity mixin="s2_3"> <!--joga para o centro do dodecaedro-->
-						<a-entity rotation="116.34 0 0"> <!--angulo entre as faces-->
-							<a-entity mixin="s2_3"> <!--joga na lateral a partir do centro-->
-								<a-entity rotation="0 0 90">
+			<!--			<a-entity rotation="116.34 0 0"> <!--angulo entre as faces-->
+			<!--				<a-entity mixin="s2_3"> <!--joga na lateral a partir do centro-->
+			<!--					<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s2_1" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s2_2"></a-sphere>
 								</a-entity>
@@ -80,7 +81,7 @@
 					</a-entity>
 					<a-entity mixin="s2_3">
 						<a-entity rotation="116.34 72 0"> <!--angulo entre as faces + lateral -->
-							<a-entity mixin="s2_3">
+			<!--				<a-entity mixin="s2_3">
 								<a-entity rotation="0 0 90">
 									<a-cylinder mixin="arestas mtl8 s2_1" ></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s2_2"></a-sphere>
@@ -276,7 +277,7 @@
 					</a-entity>
 				</a-entity>
 				
-			</a-entity>
+			</a-entity>-->
 		</a-entity>
 
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 300 300 650"></a-entity>
