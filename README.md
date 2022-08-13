@@ -204,8 +204,15 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <img src="ar/170.png" width="180px">
  <!--<div class="embed-container"><iframe src="vr/pentagonal_icositetrahedron.htm" width="100%" title="pentagonal_icositetrahedron" loading="lazy"></iframe></div>-->
  <br>The pentagonal icositetrahedron ... 
-<br><b>Faces:</b> 24 mirror-symmetric pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 38 | <b>Diedral angle:</b> 136.31°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
+<br><b>Faces:</b> 24 mirror-symmetric pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 38 | <b>Diedral angle:</b> 136.31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">More...</a>
 <br><a href="vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>7. Rhombic Triacontahedron </h4>
+ <img src="ar/170.png" width="180px">
+ <!--<div class="embed-container"><iframe src="vr/pentagonal_icositetrahedron.htm" width="100%" title="pentagonal_icositetrahedron" loading="lazy"></iframe></div>-->
+ <br>The rhombic triacontahedron  ... 
+<br><b>Faces:</b> 30 rombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">More...</a>
+<br><a href="vr/rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 </details>
 <br><b>References:</b>
