@@ -7,20 +7,20 @@
 </head>  
 <body>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-	<a-scene renderer="logarithmicDepthBuffer: true;">
+	<a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
-			<!--<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #87CEFA; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="color: #556B2F; align:center;"></a-mixin>
 			<a-mixin id="s1_1" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
-			<!--<a-mixin id="s1_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
-			<!--<a-mixin id="s1_3" position="0 2.2674 0"></a-mixin> <!--apotema do solido-->
-			<!--<a-mixin id="s1_4" position="0 -2.2674 0"></a-mixin>
+			<a-mixin id="s1_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
+			<a-mixin id="s1_3" position="0 2.2674 0"></a-mixin> <!--apotema do solido-->
+			<a-mixin id="s1_4" position="0 -2.2674 0"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
-			<!--<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
@@ -30,10 +30,10 @@
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:ICOSAHEDRON  |  Faces: 20 triangles  |  Edges: 30  |  Vertices: 12  |  Sphericity: 0.939  |  Diedral angle: 138.1897 degrees;"></a-plane>
 		</a-entity>-->
-		<a-entity scale="1.6 1.6 1.6" position="0 0 0">
-	  		<a-gltf-model src="plato/icosahedron.glb"></a-gltf-model>
-			<!--<a-entity position="0 -2.2674 0"> <!--apotema-->
-			<!--	<a-entity id="baixo">
+		<a-entity scale="1.5 1.5 1.5" position="0 0 0">
+	  		<!--<a-gltf-model src="plato/icosahedron.glb"></a-gltf-model>-->
+			<a-entity position="0 -2.2674 0"> <!--apotema-->
+			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s1_1" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
@@ -47,9 +47,9 @@
 						<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
 					</a-entity>
 					<a-entity mixin="s1_3"> <!--joga para o centro do dodecaedro-->
-			<!--			<a-entity rotation="138.11 0 0"> <!--angulo entre as faces-->
-			<!--				<a-entity mixin="s1_3"> <!--joga na lateral a partir do centro-->
-			<!--					<a-entity rotation="0 120 90">
+					<a-entity rotation="138.11 0 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s1_3"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
 								</a-entity>
@@ -62,7 +62,7 @@
 					</a-entity>
 					<a-entity mixin="s1_3">
 						<a-entity rotation="138.11 120 0"> <!--angulo entre as faces + lateral -->
-			<!--				<a-entity mixin="s1_3">
+						<a-entity mixin="s1_3">
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
@@ -104,9 +104,9 @@
 						<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
 					</a-entity>
 					<a-entity mixin="s1_3"> <!--joga para o centro do dodecaedro-->
-			<!--			<a-entity rotation="138.11 0 0"> <!--angulo entre as faces-->
-			<!--				<a-entity mixin="s1_3"> <!--joga na lateral a partir do centro-->
-			<!--					<a-entity rotation="0 120 90">
+					<a-entity rotation="138.11 0 0"> <!--angulo entre as faces-->
+						<a-entity mixin="s1_3"> <!--joga na lateral a partir do centro-->
+							<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
 								</a-entity>
@@ -119,7 +119,7 @@
 					</a-entity>
 					<a-entity mixin="s1_3">
 						<a-entity rotation="138.11 120 0"> <!--angulo entre as faces + lateral -->
-			<!--				<a-entity mixin="s1_3">
+						<a-entity mixin="s1_3">
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
@@ -165,7 +165,7 @@
 
 								<a-entity mixin="s1_3">
 									<a-entity rotation="138.11 120 0"> <!--angulo entre as faces + lateral -->
-				<!--						<a-entity mixin="s1_3">
+									<a-entity mixin="s1_3">
 											<a-entity rotation="0 120 90">
 												<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 												<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
@@ -213,7 +213,7 @@
 
 								<a-entity mixin="s1_3">
 									<a-entity rotation="138.11 120 0"> <!--angulo entre as faces + lateral -->
-				<!--						<a-entity mixin="s1_3">
+									<a-entity mixin="s1_3">
 											<a-entity rotation="0 120 90">
 												<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 												<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
@@ -261,7 +261,7 @@
 
 								<a-entity mixin="s1_3">
 									<a-entity rotation="138.11 120 0"> <!--angulo entre as faces + lateral -->
-			<!--							<a-entity mixin="s1_3">
+									<a-entity mixin="s1_3">
 											<a-entity rotation="0 120 90">
 												<a-cylinder mixin="arestas mtl8 s1_1"></a-cylinder>
 												<a-sphere mixin="esfera mtl9 s1_2"></a-sphere>
