@@ -200,6 +200,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
 <br><a href="vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
+ <h4>6. Pentagonal Icositetrahedron - dextro</h4>
+ <img src="ar/170.png" width="180px">
+ <!--<div class="embed-container"><iframe src="vr/pentagonal_icositetrahedron.htm" width="100%" title="pentagonal_icositetrahedron" loading="lazy"></iframe></div>-->
+ <br>The pentagonal icositetrahedron ... 
+<br><b>Faces:</b> 24 mirror-symmetric pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 38 | <b>Diedral angle:</b> 136.31°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
+<br><a href="vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
 </details>
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
