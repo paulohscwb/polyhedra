@@ -11,7 +11,7 @@ v  1.06066 1.06066 1.06066
 usemtl CorL
 l 4 8 2
 l 4 2 1 2
-l 4 1 8 1
+l 1 4 1 8 1
 usemtl CorL
 l 5 8 1 8
 l 5 1 3 
