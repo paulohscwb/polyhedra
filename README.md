@@ -226,7 +226,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><a href="vr/pentakis_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>10. Triakis Icosahedron</h4>
- <img src="ar/175.png" width="180px">
+ <img src="ar/176.png" width="180px">
  <br>The triakis icosahedron  ... 
 <br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 160.61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">More...</a>
 <br><a href="vr/triakis_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
