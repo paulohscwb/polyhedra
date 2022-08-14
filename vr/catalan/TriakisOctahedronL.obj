@@ -18,14 +18,14 @@ usemtl CorL
 l 6 14 2
 l 6 2 4 
 l 6 4 14
-usemtl Cor3
 l 7 1 4
 l 7 4 2 
 l 7 2 1
-usemtl CorL
+usemtl Cor3
 l 8 14 5
 l 8 5 2 
 l 8 2 14
+usemtl CorL
 l 9 1 2
 l 9 2 5 
 l 9 5 1
