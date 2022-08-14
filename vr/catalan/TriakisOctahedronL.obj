@@ -14,10 +14,11 @@ v -1.0 1.0 -1.0
 v -1.0 -1.0 1.0
 v -1.0 -1.0 -1.0
 v  0.0 0.0 2.4142
-usemtl CorL
+usemtl Cor3
 l 6 14 2
 l 6 2 4 
 l 6 4 14
+usemtl CorL
 l 7 1 4
 l 7 4 2 
 l 7 2 1
