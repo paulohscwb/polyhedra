@@ -233,7 +233,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>11. Pentagonal Hexecontahedron - dextro</h4>
  <img src="ar/177.png" width="180px">
- <br>The pentagonal hexecontahedron  ... 
+ <br>The pentagonal hexecontahedron is the 60-faced dual polyhedron of the snub dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentagonal hexecontahedron. Its irregular pentagonal faces have vertex angles of 118.137° (four times) and 67.4535° (once). 
 <br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Diedral angle:</b> 153.18°. <a href="https://mathworld.wolfram.com/PentagonalHexecontahedron.html" target="_blank">More...</a>
 <br><a href="vr/pentagonal_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
