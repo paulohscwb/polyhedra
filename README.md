@@ -181,15 +181,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>3. Tetrakis Hexahedron</h4>
  <img src="ar/166.png" width="180px">
- <!--<div class="embed-container"><iframe src="vr/tetrakis_hexahedron.htm" width="100%" title="tetrakis_hexahedron" loading="lazy"></iframe></div>-->
- <br>The tetrakis hexahedron... 
+ <br>In general, a tetrakis hexahedron is a non-regular icositetrahedron that can be constructed as a positive augmentation of a cube. The tetrakis hexahedron is the 24-faced dual polyhedron of the truncated octahedron. A cube, octahedron, and stella octangula can all be inscribed in the vertices of the tetrakis hexahedron. Its isosceles triangles faces have vertex angles of 86.62° (once) and 48.19° (twice).
 <br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 143.13°. <a href="https://mathworld.wolfram.com/TetrakisHexahedron.html" target="_blank">More...</a>
 <br><a href="vr/tetrakis_hexahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>4. Triakis Octahedron</h4>
  <img src="ar/167.png" width="180px">
- <!--<div class="embed-container"><iframe src="vr/triakis_octahedron.htm" width="100%" title="triakis_octahedron" loading="lazy"></iframe></div>-->
- <br>The triakis octahedron... 
+ <br>In general, a triakis octahedron is a non-regular icositetrahedron that can be constructed as a positive augmentation of regular octahedron. The triakis octahedron is the 24-faced dual polyhedron of the truncated cube. An octahedron and stella octangula can be inscribed on the vertices of the triakis octahedron. Its isosceles triangles faces have vertex angles of 117.2° (once) and 31.4° (twice).
 <br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 147.35°. <a href="https://mathworld.wolfram.com/SmallTriakisOctahedron.html" target="_blank">More...</a>
 <br><a href="vr/triakis_octahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
