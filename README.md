@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="scripts/style.css">
-<h2>Visualization of polyhedra with Augmented Reality and Virtual Reality in A-frame</h2>
+<h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
@@ -141,8 +141,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary>Catalan polyhedra</summary>
- The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler [1]. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
- <br>To view Catalan polyhedra in AR, simply visit 
+ The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
+ <br>To view Catalan polyhedra in AR, simply visit:
 <p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
@@ -156,7 +156,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>2. Rhombic Dodecahedron</h4>
  <img src="ar/165.png" width="180px">
- <br>The rhombic dodecahedron is the dual polyhedron of the cuboctahedron. More specifically, a cube, octahedron, and stella octangula can be inscribed in the vertices of a rhombic dodecahedron. A rhombic dodecahedron appears in the upper right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". Its rombi faces have vertex angles of 70.53° and 109.47°.
+ <br>The rhombic dodecahedron is the dual polyhedron of the cuboctahedron. More specifically, a cube, octahedron, and stella octangula can be inscribed in the vertices of a rhombic dodecahedron. A rhombic dodecahedron appears in the upper right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". Its rhombi faces have vertex angles of 70.53° and 109.47°.
 <br><b>Faces:</b> 12 rhombi | <b>Edges:</b> 24 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/rhombic_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -174,7 +174,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>5. Deltoidal Icositetrahedron</h4>
  <img src="ar/168.png" width="180px">
- <br>The deltoidal hexecontahedron is the 60-faced dual polyhedron of the small rhombicosidodecahedron. It is sometimes also called the trapezoidal hexecontahedron, strombic hexecontahedron, or dyakis hexecontahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can all be inscribed in the vertices of the deltoidal hexecontahedron. Its tri-equiangular kites faces have vertex angles of 94.416° (twice), 71.69° (once) and 99.477° (once).
+ <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its tri-equiangular kites faces have vertex angles of 94.416° (twice), 71.69° (once) and 99.477° (once).
 <br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
 <br><a href="vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -186,13 +186,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>7. Rhombic Triacontahedron</h4>
  <img src="ar/172.png" width="180px">
- <br>The rhombic triacontahedron is a zonohedron which is the dual polyhedron of the icosidodecahedron. The intersecting edges of the dodecahedron-icosahedron compound form the diagonals of 30 rhombi which comprise the triacontahedron. The cube 5-compound has the 30 facial planes of the rhombic triacontahedron and its interior is a rhombic triacontahedron. Its rombi faces have vertex angles of 116.565° and 63.435°.
+ <br>The rhombic triacontahedron is a zonohedron which is the dual polyhedron of the icosidodecahedron. The intersecting edges of the dodecahedron-icosahedron compound form the diagonals of 30 rhombi which comprise the triacontahedron. The cube 5-compound has the 30 facial planes of the rhombic triacontahedron and its interior is a rhombic triacontahedron. Its rhombi faces have vertex angles of 116.565° and 63.435°.
 <br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">More...</a>
 <br><a href="vr/rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>8. Disdyakis Dodecahedron</h4>
  <img src="ar/174.png" width="180px">
- <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean great rhombicuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedron. Its acute triangles faces have vertex angles of 87.202°, 55.025° and 37.773°.  
+ <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean truncated cuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedron. Its acute triangles faces have vertex angles of 87.202°, 55.025° and 37.773°.  
 <br><b>Faces:</b> 48 acute triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 155.08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">More...</a>
 <br><a href="vr/disdyakis_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>

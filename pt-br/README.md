@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="../scripts/style.css">
-<h2>Visualização de poliedros com Realidade Aumentada e Realidade Virtual em A-frame</h2>
+<h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
-<br><br>Os poliedros de Arquimedes, Platão e Catalan podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, o poliedro pode ser visto em RV.
+<br><br>Os poliedros de Arquimedes, Platão e Catalan podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, cada poliedro pode ser visto em RV.
 <br>O ambiente RA foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js" target="_blank"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>
@@ -11,10 +11,10 @@
 <details>
   <summary>Poliedros de Arquimedes</summary>
  Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
-<br>Para ver os poliedros arquimedeanos em RA, visite o site:
+<br>Para ver os poliedros arquimedeanos em RA, visite a página:
 <p align="center"> <a href="../archimedes.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-O acesso aos sites de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br><br><center><img src="../ar/example.jpg" width="80%"></center>
 <hr>
 <h4>1. Octaedro truncado</h4>
@@ -102,7 +102,7 @@ O acesso aos sites de RV é feito clicando no círculo azul que aparece em cima 
  <br>Para ver o poliedro platônico em AR, visite
 <p align="center"> <a href="../platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-O acesso aos sites de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <br><center><img src="../ar/example1.jpg" width="70%"></center>
 <hr>
 <h4>1. Icosaedro</h4>
@@ -134,6 +134,94 @@ O acesso aos sites de RV é feito clicando no círculo azul que aparece em cima 
  <br><br>O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
 <br><b>Faces:</b> 4 triângulos | <b>Arestas:</b> 6 | <b>Vértices:</b> 4 | <b>Esfericidade:</b> 0.671 | <b>Ângulo diédrico:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/tetrahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
+<p></p>
+</details>
+
+<details style="border-bottom: 1px solid #a2dec0;">
+  <summary>Poliedros de Catalan</summary>
+Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomeados em homenagem ao matemático belga Eugene Catalan (1814-1894) que descreveu pela primeira vez o conjunto completo em 1865. O Dodecaedro Rômbico e o Triacontaedro Rômbico foram descritos em 1611 por Johannes Kepler. Cada sólido de Catalan tem um tipo de face e um ângulo diedro constante, e possui a mesma simetria que seu respectivo dual de Arquimedes.
+ <br>Para visualizar os poliedros de Catalan em RA, visite a página:
+<p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img src="ar/example1.jpg" width="85%"></p>
+<hr>
+<h4>1. Tetraedro triakis</h4>
+ <img src="../ar/180.png" width="180px">
+ <br>O tetraedro triakis é um dodecaedro não regular que pode ser construído como um aumento positivo de um tetraedro regular: uma pirâmide triangular adicionada a cada face. O tetraedro triakis é o poliedro dual do tetraedro truncado. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas de 112,885° (uma vez) e 33,557° (duas vezes).
+<br><b>Faces:</b> 12 triângulos isósceles | <b>Arestas:</b> 18 | <b>Vértices:</b> 8 | <b>Ângulo diédrico:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">Mais sobre...</a>
+ <br><a href="../vr/triakis_tetrahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>2. Dodecaedro rômbico</h4>
+ <img src="../ar/165.png" width="180px">
+ <br>O dodecaedro rômbico é o poliedro dual do cuboctaedro. Mais especificamente, um cubo, um octaedro e uma stella octangula podem ser inscritos nos vértices de um dodecaedro rômbico. Um dodecaedro rômbico aparece no canto superior direito como uma das "estrelas" poliédricas na gravura em madeira "Stars" de M. C. Escher de 1948. Os losangos de suas faces possuem ângulos de vértices com medidas iguais a 70,53° e 109,47°.
+<br><b>Faces:</b> 12 losangos | <b>Arestas:</b> 24 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">Mais sobre...</a>
+ <br><a href="../vr/rhombic_dodecahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>3. Hexaedro tetrakis</h4>
+ <img src="../ar/166.png" width="180px">
+ <br>Em geral, um hexaedro tetrakis é um icositetraedro não regular que pode ser construído como um aumento positivo de um cubo. O hexaedro tetrakis é o poliedro dual de 24 faces do octaedro truncado. Um cubo, um octaedro e uma stella octangula podem ser todos inscritos nos vértices do hexaedro tetrakis. Suas faces de triângulos isósceles têm ângulos de vértices com medidas iguais a 86,62° (uma vez) e 48,19° (duas vezes).
+<br><b>Faces:</b> 24 triângulos isósceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 143.13°. <a href="https://mathworld.wolfram.com/TetrakisHexahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/tetrakis_hexahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>4. Octaedro triakis</h4>
+ <img src="../ar/167.png" width="180px">
+ <br>Em geral, um octaedro triakis é um icositetraedro não regular que pode ser construído como um aumento positivo do octaedro regular. O octaedro triakis é o poliedro dual de 24 faces do cubo truncado. Um octaedro e uma stella octangula podem ser inscritos nos vértices do octaedro triakis. Suas faces de triângulos isósceles têm ângulos de vértices com medidas iguais a 117,2° (uma vez) e 31,4° (duas vezes).
+<br><b>Faces:</b> 24 triângulos isósceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 147.35°. <a href="https://mathworld.wolfram.com/SmallTriakisOctahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/triakis_octahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>5. Icositetraedro deltoidal</h4>
+ <img src="../ar/168.png" width="180px">
+ <br>O icositetraedro deltoide é o poliedro dual de 24 faces do rombicuboctaedro. Um icositetraedro deltoide aparece na metade direita como uma das "estrelas" poliédricas na gravura em madeira "Stars" de M. C. Escher de 1948. Uma stella octangula, um octaedro atrativo 4-composto (cujo dual é um cubo atrativo 4-composto) e um cubo podem ser todos inscritos em um icositetraedro deltoide. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos de vértices com medidas de 94,416° (duas vezes), 71,69° (uma vez) e 99,477° (uma vez).
+<br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>6. Icositetraedro pentagonal</h4>
+ <img src="../ar/170.png" width="180px">
+ <br> O icositetraedro pentagonal é o poliedro dual de 24 faces do cubo snub. O mineral cuprita (Cu<sub>2</sub>O) se forma em cristais icositetraédricos pentagonais. Um cubo, um octaedro e uma stella octangula podem ser inscritos nos vértices do icositetraedro pentagonal. Suas faces pentagonais irregulares simétricas possuem ângulos de vértices com medidas de 114,812° (quatro vezes) e 80,7517° (uma vez).
+<br><b>Faces:</b> 24 pentágonos irregulares simétricos | <b>Arestas:</b> 60 | <b>Vértices:</b> 38 | <b>Ângulo diédrico:</b> 136.31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>7. Triacontaedro rômbico</h4>
+ <img src="../ar/172.png" width="180px">
+ <br>O triacontaedro rômbico é um zonoedro que é o poliedro dual do icosidodecaedro. As arestas que se cruzam do composto dodecaedro-icosaedro formam as diagonais de 30 losangos que compõem o triacontaedro. O cubo 5-composto possui os 30 planos faciais do triacontaedro rômbico e seu interior é um triacontaedro rômbico. Os losangos de suas faces possuem ângulos de vértices com medidas iguais a 116,565° e 63,435°.
+<br><b>Faces:</b> 30 losangos | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/rhombic_triacontahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>8. Dodecaedro disdiakis</h4>
+ <img src="../ar/174.png" width="180px">
+ <br>O disdiakis dodecaedro é o poliedro dual do cuboctaedro truncado de Arquimedes. A substituição de cada face do dodecaedro rômbico por uma pirâmide plana cria um poliedro que se parece quase com o dodecaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos de vértice com medidas de 87,202°, ​​55,025° e 37,773°. 
+<br><b>Faces:</b> 48 triângulos acutângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 155.08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/disdyakis_dodecahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>9. Dodecaedro pentakis</h4>
+ <img src="../ar/175.png" width="180px">
+ <br>O dodecaedro pentakis é o poliedro dual de 60 faces do icosaedro truncado. Um tetraedro composto 10, um cubo composto 5, um icosaedro e um dodecaedro podem ser inscritos nos vértices do dodecaedro pentakis. Suas faces de triângulos isósceles têm ângulos de vértices com medidas de 68,619° (uma vez) e 55,691° (duas vezes). 
+<br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 156.72°. <a href="https://mathworld.wolfram.com/PentakisDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/pentakis_dodecahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>10. Icosaedro triakis</h4>
+ <img src="../ar/176.png" width="180px">
+ <br>O icosaedro triakis é o poliedro dual de 60 faces do dodecaedro truncado. Um tetraedro composto 10, um cubo composto 5, um icosaedro e um dodecaedro podem ser inscritos nos vértices do icosaedro triakis. Suas faces de triângulos isósceles têm ângulos de vértices com medidas iguais a 119,039° (uma vez) e 30,48° (duas vezes).
+<br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 160.61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/triakis_icosahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>11. Hexecontaedro pentagonal</h4>
+ <img src="../ar/177.png" width="180px">
+ <br>O hexecontaedro pentagonal é o poliedro dual de 60 faces do dodecaedro snub. Um tetraedro composto 10, cubo composto 5, icosaedro e dodecaedro podem ser inscritos nos vértices do hexecontaedro pentagonal. Suas faces pentagonais irregulares simétricas possuem ângulos de vértices com medidas de 118,137° (quatro vezes) e 67,4535° (uma vez).
+<br><b>Faces:</b> 60 pentágonos irregulares simétricos | <b>Arestas:</b> 150 | <b>Vértices:</b> 92 | <b>Ângulo diédrico:</b> 153.18°. <a href="https://mathworld.wolfram.com/PentagonalHexecontahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/pentagonal_hexecontahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>12. Hexecontaedro deltoidal</h4>
+ <img src="../ar/178.png" width="180px">
+ <br>O hexecontaedro deltoide é o poliedro dual de 60 faces do rombicosidodecaedro. Um tetraedro 10-composto, um octaedro 5-composto, um cubo 5-composto, um icosaedro, um dodecaedro e um icosidodecaedro podem todos ser inscritos nos vértices do hexecontaedro deltoidal. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos de vértices com medidas de 86,974° (duas vezes), 67,783° (uma vez) e 118,269° (uma vez). 
+<br><b>Faces:</b> 60 "pipas" tri-equiangulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 154.12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/deltoidal_hexecontahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
+ <h4>13. Triacontaedro disdiakis</h4>
+ <img src="../ar/179.png" width="180px">
+ <br>O triacontaedro disdiakis é o poliedro dual do icosidodecaedro truncado de Arquimedes. Um tetraedro 10-composto, um octaedro 5-composto, um cubo 5-composto, um icosaedro, um dodecaedro e um icosidodecaedro podem ser inscritos nos vértices de um triacontaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos de vértice com medidas de 88,992°, 58,238° e 32,77°.
+<br><b>Faces:</b> 120 triângulos acutângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">Mais sobre...</a>
+<br><a href="../vr/disdyakis_triacontahedron.htm" target="_blank"><img src="../vr/VRaframe.PNG" width="180px"></a>
 <p></p>
 </details>
 
