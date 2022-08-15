@@ -221,13 +221,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>9. Pentakis Dodecahedron</h4>
  <img src="ar/175.png" width="180px">
- <br>The pentakis dodecahedron  ... 
+ <br>The pentakis dodecahedron is the 60-faced dual polyhedron of the truncated icosahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentakis dodecahedron. Its isosceles triangles faces have vertex angles of 68.619° (once) and 55.691° (twice). 
 <br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 156.72°. <a href="https://mathworld.wolfram.com/PentakisDodecahedron.html" target="_blank">More...</a>
 <br><a href="vr/pentakis_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>10. Triakis Icosahedron</h4>
  <img src="ar/176.png" width="180px">
- <br>The triakis icosahedron  ... 
+ <br>The triakis icosahedron is the 60-faced dual polyhedron of the truncated dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed on the vertices of the triakis icosahedron. Its isosceles triangles faces have vertex angles of 119.039° (once) and 30.48° (twice).
 <br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 160.61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">More...</a>
 <br><a href="vr/triakis_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
