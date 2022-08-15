@@ -95,7 +95,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
  <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
  <br><a href="vr/truncated_tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
-<br>
+<p></p>
 </details>
  
 <details>
@@ -136,7 +136,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
-<br>
+<p></p>
 </details>
  
 <details style="border-bottom: 1px solid #a2dec0;">
@@ -219,13 +219,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The deltoidal hexecontahedron is the 60-faced dual polyhedron of the small rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can all be inscribed in the vertices of the deltoidal hexecontahedron. Its tri-equiangular kites faces have vertex angles of 86.974° (twice), 67.783° (once) and 118.269° (once). 
 <br><b>Faces:</b> 60 tri-equiangular kites | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 154.12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">More...</a>
 <br><a href="vr/deltoidal_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
- <hr>
+<p></p>
  <h4>13. Disdyakis Triacontahedron</h4>
  <img src="ar/179.png" width="180px">
  <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.992°, 58.238° and 32.77°. 
 <br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a>
 <br><a href="vr/disdyakis_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
- <hr>
 </details>
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
