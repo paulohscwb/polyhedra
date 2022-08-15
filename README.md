@@ -209,13 +209,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>7. Rhombic Triacontahedron</h4>
  <img src="ar/172.png" width="180px">
- <br>The rhombic triacontahedron  ... 
+ <br>The rhombic triacontahedron is a zonohedron which is the dual polyhedron of the icosidodecahedron. The intersecting edges of the dodecahedron-icosahedron compound form the diagonals of 30 rhombi which comprise the triacontahedron. The cube 5-compound has the 30 facial planes of the rhombic triacontahedron and its interior is a rhombic triacontahedron. Its rombi faces have vertex angles of 116.565° and 63.435°.
 <br><b>Faces:</b> 30 rombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">More...</a>
 <br><a href="vr/rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>8. Disdyakis Dodecahedron</h4>
  <img src="ar/174.png" width="180px">
- <br>The disdyakis dodecahedron  ... 
+ <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean great rhombicuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedro. Its acute triangles faces have vertex angles of 87.202°, 55.025° and 37.773°.  
 <br><b>Faces:</b> 48 acute triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 155.08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">More...</a>
 <br><a href="vr/disdyakis_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
