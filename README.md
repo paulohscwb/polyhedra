@@ -220,6 +220,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 60 tri-equiangular kites | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 154.12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">More...</a>
 <br><a href="vr/deltoidal_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
+ <h4>13. Disdyakis Triacontahedron</h4>
+ <img src="ar/179.png" width="180px">
+ <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.992°, 58.238° and 32.77°. 
+<br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a>
+<br><a href="vr/disdyakis_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
 </details>
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
