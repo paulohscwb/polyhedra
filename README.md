@@ -149,7 +149,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img src="ar/example1.jpg" width="85%"></p>
 <hr>
 <h4>1. Triakis Tetrahedron</h4>
- <img src="ar/165.png" width="180px">
+ <img src="ar/180.png" width="180px">
  <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as a positive augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.885° (once) and 33.557° (twice).
 <br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
