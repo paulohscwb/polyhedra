@@ -195,15 +195,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>5. Deltoidal Icositetrahedron</h4>
  <img src="ar/168.png" width="180px">
- <!--<div class="embed-container"><iframe src="vr/deltoidal_icositetrahedron.htm" width="100%" title="deltoidal_icositetrahedron" loading="lazy"></iframe></div>-->
- <br>The deltoidal icositetrahedron... 
+ <br>The deltoidal hexecontahedron is the 60-faced dual polyhedron of the small rhombicosidodecahedron. It is sometimes also called the trapezoidal hexecontahedron, strombic hexecontahedron, or dyakis hexecontahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can all be inscribed in the vertices of the deltoidal hexecontahedron. Its tri-equiangular kites faces have vertex angles of 94.416° (twice), 71.69° (once) and 99.477° (once).
 <br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
 <br><a href="vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>6. Pentagonal Icositetrahedron - dextro</h4>
  <img src="ar/170.png" width="180px">
- <!--<div class="embed-container"><iframe src="vr/pentagonal_icositetrahedron.htm" width="100%" title="pentagonal_icositetrahedron" loading="lazy"></iframe></div>-->
- <br>The pentagonal icositetrahedron ... 
+ <br>The pentagonal icositetrahedron is the 24-faced dual polyhedron of the snub cube. The mineral cuprite (Cu<sub>2</sub>O) forms in pentagonal icositetrahedral crystals. A cube, octahedron, and stella octangula can all be inscribed on the vertices of the pentagonal icositetrahedron. Its irregular pentagonal faces have vertex angles of 114.812° (four times) and 80.7517° (once). 
 <br><b>Faces:</b> 24 mirror-symmetric pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 38 | <b>Diedral angle:</b> 136.31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">More...</a>
 <br><a href="vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -215,7 +213,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>8. Disdyakis Dodecahedron</h4>
  <img src="ar/174.png" width="180px">
- <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean great rhombicuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedro. Its acute triangles faces have vertex angles of 87.202°, 55.025° and 37.773°.  
+ <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean great rhombicuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedron. Its acute triangles faces have vertex angles of 87.202°, 55.025° and 37.773°.  
 <br><b>Faces:</b> 48 acute triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 155.08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">More...</a>
 <br><a href="vr/disdyakis_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
