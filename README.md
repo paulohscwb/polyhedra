@@ -242,6 +242,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 48 isosceles triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
  <br><a href="vr/escher.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
+ <h4>2. Stella Octangula</h4>
+ <img src="ar/182.png" width="180px">
+ <br>The stella octangula is a polyhedron composed of a tetrahedron and its dual (a second tetrahedron rotated 180 degrees with respect to the first). The stella octangula is also (incorrectly) called the stellated tetrahedron, and is the only stellation of the octahedron. A wireframe version of the stella octangula is sometimes known as the merkaba and has mystical properties..
+<br><b>Faces:</b> 8 equilateral triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 8. <a href="https://mathworld.wolfram.com/StellaOctangula.html" target="_blank">More...</a>
+ <br><a href="vr/stella_octangula.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+</details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
