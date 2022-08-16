@@ -263,8 +263,14 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <h4>5. Jessen's Orthogonal Icosahedron</h4>
  <img src="ar/185.png" width="180px">
  <br>The Jessen's orthogonal icosahedron is a polyhedron constructed by replacing six pairs of adjacent triangles in an icosahedron (whose edges form a skew quadrilateral) with pairs of isosceles triangles sharing a common base. The polyhedron can be constructed by dividing the sides of the octahedron in the golden ratio (as used in the construction of the icosahedron along the edges of the octahedron), but reversing the long and short segments. The skeleton of Jessen's orthogonal icosahedron is the icosahedral graph. This polyhedron has 8 equilateral triangles and 12 isosceles triangles (with angles of 109.47 and 35.26°).
-<br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angles:</b> 90° and 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">More...</a>
+<br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angles:</b> 90° and 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">More...</a>
  <br><a href="vr/jessens_orthogonal_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>6. Small Stellated Dodecahedron</h4>
+ <img src="ar/186.png" width="180px">
+ <br>The small stellated dodecahedron is the Kepler-Poinsot solids whose dual polyhedron is the great dodecahedron. The small stellated dodecahedron appeared in 1430 as a mosaic by Paolo Uccello on the floor of San Marco cathedral, Venice. It was rediscovered by Kepler (who used th term "urchin") in his work Harmonice Mundi in 1619, and again by Poinsot in 1809. The 12 pentagrammic faces can be constructing from an icosahedron by finding the 12 sets of five vertices that are coplanar and connecting each set to form a pentagram.
+<br><b>Faces:</b> 12 regular pentagrams | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angles:</b> 90° and 270°. <a href="https://mathworld.wolfram.com/SmallStellatedDodecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/small_stellated_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 </details>
 
