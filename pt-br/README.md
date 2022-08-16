@@ -137,7 +137,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;">
+<details>
   <summary>Poliedros de Catalan</summary>
 Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomeados em homenagem ao matemático belga Eugene Catalan (1814-1894) que descreveu pela primeira vez o conjunto completo em 1865. O Dodecaedro Rômbico e o Triacontaedro Rômbico foram descritos em 1611 por Johannes Kepler. Cada sólido de Catalan tem um tipo de face e um ângulo diedro constante, e possui a mesma simetria que seu respectivo dual de Arquimedes.
  <br>Para visualizar os poliedros de Catalan em RA, visite a página:
@@ -224,6 +224,22 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><b>Faces:</b> 120 triângulos acutângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/disdyakis_triacontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p></p>
+</details>
+
+<details style="border-bottom: 1px solid #a2dec0;">
+  <summary>Poliedros não convexos</summary>
+ <br>Para visualizar os poliedros não convexos em RA, visite a página:
+<p align="center"><a href="../others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img src="../ar/example1.jpg" width="85%"></p>
+<hr>
+<h4>1. Tetraedro triakis</h4>
+ <img src="../ar/180.png" width="180px">
+ <br>O tetraedro triakis é um dodecaedro não regular que pode ser construído como um aumento positivo de um tetraedro regular: uma pirâmide triangular adicionada a cada face. O tetraedro triakis é o poliedro dual do tetraedro truncado. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas de 112,885° (uma vez) e 33,557° (duas vezes).
+<br><b>Faces:</b> 12 triângulos isósceles | <b>Arestas:</b> 18 | <b>Vértices:</b> 8 | <b>Ângulo diédrico:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">Mais sobre...</a>
+ <br><a href="../vr/triakis_tetrahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
+ <hr>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
