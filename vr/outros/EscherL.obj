@@ -27,46 +27,51 @@ v -0.5 -0.5  0.5
 v -0.5 -0.5 -0.5
 v  0.0  0.0  1.0
 usemtl CorL
-l 26  6 18
+l 26 6 18
 l 26 18 14
 l 26 14 22
-l 26 22  8
-l 26  8 24
+l 26 22 8
+usemtl CorL
+l 26 8 24
 l 26 24 16
 l 26 16 20
-l 26 20  6
+l 26 20 6
 usemtl CorL
-l 1  7 21
+l 1 7 21
 l 1 21 17
 l 1 17 25
-l 1 25  9
-l 1  9 23
+l 1 25 9
+usemtl CorL
+l 1 9 23
 l 1 23 15
 l 1 15 19
-l 1 19  7
+l 1 19 7
 usemtl CorL
-l 2  6 20
+l 2 6 20
 l 2 20 11
 l 2 11 21
-l 2 21  7
-l 2  7 19
+l 2 21 7
+usemtl CorL
+l 2 7 19
 l 2 19 10
 l 2 10 18
-l 2 18  6
+l 2 18 6
 usemtl CorL
-l 3  8 22
+l 3 8 22
 l 3 22 12
 l 3 12 23
-l 3 23  9
-l 3  9 25
+l 3 23 9
+usemtl CorL
+l 3 9 25
 l 3 25 13
 l 3 13 24
-l 3 24  8
+l 3 24 8
 usemtl CorL
 l 4 10 19
 l 4 19 15
 l 4 15 23
 l 4 23 12
+usemtl CorL
 l 4 12 22
 l 4 22 14
 l 4 14 18
@@ -76,6 +81,7 @@ l 5 11 20
 l 5 20 16
 l 5 16 24
 l 5 24 13
+usemtl CorL
 l 5 13 25
 l 5 25 17
 l 5 17 21
