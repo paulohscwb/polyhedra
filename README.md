@@ -260,6 +260,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 12 symmetric concave pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angles:</b> 63.43° and 243.43°. <a href="https://mathworld.wolfram.com/Endododecahedron.html" target="_blank">More...</a>
  <br><a href="vr/concave_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
+ <h4>5. Jessen's Orthogonal Icosahedron</h4>
+ <img src="ar/185.png" width="180px">
+ <br>The Jessen's orthogonal icosahedron is a polyhedron constructed by replacing six pairs of adjacent triangles in an icosahedron (whose edges form a skew quadrilateral) with pairs of isosceles triangles sharing a common base. The polyhedron can be constructed by dividing the sides of the octahedron in the golden ratio (as used in the construction of the icosahedron along the edges of the octahedron), but reversing the long and short segments. The skeleton of Jessen's orthogonal icosahedron is the icosahedral graph. This polyhedron has 8 equilateral triangles and 12 isosceles triangles (with angles of 109.47 and 35.26°).
+<br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angles:</b> 90° and 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">More...</a>
+ <br><a href="vr/jessens_orthogonal_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
