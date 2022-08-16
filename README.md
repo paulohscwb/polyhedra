@@ -278,6 +278,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 12 regular pentagrams | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatStellatedDodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_stellated_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
+ <h4>8. Great Dodecahedron</h4>
+ <img src="ar/188.png" width="180px">
+ <br>The great dodecahedron is the Kepler-Poinsot solid whose dual is the small stellated dodecahedron. It is concave, and consists of 12 intersecting pentagonal faces. The 12 pentagonal faces can be constructing from an icosahedron by finding the 12 sets five vertices that are coplanar and connecting each set to form a pentagon. The skeleton of the great dodecahedron is isomorphic to the icosahedral graph. 
+<br><b>Faces:</b> 12 regular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/great_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
