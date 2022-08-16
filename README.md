@@ -244,9 +244,15 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>2. Stella Octangula</h4>
  <img src="ar/182.png" width="180px">
- <br>The stella octangula is a polyhedron composed of a tetrahedron and its dual (a second tetrahedron rotated 180 degrees with respect to the first). The stella octangula is also (incorrectly) called the stellated tetrahedron, and is the only stellation of the octahedron. A wireframe version of the stella octangula is sometimes known as the merkaba and has mystical properties..
-<br><b>Faces:</b> 8 equilateral triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 8. <a href="https://mathworld.wolfram.com/StellaOctangula.html" target="_blank">More...</a>
+ <br>The stella octangula is a polyhedron composed of a tetrahedron and its dual (a second tetrahedron rotated 180 degrees with respect to the first). The stella octangula is also (incorrectly) called the stellated tetrahedron, and is the only stellation of the octahedron. A wireframe version of the stella octangula is sometimes known as the merkaba and has mystical properties.
+<br><b>Faces:</b> 8 equilateral triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/StellaOctangula.html" target="_blank">More...</a>
  <br><a href="vr/stella_octangula.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>3. Rhombic Hexecontahedron</h4>
+ <img src="ar/183.png" width="180px">
+ <br>The rhombic hexecontahedron is a 60-faced polyhedron that can be obtained by stellating the rhombic triacontahedron, by placing a plane along each edge which is perpendicular to the plane of symmetry in which the edge lies, and taking the solid bounded by these planes gives a hexecontahedron. Therefore, it is a rhombic triacontahedron stellation. Its rhombi faces have vertex angles of 63.43° and 116.57°.
+<br><b>Faces:</b> 60 rhombi | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angles:</b> 72° and 216°. <a href="https://mathworld.wolfram.com/RhombicHexecontahedron.html" target="_blank">More...</a>
+ <br><a href="vr/rhombic_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 </details>
 
