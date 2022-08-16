@@ -229,7 +229,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary>Poliedros não convexos</summary>
  <br>Para visualizar os poliedros não convexos em RA, visite a página:
-<p align="center"><a href="../others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
+<p align="center"><a href="../nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img src="../ar/example1.jpg" width="85%"></p>

@@ -231,7 +231,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary>Non-convex polyhedra</summary>
   <br>To view non-convex polyhedra polyhedra in AR, simply visit:
-<p align="center"><a href="others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
+<p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img src="ar/example1.jpg" width="85%"></p>
