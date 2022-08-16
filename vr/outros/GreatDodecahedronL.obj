@@ -40,3 +40,11 @@ l 3 7 2 8 9
 l 3 9
 l 3 9 4 5 11 
 l 3 11
+usemtl CorL
+l 6 9
+usemtl CorL
+l 4 8
+usemtl CorL
+l 7 10
+usemtl CorL
+l 5 11
