@@ -254,6 +254,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 60 rhombi | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angles:</b> 72° and 216°. <a href="https://mathworld.wolfram.com/RhombicHexecontahedron.html" target="_blank">More...</a>
  <br><a href="vr/rhombic_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
+ <h4>4. Concave Dodecahedron</h4>
+ <img src="ar/184.png" width="180px">
+ <br>The endodocahedron, also called the concave pyrohedral dodecahedron, is the concave solid corresponding to the interior void formed when each face of a regular dodecahedron is folded along a diagonal and resulting faces are unfolded to form a cube. The endodocehedron with unit edge lengths corresponds to removing six square-base oblique wedges of edge length &phi; (where &phi; is the golden ratio), height 1/2 and ridge length 1/2 from a cube of edge length &phi;. 
+<br><b>Faces:</b> 12 symmetric concave pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angles:</b> 63.43° and 243.43°. <a href="https://mathworld.wolfram.com/Endododecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/concave_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
