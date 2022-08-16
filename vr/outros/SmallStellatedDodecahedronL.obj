@@ -38,4 +38,15 @@ l 17 9 4 5 11 3
 usemtl CorL
 l 18 2 6 3 11 10
 l 18 10 5 4 8 2
+usemtl CorL
+l 7 10
+usemtl CorL
+l 9 6
+usemtl CorL
+l 5 11
+usemtl CorL
+l 1 5
+usemtl CorL
+l 4 8
+
 
