@@ -150,7 +150,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>1. Triakis Tetrahedron</h4>
  <img src="ar/180.png" width="180px">
- <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as a positive augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.885° (once) and 33.557° (twice).
+ <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as an augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.885° (once) and 33.557° (twice).
 <br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/triakis_tetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -162,13 +162,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>3. Tetrakis Hexahedron</h4>
  <img src="ar/166.png" width="180px">
- <br>In general, a tetrakis hexahedron is a non-regular icositetrahedron that can be constructed as a positive augmentation of a cube. The tetrakis hexahedron is the 24-faced dual polyhedron of the truncated octahedron. A cube, octahedron, and stella octangula can all be inscribed in the vertices of the tetrakis hexahedron. Its isosceles triangles faces have vertex angles of 86.62° (once) and 48.19° (twice).
+ <br>In general, a tetrakis hexahedron is a non-regular icositetrahedron that can be constructed as an augmentation of a cube. The tetrakis hexahedron is the 24-faced dual polyhedron of the truncated octahedron. A cube, octahedron, and stella octangula can all be inscribed in the vertices of the tetrakis hexahedron. Its isosceles triangles faces have vertex angles of 86.62° (once) and 48.19° (twice).
 <br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 143.13°. <a href="https://mathworld.wolfram.com/TetrakisHexahedron.html" target="_blank">More...</a>
 <br><a href="vr/tetrakis_hexahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>4. Triakis Octahedron</h4>
  <img src="ar/167.png" width="180px">
- <br>In general, a triakis octahedron is a non-regular icositetrahedron that can be constructed as a positive augmentation of regular octahedron. The triakis octahedron is the 24-faced dual polyhedron of the truncated cube. An octahedron and stella octangula can be inscribed on the vertices of the triakis octahedron. Its isosceles triangles faces have vertex angles of 117.2° (once) and 31.4° (twice).
+ <br>In general, a triakis octahedron is a non-regular icositetrahedron that can be constructed as an augmentation of regular octahedron. The triakis octahedron is the 24-faced dual polyhedron of the truncated cube. An octahedron and stella octangula can be inscribed on the vertices of the triakis octahedron. Its isosceles triangles faces have vertex angles of 117.2° (once) and 31.4° (twice).
 <br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Diedral angle:</b> 147.35°. <a href="https://mathworld.wolfram.com/SmallTriakisOctahedron.html" target="_blank">More...</a>
 <br><a href="vr/triakis_octahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -219,6 +219,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The deltoidal hexecontahedron is the 60-faced dual polyhedron of the small rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can all be inscribed in the vertices of the deltoidal hexecontahedron. Its tri-equiangular kites faces have vertex angles of 86.974° (twice), 67.783° (once) and 118.269° (once). 
 <br><b>Faces:</b> 60 tri-equiangular kites | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 154.12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">More...</a>
 <br><a href="vr/deltoidal_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+<hr>
  <h4>13. Disdyakis Triacontahedron</h4>
  <img src="ar/179.png" width="180px">
  <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.992°, 58.238° and 32.77°. 
