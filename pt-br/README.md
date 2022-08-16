@@ -256,7 +256,13 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <img src="../ar/184.png" width="180px">
  <br>O endododecaedro, também chamado de dodecaedro piroédrico côncavo, é o sólido côncavo correspondente ao vazio interior formado quando cada face de um dodecaedro regular é dobrada ao longo de uma diagonal e as faces resultantes são desdobradas para formar um cubo. O endododecaedro com medida unitária de aresta corresponde à remoção de seis cunhas oblíquas de base quadrada de comprimento de aresta &phi; (onde &phi; é a proporção áurea), altura 1/2 e comprimento de crista 1/2 de um cubo de comprimento de aresta &phi;.
 <br><b>Faces:</b> 12 pentágonos simétricos côncavos | <b>Arestas:</b> 30 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 63.43° e 243.43°. <a href="https://mathworld.wolfram.com/Endododecahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/rhombic_hexecontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
+ <br><a href="../vr/concave_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
+ <hr>
+ <h4>5. Icosaedro ortogonal de Jessen</h4>
+ <img src="../ar/185.png" width="180px">
+ <br>O icosaedro ortogonal de Jessen é um poliedro construído substituindo seis pares de triângulos adjacentes em um icosaedro (cujas arestas formam um quadrilátero oblíquo) por pares de triângulos isósceles compartilhando uma base comum. O poliedro pode ser construído dividindo os lados do octaedro na proporção áurea (como usado na construção do icosaedro ao longo das bordas do octaedro), mas invertendo os segmentos longo e curto. O esqueleto do icosaedro ortogonal de Jessen é o gráfico icosaédrico. Este poliedro têm 8 triângulos equiláteros e 12 triângulos isósceles (com ângulos de 109,47 e 35,26°).
+<br><b>Faces:</b> 20 triângulos | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 90° e 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">Mais sobre...</a>
+ <br><a href="../vr/jessens_orthogonal_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 </details>
 
