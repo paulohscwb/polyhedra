@@ -8,7 +8,7 @@
 <br>The orbit scripts developed by <b>Kevin Ngo</b> were used on the VR pages: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>
 
-<details>
+<details id="p1">
   <summary>Archimedean polyhedra</summary>
  An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
 <br>To view Archimedean polyhedra in AR, simply visit 
@@ -95,10 +95,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
  <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
  <br><a href="vr/truncated_tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
-<p></p>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 </details>
  
-<details>
+<details id="p2">
   <summary>Platonic polyhedra</summary>
  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
  <br>To view Platonic polyhedra in AR, simply visit 
@@ -136,10 +136,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
-<p></p>
+<p class="topop"><a href="#p2" class="topo">back to top</a></p>
 </details>
  
-<details>
+<details id="p3">
   <summary>Catalan polyhedra</summary>
  The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
  <br>To view Catalan polyhedra in AR, simply visit:
@@ -225,10 +225,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.992°, 58.238° and 32.77°. 
 <br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a>
 <br><a href="vr/disdyakis_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
-<p></p>
+<p class="topop"><a href="#p3" class="topo">back to top</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;">
+<details id="p4" style="border-bottom: 1px solid #a2dec0;">
   <summary>Non-convex polyhedra</summary>
   <br>To view non-convex polyhedra polyhedra in AR, simply visit:
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
@@ -289,7 +289,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great icosahedron is one of the Kepler-Poinsot solids whose dual is the great stellated dodecahedron. The great icosahedron can be constructed from an icosahedron with unit edge lengths by taking the 20 sets of vertices that are mutually spaced by a distance &phi; (the golden ratio). The solid therefore consists of 20 equilateral triangles, and the symmetry of their arrangement is such that the resulting solid contains 12 pentagrams. 
 <br><b>Faces:</b> 20 equilateral triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 41.81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
- <hr>
+<p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
