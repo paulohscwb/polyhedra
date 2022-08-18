@@ -146,7 +146,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<p align="center"><img src="ar/example1.jpg" width="85%"></p>
+<p align="center"><img src="ar/example2.jpg" width="85%"></p>
 <hr>
 <h4>1. Triakis Tetrahedron</h4>
  <img src="ar/180.png" width="180px">
@@ -234,7 +234,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<p align="center"><img src="ar/example1.jpg" width="85%"></p>
+<p align="center"><img src="ar/example3.jpg" width="85%"></p>
 <hr>
 <h4>1. Escher's Solid</h4>
  <img src="ar/181.png" width="180px">
