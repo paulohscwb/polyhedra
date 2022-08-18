@@ -15,7 +15,7 @@
 <p align="center"> <a href="../archimedes.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img style="border-radius:5px;" src="../ar/example.jpg" width="80%"></center>
+<br><br><center><img style="border-radius:7px;" src="../ar/example.jpg" width="80%"></center>
 <hr>
 <h4>1. Octaedro truncado</h4>
  <img src="../ar/hiro.png" width="180px">
@@ -103,7 +103,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"> <a href="../platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<br><center><img style="border-radius:5px;" src="../ar/example1.jpg" width="70%"></center>
+<br><center><img style="border-radius:7px;" src="../ar/example1.jpg" width="70%"></center>
 <hr>
 <h4>1. Icosaedro</h4>
  <img src="../ar/9.png" width="180px">
@@ -144,7 +144,7 @@ Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomea
 <p align="center"><a href="../catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:5px;" src="../ar/example2.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example2.jpg" width="85%"></p>
 <hr>
 <h4>1. Tetraedro triakis</h4>
  <img src="../ar/180.png" width="180px">
@@ -232,7 +232,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><a href="../nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:5px;" src="../ar/example3.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example3.jpg" width="85%"></p>
 <hr>
 <h4>1. Sólido de Escher</h4>
  <img src="../ar/181.png" width="180px">
