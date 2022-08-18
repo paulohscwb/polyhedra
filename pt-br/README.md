@@ -144,7 +144,7 @@ Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomea
 <p align="center"><a href="../catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img src="../ar/example1.jpg" width="85%"></p>
+<p align="center"><img src="../ar/example2.jpg" width="85%"></p>
 <hr>
 <h4>1. Tetraedro triakis</h4>
  <img src="../ar/180.png" width="180px">
@@ -232,7 +232,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><a href="../nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img src="../ar/example1.jpg" width="85%"></p>
+<p align="center"><img src="../ar/example3.jpg" width="85%"></p>
 <hr>
 <h4>1. Sólido de Escher</h4>
  <img src="../ar/181.png" width="180px">
