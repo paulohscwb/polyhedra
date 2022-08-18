@@ -50,3 +50,19 @@ iframe {
   display: block;
   border-radius:7px;
 }
+
+.topo::after {
+    content: "";
+    display: block;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Crect x='0' y='0' width='200' rx='37' height='200' fill='%236182A6'/%3E%3Cpath d='M30,135 l70,-70 l70,70' fill='none' stroke-width='28' stroke='white' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+	float: right;
+    margin: 9px 2px 0 6px;
+}
+
+.topop {
+	text-align:right;
+	line-height: 34px;
+}
