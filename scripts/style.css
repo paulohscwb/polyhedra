@@ -1,5 +1,7 @@
 table {width:100%;}
 
+details a img:hover {opacity:0.8; box-shadow:0 0 3px blue;}
+
 details {
   border: 1px solid #a2dec0;
   border-bottom: none;
