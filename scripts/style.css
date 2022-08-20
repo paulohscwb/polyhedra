@@ -1,6 +1,10 @@
 table {width:100%;}
 
-details a img:hover {opacity:0.8; box-shadow:0 0 3px blue;}
+details a img:hover {opacity:0.8; transition: all .5s;
+    border: 4px solid #136497;}
+
+details a img { transition: all .5s;
+    border: 4px solid transparent; border-radius: 8px;}
 
 details {
   border: 1px solid #a2dec0;
