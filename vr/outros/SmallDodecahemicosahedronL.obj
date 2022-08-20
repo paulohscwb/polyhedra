@@ -50,6 +50,7 @@ l 4 10
 usemtl CorL
 l 6 16 25 13 19 26
 l 6 26
+l 6 8
 usemtl CorL
 l 7 17 24 12 18 27
 l 7 27
@@ -68,9 +69,8 @@ usemtl CorL
 l 20 29 25 16 30
 l 20 30
 usemtl CorL
-l 17 24 28 21 1
+l 17 24 28 21 1 21
 l 17 1
-l 1 21
 l 16 17
 usemtl CorL
 l 19 26 22 15 1
@@ -90,7 +90,6 @@ l 28 3
 usemtl CorL
 l 6 16 17 7 4
 l 6 4
-l 6 8
 usemtl CorL
 l 11 21 20 10 4
 l 11 4
