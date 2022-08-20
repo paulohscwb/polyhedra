@@ -1,7 +1,7 @@
 table {width:100%;}
 
 details a img:hover {opacity:0.8; transition: all .5s;
-    box-shadow: 0 0 10px rgb(200,223,215) inset;}
+    box-shadow: 0 0 10px rgb(200,223,215) inset; border-radius:10px;}
 
 details a img {transition: all .5s; border-top: 8px solid white;}
 
