@@ -1,9 +1,9 @@
 table {width:100%;}
 
-details a img:hover {opacity:0.8; transition: all .5s;
-    box-shadow: 0 0 10px rgb(200,223,215) inset; border-radius:10px;}
+details a img:hover {opacity:0.95; transition: all .5s;
+    box-shadow: 0 0 10px rgb(200,223,215) inset; border-radius:8px;}
 
-details a img {transition: all .5s; border-top: 8px solid white;}
+details a img {transition: all .5s; padding-top: 8px;}
 
 details {
   border: 1px solid #a2dec0;
