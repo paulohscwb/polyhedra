@@ -290,6 +290,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 20 equilateral triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 41.81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <p class="topop"><a href="#p4" class="topo">back to top</a></p>
+<h4>10. Pequeno dodecahemicosacron</h4>
+ <img src="ar/190.png" width="180px">
+ <br>O poliedro uniforme cujo poliedro dual é o pequeno dodecahemicosacron. É uma versão facetada do icosidodecaedro.  
+<br><b>Faces:</b> 12 regular pentagrams and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">More...</a>
+ <br><a href="vr/small_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
