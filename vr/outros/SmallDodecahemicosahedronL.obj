@@ -35,11 +35,13 @@ l 30 14 15 1 21 20
 l 30 16 17 1 19 18
 l 30 20
 l 30 18
+l 14 15
 usemtl CorL
 l 2 22 26 3 29 25
 l 2 23 27 3 28 24
 l 2 25
 l 2 24
+l 26 22
 usemtl CorL
 l 4 6 8 5 13 11
 l 4 7 9 5 12 10
@@ -54,9 +56,11 @@ l 7 27
 usemtl CorL
 l 8 14 23 11 21 28
 l 8 28
+l 23 27
 usemtl CorL
 l 9 15 22 10 20 29
 l 9 29
+l 3 29
 usemtl CorL
 l 14 23 27 18 30
 l 14 30
@@ -66,6 +70,8 @@ l 20 30
 usemtl CorL
 l 17 24 28 21 1
 l 17 1
+l 1 21
+l 16 17
 usemtl CorL
 l 19 26 22 15 1
 l 19 1
@@ -84,12 +90,14 @@ l 28 3
 usemtl CorL
 l 6 16 17 7 4
 l 6 4
+l 6 8
 usemtl CorL
 l 11 21 20 10 4
 l 11 4
 usemtl CorL
 l 12 18 19 13 5
 l 12 5
+l 13 5
 usemtl CorL
 l 9 15 14 8 5
 l 9 5
