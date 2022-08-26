@@ -306,13 +306,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>12. Great Dodecahemicosahedron</h4>
  <img src="ar/192.png" width="180px">
  <br>The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
-<br><b>Faces:</b> 12 regular pentagons and 10 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
+<br><b>Faces:</b> 12 regular pentagons and 10 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>13. Small Dodecahemidodecahedron</h4>
  <img src="ar/193.png" width="180px">
  <br>The small dodecahemidodecahedron is a nonconvex uniform uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
-<br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
+<br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 </details>
 
