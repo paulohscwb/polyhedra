@@ -2,41 +2,35 @@
 
 newmtl Cor1
 Kd 0.3 0.8 1.0
-Ks 0.3 0.8 1.0
-Ns 2.0
+Ks 0.3 0.3 0.3
 d 0.8
 
 newmtl Cor2
 Kd 0.3 0.8 0.3
-Ks 0.3 0.8 0.3
-Ns 2.0
+Ks 0.3 0.3 0.3
 d 0.8
 
 newmtl Cor3
 Kd 1.0 0.4 0.1
-Ks 1.0 0.4 0.1
-Ns 2.0
+Ks 0.3 0.3 0.3
 d 0.8
 
 newmtl Cor4
 Kd 0.4 1.0 1.0
-Ks 0.4 1.0 1.0
-Ns 2.0
+Ks 0.3 0.3 0.3
 d 0.8
 
 newmtl Cor5
 Kd 0.95 0.95 0.3
-Ks 0.95 0.95 0.3
-Ns 2.0
+Ks 0.3 0.3 0.3
 d 0.8
 
 newmtl Cor6
 Kd 1.0 0.5 0.5
-Ks 1.0 0.5 0.5
-Ns 2.0
+Ks 0.3 0.3 0.3
 d 0.8
 
 newmtl CorL
 Kd 0.1 0.4 0.1
-Ks 0.1 0.4 0.1
+Ks 0.3 0.3 0.3
 d 1
