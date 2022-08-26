@@ -308,6 +308,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
 <br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+<h4>13. Small Dodecahemidodecahedron</h4>
+ <img src="ar/193.png" width="180px">
+ <br>The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
+<br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
