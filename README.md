@@ -316,7 +316,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>14. Great Icosihemidodecahedron</h4>
- <img src="ar/193.png" width="180px">
+ <img src="ar/194.png" width="180px">
  <br>The great icosihemidodecahedron is a nonconvex uniform polyhedron whose dual is the great icosihemidodecacron. Its circumradius for unit edge lengths is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 20 equilateral triangles and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatIcosihemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosihemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
