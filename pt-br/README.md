@@ -325,7 +325,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><b>Faces:</b> 20 triângulos equiláteros e 6 decágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79,19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/small_icosihemidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
-<h4>16. Pequeno icosihemidodecaedro</h4>
+<h4>16. Octatetraedro</h4>
  <img src="../ar/196.png" width="180px">
  <br>O octatetraedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
 <br><b>Faces:</b> 8 triângulos equiláteros e 4 hexágonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 70,53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">Mais sobre...</a>
