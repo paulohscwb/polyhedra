@@ -329,7 +329,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>16. Octahemioctahedron</h4>
  <img src="ar/196.png" width="180px">
- <br>The octatetrahedron is a nonconvex uniform polyhedronwhose dual polyhedron is the octahemioctacron. It is a faceted cuboctahedron. For unit edge length, its circumradius is R=1.  
+ <br>The octatetrahedron is a nonconvex uniform polyhedron whose dual polyhedron is the octahemioctacron. It is a faceted cuboctahedron. For unit edge length, its circumradius is R=1.  
 <br><b>Faces:</b> 8 equilateral triangles and 6 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">More...</a>
  <br><a href="vr/octahemioctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 </details>
