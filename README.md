@@ -332,6 +332,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The octatetrahedron is a nonconvex uniform polyhedron whose dual polyhedron is the octahemioctacron. It is a faceted cuboctahedron. For unit edge length, its circumradius is R=1.  
 <br><b>Faces:</b> 8 equilateral triangles and 6 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">More...</a>
  <br><a href="vr/octahemioctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+<h4>17. Tetrahemihexahedron</h4>
+ <img src="ar/197.png" width="180px">
+ <br>The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. 
+<br><b>Faces:</b> 4 equilateral triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">More...</a>
+ <br><a href="vr/tetrahemihexahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
