@@ -37,3 +37,7 @@ l 9 1 11 3
 l 9 6 8 4 
 l 9 3
 l 9 4
+usemtl CorL
+l 2 6
+usemtl CorL
+l 5 11
