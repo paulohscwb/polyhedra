@@ -229,9 +229,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p class="topop"><a href="#p3" class="topo">back to top</a></p>
 </details>
 
-<details id="p4" style="border-bottom: 1px solid #a2dec0;">
+<details id="p4">
   <summary>Non-convex polyhedra</summary>
-  <br>To view non-convex polyhedra polyhedra in AR, simply visit:
+  <br>To view non-convex polyhedra in AR, simply visit:
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
@@ -347,6 +347,23 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/cubohemioctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
+
+<details id="p5" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Self-intersecting polyhedra</summary>
+  <br>To view self-intersecting polyhedra in AR, simply visit:
+<p align="center"><a href="selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
+<hr>
+<h4>1. Escher's Solid</h4>
+ <img src="ar/181.png" width="180px">
+ <br>Escher's solid is illustrated on the right pedestal in M. C. Escher's "Waterfall" woodcut. It is obtained by augmenting a rhombic dodecahedron until incident edges become parallel, corresponding to augmentation of height for a rhombic dodecahedron. It is the first rhombic dodecahedron stellation and is a space-filling polyhedron. Its convex hull is a cuboctahedron. Its isosceles triangles faces have vertex angles of 70.53° (once) and 54.73° (twice).
+<br><b>Faces:</b> 48 isosceles triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
+ <br><a href="vr/escher.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <p class="topop"><a href="#p5" class="topo">back to top</a></p>
+</details>
+ 
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
