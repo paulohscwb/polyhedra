@@ -269,7 +269,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>6. Small Stellated Dodecahedron</h4>
  <img src="ar/186.png" width="180px">
- <br>The small stellated dodecahedron is the Kepler-Poinsot solids whose dual polyhedron is the great dodecahedron. The small stellated dodecahedron appeared in 1430 as a mosaic by Paolo Uccello on the floor of San Marco cathedral, Venice. It was rediscovered by Kepler (who used th term "urchin") in his work Harmonice Mundi in 1619, and again by Poinsot in 1809. The 12 pentagrammic faces can be constructing from an icosahedron by finding the 12 sets of five vertices that are coplanar and connecting each set to form a pentagram.
+ <br><span class="titulo"><b>U<sub>34</sub></b></span> The small stellated dodecahedron is the Kepler-Poinsot solids whose dual polyhedron is the great dodecahedron. The small stellated dodecahedron appeared in 1430 as a mosaic by Paolo Uccello on the floor of San Marco cathedral, Venice. It was rediscovered by Kepler (who used th term "urchin") in his work Harmonice Mundi in 1619, and again by Poinsot in 1809. The 12 pentagrammic faces can be constructing from an icosahedron by finding the 12 sets of five vertices that are coplanar and connecting each set to form a pentagram.
 <br><b>Faces:</b> 12 regular pentagrams | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 116.57°. <a href="https://mathworld.wolfram.com/SmallStellatedDodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_stellated_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
