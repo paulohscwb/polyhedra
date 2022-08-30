@@ -356,7 +356,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
 <h4>1. Dodecaedro ditrigonal</h4>
  <img src="../ar/199.png" width="180px">
- <br><span class="titulo"><b>U<sub>15</sub></b></span> O dodecaedro ditrigonal é um poliedro uniforme não convexo cujo poliedro dual é o icosaedro triâmbico medial. É uma versão facetada do pequeno icosidodecaedro ditrigonal.
+ <br><span class="titulo"><b>U<sub>41</sub></b></span> O dodecaedro ditrigonal é um poliedro uniforme não convexo cujo poliedro dual é o icosaedro triâmbico medial. É uma versão facetada do pequeno icosidodecaedro ditrigonal.
 <br><b>Faces:</b> 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 63,43°. <a href="https://mathworld.wolfram.com/DitrigonalDodecadodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/ditrigonal_dodecadodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
