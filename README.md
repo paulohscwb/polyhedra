@@ -281,7 +281,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>8. Great Dodecahedron</h4>
  <img src="ar/188.png" width="180px">
- <br>The great dodecahedron is the Kepler-Poinsot solid whose dual is the small stellated dodecahedron. It is concave, and consists of 12 intersecting pentagonal faces. The 12 pentagonal faces can be constructing from an icosahedron by finding the 12 sets five vertices that are coplanar and connecting each set to form a pentagon. The skeleton of the great dodecahedron is isomorphic to the icosahedral graph. 
+ <br><span class="titulo"><b>U<sub>35</sub>:</b></span> The great dodecahedron is the Kepler-Poinsot solid whose dual is the small stellated dodecahedron. It is concave, and consists of 12 intersecting pentagonal faces. The 12 pentagonal faces can be constructing from an icosahedron by finding the 12 sets five vertices that are coplanar and connecting each set to form a pentagon. The skeleton of the great dodecahedron is isomorphic to the icosahedral graph. 
 <br><b>Faces:</b> 12 regular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
