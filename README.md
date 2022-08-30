@@ -312,7 +312,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>13. Small Dodecahemidodecahedron</h4>
  <img src="ar/193.png" width="180px">
- <br>The small dodecahemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
+ <br><span class="titulo"><b>U<sub>51</sub>:</b></span> The small dodecahemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -324,7 +324,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>15. Small Icosihemidodecahedron</h4>
  <img src="ar/195.png" width="180px">
- <br>The small icosihemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small icosihemidodecacron. It is a faceted version of the icosidodecahedron. 
+ <br><span class="titulo"><b>U<sub>49</sub>:</b></span> The small icosihemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small icosihemidodecacron. It is a faceted version of the icosidodecahedron. 
 <br><b>Faces:</b> 20 equilateral triangles and 6 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_icosihemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
