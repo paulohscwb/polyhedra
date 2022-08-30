@@ -275,7 +275,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>7. Great Stellated Dodecahedron</h4>
  <img src="ar/187.png" width="180px">
- <br>The great stellated dodecahedron is one of the Kepler-Poinsot solids, and its dual is the great icosahedron. The great stellated dodecahedron was published by Wenzel Jamnitzer in 1568. It was rediscovered by Kepler, and again by Poinsot in 1809. The great stellated dodecahedron can be constructed from a dodecahedron by selecting the 144 sets of five coplanar vertices, then discarding sets whose edges correspond to the edges of the original dodecahedron: this gives 12 pentagrams.
+ <br><span class="titulo"><b>U<sub>52</sub></b></span> The great stellated dodecahedron is one of the Kepler-Poinsot solids, and its dual is the great icosahedron. The great stellated dodecahedron was published by Wenzel Jamnitzer in 1568. It was rediscovered by Kepler, and again by Poinsot in 1809. The great stellated dodecahedron can be constructed from a dodecahedron by selecting the 144 sets of five coplanar vertices, then discarding sets whose edges correspond to the edges of the original dodecahedron: this gives 12 pentagrams.
 <br><b>Faces:</b> 12 regular pentagrams | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatStellatedDodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_stellated_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
@@ -287,44 +287,44 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>9. Great Icosahedron</h4>
  <img src="ar/189.png" width="180px">
- <br>The great icosahedron is one of the Kepler-Poinsot solids whose dual is the great stellated dodecahedron. The great icosahedron can be constructed from an icosahedron with unit edge lengths by taking the 20 sets of vertices that are mutually spaced by a distance &phi; (the golden ratio). The solid therefore consists of 20 equilateral triangles, and the symmetry of their arrangement is such that the resulting solid contains 12 pentagrams. 
+ <br><span class="titulo"><b>U<sub>53</sub></b></span> The great icosahedron is one of the Kepler-Poinsot solids whose dual is the great stellated dodecahedron. The great icosahedron can be constructed from an icosahedron with unit edge lengths by taking the 20 sets of vertices that are mutually spaced by a distance &phi; (the golden ratio). The solid therefore consists of 20 equilateral triangles, and the symmetry of their arrangement is such that the resulting solid contains 12 pentagrams. 
 <br><b>Faces:</b> 20 equilateral triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 41.81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 <hr>
 <h4>10. Small Dodecahemicosahedron</h4>
  <img src="ar/190.png" width="180px">
- <br>The uniform polyhedron whose dual polyhedron is the small dodecahemicosacron. It is a faceted version of the icosidodecahedron.  
+ <br><span class="titulo"><b>U<sub>62</sub></b></span> The uniform polyhedron whose dual polyhedron is the small dodecahemicosacron. It is a faceted version of the icosidodecahedron.  
 <br><b>Faces:</b> 12 regular pentagrams and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>11. Great Dodecahemidodecahedron</h4>
  <img src="ar/191.png" width="180px">
- <br> The large dodecahemidodecahedron is a uniform non-convex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
+ <br><span class="titulo"><b>U<sub>70</sub></b></span> The large dodecahemidodecahedron is a uniform non-convex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
 <br><b>Faces:</b> 12 regular pentagrams and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>12. Great Dodecahemicosahedron</h4>
  <img src="ar/192.png" width="180px">
- <br>The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
+ <br><span class="titulo"><b>U<sub>65</sub></b></span> The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
 <br><b>Faces:</b> 12 regular pentagons and 10 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>13. Small Dodecahemidodecahedron</h4>
  <img src="ar/193.png" width="180px">
- <br><span class="titulo"><b>U<sub>51</sub>:</b></span> The small dodecahemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
+ <br><span class="titulo"><b>U<sub>51</sub></b></span> The small dodecahemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>14. Great Icosihemidodecahedron</h4>
  <img src="ar/194.png" width="180px">
- <br>The great icosihemidodecahedron is a nonconvex uniform polyhedron whose dual is the great icosihemidodecacron. Its circumradius for unit edge lengths is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
+ <br><span class="titulo"><b>U<sub>71</sub></b></span> The great icosihemidodecahedron is a nonconvex uniform polyhedron whose dual is the great icosihemidodecacron. Its circumradius for unit edge lengths is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 20 equilateral triangles and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatIcosihemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosihemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>15. Small Icosihemidodecahedron</h4>
  <img src="ar/195.png" width="180px">
- <br><span class="titulo"><b>U<sub>49</sub>:</b></span> The small icosihemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small icosihemidodecacron. It is a faceted version of the icosidodecahedron. 
+ <br><span class="titulo"><b>U<sub>49</sub></b></span> The small icosihemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small icosihemidodecacron. It is a faceted version of the icosidodecahedron. 
 <br><b>Faces:</b> 20 equilateral triangles and 6 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_icosihemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
