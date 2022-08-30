@@ -1,3 +1,5 @@
+.titulo {background:#3498db; color:white; padding: 0 10px 0 10px; border-radius:5px;}
+
 table {width:100%;}
 
 details a img:hover {opacity:0.9; transition: all .5s;
