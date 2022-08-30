@@ -3,7 +3,8 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
- <br><br>The Archimedean, Plato and Catalan polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
+ <br><br>The Archimedean, Plato, Catalan and nonconvex polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
+ <br>A uniform polyhedron has regular polygons as faces and is isogonal, that is, it has an isometry that allows the set of its vertices to correspond to each other through symmetry relations. The notation used for the n<sup>th</sup> uniform polyhedron is U<sub>n</sub>.
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js" target="_blank">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Kevin Ngo</b> were used on the VR pages: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>
@@ -92,7 +93,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>13. Truncated tetrahedron</h4>
  <img src="ar/10.png" width="180px">
- <br>The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
+ <br><b>U<sub>2</sub>:</b> The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
  <br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Diedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
  <br><a href="vr/truncated_tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
@@ -121,7 +122,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>3. Octahedron</h4>
  <img src="ar/7.png" width="180px">
- <br>The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
+ <br><b>U<sub>5</sub>:</b> The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
 <br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Diedral angle:</b> 109.4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
  <br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <hr>
@@ -133,7 +134,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>5. Tetrahedron</h4>
  <img src="ar/5.png" width="180px">
- <br>The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres.
+ <br><b>U<sub>1</sub>:</b> The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres. 
 <br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <p class="topop"><a href="#p2" class="topo">back to top</a></p>
@@ -329,13 +330,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>16. Octahemioctahedron</h4>
  <img src="ar/196.png" width="180px">
- <br>The octatetrahedron is a nonconvex uniform polyhedron whose dual polyhedron is the octahemioctacron. It is a faceted cuboctahedron. For unit edge length, its circumradius is R=1.  
+ <br><b>U<sub>3</sub>:</b> The octatetrahedron is a nonconvex uniform polyhedron whose dual polyhedron is the octahemioctacron. It is a faceted cuboctahedron. For unit edge length, its circumradius is R=1.  
 <br><b>Faces:</b> 8 equilateral triangles and 6 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">More...</a>
  <br><a href="vr/octahemioctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>17. Tetrahemihexahedron</h4>
  <img src="ar/197.png" width="180px">
- <br>The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. 
+ <br><b>U<sub>4</sub>:</b> The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. 
 <br><b>Faces:</b> 4 equilateral triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">More...</a>
  <br><a href="vr/tetrahemihexahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>

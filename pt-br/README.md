@@ -3,7 +3,8 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
-<br><br>Os poliedros de Arquimedes, Platão e Catalan podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, cada poliedro pode ser visto em RV.
+<br><br>Os poliedros de Arquimedes, Platão, Catalan e não convexos podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, cada poliedro pode ser visto em RV.
+<br>Um poliedro uniforme possui polígonos regulares como faces e é isogonal, ou seja, possui uma isometria que permite que o conjunto de seus vértices correspondam entre si por meio de relações de simetria. A notação usada para o n-ésimo poliedro uniforme é U<sub>n</sub>.
 <br>O ambiente RA foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js" target="_blank"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>
@@ -90,7 +91,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>13. Tetraedro truncado</h4>
  <img src="../ar/10.png" width="180px">
- <br><br>O tetraedro truncado pode ser construído truncando todos os 4 vértices de um tetraedro regular com um terço do comprimento original da aresta. Um truncamento mais profundo, removendo um tetraedro de metade do comprimento original da aresta de cada vértice, é chamado de retificação. A retificação de um tetraedro produz um octaedro.
+ <br><br><b>U<sub>2</sub>:</b> O tetraedro truncado pode ser construído truncando todos os 4 vértices de um tetraedro regular com um terço do comprimento original da aresta. Um truncamento mais profundo, removendo um tetraedro de metade do comprimento original da aresta de cada vértice, é chamado de retificação. A retificação de um tetraedro produz um octaedro.
 <br><b>Faces:</b> 8 | <b>Polígonos:</b> 4 triângulos e 4 hexágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.775 | <b>Ângulos diédricos:</b> 109°28′16′ (6-3) e 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_tetrahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
@@ -119,7 +120,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>3. Octaedro</h4>
  <img src="../ar/7.png" width="180px">
- <br><br>O octaedro tem quatro faces triangulares reunidas em cada vértice. É uma pirâmide dupla quadrada em qualquer uma das três orientações ortogonais. É também um antiprisma triangular em qualquer das quatro orientações. O octaedro é único entre os sólidos platônicos que tem número par de faces que se encontram em cada vértice. Consequentemente, é o único membro desse grupo que possui planos espelhados que não passam por alguma face.
+ <br><br><b>U<sub>5</sub>:</b> O octaedro tem quatro faces triangulares reunidas em cada vértice. É uma pirâmide dupla quadrada em qualquer uma das três orientações ortogonais. É também um antiprisma triangular em qualquer das quatro orientações. O octaedro é único entre os sólidos platônicos que tem número par de faces que se encontram em cada vértice. Consequentemente, é o único membro desse grupo que possui planos espelhados que não passam por alguma face.
 <br><b>Faces:</b> 8 triângulos | <b>Arestas:</b> 12 | <b>Vértices:</b> 6 | <b>Esfericidade:</b> 0.846 | <b>Ângulo diédrico:</b> 109,4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/octahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
@@ -131,7 +132,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>5. Tetraedro</h4>
  <img src="../ar/5.png" width="180px">
- <br><br>O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
+ <br><br><b>U<sub>1</sub>:</b> O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
 <br><b>Faces:</b> 4 triângulos | <b>Arestas:</b> 6 | <b>Vértices:</b> 4 | <b>Esfericidade:</b> 0.671 | <b>Ângulo diédrico:</b> 70,5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/tetrahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p2" class="topo">voltar ao topo</a></p>
@@ -327,13 +328,13 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
 <h4>16. Octatetraedro</h4>
  <img src="../ar/196.png" width="180px">
- <br>O octatetraedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
+ <br><b>U<sub>3</sub>:</b> O octatetraedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
 <br><b>Faces:</b> 8 triângulos equiláteros e 4 hexágonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 70,53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/octahemioctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>17. Tetrahemihexaedro</h4>
  <img src="../ar/197.png" width="180px">
- <br>O tetrahemihexaedro é um poliedro uniforme não convexo cujo poliedro dual é o tetrahemihexacron. É uma forma facetada do octaedro.
+ <br><b>U<sub>4</sub>:</b> O tetrahemihexaedro é um poliedro uniforme não convexo cujo poliedro dual é o tetrahemihexacron. É uma forma facetada do octaedro.
 <br><b>Faces:</b> 4 triângulos equiláteros e 3 quadrados | <b>Arestas:</b> 12 | <b>Vértices:</b> 6 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/tetrahemihexahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
