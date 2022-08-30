@@ -356,11 +356,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
 <hr>
-<h4>1. Escher's Solid</h4>
- <img src="ar/181.png" width="180px">
- <br>Escher's solid is illustrated on the right pedestal in M. C. Escher's "Waterfall" woodcut. It is obtained by augmenting a rhombic dodecahedron until incident edges become parallel, corresponding to augmentation of height for a rhombic dodecahedron. It is the first rhombic dodecahedron stellation and is a space-filling polyhedron. Its convex hull is a cuboctahedron. Its isosceles triangles faces have vertex angles of 70.53° (once) and 54.73° (twice).
-<br><b>Faces:</b> 48 isosceles triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
- <br><a href="vr/escher.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+<h4>1. Ditrigonal dodecahedron</h4>
+ <img src="ar/199.png" width="180px">
+ <br><span class="titulo"><b>U<sub>41</sub></b></span> The ditrigonal dodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the medial triambic icosahedron. It is a faceted version of the small ditrigonal icosidodecahedron. 
+<br><b>Faces:</b> 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/DitrigonalDodecadodecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/ditrigonal_dodecadodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
