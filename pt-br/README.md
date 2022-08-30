@@ -20,79 +20,79 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>1. Octaedro truncado</h4>
  <img src="../ar/hiro.png" width="180px">
- <br><span class="titulo"><b>U<sub>8</sub>:</b></span> O octaedro truncado é construído a partir de um octaedro regular com comprimento de lado <b>3a</b> pela remoção de seis pirâmides retas à direita, uma de cada ponto. Estas pirâmides têm tanto o comprimento do lado da base como o lado do lado lateral <b>e </b> de <b>a</b>, para formar triângulos equiláteros. O octaedro truncado pode ser dissecado em um octaedro central, circundado por 8 cúpulas triangulares em cada face e 6 pirâmides quadradas acima dos vértices. O octaedro truncado existe na estrutura dos cristais de faujasite.
- <br><b>Faces:</b> 14 | <b>Polígonos:</b> 6 quadrados e 8 hexágonos | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Esfericidade:</b> 0.905 | <b>Ângulos diédricos:</b> 125°15′51″ (4-6) e 109°28′16″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedOctahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>8</sub></b></span> O octaedro truncado é construído a partir de um octaedro regular com comprimento de lado <b>3a</b> pela remoção de seis pirâmides retas à direita, uma de cada ponto. Estas pirâmides têm tanto o comprimento do lado da base como o lado do lado lateral <b>e </b> de <b>a</b>, para formar triângulos equiláteros. O octaedro truncado pode ser dissecado em um octaedro central, circundado por 8 cúpulas triangulares em cada face e 6 pirâmides quadradas acima dos vértices. O octaedro truncado existe na estrutura dos cristais de faujasite.
+ <br><span class="titulo"><b>faces</b></span> 14 | <b>Polígonos:</b> 6 quadrados e 8 hexágonos | <span class="titulo"><b>arestas</b></span> 36 | <span class="titulo"><b>vértices</b></span> 24 | <b>Esfericidade:</b> 0.905 | <span class="titulo"><b>ângulos diédricos</b></span> 125°15′51″ (4-6) e 109°28′16″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedOctahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_octahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>2. Icosaedro truncado</h4>
  <img src="../ar/kanji.png" width="180px">
- <br><span class="titulo"><b>U<sub>25</sub>:</b></span> A geometria do icosaedro truncado está associada a bolas de futebol, tipicamente padronizadas com hexágonos brancos e pentágonos pretos. Este poliedro pode ser construído a partir de um icosaedro com os 12 vértices truncados, de modo que um terço de cada canto é cortado em cada uma das duas extremidades. Criam-se então 12 novas faces pentagonais, transformando-se as 20 faces triangulares originais em hexágonos regulares. Assim, o comprimento das arestas é um terço do das arestas originais.
- <br><b>Faces:</b> 32 | <b>Polígonos:</b> 12 pentágonos e 20 hexágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Esfericidade:</b> 0.967 | <b>Ângulos diédricos:</b> 138,1897° (6-6) e 142,62° (5-6). <a href="http://mathworld.wolfram.com/TruncatedIcosahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>25</sub></b></span> A geometria do icosaedro truncado está associada a bolas de futebol, tipicamente padronizadas com hexágonos brancos e pentágonos pretos. Este poliedro pode ser construído a partir de um icosaedro com os 12 vértices truncados, de modo que um terço de cada canto é cortado em cada uma das duas extremidades. Criam-se então 12 novas faces pentagonais, transformando-se as 20 faces triangulares originais em hexágonos regulares. Assim, o comprimento das arestas é um terço do das arestas originais.
+ <br><span class="titulo"><b>faces</b></span> 32 | <b>Polígonos:</b> 12 pentágonos e 20 hexágonos | <span class="titulo"><b>arestas</b></span> 90 | <span class="titulo"><b>vértices</b></span> 60 | <b>Esfericidade:</b> 0.967 | <span class="titulo"><b>ângulos diédricos</b></span> 138,1897° (6-6) e 142,62° (5-6). <a href="http://mathworld.wolfram.com/TruncatedIcosahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_icosahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr><h4>3. Icosidodecaedro truncado</h4>
  <img src="../ar/19.png" width="180px">
- <br><span class="titulo"><b>U<sub>28</sub>:</b></span> O icosidodecaedro truncado também é conhecido como o grande rombicosidodecaedro, e se todos os 13 sólidos arquimedianos fossem construídos com todos os comprimentos de arestas iguais, o icosidodecaedro truncado seria o maior. Tem mais vértices e arestas do que qualquer outro poliedro uniforme não-prismático convexo.
- <br><b>Faces:</b> 62 | <b>Polígonos:</b> 30 quadrados, 20 hexágonos e 12 decágonos | <b>Arestas:</b> 180 | <b>Vértices:</b> 120 | <b>Esfericidade:</b> 0.97 | <b>Ângulos diédricos:</b> 142,62° (6-10), 148,28° (4-10) e 159,095° (4-6). <a href="http://mathworld.wolfram.com/GreatRhombicosidodecahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>28</sub></b></span> O icosidodecaedro truncado também é conhecido como o grande rombicosidodecaedro, e se todos os 13 sólidos arquimedianos fossem construídos com todos os comprimentos de arestas iguais, o icosidodecaedro truncado seria o maior. Tem mais vértices e arestas do que qualquer outro poliedro uniforme não-prismático convexo.
+ <br><span class="titulo"><b>faces</b></span> 62 | <b>Polígonos:</b> 30 quadrados, 20 hexágonos e 12 decágonos | <span class="titulo"><b>arestas</b></span> 180 | <span class="titulo"><b>vértices</b></span> 120 | <b>Esfericidade:</b> 0.97 | <span class="titulo"><b>ângulos diédricos</b></span> 142,62° (6-10), 148,28° (4-10) e 159,095° (4-6). <a href="http://mathworld.wolfram.com/GreatRhombicosidodecahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_icosidodecahedron.html" target="_blank"><img src="https://paulohscwb.github.io/polyhedra/vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>4. Rombicosidodecaedro</h4>
  <img src="../ar/18.png" width="180px">
- <br><span class="titulo"><b>U<sub>27</sub>:</b></span> O rombicosidodecaedro também é conhecido como o pequeno rombicosidodecaedro ou pequeno dodeicosidodecaedro. Se você expandir um icosaedro movendo as faces para longe da origem na quantidade certa, sem alterar a orientação ou tamanho das faces, e fazer o mesmo com um dodecaedro duplo, e corrigir os espaços com quadrados, você obtém um rombicosidodecaedro. Também pode ser chamado de dodecaedro ou icosaedro expandido a partir de operações de truncamento em poliedros regulares.
-<br><b>Faces:</b> 62 | <b>Polígonos:</b> 30 quadrados, 20 triângulos e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Esfericidade:</b> 0.979 | <b>Ângulos diédricos:</b> 159°05′41″ (3-4) e 148°16′57″ (4-5). <a href="http://mathworld.wolfram.com/SmallRhombicosidodecahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>27</sub></b></span> O rombicosidodecaedro também é conhecido como o pequeno rombicosidodecaedro ou pequeno dodeicosidodecaedro. Se você expandir um icosaedro movendo as faces para longe da origem na quantidade certa, sem alterar a orientação ou tamanho das faces, e fazer o mesmo com um dodecaedro duplo, e corrigir os espaços com quadrados, você obtém um rombicosidodecaedro. Também pode ser chamado de dodecaedro ou icosaedro expandido a partir de operações de truncamento em poliedros regulares.
+<br><span class="titulo"><b>faces</b></span> 62 | <b>Polígonos:</b> 30 quadrados, 20 triângulos e 12 pentágonos | <span class="titulo"><b>arestas</b></span> 120 | <span class="titulo"><b>vértices</b></span> 60 | <b>Esfericidade:</b> 0.979 | <span class="titulo"><b>ângulos diédricos</b></span> 159°05′41″ (3-4) e 148°16′57″ (4-5). <a href="http://mathworld.wolfram.com/SmallRhombicosidodecahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/rhombicosidodecahedron.html" target="_blank"><img src="https://paulohscwb.github.io/polyhedra/vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>5. Dodecaedro snub</h4>
  <img src="../ar/17.png" width="180px">
- <br><span class="titulo"><b>U<sub>29</sub>:</b></span> O dodecaedro snub tem a mais alta esfericidade de todos os sólidos de Arquimedes. Tem duas formas distintas, que são imagens espelhadas umas da outra. A união de ambas as formas é um composto de dois dodecaedros snub. O dodecaedro snub pode ser gerado tomando-se as doze faces pentagonais do dodecaedro e deslocando-as para fora, para não se interceptarem. A uma distância adequada, esta tranformação pode criar o rombicosidodecaedro preenchendo as faces quadradas entre as arestas divididas e as faces triangulares entre os vértices divididos.
- <br><b>Faces:</b> 92 | <b>Polígonos:</b> 80 triângulos e 12 pentágonos | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Esfericidade:</b> 0.982 | <b>Ângulos diédricos:</b> 164°10′31″ (3-3) e 152°55′53″ (3-5). <a href="http://mathworld.wolfram.com/SnubDodecahedron.html" target="_blank">Mais sobre...</a>  
+ <br><span class="titulo"><b>U<sub>29</sub></b></span> O dodecaedro snub tem a mais alta esfericidade de todos os sólidos de Arquimedes. Tem duas formas distintas, que são imagens espelhadas umas da outra. A união de ambas as formas é um composto de dois dodecaedros snub. O dodecaedro snub pode ser gerado tomando-se as doze faces pentagonais do dodecaedro e deslocando-as para fora, para não se interceptarem. A uma distância adequada, esta tranformação pode criar o rombicosidodecaedro preenchendo as faces quadradas entre as arestas divididas e as faces triangulares entre os vértices divididos.
+ <br><span class="titulo"><b>faces</b></span> 92 | <b>Polígonos:</b> 80 triângulos e 12 pentágonos | <span class="titulo"><b>arestas</b></span> 150 | <span class="titulo"><b>vértices</b></span> 60 | <b>Esfericidade:</b> 0.982 | <span class="titulo"><b>ângulos diédricos</b></span> 164°10′31″ (3-3) e 152°55′53″ (3-5). <a href="http://mathworld.wolfram.com/SnubDodecahedron.html" target="_blank">Mais sobre...</a>  
  <br><a href="../vr/snub_dodecahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>6. Dodecaedro truncado</h4>
  <img src="../ar/16.png" width="180px">
- <br><span class="titulo"><b>U<sub>26</sub>:</b></span> O dodecaedro truncado é usado na tesselação de preenchimento de espaço hiperbólico celular-transitivo, o favo de mel icosaédrico bitruncado. Esse poliedro pode ser formado a partir de um dodecaedro, truncando os cantos para que as faces dos pentágonos se tornem decágonos e os cantos se tornem triângulos. Faz parte de um processo de truncamento entre um dodecaedro e um icosaedro.
- <br><b>Faces:</b> 32 | <b>Polígonos:</b> 20 triângulos e 12 decágonos | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Esfericidade:</b> 0.926 | <b>Ângulos diédricos:</b> 116,57° (10-10) e 142,62° (3-10). <a href="http://mathworld.wolfram.com/TruncatedDodecahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>26</sub></b></span> O dodecaedro truncado é usado na tesselação de preenchimento de espaço hiperbólico celular-transitivo, o favo de mel icosaédrico bitruncado. Esse poliedro pode ser formado a partir de um dodecaedro, truncando os cantos para que as faces dos pentágonos se tornem decágonos e os cantos se tornem triângulos. Faz parte de um processo de truncamento entre um dodecaedro e um icosaedro.
+ <br><span class="titulo"><b>faces</b></span> 32 | <b>Polígonos:</b> 20 triângulos e 12 decágonos | <span class="titulo"><b>arestas</b></span> 150 | <span class="titulo"><b>vértices</b></span> 60 | <b>Esfericidade:</b> 0.926 | <span class="titulo"><b>ângulos diédricos</b></span> 116,57° (10-10) e 142,62° (3-10). <a href="http://mathworld.wolfram.com/TruncatedDodecahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_dodecahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>7. Icosidodecaedro</h4>
  <img src="../ar/20.png" width="180px">
- <br><span class="titulo"><b>U<sub>24</sub>:</b></span> O icosidodecaedro contém 12 pentágonos do dodecaedro e 20 triângulos do icosaedro. O cubo truncado pode ser transformado em um icosidodecaedro, dividindo-se os octógonos em dois pentágonos e dois triângulos. O icosidodecaedro possui seis decágonos centrais.
- <br><b>Faces:</b> 32 | <b>Polígonos:</b> 20 triângulos e 12 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Esfericidade:</b> 0.951 | <b>Ângulo diédrico:</b> 142,62° (5-3). <a href="http://mathworld.wolfram.com/Icosidodecahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>24</sub></b></span> O icosidodecaedro contém 12 pentágonos do dodecaedro e 20 triângulos do icosaedro. O cubo truncado pode ser transformado em um icosidodecaedro, dividindo-se os octógonos em dois pentágonos e dois triângulos. O icosidodecaedro possui seis decágonos centrais.
+ <br><span class="titulo"><b>faces</b></span> 32 | <b>Polígonos:</b> 20 triângulos e 12 pentágonos | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <b>Esfericidade:</b> 0.951 | <span class="titulo"><b>ângulo diédrico</b></span> 142,62° (5-3). <a href="http://mathworld.wolfram.com/Icosidodecahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/icosidodecahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>8. Cubo snub</h4>
  <img src="../ar/15.png" width="180px">
- <br><span class="titulo"><b>U<sub>12</sub>:</b></span> O cubo snub também é conhecido como cuboctaedro snub e tem duas formas distintas, que são imagens espelhadas uma da outra. O cubo snub pode ser gerado tomando-se as seis faces do cubo, puxando-as para fora de modo que elas não se interceptem, dando a cada uma delas uma pequena rotação em seus centros (todas no mesmo sentido: horário ou anti-horário) até que os espaços possam ser preenchidos com triângulos equiláteros.
-<br><b>Faces:</b> 38 | <b>Polígonos:</b> 32 triângulos e 6 quadrados | <b>Arestas:</b> 60 | <b>Vértices:</b> 24 | <b>Esfericidade:</b> 0.965 | <b>Ângulos diédricos:</b> 153°14′04″ (3-3) e 142°59′00″ (3-4). <a href="http://mathworld.wolfram.com/SnubCube.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>12</sub></b></span> O cubo snub também é conhecido como cuboctaedro snub e tem duas formas distintas, que são imagens espelhadas uma da outra. O cubo snub pode ser gerado tomando-se as seis faces do cubo, puxando-as para fora de modo que elas não se interceptem, dando a cada uma delas uma pequena rotação em seus centros (todas no mesmo sentido: horário ou anti-horário) até que os espaços possam ser preenchidos com triângulos equiláteros.
+<br><span class="titulo"><b>faces</b></span> 38 | <b>Polígonos:</b> 32 triângulos e 6 quadrados | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 24 | <b>Esfericidade:</b> 0.965 | <span class="titulo"><b>ângulos diédricos</b></span> 153°14′04″ (3-3) e 142°59′00″ (3-4). <a href="http://mathworld.wolfram.com/SnubCube.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/snubcube.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>9. Cuboctaedro truncado</h4>
  <img src="../ar/14.png" width="180px">
- <br><span class="titulo"><b>U<sub>11</sub>:</b></span> O cuboctaedro truncado também é conhecido como grande rombicuboctaedro. O cuboctaedro truncado é o casco convexo de um rombicuboctaedro com cubos acima de seus 12 quadrados em eixos de simetria dupla. O resto de seu espaço pode ser dissecado em seis cúpulas quadradas abaixo dos octógonos e oito cúpulas triangulares abaixo dos hexágonos.
- <br><b>Faces:</b> 26 | <b>Polígonos:</b> 12 quadrados, 8 hexágonos e 6 octógonos | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Esfericidade:</b> 0.943 | <b>Ângulos diédricos:</b> 144°44′08″ (4-6), 135° (4-8) e 125°15′51″ (6-8). <a href="http://mathworld.wolfram.com/GreatRhombicuboctahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>11</sub></b></span> O cuboctaedro truncado também é conhecido como grande rombicuboctaedro. O cuboctaedro truncado é o casco convexo de um rombicuboctaedro com cubos acima de seus 12 quadrados em eixos de simetria dupla. O resto de seu espaço pode ser dissecado em seis cúpulas quadradas abaixo dos octógonos e oito cúpulas triangulares abaixo dos hexágonos.
+ <br><span class="titulo"><b>faces</b></span> 26 | <b>Polígonos:</b> 12 quadrados, 8 hexágonos e 6 octógonos | <span class="titulo"><b>arestas</b></span> 72 | <span class="titulo"><b>vértices</b></span> 48 | <b>Esfericidade:</b> 0.943 | <span class="titulo"><b>ângulos diédricos</b></span> 144°44′08″ (4-6), 135° (4-8) e 125°15′51″ (6-8). <a href="http://mathworld.wolfram.com/GreatRhombicuboctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/truncated_cuboctahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>10. Rombicuboctaedro</h4>
  <img src="../ar/13.png" width="180px">
- <br><span class="titulo"><b>U<sub>10</sub>:</b></span> O rombicuboctaedro é também conhecido como pequeno rombicuboctaedro. Este sólido também pode ser chamado de cubo ou octaedro expandido  e pode ser dissecado em duas cúpulas quadradas e um prisma octogonal central. Existem três pares de planos paralelos que interceptam o rombicuboctaedro em um octógono regular.
-<br><b>Faces:</b> 26 | <b>Polígonos:</b> 18 quadrados e 8 triângulos | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Esfericidade:</b> 0.954 | <b>Ângulos diédricos:</b> 144°44′08″ (4-3) e 135° (4-4). <a href="http://mathworld.wolfram.com/SmallRhombicuboctahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>10</sub></b></span> O rombicuboctaedro é também conhecido como pequeno rombicuboctaedro. Este sólido também pode ser chamado de cubo ou octaedro expandido  e pode ser dissecado em duas cúpulas quadradas e um prisma octogonal central. Existem três pares de planos paralelos que interceptam o rombicuboctaedro em um octógono regular.
+<br><span class="titulo"><b>faces</b></span> 26 | <b>Polígonos:</b> 18 quadrados e 8 triângulos | <span class="titulo"><b>arestas</b></span> 48 | <span class="titulo"><b>vértices</b></span> 24 | <b>Esfericidade:</b> 0.954 | <span class="titulo"><b>ângulos diédricos</b></span> 144°44′08″ (4-3) e 135° (4-4). <a href="http://mathworld.wolfram.com/SmallRhombicuboctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/rhombicuboctahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>11. Cubo truncado</h4>
  <img src="../ar/12.png" width="180px">
- <br><span class="titulo"><b>U<sub>9</sub>:</b></span> O cubo truncado pertence a uma família de poliedros uniformes relacionados ao cubo e octaedro regular. Esse sólido pode ser dissecado em um cubo central, com seis cúpulas quadradas ao redor de cada uma das faces do cubo e oito tetraédricas regulares nos cantos. Essa dissecação também pode ser vista dentro do favo de mel cúbico, com células cubo, tetraedro e rombicuboctaedro.
-<br><b>Faces:</b> 14 | <b>Polígonos:</b> 8 triângulos e 6 octógonos | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Esfericidade:</b> 0.849 | <b>Ângulos diédricos:</b> 125°15′51″ (8-3) e 90° (8-8). <a href="http://mathworld.wolfram.com/TruncatedCube.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>9</sub></b></span> O cubo truncado pertence a uma família de poliedros uniformes relacionados ao cubo e octaedro regular. Esse sólido pode ser dissecado em um cubo central, com seis cúpulas quadradas ao redor de cada uma das faces do cubo e oito tetraédricas regulares nos cantos. Essa dissecação também pode ser vista dentro do favo de mel cúbico, com células cubo, tetraedro e rombicuboctaedro.
+<br><span class="titulo"><b>faces</b></span> 14 | <b>Polígonos:</b> 8 triângulos e 6 octógonos | <span class="titulo"><b>arestas</b></span> 36 | <span class="titulo"><b>vértices</b></span> 24 | <b>Esfericidade:</b> 0.849 | <span class="titulo"><b>ângulos diédricos</b></span> 125°15′51″ (8-3) e 90° (8-8). <a href="http://mathworld.wolfram.com/TruncatedCube.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_cube.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>12. Cuboctaedro</h4>
  <img src="../ar/11.png" width="180px">
- <br><span class="titulo"><b>U<sub>7</sub>:</b></span> O cuboctaedro é o único poliedro convexo no qual o maior raio (do centro ao vértice) tem o mesmo comprimento que sua aresta. Um hexágono pode ser obtido tomando-se uma seção transversal equatorial de um cuboctaedro. Este sólido pode ser dissecado em duas cúpulas triangulares por um hexágono passando pelo centro do cuboctaedro.
-<br><b>Faces:</b> 14 | <b>Polígonos:</b> 8 triângulos e 6 quadrados | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.905 | <b>Ângulo diédrico:</b> 125,26° (4-3). <a href="http://mathworld.wolfram.com/Cuboctahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>7</sub></b></span> O cuboctaedro é o único poliedro convexo no qual o maior raio (do centro ao vértice) tem o mesmo comprimento que sua aresta. Um hexágono pode ser obtido tomando-se uma seção transversal equatorial de um cuboctaedro. Este sólido pode ser dissecado em duas cúpulas triangulares por um hexágono passando pelo centro do cuboctaedro.
+<br><span class="titulo"><b>faces</b></span> 14 | <b>Polígonos:</b> 8 triângulos e 6 quadrados | <span class="titulo"><b>arestas</b></span> 24 | <span class="titulo"><b>vértices</b></span> 12 | <b>Esfericidade:</b> 0.905 | <span class="titulo"><b>ângulo diédrico</b></span> 125,26° (4-3). <a href="http://mathworld.wolfram.com/Cuboctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/cuboctahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>13. Tetraedro truncado</h4>
  <img src="../ar/10.png" width="180px">
- <br><span class="titulo"><b>U<sub>2</sub>:</b></span> O tetraedro truncado pode ser construído truncando todos os 4 vértices de um tetraedro regular com um terço do comprimento original da aresta. Um truncamento mais profundo, removendo um tetraedro de metade do comprimento original da aresta de cada vértice, é chamado de retificação. A retificação de um tetraedro produz um octaedro.
-<br><b>Faces:</b> 8 | <b>Polígonos:</b> 4 triângulos e 4 hexágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.775 | <b>Ângulos diédricos:</b> 109°28′16′ (6-3) e 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">Mais sobre...</a> 
+ <br><span class="titulo"><b>U<sub>2</sub></b></span> O tetraedro truncado pode ser construído truncando todos os 4 vértices de um tetraedro regular com um terço do comprimento original da aresta. Um truncamento mais profundo, removendo um tetraedro de metade do comprimento original da aresta de cada vértice, é chamado de retificação. A retificação de um tetraedro produz um octaedro.
+<br><span class="titulo"><b>faces</b></span> 8 | <b>Polígonos:</b> 4 triângulos e 4 hexágonos | <span class="titulo"><b>arestas</b></span> 18 | <span class="titulo"><b>vértices</b></span> 12 | <b>Esfericidade:</b> 0.775 | <span class="titulo"><b>ângulos diédricos</b></span> 109°28′16′ (6-3) e 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">Mais sobre...</a> 
  <br><a href="../vr/truncated_tetrahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 </details>
@@ -108,32 +108,32 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>1. Icosaedro</h4>
  <img src="../ar/9.png" width="180px">
- <br><span class="titulo"><b>U<sub>22</sub>:</b></span> O icosaedro tem cinco faces triangulares reunidas em cada vértice. Um icosaedro regular é uma pirâmide dupla pentagonal giroalongada e um antiprisma pentagonal em qualquer das seis orientações. As 12 arestas de um octaedro regular podem ser subdivididas na proporção áurea de modo que os vértices resultantes definem um icosaedro regular.
-<br><b>Faces:</b> 20 triângulos | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.939 | <b>Ângulo diédrico:</b> 138,1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>22</sub></b></span> O icosaedro tem cinco faces triangulares reunidas em cada vértice. Um icosaedro regular é uma pirâmide dupla pentagonal giroalongada e um antiprisma pentagonal em qualquer das seis orientações. As 12 arestas de um octaedro regular podem ser subdivididas na proporção áurea de modo que os vértices resultantes definem um icosaedro regular.
+<br><span class="titulo"><b>faces</b></span> 20 triângulos | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 12 | <b>Esfericidade:</b> 0.939 | <span class="titulo"><b>ângulo diédrico</b></span> 138,1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/icosahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>2. Dodecaedro</h4>
  <img src="../ar/8.png" width="180px">
- <br><span class="titulo"><b>U<sub>23</sub>:</b></span> O dodecaedro tem três faces pentagonais regulares se encontrando em cada vértice. O dodecaedro regular é o terceiro em um conjunto infinito de trapezoedros truncados que pode ser construído truncando-se dois vértices axiais de um trapezoedro pentagonal. Se os cinco sólidos platônicos forem construídos com o mesmo volume, o dodecaedro regular tem as arestas de menor comprimento.
-<br><b>Faces:</b> 12 pentágonos | <b>Arestas:</b> 30 | <b>Vértices:</b> 20 | <b>Esfericidade:</b> 0.91 | <b>Ângulo diédrico:</b> 116,5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>23</sub></b></span> O dodecaedro tem três faces pentagonais regulares se encontrando em cada vértice. O dodecaedro regular é o terceiro em um conjunto infinito de trapezoedros truncados que pode ser construído truncando-se dois vértices axiais de um trapezoedro pentagonal. Se os cinco sólidos platônicos forem construídos com o mesmo volume, o dodecaedro regular tem as arestas de menor comprimento.
+<br><span class="titulo"><b>faces</b></span> 12 pentágonos | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 20 | <b>Esfericidade:</b> 0.91 | <span class="titulo"><b>ângulo diédrico</b></span> 116,5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">Mais sobre...</a>
  <br> <a href="../vr/dodecahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>3. Octaedro</h4>
  <img src="../ar/7.png" width="180px">
- <br><span class="titulo"><b>U<sub>5</sub>:</b></span> O octaedro tem quatro faces triangulares reunidas em cada vértice. É uma pirâmide dupla quadrada em qualquer uma das três orientações ortogonais. É também um antiprisma triangular em qualquer das quatro orientações. O octaedro é único entre os sólidos platônicos que tem número par de faces que se encontram em cada vértice. Consequentemente, é o único membro desse grupo que possui planos espelhados que não passam por alguma face.
-<br><b>Faces:</b> 8 triângulos | <b>Arestas:</b> 12 | <b>Vértices:</b> 6 | <b>Esfericidade:</b> 0.846 | <b>Ângulo diédrico:</b> 109,4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>5</sub></b></span> O octaedro tem quatro faces triangulares reunidas em cada vértice. É uma pirâmide dupla quadrada em qualquer uma das três orientações ortogonais. É também um antiprisma triangular em qualquer das quatro orientações. O octaedro é único entre os sólidos platônicos que tem número par de faces que se encontram em cada vértice. Consequentemente, é o único membro desse grupo que possui planos espelhados que não passam por alguma face.
+<br><span class="titulo"><b>faces</b></span> 8 triângulos | <span class="titulo"><b>arestas</b></span> 12 | <span class="titulo"><b>vértices</b></span> 6 | <b>Esfericidade:</b> 0.846 | <span class="titulo"><b>ângulo diédrico</b></span> 109,4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/octahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>4. Cubo</h4>
  <img src="../ar/6.png" width="180px">
- <br><span class="titulo"><b>U<sub>6</sub>:</b></span> O cubo ou hexaedro tem três faces quadradas reunidas em cada vértice. O cubo é também um paralelepípedo quadrado, um cubóide equilatero ou um romboedro regular. É um prisma quadrado regular em três orientações, e um trapezoedro trígono em quatro orientações. O cubo pode ser cortado em seis pirâmides quadradas idênticas. Se estas pirâmides quadradas são encaixadas às faces de um segundo cubo, um dodecaedro rômbico é obtido.
-<br><b>Faces:</b> 6 quadrados | <b>Arestas:</b> 12 | <b>Vértices:</b> 8 | <b>Esfericidade:</b> 0.806 | <b>Ângulo diédrico:</b> 90°. <a href="http://mathworld.wolfram.com/Cube.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>6</sub></b></span> O cubo ou hexaedro tem três faces quadradas reunidas em cada vértice. O cubo é também um paralelepípedo quadrado, um cubóide equilatero ou um romboedro regular. É um prisma quadrado regular em três orientações, e um trapezoedro trígono em quatro orientações. O cubo pode ser cortado em seis pirâmides quadradas idênticas. Se estas pirâmides quadradas são encaixadas às faces de um segundo cubo, um dodecaedro rômbico é obtido.
+<br><span class="titulo"><b>faces</b></span> 6 quadrados | <span class="titulo"><b>arestas</b></span> 12 | <span class="titulo"><b>vértices</b></span> 8 | <b>Esfericidade:</b> 0.806 | <span class="titulo"><b>ângulo diédrico</b></span> 90°. <a href="http://mathworld.wolfram.com/Cube.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/cube.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>5. Tetraedro</h4>
  <img src="../ar/5.png" width="180px">
- <br><span class="titulo"><b>U<sub>1</sub>:</b></span> O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
-<br><b>Faces:</b> 4 triângulos | <b>Arestas:</b> 6 | <b>Vértices:</b> 4 | <b>Esfericidade:</b> 0.671 | <b>Ângulo diédrico:</b> 70,5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>1</sub></b></span> O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
+<br><span class="titulo"><b>faces</b></span> 4 triângulos | <span class="titulo"><b>arestas</b></span> 6 | <span class="titulo"><b>vértices</b></span> 4 | <b>Esfericidade:</b> 0.671 | <span class="titulo"><b>ângulo diédrico</b></span> 70,5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/tetrahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p2" class="topo">voltar ao topo</a></p>
 </details>
@@ -150,79 +150,79 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>1. Tetraedro triakis</h4>
  <img src="../ar/180.png" width="180px">
  <br>O tetraedro triakis é um dodecaedro não regular que pode ser construído como um aumento positivo de um tetraedro regular: uma pirâmide triangular adicionada a cada face. O tetraedro triakis é o poliedro dual do tetraedro truncado. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas de 112,885° (uma vez) e 33,557° (duas vezes).
-<br><b>Faces:</b> 12 triângulos isósceles | <b>Arestas:</b> 18 | <b>Vértices:</b> 8 | <b>Ângulo diédrico:</b> 129,521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 triângulos isósceles | <span class="titulo"><b>arestas</b></span> 18 | <span class="titulo"><b>vértices</b></span> 8 | <span class="titulo"><b>ângulo diédrico</b></span> 129,521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/triakis_tetrahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>2. Dodecaedro rômbico</h4>
  <img src="../ar/165.png" width="180px">
  <br>O dodecaedro rômbico é o poliedro dual do cuboctaedro. Mais especificamente, um cubo, um octaedro e um octaedro estrelado podem ser inscritos nos vértices de um dodecaedro rômbico. Um dodecaedro rômbico aparece no canto superior direito como uma das "estrelas" poliédricas na gravura em madeira "Stars" de M. C. Escher de 1948. Os losangos de suas faces possuem ângulos dos vértices com medidas iguais a 70,53° e 109,47°.
-<br><b>Faces:</b> 12 losangos | <b>Arestas:</b> 24 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 losangos | <span class="titulo"><b>arestas</b></span> 24 | <span class="titulo"><b>vértices</b></span> 14 | <span class="titulo"><b>ângulo diédrico</b></span> 120°. <a href="https://mathworld.wolfram.com/RhombicDodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/rhombic_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>3. Hexaedro tetrakis</h4>
  <img src="../ar/166.png" width="180px">
  <br>Em geral, um hexaedro tetrakis é um icositetraedro não regular que pode ser construído como um aumento de um cubo. O hexaedro tetrakis é o poliedro dual de 24 faces do octaedro truncado. Um cubo, um octaedro e um octaedro estrelado podem ser todos inscritos nos vértices do hexaedro tetrakis. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas iguais a 86,62° (uma vez) e 48,19° (duas vezes).
-<br><b>Faces:</b> 24 triângulos isósceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 143,13°. <a href="https://mathworld.wolfram.com/TetrakisHexahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 24 triângulos isósceles | <span class="titulo"><b>arestas</b></span> 36 | <span class="titulo"><b>vértices</b></span> 14 | <span class="titulo"><b>ângulo diédrico</b></span> 143,13°. <a href="https://mathworld.wolfram.com/TetrakisHexahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/tetrakis_hexahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>4. Octaedro triakis</h4>
  <img src="../ar/167.png" width="180px">
  <br>Em geral, um octaedro triakis é um icositetraedro não regular que pode ser construído como um aumento do octaedro regular. O octaedro triakis é o poliedro dual de 24 faces do cubo truncado. Um octaedro e um octaedro estrelado podem ser inscritos nos vértices do octaedro triakis. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas iguais a 117,2° (uma vez) e 31,4° (duas vezes).
-<br><b>Faces:</b> 24 triângulos isósceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 147,35°. <a href="https://mathworld.wolfram.com/SmallTriakisOctahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 24 triângulos isósceles | <span class="titulo"><b>arestas</b></span> 36 | <span class="titulo"><b>vértices</b></span> 14 | <span class="titulo"><b>ângulo diédrico</b></span> 147,35°. <a href="https://mathworld.wolfram.com/SmallTriakisOctahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/triakis_octahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>5. Icositetraedro deltoidal</h4>
  <img src="../ar/168.png" width="180px">
  <br>O icositetraedro deltoide é o poliedro dual de 24 faces do rombicuboctaedro. Um icositetraedro deltoide aparece na metade direita como uma das "estrelas" poliédricas na gravura em madeira "Stars" de M. C. Escher de 1948. um octaedro estrelado, um octaedro atrativo 4-composto (cujo dual é um cubo atrativo 4-composto) e um cubo podem ser todos inscritos em um icositetraedro deltoide. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos dos vértices com medidas de 94,416° (duas vezes), 71,69° (uma vez) e 99,477° (uma vez).
-<br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138,12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 24 "pipas" tri-equiangulares | <span class="titulo"><b>arestas</b></span> 48 | <span class="titulo"><b>vértices</b></span> 26 | <span class="titulo"><b>ângulo diédrico</b></span> 138,12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>6. Icositetraedro pentagonal</h4>
  <img src="../ar/170.png" width="180px">
  <br> O icositetraedro pentagonal é o poliedro dual de 24 faces do cubo snub. O mineral cuprita (Cu<sub>2</sub>O) se forma em cristais icositetraédricos pentagonais. Um cubo, um octaedro e um octaedro estrelado podem ser inscritos nos vértices do icositetraedro pentagonal. Suas faces pentagonais irregulares simétricas possuem ângulos dos vértices com medidas de 114,812° (quatro vezes) e 80,7517° (uma vez).
-<br><b>Faces:</b> 24 pentágonos irregulares simétricos | <b>Arestas:</b> 60 | <b>Vértices:</b> 38 | <b>Ângulo diédrico:</b> 136,31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 24 pentágonos irregulares simétricos | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 38 | <span class="titulo"><b>ângulo diédrico</b></span> 136,31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>7. Triacontaedro rômbico</h4>
  <img src="../ar/172.png" width="180px">
  <br>O triacontaedro rômbico é um zonoedro que é o poliedro dual do icosidodecaedro. As arestas que se cruzam do composto dodecaedro-icosaedro formam as diagonais de 30 losangos que compõem o triacontaedro. O cubo 5-composto possui os 30 planos faciais do triacontaedro rômbico e seu interior é um triacontaedro rômbico. Os losangos de suas faces possuem ângulos dos vértices com medidas iguais a 116,565° e 63,435°.
-<br><b>Faces:</b> 30 losangos | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 30 losangos | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 32 | <span class="titulo"><b>ângulo diédrico</b></span> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/rhombic_triacontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>8. Dodecaedro disdiakis</h4>
  <img src="../ar/174.png" width="180px">
  <br>O dodecaedro disdiakis é o poliedro dual do cuboctaedro truncado de Arquimedes. A substituição de cada face do dodecaedro rômbico por uma pirâmide plana cria um poliedro que se parece quase com o dodecaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos dos vértices com medidas de 87,202°, ​​55,025° e 37,773°. 
-<br><b>Faces:</b> 48 triângulos acutângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 155,08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 48 triângulos acutângulos | <span class="titulo"><b>arestas</b></span> 72 | <span class="titulo"><b>vértices</b></span> 26 | <span class="titulo"><b>ângulo diédrico</b></span> 155,08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/disdyakis_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>9. Dodecaedro pentakis</h4>
  <img src="../ar/175.png" width="180px">
  <br>O dodecaedro pentakis é o poliedro dual de 60 faces do icosaedro truncado. Um tetraedro composto 10, um cubo composto 5, um icosaedro e um dodecaedro podem ser inscritos nos vértices do dodecaedro pentakis. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas de 68,619° (uma vez) e 55,691° (duas vezes). 
-<br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 156,72°. <a href="https://mathworld.wolfram.com/PentakisDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 60 triângulos isósceles | <span class="titulo"><b>arestas</b></span> 90 | <span class="titulo"><b>vértices</b></span> 32 | <span class="titulo"><b>ângulo diédrico</b></span> 156,72°. <a href="https://mathworld.wolfram.com/PentakisDodecahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/pentakis_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>10. Icosaedro triakis</h4>
  <img src="../ar/176.png" width="180px">
  <br>O icosaedro triakis é o poliedro dual de 60 faces do dodecaedro truncado. Um tetraedro composto 10, um cubo composto 5, um icosaedro e um dodecaedro podem ser inscritos nos vértices do icosaedro triakis. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas iguais a 119,039° (uma vez) e 30,48° (duas vezes).
-<br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 160,61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 60 triângulos isósceles | <span class="titulo"><b>arestas</b></span> 90 | <span class="titulo"><b>vértices</b></span> 32 | <span class="titulo"><b>ângulo diédrico</b></span> 160,61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/triakis_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>11. Hexecontaedro pentagonal</h4>
  <img src="../ar/177.png" width="180px">
  <br>O hexecontaedro pentagonal é o poliedro dual de 60 faces do dodecaedro snub. Um tetraedro composto 10, cubo composto 5, icosaedro e dodecaedro podem ser inscritos nos vértices do hexecontaedro pentagonal. Suas faces pentagonais irregulares simétricas possuem ângulos dos vértices com medidas de 118,137° (quatro vezes) e 67,4535° (uma vez).
-<br><b>Faces:</b> 60 pentágonos irregulares simétricos | <b>Arestas:</b> 150 | <b>Vértices:</b> 92 | <b>Ângulo diédrico:</b> 153,18°. <a href="https://mathworld.wolfram.com/PentagonalHexecontahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 60 pentágonos irregulares simétricos | <span class="titulo"><b>arestas</b></span> 150 | <span class="titulo"><b>vértices</b></span> 92 | <span class="titulo"><b>ângulo diédrico</b></span> 153,18°. <a href="https://mathworld.wolfram.com/PentagonalHexecontahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/pentagonal_hexecontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>12. Hexecontaedro deltoidal</h4>
  <img src="../ar/178.png" width="180px">
  <br>O hexecontaedro deltoide é o poliedro dual de 60 faces do rombicosidodecaedro. Um tetraedro 10-composto, um octaedro 5-composto, um cubo 5-composto, um icosaedro, um dodecaedro e um icosidodecaedro podem todos ser inscritos nos vértices do hexecontaedro deltoidal. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos dos vértices com medidas de 86,974° (duas vezes), 67,783° (uma vez) e 118,269° (uma vez). 
-<br><b>Faces:</b> 60 "pipas" tri-equiangulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 154,12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 60 "pipas" tri-equiangulares | <span class="titulo"><b>arestas</b></span> 120 | <span class="titulo"><b>vértices</b></span> 62 | <span class="titulo"><b>ângulo diédrico</b></span> 154,12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/deltoidal_hexecontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>13. Triacontaedro disdiakis</h4>
  <img src="../ar/179.png" width="180px">
  <br>O triacontaedro disdiakis é o poliedro dual do icosidodecaedro truncado de Arquimedes. Um tetraedro 10-composto, um octaedro 5-composto, um cubo 5-composto, um icosaedro, um dodecaedro e um icosidodecaedro podem ser inscritos nos vértices de um triacontaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos dos vértices com medidas de 88,992°, 58,238° e 32,77°.
-<br><b>Faces:</b> 120 triângulos acutângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 164,89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 120 triângulos acutângulos | <span class="titulo"><b>arestas</b></span> 180 | <span class="titulo"><b>vértices</b></span> 62 | <span class="titulo"><b>ângulo diédrico</b></span> 164,89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../vr/disdyakis_triacontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p3" class="topo">voltar ao topo</a></p>
 </details>
@@ -238,110 +238,110 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>1. Sólido de Escher</h4>
  <img src="../ar/181.png" width="180px">
  <br>O sólido de Escher está ilustrado no pedestal direito na xilogravura "Waterfall" de M. C. Escher. É obtido aumentando um dodecaedro rômbico até que as arestas incidentes se tornem paralelas, correspondendo ao aumento da altura de um dodecaedro rômbico. É a primeira estrela de dodecaedro rômbico e é um poliedro de preenchimento de espaço. Sua superfície convexo é um cuboctaedro. Suas faces de triângulos isósceles têm ângulos de vértices com medidades de 70,53° (uma vez) e 54,73° (duas vezes).
-<br><b>Faces:</b> 48 triângulos isósceles | <b>Arestas:</b> 72 | <b>Vértices:</b> 26. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 48 triângulos isósceles | <span class="titulo"><b>arestas</b></span> 72 | <span class="titulo"><b>vértices</b></span> 26. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/escher.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>2. Octaedro estrelado</h4>
  <img src="../ar/182.png" width="180px">
  <br>O octaedro estrelado é um poliedro composto por um tetraedro e seu dual (um segundo tetraedro girado 180 graus em relação ao primeiro). O octaedro estrelado também é (incorretamente) chamado de tetraedro estrelado e é a única estrela do octaedro. Uma versão "aramada" do octaedro estrelado às vezes é conhecida como merkaba e contém propriedades místicas.
-<br><b>Faces:</b> 8 triângulos equiláteros | <b>Arestas:</b> 12 | <b>Vértices:</b> 8 | <b>Ângulo diédrico:</b> 70,53°. <a href="https://mathworld.wolfram.com/StellaOctangula.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 8 triângulos equiláteros | <span class="titulo"><b>arestas</b></span> 12 | <span class="titulo"><b>vértices</b></span> 8 | <span class="titulo"><b>ângulo diédrico</b></span> 70,53°. <a href="https://mathworld.wolfram.com/StellaOctangula.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/stella_octangula.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>3. Hexecontaedro rômbico</h4>
  <img src="../ar/183.png" width="180px">
  <br>O hexecontaedro rômbico é um poliedro de 60 faces que pode ser obtido estrelando o triacontaedro rômbico, colocando um plano ao longo de cada aresta que é perpendicular ao plano de simetria em que a aresta se encontra, e tomando o sólido limitado por esses planos resulta em um hexecontaedro. Portanto, trata-se de uma estrela rômbica de triacontaedro. Os losangos de suas faces possuem ângulos dos vértices com medidas iguais a 63,43° e 116,57°.
-<br><b>Faces:</b> 60 losangos | <b>Arestas:</b> 120 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 72° e 216°. <a href="https://mathworld.wolfram.com/RhombicHexecontahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 60 losangos | <span class="titulo"><b>arestas</b></span> 120 | <span class="titulo"><b>vértices</b></span> 62 | <span class="titulo"><b>ângulos diédricos</b></span> 72° e 216°. <a href="https://mathworld.wolfram.com/RhombicHexecontahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/rhombic_hexecontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>4. Dodecaedro côncavo</h4>
  <img src="../ar/184.png" width="180px">
  <br>O endododecaedro, também chamado de dodecaedro piroédrico côncavo, é o sólido côncavo correspondente ao vazio interior formado quando cada face de um dodecaedro regular é dobrada ao longo de uma diagonal e as faces resultantes são desdobradas para formar um cubo. O endododecaedro com medida unitária de aresta corresponde à remoção de seis cunhas oblíquas de base quadrada de comprimento de aresta &phi; (onde &phi; é a proporção áurea), altura 1/2 e comprimento de crista 1/2 de um cubo de comprimento de aresta &phi;.
-<br><b>Faces:</b> 12 pentágonos simétricos côncavos | <b>Arestas:</b> 30 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 63,43° e 243,43°. <a href="https://mathworld.wolfram.com/Endododecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentágonos simétricos côncavos | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 20 | <span class="titulo"><b>ângulos diédricos</b></span> 63,43° e 243,43°. <a href="https://mathworld.wolfram.com/Endododecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/concave_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>5. Icosaedro ortogonal de Jessen</h4>
  <img src="../ar/185.png" width="180px">
  <br>O icosaedro ortogonal de Jessen é um poliedro construído substituindo seis pares de triângulos adjacentes em um icosaedro (cujas arestas formam um quadrilátero oblíquo) por pares de triângulos isósceles compartilhando uma base comum. O poliedro pode ser construído dividindo os lados do octaedro na proporção áurea (como usado na construção do icosaedro ao longo das bordas do octaedro), mas invertendo os segmentos longo e curto. O esqueleto do icosaedro ortogonal de Jessen é o gráfico icosaédrico. Este poliedro têm 8 triângulos equiláteros e 12 triângulos isósceles (com ângulos de 109,47 e 35,26°).
-<br><b>Faces:</b> 20 triângulos | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 90° e 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 20 triângulos | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 12 | <span class="titulo"><b>ângulos diédricos</b></span> 90° e 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/jessens_orthogonal_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>6. Pequeno dodecaedro estrelado</h4>
  <img src="../ar/186.png" width="180px">
  <br>O pequeno dodecaedro estrelado é o sólido de Kepler-Poinsot cujo poliedro dual é o grande dodecaedro. O pequeno dodecaedro estrelado apareceu em 1430 como um mosaico de Paolo Uccello no piso da Catedral de San Marco, Veneza. Foi redescoberto por Kepler (que usou o termo "urchin") em sua obra Harmonice Mundi em 1619, e novamente por Poinsot em 1809. As 12 faces em forma de pentagramas podem ser construídas a partir de um icosaedro encontrando os 12 conjuntos de cinco vértices que são coplanares e conectando cada conjunto para formar um pentagrama.
-<br><b>Faces:</b> 12 pentagramas regulares | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 116,57°. <a href="https://mathworld.wolfram.com/SmallStellatedDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentagramas regulares | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 12 | <span class="titulo"><b>ângulo diédrico</b></span> 116,57°. <a href="https://mathworld.wolfram.com/SmallStellatedDodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/small_stellated_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>7. Grande dodecaedro estrelado</h4>
  <img src="../ar/187.png" width="180px">
  <br>O grande dodecaedro estrelado é um dos sólidos de Kepler-Poinsot, e seu dual é o grande icosaedro. O grande dodecaedro estrelado foi publicado por Wenzel Jamnitzer em 1568. Foi redescoberto por Kepler, e novamente por Poinsot em 1809. O grande dodecaedro estrelado pode ser construído a partir de um dodecaedro, selecionando os 144 conjuntos de cinco vértices coplanares, descartando conjuntos cujas arestas correspondem às arestas do dodecaedro original: o resultado é 12 pentagramas.
-<br><b>Faces:</b> 12 pentagramas regulares | <b>Arestas:</b> 30 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 63,43°. <a href="https://mathworld.wolfram.com/GreatStellatedDodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentagramas regulares | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 20 | <span class="titulo"><b>ângulo diédrico</b></span> 63,43°. <a href="https://mathworld.wolfram.com/GreatStellatedDodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/great_stellated_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>8. Grande dodecaedro</h4>
  <img src="../ar/188.png" width="180px">
- <br>O grande dodecaedro é o sólido de Kepler-Poinsot cujo dual é o pequeno dodecaedro estrelado. É côncavo e consiste em 12 faces pentagonais que se cruzam. As 12 faces pentagonais podem ser construídas a partir de um icosaedro encontrando os 12 conjuntos de cinco vértices que são coplanares e conectando cada conjunto para formar um pentágono. O esqueleto do grande dodecaedro é isomórfico ao gráfico icosaédrico.
-<br><b>Faces:</b> 12 pentágonos regulares | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 63,43°. <a href="https://mathworld.wolfram.com/GreatDodecahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>35</sub></b></span> O grande dodecaedro é o sólido de Kepler-Poinsot cujo dual é o pequeno dodecaedro estrelado. É côncavo e consiste em 12 faces pentagonais que se cruzam. As 12 faces pentagonais podem ser construídas a partir de um icosaedro encontrando os 12 conjuntos de cinco vértices que são coplanares e conectando cada conjunto para formar um pentágono. O esqueleto do grande dodecaedro é isomórfico ao gráfico icosaédrico.
+<br><span class="titulo"><b>faces</b></span> 12 pentágonos regulares | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 12 | <span class="titulo"><b>ângulo diédrico</b></span> 63,43°. <a href="https://mathworld.wolfram.com/GreatDodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/great_dodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>9. Grande icosaedro</h4>
  <img src="../ar/189.png" width="180px">
  <br>O grande icosaedro é um dos sólidos de Kepler-Poinsot cujo dual é o grande dodecaedro estrelado. O grande icosaedro pode ser construído a partir de um icosaedro com comprimentos de aresta unitários, tomando os 20 conjuntos de vértices que são mutuamente espaçados por uma distância &phi; (proporção áurea). O sólido, portanto, consiste em 20 triângulos equiláteros e a simetria de seu arranjo é tal que o sólido resultante contém 12 pentagramas.
-<br><b>Faces:</b> 20 triângulos equiláteros | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 41,81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 20 triângulos equiláteros | <span class="titulo"><b>arestas</b></span> 30 | <span class="titulo"><b>vértices</b></span> 12 | <span class="titulo"><b>ângulo diédrico</b></span> 41,81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/great_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>10. Pequeno dodecahemicosacron</h4>
  <img src="../ar/190.png" width="180px">
  <br>O poliedro uniforme cujo poliedro dual é o pequeno dodecahemicosacron. É uma versão facetada do icosidodecaedro. 
-<br><b>Faces:</b> 12 pentagramas regulares e 10 hexágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79,19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentagramas regulares e 10 hexágonos regulares | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <span class="titulo"><b>ângulo diédrico</b></span> 79,19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/small_dodecahemicosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>11. Grande dodecahemidodecaedro</h4>
  <img src="../ar/191.png" width="180px">
  <br> O grande dodecahemidodecaedro é um poliedro não convexo uniforme cuja figura de vértice é um quadrilátero cruzado e seu dual é o grande dodecahemidodecacron. Seu raio circunscrito para o comprimento da aresta igual a 1 é &phi;<sup>-1</sup>, onde &phi; é a proporção áurea. 
-<br><b>Faces:</b> 12 pentagramas regulares e 6 decagramas regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 63,43°. <a href="https://mathworld.wolfram.com/GreatDodecahemidodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentagramas regulares e 6 decagramas regulares | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <span class="titulo"><b>ângulo diédrico</b></span> 63,43°. <a href="https://mathworld.wolfram.com/GreatDodecahemidodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/great_dodecahemidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>12. Grande dodecahemidodecaedro</h4>
  <img src="../ar/192.png" width="180px">
  <br> O grande dodecahemicosaedro (ou pequeno dodecahemicoaedro) é um poliedro uniforme não convexo cuja figura de vértice é um quadrilátero cruzado. É um dodecadodecaedro facetado e o seu raio circunscrito para o comprimento unitário da aresta mede 2.
-<br><b>Faces:</b> 12 pentágonos regulares e 10 hexágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 37,38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentágonos regulares e 10 hexágonos regulares | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <span class="titulo"><b>ângulo diédrico</b></span> 37,38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/great_dodecahemicosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>13. Grande dodecahemidodecaedro</h4>
  <img src="../ar/193.png" width="180px">
  <br>O pequeno dodecahemidodecaedro é um poliedro uniforme não convexo cujo poliedro dual é o pequeno dodecahemidodecacron. Seu raio circunscrito para o comprimento unitário de aresta é R=&phi;, onde &phi; é a proporção áurea.
-<br><b>Faces:</b> 12 pentágonos regulares e 10 decágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 63,43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 12 pentágonos regulares e 10 decágonos regulares | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <span class="titulo"><b>ângulo diédrico</b></span> 63,43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>14. Grande icosihemidodecaedro</h4>
  <img src="../ar/194.png" width="180px">
  <br>O grande icosihemidodecaedro é um poliedro uniforme não convexo cujo dual é o grande icosihemidodecacron. Seu raio circunscrito para o comprimento unitário de aresta é R=&phi;<sup>-1</sup>, onde &phi; é a proporção áurea.
-<br><b>Faces:</b> 20 triângulos equiláteros e 6 decagramas | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 37,38°. <a href="https://mathworld.wolfram.com/GreatIcosihemidodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 20 triângulos equiláteros e 6 decagramas | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <span class="titulo"><b>ângulo diédrico</b></span> 37,38°. <a href="https://mathworld.wolfram.com/GreatIcosihemidodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/great_icosihemidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>15. Pequeno icosihemidodecaedro</h4>
  <img src="../ar/195.png" width="180px">
  <br>O pequeno icosihemidodecaedro é um poliedro uniforme não convexo cujo poliedro dual é o pequeno icosihemidodecacron. É uma versão facetada do icosidodecaedro.
-<br><b>Faces:</b> 20 triângulos equiláteros e 6 decágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79,19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">Mais sobre...</a>
+<br><span class="titulo"><b>faces</b></span> 20 triângulos equiláteros e 6 decágonos | <span class="titulo"><b>arestas</b></span> 60 | <span class="titulo"><b>vértices</b></span> 30 | <span class="titulo"><b>ângulo diédrico</b></span> 79,19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/small_icosihemidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>16. Octatetraedro</h4>
  <img src="../ar/196.png" width="180px">
- <br><span class="titulo"><b>U<sub>3</sub>:</b></span> O octatetraedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
-<br><b>Faces:</b> 8 triângulos equiláteros e 4 hexágonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 70,53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>3</sub></b></span> O octatetraedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
+<br><span class="titulo"><b>faces</b></span> 8 triângulos equiláteros e 4 hexágonos | <span class="titulo"><b>arestas</b></span> 24 | <span class="titulo"><b>vértices</b></span> 12 | <span class="titulo"><b>ângulo diédrico</b></span> 70,53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/octahemioctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>17. Tetrahemihexaedro</h4>
  <img src="../ar/197.png" width="180px">
- <br><span class="titulo"><b>U<sub>4</sub>:</b></span> O tetrahemihexaedro é um poliedro uniforme não convexo cujo poliedro dual é o tetrahemihexacron. É uma forma facetada do octaedro.
-<br><b>Faces:</b> 4 triângulos equiláteros e 3 quadrados | <b>Arestas:</b> 12 | <b>Vértices:</b> 6 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>4</sub></b></span> O tetrahemihexaedro é um poliedro uniforme não convexo cujo poliedro dual é o tetrahemihexacron. É uma forma facetada do octaedro.
+<br><span class="titulo"><b>faces</b></span> 4 triângulos equiláteros e 3 quadrados | <span class="titulo"><b>arestas</b></span> 12 | <span class="titulo"><b>vértices</b></span> 6 | <span class="titulo"><b>ângulo diédrico</b></span> 54,74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/tetrahemihexahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>18. Cubohemioctaedro</h4>
  <img src="../ar/198.png" width="180px">
- <br><span class="titulo"><b>U<sub>15</sub>:</b></span> O cubohemioctaedro é um poliedro uniforme não convexo cujo dual é o hexahemioctacron. É uma versão facetada do cuboctaedro. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
-<br><b>Faces:</b> 6 quadrados e 4 hexágonos regulares | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo"><b>U<sub>15</sub></b></span> O cubohemioctaedro é um poliedro uniforme não convexo cujo dual é o hexahemioctacron. É uma versão facetada do cuboctaedro. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
+<br><span class="titulo"><b>faces</b></span> 6 quadrados e 4 hexágonos regulares | <span class="titulo"><b>arestas</b></span> 24 | <span class="titulo"><b>vértices</b></span> 12 | <span class="titulo"><b>ângulo diédrico</b></span> 54,74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/cubohemioctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 </details>
