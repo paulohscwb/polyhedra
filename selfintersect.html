@@ -1,0 +1,66 @@
+<!doctype HTML>
+<html>
+<head>
+	<script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
+	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+</head>
+<body style='margin: 0; overflow: hidden;'>
+	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
+		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
+	</div>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2022 Paulo Henrique Siqueira</div>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
+	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
+     
+     <a-assets>
+		<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+		<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
+		<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
+		<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+		<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
+		<a-mixin id="esfera" geometry="radius: 0.05;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+		<a-mixin id="esferaP" geometry="radius: 0.015;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+		<a-mixin id="esferaG" geometry="radius: 0.1;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
+	</a-assets>
+
+    <a-entity camera></a-entity>
+
+	<a-light type="ambient" color="white" intensity="1"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1" light="castShadow:true"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1" light="castShadow:true"></a-light>
+    
+	<a-marker type="barcode" value="199" smooth="smooth:true; smoothCount:1">
+		<a-link mixin="lnk" class="lnk"href="vr/ditrigonal_dodecadodecahedron.htm"></a-link>
+	   	<a-entity position="2 0.8 0" scale="1.2 1.2 1.2">
+			<a-obj-model src="vr/outros/DitrigonalDodecadodecahedron.obj" mtl="vr/outros/solidos.mtl" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="vr/outros/DitrigonalDodecadodecahedronL.obj" mtl="vr/outros/solidos.mtl"></a-obj-model>
+			<a-sphere mixin="esfera mtl9" position="0.0 0.309017 -0.809017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.0 -0.309017 0.809017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.0 -0.309017 -0.809017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.809017 0.0 0.309017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.809017 0.0 -0.309017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.809017 0.0 0.309017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.809017 0.0 -0.309017"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.309017 0.809017 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.309017 -0.809017 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.309017 0.809017 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.309017 -0.809017 0.0"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.5 0.5 0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.5 0.5 -0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.5 -0.5 0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.5 -0.5 -0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.5 0.5 0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.5 0.5 -0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.5 -0.5 0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="-0.5 -0.5 -0.5"></a-sphere>
+			<a-sphere mixin="esfera mtl9" position="0.0 0.309017 0.809017"></a-sphere>
+		</a-entity>
+	</a-marker>
+	
+	
+	
+  </a-scene>
+</body>
+</html>	 
