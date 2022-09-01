@@ -365,6 +365,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O icosaedro triâmbico medial é o poliedro dual do dodecadodecaedro ditrigonal cuja aparência externa é a mesma do grande icosaedro triâmbico (o dual do grande icosidodecaedro ditrigonal), pois os vértices internos estão ocultos. O icosaedro triâmbico medial tem faces pentagramas ocultas, enquanto o grande icosaedro triâmbico tem faces triangulares ocultas.
 <br><b>Faces:</b> 20 triambis | <b>Arestas:</b> 60 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 109,47°. <a href="https://mathworld.wolfram.com/MedialTriambicIcosahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/medial_triambic_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
+ <hr>
+<h4>3. Dodecaedro ditrigonal</h4>
+ <img src="../ar/201.png" width="180px">
+ <br><span class="titulo"><b>U<sub>41</sub></b></span> O dodecaedro ditrigonal é um poliedro uniforme não convexo cujo poliedro dual é o icosaedro triâmbico medial. É uma versão facetada do pequeno icosidodecaedro ditrigonal.
+<br><b>Faces:</b> 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 63,43°. <a href="https://mathworld.wolfram.com/DitrigonalDodecadodecahedron.html" target="_blank">Mais sobre...</a>
+ <br><a href="../vr/ditrigonal_dodecadodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
