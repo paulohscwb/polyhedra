@@ -116,3 +116,16 @@ l 10 13
 usemtl CorL
 l 11 15 14 
 l 11 14
+usemtl CorL
+l 16 12
+l 16 18
+usemtl CorL
+l 14 18
+l 14 15
+usemtl CorL
+l 19 18
+l 19 17
+usemtl CorL
+l 5 8
+usemtl CorL
+l 6 10
