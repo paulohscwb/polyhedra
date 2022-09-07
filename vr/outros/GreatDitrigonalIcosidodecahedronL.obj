@@ -68,3 +68,32 @@ usemtl CorL
 l 10 12 13 
 usemtl CorL
 l 11 15 14 
+usemtl CorL
+l 16 8
+l 16 12
+l 16 2
+usemtl CorL
+l 10 20
+l 10 7
+l 10 13
+usemtl CorL
+l 4 2
+l 4 8
+l 4 13
+usemtl CorL
+l 14 12
+l 14 15
+l 14 18
+usemtl CorL
+l 5 9
+l 5 3
+l 5 1
+usemtl CorL
+l 11 3
+l 11 6
+usemtl CorL
+l 19 6
+l 19 1
+l 19 17
+usemtl CorL
+l 13 15
