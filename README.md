@@ -397,6 +397,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo"><b>U<sub>36</sub></b></span> The dodecadodecahedron is the uniform polyhedron whose dual polyhedron is the medial rhombic triacontahedron. Its dual polyhedron is also called the small stellated triacontahedron. It can be obtained by truncating a great dodecahedron or faceting a icosidodecahedron with pentagons and covering remaining open spaces with pentagrams.
 <br><b>Faces:</b> 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 116.57°. <a href="https://mathworld.wolfram.com/Dodecadodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/dodecadodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+<h4>8. Medial Rhombic Triacontahedron</h4>
+ <img src="ar/168.png" width="180px">
+ <br>The medial rhombic triacontahedron is a zonohedron which is the dual of the dodecadodecahedron. The medial rhombic triacontahedron contains interior pentagrammic vertices which are, however, hidden from view. The solid is also called the small stellated triacontahedron.
+<br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 24 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/MedialRhombicTriacontahedron.html" target="_blank">More...</a>
+ <br><a href="vr/medial_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
