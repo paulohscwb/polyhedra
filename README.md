@@ -413,7 +413,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>10. Great Rhombic Triacontahedron</h4>
  <img src="ar/158.png" width="180px">
  <br>The great rhombic triacontahedron, also called the great stellated triacontahedron, is a zonohedron which is the dual of the great icosidodecahedron. It is one of the rhombic triacontahedron stellations. It appears together with an isometric projection of the 5-hypercube on the cover of Coxeter's well-known book on polytopes.
-<br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 24 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/GreatRhombicTriacontahedron.html" target="_blank">More...</a>
+<br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 72°. <a href="https://mathworld.wolfram.com/GreatRhombicTriacontahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
