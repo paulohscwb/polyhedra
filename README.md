@@ -381,31 +381,31 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/small_triambic_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>5. Great Ditrigonal Icosidodecahedron</h4>
- <img src="ar/165.png" width="180px">
+ <img src="ar/163.png" width="180px">
  <br><span class="titulo"><b>U<sub>47</sub></b></span> The great ditrigonal icosidodecahedron is the uniform polyhedron whose dual is the great triambic icosahedron. The convex hull of the great triambic icosahedron is a regular dodecahedron, whose dual is the icosahedron, so the dual of the great ditrigonal icosidodecahedron (the great triambic icosahedron) is one of the icosahedron stellations. 
 <br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/GreatDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>6. Great Triambic Icosahedron</h4>
- <img src="ar/166.png" width="180px">
+ <img src="ar/162.png" width="180px">
  <br>The great triambic icosahedron is the dual of the great ditrigonal icosidodecahedron whose appearance is the same as the medial triambic icosahedron (the dual of the ditrigonal dodecadodecahedron), since internal vertices are hidden from view. The medial triambic icosahedron has hidden pentagrammic faces, while the great triambic icosahedron has hidden triangular faces. 
 <br><b>Faces:</b> 20 triambis | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/GreatTriambicIcosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_triambic_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>7. Dodecadodecahedron</h4>
- <img src="ar/167.png" width="180px">
+ <img src="ar/161.png" width="180px">
  <br><span class="titulo"><b>U<sub>36</sub></b></span> The dodecadodecahedron is the uniform polyhedron whose dual polyhedron is the medial rhombic triacontahedron. Its dual polyhedron is also called the small stellated triacontahedron. It can be obtained by truncating a great dodecahedron or faceting a icosidodecahedron with pentagons and covering remaining open spaces with pentagrams.
 <br><b>Faces:</b> 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 116.57°. <a href="https://mathworld.wolfram.com/Dodecadodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/dodecadodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>8. Medial Rhombic Triacontahedron</h4>
- <img src="ar/168.png" width="180px">
+ <img src="ar/160.png" width="180px">
  <br>The medial rhombic triacontahedron is a zonohedron which is the dual of the dodecadodecahedron. The medial rhombic triacontahedron contains interior pentagrammic vertices which are, however, hidden from view. The solid is also called the small stellated triacontahedron.
 <br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 24 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/MedialRhombicTriacontahedron.html" target="_blank">More...</a>
  <br><a href="vr/medial_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>9. Great Icosidodecahedron</h4>
- <img src="ar/170.png" width="180px">
+ <img src="ar/159.png" width="180px">
  <br><span class="titulo"><b>U<sub>54</sub></b></span> The great icosidodecahedron is the uniform polyhedron whose dual is the great rhombic triacontahedron. It is a stellated Archimedean solid. Its circumradius for unit edge length is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 100.81°. <a href="https://mathworld.wolfram.com/GreatIcosidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
