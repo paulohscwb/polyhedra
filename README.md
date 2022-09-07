@@ -405,7 +405,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/medial_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>9. Great Icosidodecahedron</h4>
- <img src="ar/169.png" width="180px">
+ <img src="ar/170.png" width="180px">
  <br><span class="titulo"><b>U<sub>54</sub></b></span> The great icosidodecahedron is the uniform polyhedron whose dual is the great rhombic triacontahedron. It is a stellated Archimedean solid. Its circumradius for unit edge length is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 100.81°. <a href="https://mathworld.wolfram.com/GreatIcosidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
