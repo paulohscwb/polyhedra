@@ -385,6 +385,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo"><b>U<sub>47</sub></b></span> The great ditrigonal icosidodecahedron is the uniform polyhedron whose dual is the great triambic icosahedron. The convex hull of the great triambic icosahedron is a regular dodecahedron, whose dual is the icosahedron, so the dual of the great ditrigonal icosidodecahedron (the great triambic icosahedron) is one of the icosahedron stellations. 
 <br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/GreatDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+<h4>6. Great Triambic Icosahedron</h4>
+ <img src="ar/166.png" width="180px">
+ <br>The great triambic icosahedron is the dual of the great ditrigonal icosidodecahedron whose appearance is the same as the medial triambic icosahedron (the dual of the ditrigonal dodecadodecahedron), since internal vertices are hidden from view. The medial triambic icosahedron has hidden pentagrammic faces, while the great triambic icosahedron has hidden triangular faces. 
+<br><b>Faces:</b> 20 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/SmallTriambicIcosahedron.html" target="_blank">More...</a>
+ <br><a href="vr/small_triambic_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
