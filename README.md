@@ -391,6 +391,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great triambic icosahedron is the dual of the great ditrigonal icosidodecahedron whose appearance is the same as the medial triambic icosahedron (the dual of the ditrigonal dodecadodecahedron), since internal vertices are hidden from view. The medial triambic icosahedron has hidden pentagrammic faces, while the great triambic icosahedron has hidden triangular faces. 
 <br><b>Faces:</b> 20 triambis | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/GreatTriambicIcosahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_triambic_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+<h4>7. Dodecadodecahedron</h4>
+ <img src="ar/167.png" width="180px">
+ <br><span class="titulo"><b>U<sub>36</sub></b></span> The dodecadodecahedron is the uniform polyhedron whose dual polyhedron is the medial rhombic triacontahedron. Its dual polyhedron is also called the small stellated triacontahedron. It can be obtained by truncating a great dodecahedron or faceting a icosidodecahedron with pentagons and covering remaining open spaces with pentagrams.
+<br><b>Faces:</b> 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 116.57°. <a href="https://mathworld.wolfram.com/Dodecadodecahedron.html" target="_blank">More...</a>
+ <br><a href="vr/dodecadodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
