@@ -1,6 +1,6 @@
-.foto {float: right; width:30%; border-radius:7px; border:1px grey solid}
+.foto {float: right; width:30%; border-radius:7px; border:0.3px grey solid;}
 
-.foto:hover {box-shadow: 0 0 3px grey;"}
+.foto:hover {box-shadow: 0 0 3px grey;}
 
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px;}
 
