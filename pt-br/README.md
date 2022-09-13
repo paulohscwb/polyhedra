@@ -283,7 +283,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>10. Pequeno dodecahemicosacron</h4>
  <a href="../vr/small_dodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/190A.png" class="foto"></a><img src="../ar/190.png" class="qr">
- <br><span class="titulo"><b>U<sub>62</sub></b></span> O poliedro uniforme cujo poliedro dual é o pequeno dodecahemicosacron. É uma versão facetada do icosidodecaedro. 
+ <br><span class="titulo"><b>U<sub>62</sub></b></span> O poliedro uniforme cujo poliedro dual é o pequeno dodecahemicosacron. É uma versão facetada do icosidodecaedro. É um hemipoliedro com dez faces hexagonais passando pelo centro do modelo.
 <br><br><b>Faces:</b> 12 pentagramas regulares e 10 hexágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79,19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
  <hr>
 <h4>11. Grande dodecahemidodecaedro</h4>
@@ -318,7 +318,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
 <h4>17. Tetrahemihexaedro</h4>
  <a href="../vr/tetrahemihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/197A.png" class="foto"></a><img src="../ar/197.png" class="qr">
- <br><span class="titulo"><b>U<sub>4</sub></b></span> O tetrahemihexaedro é um poliedro uniforme não convexo cujo poliedro dual é o tetrahemihexacron. É uma forma facetada do octaedro.
+ <br><span class="titulo"><b>U<sub>4</sub></b></span> O tetrahemihexaedro é um poliedro uniforme não convexo cujo poliedro dual é o tetrahemihexacron. É uma forma facetada do octaedro. É o único poliedro uniforme não prismático com um número ímpar de faces.
 <br><br><b>Faces:</b> 4 triângulos equiláteros e 3 quadrados | <b>Arestas:</b> 12 | <b>Vértices:</b> 6 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">Mais sobre...</a>
  <hr>
 <h4>18. Cubohemioctaedro</h4>
