@@ -1,4 +1,5 @@
-.foto {float: right; width:30%; border-radius:7px; border:0.3px grey solid;}
+.qr {width: 30%}
+.foto {float: right; width:40%; border-radius:7px; border:0.3px grey solid;}
 
 .foto:hover {box-shadow: 0 0 3px grey;}
 
