@@ -1,4 +1,4 @@
-.qr {width: 30%; max-width:170px;}
+.qr {min-width: 30%; max-width:170px;}
 .foto {float: right; width:40%; border-radius:7px; border:1px #a2dec0 solid;}
 
 .foto:hover {box-shadow: 0 0 2px #a2dec0;}
