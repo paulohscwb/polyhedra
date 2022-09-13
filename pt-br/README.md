@@ -427,7 +427,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><b>Faces:</b> 24 dardos | <b>Arestas:</b> 48 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 138,12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">Mais sobre...</a>
  <br><a href="../vr/small_hexacronic_icositetrahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
- <h4>14. Grande cubicuboctaedro</h4>
+ <h4>13. Grande cubicuboctaedro</h4>
  <img src="../ar/155.png" width="180px">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> O grande cubicuboctaedro é o poliedro uniforme cujo poliedro dual é o grande icositetraedro hexacrônico. É uma versão facetada do cubo. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
 <br><b>Faces:</b> 8 triângulos equiláteros, 6 quadrados e 6 octagramas regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 90° e 125,26°. <a href="https://mathworld.wolfram.com/GreatCubicuboctahedron.html" target="_blank">Mais sobre...</a>
