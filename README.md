@@ -438,7 +438,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>14. Great Hexacronic Icositetrahedron</h4>
  <img src="ar/154.png" width="180px">
  <br>The great hexacronic icositetrahedron is the dual of the great cubicuboctahedron. Its faces are kites, and part of each kite lies inside the solid, hence is invisible in solid models. 
-<br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="hhttps://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">More...</a>
+<br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>15. Uniform Great Rhombicuboctahedron</h4>
@@ -446,6 +446,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo"><b>U<sub>17</sub></b></span> The uniform great rhombicuboctahedron is the uniform polyhedron, also known as the quasirhombicuboctahedron, whose dual is the great deltoidal icositetrahedron. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
 <br><b>Faces:</b> 8 equilateral triangles and 18 squares | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 45° and 324.74°. <a href="https://mathworld.wolfram.com/UniformGreatRhombicuboctahedron.html" target="_blank">More...</a>
  <br><a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+<h4>16. Great Deltoidal Icositetrahedron</h4>
+ <img src="ar/152.png" width="180px">
+ <br>The great deltoidal icositetrahedron (or great sagittal disdodecahedron) is the dual of the uniform great rhombicuboctahedron. Its faces are darts, and part of each dart lies inside the solid, hence is invisible in solid models. 
+<br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatDeltoidalIcositetrahedron.html" target="_blank">More...</a>
+ <br><a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
