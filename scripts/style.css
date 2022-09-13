@@ -3,6 +3,8 @@
 
 .foto:hover {transition: all .7s; box-shadow: 0 0 3px rgb(150,183,170); border-radius:8px;}
 
+.foto:after {content: " 3D model";}
+
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px;}
 
 table {width:100%;}
