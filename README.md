@@ -238,113 +238,95 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
 <hr>
 <h4>1. Escher's Solid</h4>
- <img src="ar/181.png" class="qr">
+ <a href="vr/escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/181A.png" class="foto"></a><img src="ar/181.png" class="qr">
  <br>Escher's solid is illustrated on the right pedestal in M. C. Escher's "Waterfall" woodcut. It is obtained by augmenting a rhombic dodecahedron until incident edges become parallel, corresponding to augmentation of height for a rhombic dodecahedron. It is the first rhombic dodecahedron stellation and is a space-filling polyhedron. Its convex hull is a cuboctahedron. Its isosceles triangles faces have vertex angles of 70.53° (once) and 54.73° (twice).
 <br><br><b>Faces:</b> 48 isosceles triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
- <br><a href="vr/escher.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>2. Stella Octangula</h4>
- <img src="ar/182.png" class="qr">
+ <a href="vr/stella_octangula.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/182A.png" class="foto"></a><img src="ar/182.png" class="qr">
  <br>The stella octangula is a polyhedron composed of a tetrahedron and its dual (a second tetrahedron rotated 180 degrees with respect to the first). The stella octangula is also (incorrectly) called the stellated tetrahedron, and is the only stellation of the octahedron. A wireframe version of the stella octangula is sometimes known as the merkaba and has mystical properties.
 <br><br><b>Faces:</b> 8 equilateral triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 8 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/StellaOctangula.html" target="_blank">More...</a>
- <br><a href="vr/stella_octangula.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>3. Rhombic Hexecontahedron</h4>
- <img src="ar/183.png" class="qr">
+ <a href="vr/rhombic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/183A.png" class="foto"></a><img src="ar/183.png" class="qr">
  <br>The rhombic hexecontahedron is a 60-faced polyhedron that can be obtained by stellating the rhombic triacontahedron, by placing a plane along each edge which is perpendicular to the plane of symmetry in which the edge lies, and taking the solid bounded by these planes gives a hexecontahedron. Therefore, it is a rhombic triacontahedron stellation. Its rhombi faces have vertex angles of 63.43° and 116.57°.
 <br><br><b>Faces:</b> 60 rhombi | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angles:</b> 72° and 216°. <a href="https://mathworld.wolfram.com/RhombicHexecontahedron.html" target="_blank">More...</a>
- <br><a href="vr/rhombic_hexecontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>4. Concave Dodecahedron</h4>
- <img src="ar/184.png" class="qr">
+ <a href="vr/concave_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/184A.png" class="foto"></a><img src="ar/184.png" class="qr">
  <br>The endodocahedron, also called the concave pyrohedral dodecahedron, is the concave solid corresponding to the interior void formed when each face of a regular dodecahedron is folded along a diagonal and resulting faces are unfolded to form a cube. The endodocehedron with unit edge lengths corresponds to removing six square-base oblique wedges of edge length &phi; (where &phi; is the golden ratio), height 1/2 and ridge length 1/2 from a cube of edge length &phi;. 
 <br><br><b>Faces:</b> 12 symmetric concave pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angles:</b> 63.43° and 243.43°. <a href="https://mathworld.wolfram.com/Endododecahedron.html" target="_blank">More...</a>
- <br><a href="vr/concave_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>5. Jessen's Orthogonal Icosahedron</h4>
- <img src="ar/185.png" class="qr">
+ <a href="vr/jessens_orthogonal_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/185A.png" class="foto"></a><img src="ar/185.png" class="qr">
  <br>The Jessen's orthogonal icosahedron is a polyhedron constructed by replacing six pairs of adjacent triangles in an icosahedron (whose edges form a skew quadrilateral) with pairs of isosceles triangles sharing a common base. The polyhedron can be constructed by dividing the sides of the octahedron in the golden ratio (as used in the construction of the icosahedron along the edges of the octahedron), but reversing the long and short segments. The skeleton of Jessen's orthogonal icosahedron is the icosahedral graph. This polyhedron has 8 equilateral triangles and 12 isosceles triangles (with angles of 109.47 and 35.26°).
 <br><br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angles:</b> 90° and 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">More...</a>
- <br><a href="vr/jessens_orthogonal_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>6. Small Stellated Dodecahedron</h4>
- <img src="ar/186.png" class="qr">
+ <a href="vr/small_stellated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/186A.png" class="foto"></a><img src="ar/186.png" class="qr">
  <br><span class="titulo"><b>U<sub>34</sub></b></span> The small stellated dodecahedron is the Kepler-Poinsot solids whose dual polyhedron is the great dodecahedron. The small stellated dodecahedron appeared in 1430 as a mosaic by Paolo Uccello on the floor of San Marco cathedral, Venice. It was rediscovered by Kepler (who used th term "urchin") in his work Harmonice Mundi in 1619, and again by Poinsot in 1809. The 12 pentagrammic faces can be constructing from an icosahedron by finding the 12 sets of five vertices that are coplanar and connecting each set to form a pentagram.
 <br><br><b>Faces:</b> 12 regular pentagrams | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 116.57°. <a href="https://mathworld.wolfram.com/SmallStellatedDodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_stellated_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>7. Great Stellated Dodecahedron</h4>
- <img src="ar/187.png" class="qr">
+ <a href="vr/great_stellated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/187A.png" class="foto"></a><img src="ar/187.png" class="qr">
  <br><span class="titulo"><b>U<sub>52</sub></b></span> The great stellated dodecahedron is one of the Kepler-Poinsot solids, and its dual is the great icosahedron. The great stellated dodecahedron was published by Wenzel Jamnitzer in 1568. It was rediscovered by Kepler, and again by Poinsot in 1809. The great stellated dodecahedron can be constructed from a dodecahedron by selecting the 144 sets of five coplanar vertices, then discarding sets whose edges correspond to the edges of the original dodecahedron: this gives 12 pentagrams.
 <br><br><b>Faces:</b> 12 regular pentagrams | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatStellatedDodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_stellated_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>8. Great Dodecahedron</h4>
- <img src="ar/188.png" class="qr">
+ <a href="vr/great_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/188A.png" class="foto"></a><img src="ar/188.png" class="qr">
  <br><span class="titulo"><b>U<sub>35</sub></b></span> The great dodecahedron is the Kepler-Poinsot solid whose dual is the small stellated dodecahedron. It is concave, and consists of 12 intersecting pentagonal faces. The 12 pentagonal faces can be constructing from an icosahedron by finding the 12 sets five vertices that are coplanar and connecting each set to form a pentagon. The skeleton of the great dodecahedron is isomorphic to the icosahedral graph. 
 <br><br><b>Faces:</b> 12 regular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_dodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>9. Great Icosahedron</h4>
- <img src="ar/189.png" class="qr">
+ <a href="vr/great_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/189A.png" class="foto"></a><img src="ar/189.png" class="qr">
  <br><span class="titulo"><b>U<sub>53</sub></b></span> The great icosahedron is one of the Kepler-Poinsot solids whose dual is the great stellated dodecahedron. The great icosahedron can be constructed from an icosahedron with unit edge lengths by taking the 20 sets of vertices that are mutually spaced by a distance &phi; (the golden ratio). The solid therefore consists of 20 equilateral triangles, and the symmetry of their arrangement is such that the resulting solid contains 12 pentagrams. 
 <br><br><b>Faces:</b> 20 equilateral triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 41.81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 <hr>
 <h4>10. Small Dodecahemicosahedron</h4>
- <img src="ar/190.png" class="qr">
+ <a href="vr/small_dodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/190A.png" class="foto"></a><img src="ar/190.png" class="qr">
  <br><span class="titulo"><b>U<sub>62</sub></b></span> The uniform polyhedron whose dual polyhedron is the small dodecahemicosacron. It is a faceted version of the icosidodecahedron.  
 <br><br><b>Faces:</b> 12 regular pentagrams and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>11. Great Dodecahemidodecahedron</h4>
- <img src="ar/191.png" class="qr">
+ <a href="vr/great_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/191A.png" class="foto"></a><img src="ar/191.png" class="qr">
  <br><span class="titulo"><b>U<sub>70</sub></b></span> The large dodecahemidodecahedron is a uniform non-convex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
 <br><br><b>Faces:</b> 12 regular pentagrams and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahemidodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>12. Great Dodecahemicosahedron</h4>
- <img src="ar/192.png" class="qr">
+ <a href="vr/great_dodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/192A.png" class="foto"></a><img src="ar/192.png" class="qr">
  <br><span class="titulo"><b>U<sub>65</sub></b></span> The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
 <br><br><b>Faces:</b> 12 regular pentagons and 10 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_dodecahemicosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>13. Small Dodecahemidodecahedron</h4>
- <img src="ar/193.png" class="qr">
+ <a href="vr/small_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/193A.png" class="foto"></a><img src="ar/193.png" class="qr">
  <br><span class="titulo"><b>U<sub>51</sub></b></span> The small dodecahemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
 <br><br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>14. Great Icosihemidodecahedron</h4>
- <img src="ar/194.png" class="qr">
+ <a href="vr/great_icosihemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/194A.png" class="foto"></a><img src="ar/194.png" class="qr">
  <br><span class="titulo"><b>U<sub>71</sub></b></span> The great icosihemidodecahedron is a nonconvex uniform polyhedron whose dual is the great icosihemidodecacron. Its circumradius for unit edge lengths is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
 <br><br><b>Faces:</b> 20 equilateral triangles and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatIcosihemidodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_icosihemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>15. Small Icosihemidodecahedron</h4>
- <img src="ar/195.png" class="qr">
+ <a href="vr/small_icosihemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/195A.png" class="foto"></a><img src="ar/195.png" class="qr">
  <br><span class="titulo"><b>U<sub>49</sub></b></span> The small icosihemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small icosihemidodecacron. It is a faceted version of the icosidodecahedron. 
 <br><br><b>Faces:</b> 20 equilateral triangles and 6 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_icosihemidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>16. Octahemioctahedron</h4>
- <img src="ar/196.png" class="qr">
+ <a href="vr/octahemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/196A.png" class="foto"></a><img src="ar/196.png" class="qr">
  <br><span class="titulo"><b>U<sub>3</sub></b></span> The octatetrahedron is a nonconvex uniform polyhedron whose dual polyhedron is the octahemioctacron. It is a faceted cuboctahedron. For unit edge length, its circumradius is R=1.  
 <br><br><b>Faces:</b> 8 equilateral triangles and 6 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">More...</a>
- <br><a href="vr/octahemioctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>17. Tetrahemihexahedron</h4>
- <img src="ar/197.png" class="qr">
+ <a href="vr/tetrahemihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/197A.png" class="foto"></a><img src="ar/197.png" class="qr">
  <br><span class="titulo"><b>U<sub>4</sub></b></span> The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. 
 <br><br><b>Faces:</b> 4 equilateral triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">More...</a>
- <br><a href="vr/tetrahemihexahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>18. Cubohemioctahedron</h4>
- <img src="ar/198.png" class="qr">
+ <a href="vr/cubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/198A.png" class="foto"></a><img src="ar/198.png" class="qr">
  <br><span class="titulo"><b>U<sub>15</sub></b></span> The cubohemioctahedron is a nonconvex uniform polyhedron whose dual is the hexahemioctacron. It is a faceted version of the cuboctahedron. Its circumradius for unit edge length is R=1. 
 <br><br><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a>
- <br><a href="vr/cubohemioctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
