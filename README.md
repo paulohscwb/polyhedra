@@ -428,6 +428,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron.
 <br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <hr>
+ <h4>13. Small Cubicuboctahedron</h4>
+ <img src="ar/155.png" width="180px">
+ <br><span class="titulo"><b>U<sub>14</sub></b></span> The small cubicuboctahedron is the uniform polyhedron whose dual polyhedron is the small hexacronic icositetrahedron. Faceted versions include the uniform great rhombicuboctahedron and small rhombihexahedron. The convex hull of the small cubicuboctahedron is the Archimedean small rhombicuboctahedron. 
+<br><b>Faces:</b> 8 equilateral triangles, 6 squares and 6 regular octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 90° and 300.26°. <a href="https://mathworld.wolfram.com/GreatCubicuboctahedron.html" target="_blank">More...</a>
+ <br><a href="vr/small_cubicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
