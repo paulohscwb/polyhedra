@@ -442,10 +442,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>15. Uniform Great Rhombicuboctahedron</h4>
- <img src="ar/153.png" class="qr">
+ <a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/153A.png" class="foto"></a><img src="ar/153.png" class="qr">
  <br><span class="titulo"><b>U<sub>17</sub></b></span> The uniform great rhombicuboctahedron is the uniform polyhedron, also known as the quasirhombicuboctahedron, whose dual is the great deltoidal icositetrahedron. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
 <br><b>Faces:</b> 8 equilateral triangles and 18 squares | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 45° and 324.74°. <a href="https://mathworld.wolfram.com/UniformGreatRhombicuboctahedron.html" target="_blank">More...</a>
- <br><a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>16. Great Deltoidal Icositetrahedron</h4>
  <a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/152A.png" class="foto"></a><img src="ar/152.png" class="qr">
