@@ -1,14 +1,13 @@
-.qr {min-width: 30%; max-width:170px;}
-.foto {float: right; width:40%; border-radius:7px; border:1px #a2dec0 solid;}
+.qr {min-width: 30%; max-width: 170px;}
+.foto {float: right; width:40%; border-radius:7px; border:1px #a2dec0 solid; transition: all .7s;}
 
-.foto:hover {box-shadow: 0 0 2px #a2dec0;}
+.foto:hover {transition: all .7s; box-shadow: 0 0 3px rgb(150,183,170) inset; border-radius:8px;}
 
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px;}
 
 table {width:100%;}
 
-details a img:hover {opacity:0.9; transition: all .5s;
-    box-shadow: 0 0 10px rgb(150,183,170) inset; border-radius:8px;}
+details a img:hover {opacity:0.9; transition: all .5s; box-shadow: 0 0 10px rgb(150,183,170) inset; border-radius:8px;}
 
 details a img {transition: all .5s; margin-top: 8px;}
 
