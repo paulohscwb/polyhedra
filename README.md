@@ -109,34 +109,29 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example1.jpg" width="85%"></p>
 <hr>
 <h4>1. Icosahedron</h4>
- <img src="ar/9.png" class="qr">
+ <a href="vr/icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto"></a><img src="ar/9.png" class="qr">
  <br><span class="titulo"><b>U<sub>22</sub></b></span> The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
 <br><br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.939 | <b>Diedral angle:</b> 138.1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">More...</a>
- <br><a href="vr/icosahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <hr>
 <h4>2. Dodecahedron</h4>
- <img src="ar/8.png" class="qr">
+ <a href="vr/dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto"></a><img src="ar/8.png" class="qr">
  <br><span class="titulo"><b>U<sub>23</sub></b></span> The dodecahedron has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron. If the five Platonic solids are built with same volume, the regular dodecahedron has the shortest edges.
 <br><br><b>Faces:</b> 12 pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Sphericity:</b> 0.91 | <b>Diedral angle:</b> 116.5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/dodecahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <hr>
 <h4>3. Octahedron</h4>
- <img src="ar/7.png" class="qr">
+ <a href="vr/octahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto"></a><img src="ar/7.png" class="qr">
  <br><span class="titulo"><b>U<sub>5</sub></b></span> The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
 <br><br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Diedral angle:</b> 109.4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
- <br><a href="vr/octahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <hr>
 <h4>4. Cube</h4>
- <img src="ar/6.png" class="qr">
+ <a href="vr/cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto"></a><img src="ar/6.png" class="qr">
  <br><span class="titulo"><b>U<sub>6</sub></b></span> The cube has three square faces meeting at each vertex. The cube is also a square parallelepiped, an equilateral cuboid and a right rhombohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations. The cube can be cut into six identical square pyramids. If these square pyramids are then attached to the faces of a second cube, a rhombic dodecahedron is obtained.
 <br><br><b>Faces:</b> 6 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 8 | <b>Sphericity:</b> 0.806 | <b>Diedral angle:</b> 90°. <a href="http://mathworld.wolfram.com/Cube.html" target="_blank">More...</a>
- <br><a href="vr/cube.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <hr>
 <h4>5. Tetrahedron</h4>
- <img src="ar/5.png" class="qr">
+ <a href="vr/tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto"></a><img src="ar/5.png" class="qr">
  <br><span class="titulo"><b>U<sub>1</sub></b></span> The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres. 
 <br><br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Diedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
- <br><a href="vr/tetrahedron.html" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
 <p class="topop"><a href="#p2" class="topo">back to top</a></p>
 </details>
  
@@ -173,7 +168,6 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/168A.png" class="foto"></a><img src="ar/168.png" class="qr">
  <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its tri-equiangular kites faces have vertex angles of 94.416° (twice), 71.69° (once) and 99.477° (once).
 <br><br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
-<br><a href="vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>6. Pentagonal Icositetrahedron - dextro</h4>
  <a href="vr/pentagonal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/170A.png" class="foto"></a><img src="ar/170.png" class="qr">
@@ -199,7 +193,6 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/triakis_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/176A.png" class="foto"></a><img src="ar/176.png" class="qr">
  <br>The triakis icosahedron is the 60-faced dual polyhedron of the truncated dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed on the vertices of the triakis icosahedron. Its isosceles triangles faces have vertex angles of 119.039° (once) and 30.48° (twice).
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 160.61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">More...</a>
-<br><a href="vr/triakis_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>11. Pentagonal Hexecontahedron - dextro</h4>
  <a href="vr/pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/177A.png" class="foto"></a><img src="ar/177.png" class="qr">
