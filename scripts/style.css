@@ -1,7 +1,7 @@
 .qr {width: 30%}
 .foto {float: right; width:40%; border-radius:7px; border:0.3px #159957 solid;}
 
-.foto:hover {box-shadow: 0 0 3px grey;}
+.foto:hover {box-shadow: 0 0 3px #159957;}
 
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px;}
 
