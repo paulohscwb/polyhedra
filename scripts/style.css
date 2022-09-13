@@ -1,9 +1,9 @@
 .qr {max-width: 25%; min-width: 150px;}
-.foto {float: right; min-width:30%; max-width:40%; border:1px #a2dec0 solid; transition: all .7s;}
+.foto {float: right; min-width:30%; max-width:40%; border:1px #a2dec0 solid; transition: all .7s; margin: 0 0 10px 10px;}
 
 .foto:hover {transition: all .7s; box-shadow: 0 0 3px rgb(150,183,170); border-radius:8px;}
 
-.foto::after {content: " 3D model"; color: #159957; font-weight: bold;}
+a.fotoA:before {content:attr(title); display:block; color: #159957; font-size:1.1em; float:right;}
 
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px;}
 
