@@ -373,40 +373,34 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><a href="../vr/small_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>4. Pequeno icosaedro triâmbico</h4>
- <img src="../ar/164.png" class="qr">
+ <a href="../vr/small_triambic_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/164A.png" class="foto"></a><img src="../ar/164.png" class="qr">
  <br>O pequeno icosaedro triâmbico é o poliedro dual do pequeno icosidodecaedro ditrigonal. Ele pode ser construído pelo aumento de um icosaedro de comprimento de aresta unitário por uma pirâmide. O casco convexo do pequeno icosidodecaedro ditrigonal é um dodecaedro regular cujo dual é o icosaedro, então o dual do pequeno icosidodecaedro ditrigonal (ou seja, o pequeno icosaedro triâmbico) é uma das estrelas do icosaedro.
 <br><b>Faces:</b> 20 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 109,47°. <a href="https://mathworld.wolfram.com/SmallTriambicIcosahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/small_triambic_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>5. Grande icosidodecaedro ditrigonal</h4>
- <img src="../ar/163.png" class="qr">
+ <a href="../vr/great_ditrigonal_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/163A.png" class="foto"></a><img src="../ar/163.png" class="qr">
  <br><span class="titulo"><b>U<sub>47</sub></b></span> O grande icosidodecaedro ditrigonal é o poliedro uniforme cujo dual é o grande icosaedro triâmbico. O casco convexo do grande icosaedro triâmbico é um dodecaedro regular, cujo dual é o icosaedro, de modo que o dual do grande icosidodecaedro ditrigonal (o grande icosaedro triâmbico) é uma das estrelas do icosaedro.
 <br><b>Faces:</b> 20 triângulos equiláteros e 12 pentágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 79,19°. <a href="https://mathworld.wolfram.com/GreatDitrigonalIcosidodecahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/great_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>6. Grande icosaedro triâmbico</h4>
- <img src="../ar/162.png" class="qr">
+ <a href="../vr/great_triambic_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/162A.png" class="foto"></a><img src="../ar/162.png" class="qr">
  <br>O grande icosaedro triâmbico é o dual do grande icosidodecaedro ditrigonal cuja aparência é a mesma do icosaedro triâmbico medial (o dual do dodecadodecaedro ditrigonal), pois os vértices internos estão ocultos. O icosaedro triâmbico medial tem faces pentagramas ocultas, enquanto o grande icosaedro triâmbico tem faces triangulares ocultas.
 <br><b>Faces:</b> 20 triambis | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 109,47°. <a href="https://mathworld.wolfram.com/GreatTriambicIcosahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/great_triambic_icosahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>7. Dodecadodecaedro</h4>
- <img src="../ar/161.png" class="qr">
+ <a href="../vr/dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/161A.png" class="foto"></a><img src="../ar/161.png" class="qr">
  <br><span class="titulo"><b>U<sub>36</sub></b></span> O dodecadodecaedro é o poliedro uniforme cujo poliedro dual é o triacontaedro rômbico medial. Seu poliedro dual também é chamado de pequeno triacontaedro estrelado. Pode ser obtido truncando um grande dodecaedro ou facetando um icosidodecaedro com pentágonos e cobrindo os espaços abertos restantes com pentagramas.
 <br><b>Faces:</b> 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 116,57°. <a href="https://mathworld.wolfram.com/Dodecadodecahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/dodecadodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>8. Triacontaedro rômbico medial</h4>
- <img src="../ar/160.png" class="qr">
+ <a href="../vr/medial_rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/160A.png" class="foto"></a><img src="../ar/160.png" class="qr">
  <br>O triacontaedro rômbico medial é um zonoedro que é o dual do dodecadodecaedro. O triacontaedro rômbico medial contém vértices pentagramas interiores que, no entanto, estão ocultos. O sólido também é chamado de pequeno triacontaedro estrelado.
 <br><b>Faces:</b> 30 losangos | <b>Arestas:</b> 60 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 120°. <a href="https://mathworld.wolfram.com/MedialRhombicTriacontahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/medial_rhombic_triacontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>9. Grande icosidodecaedro</h4>
- <img src="../ar/159.png" class="qr">
+ <a href="../vr/great_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/159A.png" class="foto"></a><img src="../ar/159.png" class="qr">
  <br><span class="titulo"><b>U<sub>54</sub></b></span> O grande icosidodecaedro é o poliedro uniforme cujo dual é o grande triacontaedro rômbico. É um sólido de Arquimedes estrelado. Seu raio circunscrito para o comprimento unitário da aresta mede R=&phi;<sup>-1</sup>, onde &phi; é a proporção áurea.
 <br><b>Faces:</b> 20 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 100,81°. <a href="https://mathworld.wolfram.com/GreatIcosidodecahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/great_icosidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>10. Grande triacontaedro rômbico</h4>
  <a href="../vr/great_rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/158A.png" class="foto"></a><img src="../ar/158.png" class="qr">
@@ -423,7 +417,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/156A.png" class="foto"></a><img src="../ar/156.png" class="qr">
  <br>O pequeno icositetraedro hexacrônico é o poliedro uniforme dual do pequeno cubicuboctaedro. Parece o mesmo que o pequeno rhombihexacron.
 <br><b>Faces:</b> 24 dardos | <b>Arestas:</b> 48 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 138,12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">Mais sobre...</a>
-<p></p><hr>
+<hr>
  <h4>13. Grande cubicuboctaedro</h4>
  <a href="../vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/155A.png" class="foto"></a><img src="../ar/155.png" class="qr">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> O grande cubicuboctaedro é o poliedro uniforme cujo poliedro dual é o grande icositetraedro hexacrônico. É uma versão facetada do cubo. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
@@ -433,7 +427,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/154A.png" class="foto"></a><img src="../ar/154.png" class="qr">
  <br>O grande icositetraedro hexacrônico é o dual do grande cubicuboctaedro. Suas faces são pipas, e parte de cada pipa fica dentro do sólido, portanto é invisível em modelos sólidos.
 <br><b>Faces:</b> 24 pipas | <b>Arestas:</b> 48 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 94,53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">Mais sobre...</a>
- <p></p><hr>
+<hr>
  <h4>15. Grande rombicuboctaedro uniforme</h4>
  <a href="../vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/153A.png" class="foto"></a><img src="../ar/153.png" class="qr">
  <br><span class="titulo"><b>U<sub>17</sub></b></span> O grande rombicuboctaedro uniforme é o poliedro uniforme, também conhecido como quase-rhombicuboctaedro, cujo dual é o grande icositetraedro deltoidal. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
