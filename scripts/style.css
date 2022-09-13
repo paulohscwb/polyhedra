@@ -1,5 +1,5 @@
 .qr {max-width: 25%; min-width: 150px;}
-.foto {border:1px #a2dec0 solid; transition: all .7s;}
+.foto {transition: all .7s;}
 
 .foto:hover {transition: all .7s; box-shadow: 0 0 3px rgb(150,183,170) inset; border-radius:8px;}
 
