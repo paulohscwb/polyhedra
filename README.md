@@ -436,10 +436,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/great_cubicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>14. Great Hexacronic Icositetrahedron</h4>
- <img src="ar/154.png" class="qr">
+ <a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/154A.png" class="foto"></a><img src="ar/154.png" class="qr">
  <br>The great hexacronic icositetrahedron is the dual of the great cubicuboctahedron. Its faces are kites, and part of each kite lies inside the solid, hence is invisible in solid models. 
 <br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>15. Uniform Great Rhombicuboctahedron</h4>
  <a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/153A.png" class="foto"></a><img src="ar/153.png" class="qr">
