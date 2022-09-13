@@ -423,7 +423,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/156A.png" class="foto"></a><img src="../ar/156.png" class="qr">
  <br>O pequeno icositetraedro hexacrônico é o poliedro uniforme dual do pequeno cubicuboctaedro. Parece o mesmo que o pequeno rhombihexacron.
 <br><b>Faces:</b> 24 dardos | <b>Arestas:</b> 48 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 138,12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">Mais sobre...</a>
- <hr>
+<br><hr>
  <h4>13. Grande cubicuboctaedro</h4>
  <a href="../vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/155A.png" class="foto"></a><img src="../ar/155.png" class="qr">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> O grande cubicuboctaedro é o poliedro uniforme cujo poliedro dual é o grande icositetraedro hexacrônico. É uma versão facetada do cubo. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
@@ -433,7 +433,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/154A.png" class="foto"></a><img src="../ar/154.png" class="qr">
  <br>O grande icositetraedro hexacrônico é o dual do grande cubicuboctaedro. Suas faces são pipas, e parte de cada pipa fica dentro do sólido, portanto é invisível em modelos sólidos.
 <br><b>Faces:</b> 24 pipas | <b>Arestas:</b> 48 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 94,53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">Mais sobre...</a>
- <hr>
+ <br><hr>
  <h4>15. Grande rombicuboctaedro uniforme</h4>
  <a href="../vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/153A.png" class="foto"></a><img src="../ar/153.png" class="qr">
  <br><span class="titulo"><b>U<sub>17</sub></b></span> O grande rombicuboctaedro uniforme é o poliedro uniforme, também conhecido como quase-rhombicuboctaedro, cujo dual é o grande icositetraedro deltoidal. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
@@ -457,3 +457,4 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
+<br>McCooey, David I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>

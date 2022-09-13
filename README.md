@@ -425,7 +425,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/156A.png" class="foto"></a><img src="ar/156.png" class="qr">
  <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron.
 <br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">More...</a>
- <hr>
+ <br><hr>
  <h4>13. Great Cubicuboctahedron</h4>
  <a href="vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/155A.png" class="foto"></a><img src="ar/155.png" class="qr">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> The great cubicuboctahedron is the uniform polyhedron whose dual polyhedron is the great hexacronic icositetrahedron. It is a faceted version of the cube. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
@@ -435,7 +435,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/154A.png" class="foto"></a><img src="ar/154.png" class="qr">
  <br>The great hexacronic icositetrahedron is the dual of the great cubicuboctahedron. Its faces are kites, and part of each kite lies inside the solid, hence is invisible in solid models. 
 <br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">More...</a>
- <hr>
+ <br><hr>
  <h4>15. Uniform Great Rhombicuboctahedron</h4>
  <a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/153A.png" class="foto"></a><img src="ar/153.png" class="qr">
  <br><span class="titulo"><b>U<sub>17</sub></b></span> The uniform great rhombicuboctahedron is the uniform polyhedron, also known as the quasirhombicuboctahedron, whose dual is the great deltoidal icositetrahedron. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
@@ -460,3 +460,4 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
+<br>McCooey, David I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
