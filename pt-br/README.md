@@ -107,34 +107,29 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><center><img style="border-radius:7px;" src="../ar/example1.jpg" width="70%"></center>
 <hr>
 <h4>1. Icosaedro</h4>
- <img src="../ar/9.png" class="qr">
+ <a href="../vr/icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/9A.png" class="foto"></a><img src="../ar/9.png" class="qr">
  <br><span class="titulo"><b>U<sub>22</sub></b></span> O icosaedro tem cinco faces triangulares reunidas em cada vértice. Um icosaedro regular é uma pirâmide dupla pentagonal giroalongada e um antiprisma pentagonal em qualquer das seis orientações. As 12 arestas de um octaedro regular podem ser subdivididas na proporção áurea de modo que os vértices resultantes definem um icosaedro regular.
 <br><br><b>Faces:</b> 20 triângulos | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.939 | <b>Ângulo diédrico:</b> 138,1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/icosahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>2. Dodecaedro</h4>
- <img src="../ar/8.png" class="qr">
+ <a href="../vr/dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/8A.png" class="foto"></a><img src="../ar/8.png" class="qr">
  <br><span class="titulo"><b>U<sub>23</sub></b></span> O dodecaedro tem três faces pentagonais regulares se encontrando em cada vértice. O dodecaedro regular é o terceiro em um conjunto infinito de trapezoedros truncados que pode ser construído truncando-se dois vértices axiais de um trapezoedro pentagonal. Se os cinco sólidos platônicos forem construídos com o mesmo volume, o dodecaedro regular tem as arestas de menor comprimento.
 <br><br><b>Faces:</b> 12 pentágonos | <b>Arestas:</b> 30 | <b>Vértices:</b> 20 | <b>Esfericidade:</b> 0.91 | <b>Ângulo diédrico:</b> 116,5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">Mais sobre...</a>
- <br> <a href="../vr/dodecahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>3. Octaedro</h4>
- <img src="../ar/7.png" class="qr">
+ <a href="../vr/octahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/7A.png" class="foto"></a><img src="../ar/7.png" class="qr">
  <br><span class="titulo"><b>U<sub>5</sub></b></span> O octaedro tem quatro faces triangulares reunidas em cada vértice. É uma pirâmide dupla quadrada em qualquer uma das três orientações ortogonais. É também um antiprisma triangular em qualquer das quatro orientações. O octaedro é único entre os sólidos platônicos que tem número par de faces que se encontram em cada vértice. Consequentemente, é o único membro desse grupo que possui planos espelhados que não passam por alguma face.
 <br><br><b>Faces:</b> 8 triângulos | <b>Arestas:</b> 12 | <b>Vértices:</b> 6 | <b>Esfericidade:</b> 0.846 | <b>Ângulo diédrico:</b> 109,4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/octahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>4. Cubo</h4>
- <img src="../ar/6.png" class="qr">
+ <a href="../vr/cube.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/6A.png" class="foto"></a><img src="../ar/6.png" class="qr">
  <br><span class="titulo"><b>U<sub>6</sub></b></span> O cubo ou hexaedro tem três faces quadradas reunidas em cada vértice. O cubo é também um paralelepípedo quadrado, um cubóide equilatero ou um romboedro regular. É um prisma quadrado regular em três orientações, e um trapezoedro trígono em quatro orientações. O cubo pode ser cortado em seis pirâmides quadradas idênticas. Se estas pirâmides quadradas são encaixadas às faces de um segundo cubo, um dodecaedro rômbico é obtido.
 <br><br><b>Faces:</b> 6 quadrados | <b>Arestas:</b> 12 | <b>Vértices:</b> 8 | <b>Esfericidade:</b> 0.806 | <b>Ângulo diédrico:</b> 90°. <a href="http://mathworld.wolfram.com/Cube.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/cube.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h4>5. Tetraedro</h4>
- <img src="../ar/5.png" class="qr">
+ <a href="../vr/tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/5A.png" class="foto"></a><img src="../ar/5.png" class="qr">
  <br><span class="titulo"><b>U<sub>1</sub></b></span> O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
 <br><br><b>Faces:</b> 4 triângulos | <b>Arestas:</b> 6 | <b>Vértices:</b> 4 | <b>Esfericidade:</b> 0.671 | <b>Ângulo diédrico:</b> 70,5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">Mais sobre...</a>
-<br><a href="../vr/tetrahedron.html" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
 <p class="topop"><a href="#p2" class="topo">voltar ao topo</a></p>
 </details>
 
