@@ -442,8 +442,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <h4>15. Grande rombicuboctaedro uniforme</h4>
  <img src="../ar/153.png" width="180px">
  <br><span class="titulo"><b>U<sub>17</sub></b></span> O grande rombicuboctaedro uniforme é o poliedro uniforme, também conhecido como quasir-hombicuboctaedro, cujo dual é o grande icositetraedro deltoidal. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
-<br><b>Faces:</b> 8 triângulos equiláteros, 6 quadrados e 6 octagramas regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 90° e 125,26°. <a href="https://mathworld.wolfram.com/UniformGreatRhombicuboctahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/great_cubicuboctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><b>Faces:</b> 8 triângulos equiláteros e 18 quadrados | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 45° e 324,74°. <a href="https://mathworld.wolfram.com/UniformGreatRhombicuboctahedron.html" target="_blank">Mais sobre...</a>
+ <br><a href="../vr/uniform_great_rhombicuboctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
