@@ -285,7 +285,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>10. Small Dodecahemicosahedron</h4>
  <a href="vr/small_dodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/190A.png" class="foto"></a><img src="ar/190.png" class="qr">
- <br><span class="titulo"><b>U<sub>62</sub></b></span> The uniform polyhedron whose dual polyhedron is the small dodecahemicosacron. It is a faceted version of the icosidodecahedron.  
+ <br><span class="titulo"><b>U<sub>62</sub></b></span> The uniform polyhedron whose dual polyhedron is the small dodecahemicosacron. It is a faceted version of the icosidodecahedron. It is a hemipolyhedron with ten hexagonal faces passing through the model center.  
 <br><br><b>Faces:</b> 12 regular pentagrams and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">More...</a>
  <hr>
 <h4>11. Great Dodecahemidodecahedron</h4>
@@ -320,7 +320,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>17. Tetrahemihexahedron</h4>
  <a href="vr/tetrahemihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/197A.png" class="foto"></a><img src="ar/197.png" class="qr">
- <br><span class="titulo"><b>U<sub>4</sub></b></span> The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. 
+ <br><span class="titulo"><b>U<sub>4</sub></b></span> The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. It is the only non-prismatic uniform polyhedron with an odd number of faces.
 <br><br><b>Faces:</b> 4 equilateral triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">More...</a>
  <hr>
 <h4>18. Cubohemioctahedron</h4>
