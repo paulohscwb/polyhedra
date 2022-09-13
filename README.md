@@ -411,29 +411,25 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/great_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>10. Great Rhombic Triacontahedron</h4>
- <img src="ar/158.png" class="qr">
+ <a href="vr/great_rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/158A.png" class="foto"></a><img src="ar/158.png" class="qr">
  <br>The great rhombic triacontahedron, also called the great stellated triacontahedron, is a zonohedron which is the dual of the great icosidodecahedron. It is one of the rhombic triacontahedron stellations. It appears together with an isometric projection of the 5-hypercube on the cover of Coxeter's well-known book on polytopes.
 <br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 72°. <a href="https://mathworld.wolfram.com/GreatRhombicTriacontahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
  <hr>
  <h4>11. Small Cubicuboctahedron</h4>
- <img src="ar/157.png" class="qr">
+ <a href="vr/small_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/157A.png" class="foto"></a><img src="ar/157.png" class="qr">
  <br><span class="titulo"><b>U<sub>13</sub></b></span> The small cubicuboctahedron is the uniform polyhedron whose dual polyhedron is the small hexacronic icositetrahedron. Faceted versions include the uniform great rhombicuboctahedron and small rhombihexahedron. The convex hull of the small cubicuboctahedron is the Archimedean small rhombicuboctahedron. 
 <br><b>Faces:</b> 8 equilateral triangles, 6 squares and 6 regular octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 90° and 300.26°. <a href="https://mathworld.wolfram.com/SmallCubicuboctahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_cubicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>12. Small Hexacronic Icositetrahedron</h4>
- <img src="ar/156.png" class="qr">
+ <a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/156A.png" class="foto"></a><img src="ar/156.png" class="qr">
  <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron.
 <br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
  <h4>13. Great Cubicuboctahedron</h4>
- <img src="ar/155.png" class="qr">
+ <a href="vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/155A.png" class="foto"></a><img src="ar/155.png" class="qr">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> The great cubicuboctahedron is the uniform polyhedron whose dual polyhedron is the great hexacronic icositetrahedron. It is a faceted version of the cube. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
 <br><b>Faces:</b> 8 equilateral triangles, 6 squares and 6 regular octagrams | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 90° and 125.26°. <a href="https://mathworld.wolfram.com/GreatCubicuboctahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_cubicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>14. Great Hexacronic Icositetrahedron</h4>
  <a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/154A.png" class="foto"></a><img src="ar/154.png" class="qr">

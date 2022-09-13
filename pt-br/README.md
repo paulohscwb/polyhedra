@@ -409,29 +409,25 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><a href="../vr/great_icosidodecahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
 <h4>10. Grande triacontaedro rômbico</h4>
- <img src="../ar/158.png" class="qr">
+ <a href="../vr/great_rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/158A.png" class="foto"></a><img src="../ar/158.png" class="qr">
  <br>O grande triacontaedro rômbico, também chamado de grande triacontaedro estrelado, é um zonoedro que é o dual do grande icosidodecaedro. É uma das estrelas rômbicas de triacontaedro. Aparece junto com uma projeção isométrica do 5-hipercubo na capa do conhecido livro de Coxeter sobre politopos.
 <br><b>Faces:</b> 30 losangos | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 72°. <a href="https://mathworld.wolfram.com/GreatRhombicTriacontahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/great_rhombic_triacontahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
  <hr>
  <h4>11. Pequeno cubicuboctaedro</h4>
- <img src="../ar/157.png" class="qr">
+ <a href="../vr/small_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/157A.png" class="foto"></a><img src="../ar/157.png" class="qr">
  <br><span class="titulo"><b>U<sub>13</sub></b></span> O pequeno cubicuboctaedro é o poliedro uniforme cujo poliedro dual é o pequeno icositetraedro hexacrônico. Versões facetadas incluem o grande rombicuboctaedro uniforme e o pequeno rhombihexaedro. O casco convexo do pequeno cubicuboctaedro é o pequeno rombicuboctaedro de Arquimedes.
 <br><b>Faces:</b> 8 triângulos equiláteros, 6 quadrados e 6 octógonos regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 90° e 300,26°. <a href="https://mathworld.wolfram.com/SmallCubicuboctahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/small_cubicuboctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>12. Pequeno icositetraedro hexacrônico</h4>
- <img src="../ar/156.png" class="qr">
+ <a href="../vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/156A.png" class="foto"></a><img src="../ar/156.png" class="qr">
  <br>O pequeno icositetraedro hexacrônico é o poliedro uniforme dual do pequeno cubicuboctaedro. Parece o mesmo que o pequeno rhombihexacron.
 <br><b>Faces:</b> 24 dardos | <b>Arestas:</b> 48 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 138,12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/small_hexacronic_icositetrahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>13. Grande cubicuboctaedro</h4>
- <img src="../ar/155.png" class="qr">
+ <a href="../vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/155A.png" class="foto"></a><img src="../ar/155.png" class="qr">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> O grande cubicuboctaedro é o poliedro uniforme cujo poliedro dual é o grande icositetraedro hexacrônico. É uma versão facetada do cubo. O casco convexo do grande cubicuboctaedro é o cubo truncado de Arquimedes.
 <br><b>Faces:</b> 8 triângulos equiláteros, 6 quadrados e 6 octagramas regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 90° e 125,26°. <a href="https://mathworld.wolfram.com/GreatCubicuboctahedron.html" target="_blank">Mais sobre...</a>
- <br><a href="../vr/great_cubicuboctahedron.htm" target="_blank"><img src="../vr/RVaframe.png" width="200px"></a>
  <hr>
  <h4>14. Grande icositetraedro hexacrônico</h4>
  <a href="../vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="../ar/154A.png" class="foto"></a><img src="../ar/154.png" class="qr">
