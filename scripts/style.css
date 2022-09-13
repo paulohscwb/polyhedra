@@ -5,7 +5,7 @@
 
 a.fotoA {min-width:30%; max-width:40%; float:right; margin: 0 0 10px 10px; text-decoration:none;}
 
-a.fotoA:after {content:attr(title); display:block; color: #159957; text-align:center;}
+a.fotoA:after {content:attr(title); display:block; color: #159957; text-align:center; margin-top:-5px;}
 
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px;}
 
