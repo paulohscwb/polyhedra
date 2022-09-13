@@ -416,11 +416,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 72°. <a href="https://mathworld.wolfram.com/GreatRhombicTriacontahedron.html" target="_blank">More...</a>
  <br><a href="vr/great_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
+ <hr>
  <h4>11. Small Cubicuboctahedron</h4>
  <img src="ar/157.png" width="180px">
- <br><span class="titulo"><b>U<sub>54</sub></b></span> The great icosidodecahedron is the uniform polyhedron whose dual is the great rhombic triacontahedron. It is a stellated Archimedean solid. Its circumradius for unit edge length is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
-<br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 100.81°. <a href="https://mathworld.wolfram.com/SmallCubicuboctahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
+ <br><span class="titulo"><b>U<sub>13</sub></b></span> The small cubicuboctahedron is the uniform polyhedron whose dual polyhedron is the small hexacronic icositetrahedron. Faceted versions include the uniform great rhombicuboctahedron and small rhombihexahedron. The convex hull of the small cubicuboctahedron is the Archimedean small rhombicuboctahedron. 
+<br><b>Faces:</b> 8 equilateral triangles, 6 squares and 6 regular octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 90° and 300.26°. <a href="https://mathworld.wolfram.com/SmallCubicuboctahedron.html" target="_blank">More...</a>
+ <br><a href="vr/small_cubicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
