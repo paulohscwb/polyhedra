@@ -448,10 +448,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>16. Great Deltoidal Icositetrahedron</h4>
- <a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank"><img src="ar/152A.png" style="float: right; width:300px; border-radius:7px; box-shadow: 0 0 3px grey;"></a><img src="ar/152.png" width="180px">
+ <a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank"><img src="ar/152A.png" class="foto"></a><img src="ar/152.png" width="180px">
  <br>The great deltoidal icositetrahedron (or great sagittal disdodecahedron) is the dual of the uniform great rhombicuboctahedron. Its faces are darts, and part of each dart lies inside the solid, hence is invisible in solid models. 
 <br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatDeltoidalIcositetrahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
