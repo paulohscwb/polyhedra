@@ -424,7 +424,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/small_cubicuboctahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>12. Small Hexacronic Icositetrahedron</h4>
- <img src="ar/157.png" width="180px">
+ <img src="ar/156.png" width="180px">
  <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron.
 <br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">More...</a>
  <br><a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
