@@ -375,40 +375,34 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><a href="vr/small_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>4. Small Triambic Icosahedron</h4>
- <img src="ar/164.png" class="qr">
+ <a href="vr/small_triambic_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/164A.png" class="foto"></a><img src="ar/164.png" class="qr">
  <br>The small triambic icosahedron is the dual polyhedron of the small ditrigonal icosidodecahedron. It can be constructed by augmentation of a unit edge-length icosahedron by a pyramid. The convex hull of the small ditrigonal icosidodecahedron is a regular dodecahedron whose dual is the icosahedron, so the dual of the small ditrigonal icosidodecahedron (i.e., the small triambic icosahedron) is one of the icosahedron stellations.
 <br><b>Faces:</b> 20 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/SmallTriambicIcosahedron.html" target="_blank">More...</a>
- <br><a href="vr/small_triambic_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>5. Great Ditrigonal Icosidodecahedron</h4>
- <img src="ar/163.png" class="qr">
+ <a href="vr/great_ditrigonal_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/163A.png" class="foto"></a><img src="ar/163.png" class="qr">
  <br><span class="titulo"><b>U<sub>47</sub></b></span> The great ditrigonal icosidodecahedron is the uniform polyhedron whose dual is the great triambic icosahedron. The convex hull of the great triambic icosahedron is a regular dodecahedron, whose dual is the icosahedron, so the dual of the great ditrigonal icosidodecahedron (the great triambic icosahedron) is one of the icosahedron stellations. 
 <br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/GreatDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>6. Great Triambic Icosahedron</h4>
- <img src="ar/162.png" class="qr">
+ <a href="vr/great_triambic_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/162A.png" class="foto"></a><img src="ar/162.png" class="qr">
  <br>The great triambic icosahedron is the dual of the great ditrigonal icosidodecahedron whose appearance is the same as the medial triambic icosahedron (the dual of the ditrigonal dodecadodecahedron), since internal vertices are hidden from view. The medial triambic icosahedron has hidden pentagrammic faces, while the great triambic icosahedron has hidden triangular faces. 
 <br><b>Faces:</b> 20 triambis | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/GreatTriambicIcosahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_triambic_icosahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>7. Dodecadodecahedron</h4>
- <img src="ar/161.png" class="qr">
+ <a href="vr/dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/161A.png" class="foto"></a><img src="ar/161.png" class="qr">
  <br><span class="titulo"><b>U<sub>36</sub></b></span> The dodecadodecahedron is the uniform polyhedron whose dual polyhedron is the medial rhombic triacontahedron. Its dual polyhedron is also called the small stellated triacontahedron. It can be obtained by truncating a great dodecahedron or faceting a icosidodecahedron with pentagons and covering remaining open spaces with pentagrams.
 <br><b>Faces:</b> 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 116.57°. <a href="https://mathworld.wolfram.com/Dodecadodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/dodecadodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>8. Medial Rhombic Triacontahedron</h4>
- <img src="ar/160.png" class="qr">
+ <a href="vr/medial_rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/160A.png" class="foto"></a><img src="ar/160.png" class="qr">
  <br>The medial rhombic triacontahedron is a zonohedron which is the dual of the dodecadodecahedron. The medial rhombic triacontahedron contains interior pentagrammic vertices which are, however, hidden from view. The solid is also called the small stellated triacontahedron.
 <br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 24 | <b>Diedral angle:</b> 120°. <a href="https://mathworld.wolfram.com/MedialRhombicTriacontahedron.html" target="_blank">More...</a>
- <br><a href="vr/medial_rhombic_triacontahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>9. Great Icosidodecahedron</h4>
- <img src="ar/159.png" class="qr">
+ <a href="vr/great_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/159A.png" class="foto"></a><img src="ar/159.png" class="qr">
  <br><span class="titulo"><b>U<sub>54</sub></b></span> The great icosidodecahedron is the uniform polyhedron whose dual is the great rhombic triacontahedron. It is a stellated Archimedean solid. Its circumradius for unit edge length is R=&phi;<sup>-1</sup>, where &phi; is the golden ratio. 
 <br><b>Faces:</b> 20 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 100.81°. <a href="https://mathworld.wolfram.com/GreatIcosidodecahedron.html" target="_blank">More...</a>
- <br><a href="vr/great_icosidodecahedron.htm" target="_blank"><img src="vr/VRaframe.PNG" width="180px"></a>
  <hr>
 <h4>10. Great Rhombic Triacontahedron</h4>
  <a href="vr/great_rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/158A.png" class="foto"></a><img src="ar/158.png" class="qr">
@@ -425,7 +419,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/156A.png" class="foto"></a><img src="ar/156.png" class="qr">
  <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron.
 <br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">More...</a>
- <br><hr>
+ <p></p><hr>
  <h4>13. Great Cubicuboctahedron</h4>
  <a href="vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/155A.png" class="foto"></a><img src="ar/155.png" class="qr">
  <br><span class="titulo"><b>U<sub>14</sub></b></span> The great cubicuboctahedron is the uniform polyhedron whose dual polyhedron is the great hexacronic icositetrahedron. It is a faceted version of the cube. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
@@ -435,7 +429,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/154A.png" class="foto"></a><img src="ar/154.png" class="qr">
  <br>The great hexacronic icositetrahedron is the dual of the great cubicuboctahedron. Its faces are kites, and part of each kite lies inside the solid, hence is invisible in solid models. 
 <br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">More...</a>
- <br><hr>
+ <p></p><hr>
  <h4>15. Uniform Great Rhombicuboctahedron</h4>
  <a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/153A.png" class="foto"></a><img src="ar/153.png" class="qr">
  <br><span class="titulo"><b>U<sub>17</sub></b></span> The uniform great rhombicuboctahedron is the uniform polyhedron, also known as the quasirhombicuboctahedron, whose dual is the great deltoidal icositetrahedron. The convex hull of the great cubicuboctahedron is the Archimedean truncated cube.
