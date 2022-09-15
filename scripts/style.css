@@ -7,7 +7,7 @@ a.fotoA {min-width:30%; max-width:40%; float:right; margin: 0 0 10px 10px; text-
 
 a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top:-6px; font-weight: bold; color:#58d68d;}
 
-.titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px; font-weight: bold;}
+.titulo {color:#58d68d; padding: 0px 7px 0px 0px; font-weight: bold;}
 
 table {width:100%;}
 
