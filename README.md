@@ -11,7 +11,7 @@
 
 <details id="p1">
   <summary>Archimedean polyhedra</summary>
- An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
+  An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
 <br>To view Archimedean polyhedra in AR, simply visit 
 <p align="center"><a href="archimedes.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -88,7 +88,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  
 <details id="p2">
   <summary>Platonic polyhedra</summary>
- An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
+  An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
  <br>To view Platonic polyhedra in AR, simply visit 
 <p align="center"><a href="platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -124,7 +124,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  
 <details id="p3">
   <summary>Catalan polyhedra</summary>
- The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
+  The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
  <br>To view Catalan polyhedra in AR, simply visit:
 <p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -200,7 +200,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <details id="p4">
   <summary>Non-convex polyhedra</summary>
-  <br>To view non-convex polyhedra in AR, simply visit:
+  To view non-convex polyhedra in AR, simply visit:
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
@@ -301,7 +301,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <details id="p5" style="border-bottom: 1px solid #a2dec0;">
   <summary>Self-intersecting polyhedra</summary>
-  <br>To view self-intersecting polyhedra in AR, simply visit:
+  To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
