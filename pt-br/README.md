@@ -11,7 +11,7 @@
 
 <details id="p1">
   <summary>Poliedros de Arquimedes</summary>
-  Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
+Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
 <br>Para ver os poliedros arquimedeanos em RA, visite a página:
 <p align="center"> <a href="../archimedes.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -86,7 +86,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  
 <details id="p2">
   <summary>Poliedros de Platão</summary>
-  Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
+Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
  <br>Para ver o poliedro platônico em AR, visite
 <p align="center"> <a href="../platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
