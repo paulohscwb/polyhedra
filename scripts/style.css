@@ -5,9 +5,7 @@
 
 a.fotoA {min-width:30%; max-width:40%; float:right; margin: 0 0 10px 10px; text-decoration:none;}
 
-a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top:-6px;}
-
-a[title] {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px; font-weight: bold;}
+a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top:-6px; font-weight: bold; color:#58d68d;}
 
 .titulo {background:#58d68d; color:white; padding: 2px 5px 4px 5px; border-radius:5px; font-weight: bold;}
 
