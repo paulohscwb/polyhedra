@@ -124,7 +124,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  
 <details id="p3">
   <summary>Catalan polyhedra</summary>
-  The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
+The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
  <br>To view Catalan polyhedra in AR, simply visit:
 <p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -200,7 +200,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <details id="p4">
   <summary>Non-convex polyhedra</summary>
-  To view non-convex polyhedra in AR, simply visit:
+To view non-convex polyhedra in AR, simply visit:
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
@@ -301,7 +301,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <details id="p5" style="border-bottom: 1px solid #a2dec0;">
   <summary>Self-intersecting polyhedra</summary>
-  To view self-intersecting polyhedra in AR, simply visit:
+To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
