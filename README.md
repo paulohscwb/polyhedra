@@ -392,6 +392,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/small_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/151A.png" class="foto"></a><img src="ar/151.png" class="qr">
  <br><span class="titulo">U<sub>33</sub></span> The small dodecicosidodecahedron is the uniform polyhedron whose dual polyhedron is the small dodecacronic hexecontahedron. It is a faceted version of the small rhombicosidodecahedron. The small dodecicosidodecahedron appears on the cover of book "Computer Science with Mathematica" by Roman E. Maeder (1999). 
 <br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagons and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 116.57° and 322.62°. <a href="https://mathworld.wolfram.com/SmallDodecicosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>18. Small Dodecacronic Hexecontahedron</h4>
+ <a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/150A.png" class="foto"></a><img src="ar/150.png" class="qr">
+ <br>The great deltoidal icositetrahedron (or great sagittal disdodecahedron) is the dual of the uniform great rhombicuboctahedron. Its faces are darts, and part of each dart lies inside the solid, hence is invisible in solid models. 
+<br><br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/SmallDodecacronicHexecontahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
