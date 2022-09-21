@@ -388,8 +388,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
  <h4>17. Pequeno dodecicosidodecaedro</h4>
  <a href="../vr/small_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/151A.png" class="foto"></a><img src="../ar/151.png" class="qr">
- <br><span class="titulo">U<sub>33</sub></span> O pequeno dodecicosidodecaedro é o poliedro uniforme cujo poliedro dual é o pequeno hexecontaedro dodecacrônico. É uma versão facetada do pequeno rombicosidodecaedro. O pequeno dodecicosidodecaedro aparece na capa do livro "Computer Science with MATHEMATICA" de Roman E. Maeder (1999).
-<br><br><b>Faces:</b> 20 triângulos equiláteros, 12 pentágonos regulares e 12 decágonos regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 45° e 324,74°. <a href="https://mathworld.wolfram.com/SmallDodecicosidodecahedron.html" target="_blank">Mais sobre...</a>
+ <br><span class="titulo">U<sub>33</sub></span> O pequeno dodecicosidodecaedro é o poliedro uniforme cujo poliedro dual é o pequeno hexecontaedro dodecacrônico. É uma versão facetada do pequeno rombicosidodecaedro. O pequeno dodecicosidodecaedro aparece na capa do livro "Computer Science with Mathematica" de Roman E. Maeder (1999).
+<br><br><b>Faces:</b> 20 triângulos equiláteros, 12 pentágonos regulares e 12 decágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 116,57° e 322,62°. <a href="https://mathworld.wolfram.com/SmallDodecicosidodecahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
