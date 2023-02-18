@@ -397,6 +397,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/small_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/150A.png" class="foto"></a><img src="ar/150.png" class="qr">
  <br>The small dodecacronic hexecontahedron is the dual polyhedron of the small dodecicosidodecahedron. It is visually identical to the small rhombidodecacron. Its faces are darts, and a part of each dart lies inside the solid, hence is invisible in solid models. 
 <br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 154.12°. <a href="https://mathworld.wolfram.com/SmallDodecacronicHexecontahedron.html" target="_blank">More...</a>
+<h4>19. Great Dodecicosidodecahedron</h4>
+ <a href="vr/great_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/149A.png" class="foto"></a><img src="ar/149.png" class="qr">
+ <br><span class="titulo">U<sub>61</sub></span> The uniform polyhedron whose dual is the great dodecacronic hexecontahedron (or great dodekicosidodecahedron). It shares its vertex arrangement with the truncated great dodecahedron and the uniform compounds of 6 or 12 pentagonal prisms. 
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° and 116.57°. <a href="https://mathworld.wolfram.com/GreatDodecicosidodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
