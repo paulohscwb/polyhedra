@@ -408,6 +408,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The Great dodecacronic hexecontahedron (or great lanceal ditriacontahedron) is the dual of the great dodecicosidodecahedron. Its 60 intersecting quadrilateral faces are kites. Part of each kite lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 91.55°. <a href="https://mathworld.wolfram.com/GreatDodecacronicHexecontahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
+ <hr>
+<h4>21. Small ditrigonal dodecicosidodecahedron</h4>
+ <a href="vr/small_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/147A.png" class="foto"></a><img src="ar/147.png" class="qr">
+ <br><span class="titulo">U<sub>43</sub></span> The Small ditrigonal dodecicosidodecahedron is the uniform polyhedron whose dual polyhedron is the small triambic icosahedron. A faceted version is the ditrigonal dodecadodecahedron. The convex hull of the small ditrigonal icosidodecahedron is a regular dodecahedron, whose dual is the icosahedron, so the dual of the great ditrigonal dodecicosidodecahedron (the small triambic icosahedron) is one of the icosahedron stellations.
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° e 296.56°. <a href="https://mathworld.wolfram.com/SmallDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
+ <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
 
