@@ -447,7 +447,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>28. Small icosacronic hexecontahedron</h4>
  <a href="vr/small_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/140A.png" class="foto"></a><img src="ar/140.png" class="qr">
  <br>The Small icosacronic hexecontahedron (or small lanceal trisicosahedron) is The dual polyhedron of the small icosicosidodecahedron. Its faces are kites and part of each kite lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  

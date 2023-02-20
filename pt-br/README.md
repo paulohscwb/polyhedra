@@ -445,7 +445,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>28. Pequeno hexecontaedro icosacrônico</h4>
  <a href="../vr/small_icosacronic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/140A.png" class="foto"></a><img src="../ar/140.png" class="qr">
  <br>O pequeno hexecontaedro icosacrônico (ou pequeno trisicosaedro lanceal) é o poliedro dual do pequeno icosicosidodecaedro. Suas faces são "pipas" e parte de cada "pipa" fica dentro do sólido, portanto é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 60 kites | <b>Arestas:</b> 120 | <b>Vértices:</b> 52 | <b>Ângulo diédrico:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 60 "pipas" | <b>Arestas:</b> 120 | <b>Vértices:</b> 52 | <b>Ângulo diédrico:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
