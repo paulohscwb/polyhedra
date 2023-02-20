@@ -412,7 +412,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>21. Small ditrigonal dodecicosidodecahedron</h4>
  <a href="vr/small_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/147A.png" class="foto"></a><img src="ar/147.png" class="qr">
  <br><span class="titulo">U<sub>43</sub></span> The Small ditrigonal dodecicosidodecahedron is the uniform polyhedron whose dual polyhedron is the small triambic icosahedron. A faceted version is the ditrigonal dodecadodecahedron. The convex hull of the small ditrigonal icosidodecahedron is a regular dodecahedron, whose dual is the icosahedron, so the dual of the great ditrigonal dodecicosidodecahedron (the small triambic icosahedron) is one of the icosahedron stellations.
-<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° e 296.56°. <a href="https://mathworld.wolfram.com/SmallDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° and 296.56°. <a href="https://mathworld.wolfram.com/SmallDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>22. Small ditrigonal dodecacronic hexecontahedron</h4>
  <a href="vr/small_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/146A.png" class="foto"></a><img src="ar/146.png" class="qr">
@@ -422,7 +422,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>23. Great ditrigonal dodecicosidodecahedron</h4>
  <a href="vr/great_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/145A.png" class="foto"></a><img src="ar/145.png" class="qr">
  <br><span class="titulo">U<sub>42</sub></span> The Great ditrigonal dodecicosidodecahedron (or great dodekified icosidodecahedron) is the uniform polyhedron whose dual is the great ditrigonal dodecacronic hexecontahedron. The convex hull of the great ditrigonal dodecicosidodecahedron is a truncated dodecahedron, whose dual is the triakis icosahedron, so the dual of the great ditrigonal dodecicosidodecahedron (the great triambic icosahedron) is a stellation of the triakis icosahedron.
-<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° e 296.56°. <a href="https://mathworld.wolfram.com/SmallDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagons and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 116.56° and 142.62°. <a href="https://mathworld.wolfram.com/GreatDitrigonalDodecicosidodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
