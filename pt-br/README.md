@@ -421,6 +421,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/great_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/145A.png" class="foto"></a><img src="../ar/145.png" class="qr">
  <br><span class="titulo">U<sub>42</sub></span> O Grande dodecicosidodecaedro ditrigonal (ou grande icosidodecaedro dodekificado) é o poliedro uniforme cujo dual é o grande hexecontaedro dodecacrônico ditrigonal. O casco convexo do grande dodecicosidodecaedro ditrigonal é um dodecaedro truncado, cujo dual é o icosaedro triakis, assim o dual do grande dodecicosidodecaedro ditrigonal (o grande icosaedro triâmbico) é uma estrela do icosaedro triakis.
 <br><br><b>Faces:</b> 20 triângulos equiláteros, 12 pentágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 100.81° e 296.56°. <a href="https://mathworld.wolfram.com/GreatDitrigonalDodecicosidodecahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>24. Grande hexecontaedro dodecacrônico ditrigonal</h4>
+ <a href="../vr/great_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/144A.png" class="foto"></a><img src="../ar/144.png" class="qr">
+ <br>O Grande hexecontaedro dodecacrônico ditrigonal (ou grande trisicosaedro lanceal) é o dual do grande dodecicosidodecaedro ditrigonal e suas faces são "pipas". Parte de cada "pipa" fica dentro do sólido, portanto, é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 "pipas" | <b>Arestas:</b> 120 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatDitrigonalDodecacronicHexecontahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
