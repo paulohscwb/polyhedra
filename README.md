@@ -428,6 +428,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/great_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/144A.png" class="foto"></a><img src="ar/144.png" class="qr">
  <br>The Great ditrigonal dodecacronic hexecontahedron (or great lanceal trisicosahedron) is the dual of the great ditrigonal dodecicosidodecahedron and its faces are kites. Part of each kite lies inside the solid, hence is invisible in solid models. 
 <br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatDitrigonalDodecacronicHexecontahedron.html" target="_blank">More...</a>
+<hr>
+<h4>25. Icosidodecadodecahedron</h4>
+ <a href="vr/icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/144A.png" class="foto"></a><img src="ar/144.png" class="qr">
+ <br><span class="titulo">U<sub>44</sub></span> The Icosidodecadodecahedron (or icosified dodecadodecahedron) is the uniform polyhedron whose dual is the medial icosacronic hexecontahedron. Its vertex figure is a crossed quadrilateral and shares its vertex arrangement with the uniform compounds of 10 or 20 triangular prisms.  
+<br><br><b>Faces:</b> 20 regular hexagons, 12 regular pentagrams and 12 regular pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° and 322.62°. <a href="https://mathworld.wolfram.com/Icosidodecadodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
