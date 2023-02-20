@@ -443,6 +443,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/small_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/141A.png" class="foto"></a><img src="ar/141.png" class="qr">
  <br><span class="titulo">U<sub>31</sub></span> The small icosicosidodecahedron (or small icosified icosidodecahedron) is the uniform polyhedron whose dual is the small icosacronic hexecontahedron. It shares its vertex arrangement with the great stellated truncated dodecahedron.  
 <br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 138.19° and 142.62°. <a href="https://mathworld.wolfram.com/SmallIcosicosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>28. Small icosacronic hexecontahedron</h4>
+ <a href="vr/small_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/140A.png" class="foto"></a><img src="ar/140.png" class="qr">
+ <br>The Small icosacronic hexecontahedron (or small lanceal trisicosahedron) is The dual polyhedron of the small icosicosidodecahedron. Its faces are kites and part of each kite lies inside the solid, hence is invisible in solid models. 
+<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
