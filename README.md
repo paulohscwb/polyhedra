@@ -455,7 +455,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagons and 12 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 79.19° and 318.19°. <a href="https://mathworld.wolfram.com/GreatIcosicosidodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>30. Great icosacronic hexecontahedron</h4>
- <a href="vr/small_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/138A.png" class="foto"></a><img src="ar/138.png" class="qr">
+ <a href="vr/great_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/138A.png" class="foto"></a><img src="ar/138.png" class="qr">
  <br>The Great icosacronic hexecontahedron (or great sagittal trisicosahedron) is the dual of the great icosicosidodecahedron. Its faces are darts and a part of each dart lies inside the solid, hence is invisible in solid models.  
 <br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatIcosacronicHexecontahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
