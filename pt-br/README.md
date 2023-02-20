@@ -413,8 +413,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 20 triângulos equiláteros, 12 pentagramas regulares e 12 decágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 100.81° e 296.56°. <a href="https://mathworld.wolfram.com/SmallDitrigonalIcosidodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>22. Pequeno hexecontaedro ditrigonal dodecacrônico</h4>
- <a href="../vr/small_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/146A.png" class="foto"></a><img src="../ar/146.png" class="qr">
- <br>O pequeno hexecontaedro ditrigonal dodecacrônico (ou estrela "gorda") o poliedro dual do pequeno dodecicosidodecaedro ditrigonal. É visualmente idêntico ao pequeno dodecicosacron e suas faces são dardos. Uma parte de cada dardo está dentro do sólido, portanto, invisível em modelos sólidos.
+ <a href="../vr/small_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/146A.png" class="foto"></a><img src="../ar/146.png" class="qr">
+ <br>O pequeno hexecontaedro ditrigonal dodecacrônico (ou estrela "gorda") é o poliedro dual do pequeno dodecicosidodecaedro ditrigonal. É visualmente idêntico ao pequeno dodecicosacron e suas faces são dardos. Uma parte de cada dardo está dentro do sólido, portanto, invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallDitrigonalDodecacronicHexecontahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
