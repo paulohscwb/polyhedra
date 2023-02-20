@@ -432,10 +432,15 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>44</sub></span> O Icosidodecadodecaedro (ou dodecadodecaedro icosificado) é o poliedro uniforme cujo dual é o hexecontaedro icosacrônico medial. Sua figura de vértice é um quadrilátero cruzado e compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares.
 <br><br><b>Faces:</b> 20 hexágonos regulares, 12 pentagramas regulares e 12 pentágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 100.81° e 322.62°. <a href="https://mathworld.wolfram.com/Icosidodecadodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>25. Medial Icosacronic Hexecontahedron</h4>
+<h4>26. Medial Icosacronic Hexecontahedron</h4>
  <a href="../vr/medial_icosacronic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/142A.png" class="foto"></a><img src="../ar/142.png" class="qr">
  <br>O hexecontaedro icosacrônico medial (ou ditriacontaedro sagital médio) é o dual do icosidodecadodecaedro. Suas faces são dardos e parte de cada dardo fica dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialIcosacronicHexecontahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>27. Pequeno icosicosidodecaedro</h4>
+ <a href="../vr/small_icosicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/141A.png" class="foto"></a><img src="../ar/141.png" class="qr">
+ <br><span class="titulo">U<sub>31</sub></span> O pequeno icosicosidodecaedro (ou pequeno icosidodecaedro icosificado) é o poliedro uniforme cujo dual é o pequeno hexecontaedro icosacrônico. Ele compartilha seu arranjo de vértice com o grande dodecaedro truncado estrelado.
+<br><br><b>Faces:</b> 20 triângulos equiláteros, 12 pentagramas regulares e 12 hexágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 138.19° e 142.62°. <a href="https://mathworld.wolfram.com/SmallIcosicosidodecahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 

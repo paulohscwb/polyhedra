@@ -438,6 +438,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/medial_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/142A.png" class="foto"></a><img src="ar/142.png" class="qr">
  <br>The Medial icosacronic hexecontahedron (or midly sagittal ditriacontahedron) is the dual of the icosidodecadodecahedron. Its faces are darts and part of each dart lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialIcosacronicHexecontahedron.html" target="_blank">More...</a>
+<hr>
+<h4>27. Small icosicosidodecahedron</h4>
+ <a href="vr/small_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/141A.png" class="foto"></a><img src="ar/141.png" class="qr">
+ <br><span class="titulo">U<sub>31</sub></span> The small icosicosidodecahedron (or small icosified icosidodecahedron) is the uniform polyhedron whose dual is the small icosacronic hexecontahedron. It shares its vertex arrangement with the great stellated truncated dodecahedron.  
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 138.19° and 142.62°. <a href="https://mathworld.wolfram.com/SmallIcosicosidodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
