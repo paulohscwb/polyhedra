@@ -415,8 +415,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 100.81° e 296.56°. <a href="https://mathworld.wolfram.com/SmallDitrigonalIcosidodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>22. Small ditrigonal dodecacronic hexecontahedron</h4>
- <a href="vr/small_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/146A.png" class="foto"></a><img src="ar/146.png" class="qr">
- <br>The Small ditrigonal dodecacronic hexecontahedron (or "fat" star) the dual polyhedron of the small ditrigonal dodecicosidodecahedron. It is visually identical to the small dodecicosacron and its faces are darts. A part of each dart lies inside the solid, hence is invisible in solid models.
+ <a href="vr/small_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/146A.png" class="foto"></a><img src="ar/146.png" class="qr">
+ <br>The Small ditrigonal dodecacronic hexecontahedron (or "fat" star) is the dual polyhedron of the small ditrigonal dodecicosidodecahedron. It is visually identical to the small dodecicosacron and its faces are darts. A part of each dart lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallDitrigonalDodecacronicHexecontahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
