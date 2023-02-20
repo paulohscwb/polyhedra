@@ -448,6 +448,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/small_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/140A.png" class="foto"></a><img src="ar/140.png" class="qr">
  <br>The Small icosacronic hexecontahedron (or small lanceal trisicosahedron) is The dual polyhedron of the small icosicosidodecahedron. Its faces are kites and part of each kite lies inside the solid, hence is invisible in solid models. 
 <br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">More...</a>
+<hr>
+<h4>29. Great Icosicosidodecahedron</h4>
+ <a href="vr/great_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/139A.png" class="foto"></a><img src="ar/139.png" class="qr">
+ <br><span class="titulo">U<sub>48</sub></span> The great icosicosidodecahedron (or great icosified icosidodecahedron) is the uniform polyhedron whose dual is the great icosacronic hexecontahedron. It shares its vertex arrangement with the truncated dodecahedron and its vertex figure is a crossed quadrilateral. 
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagons and 12 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 79.19° and 318.19°. <a href="https://mathworld.wolfram.com/GreatIcosicosidodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
