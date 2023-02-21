@@ -494,7 +494,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>18</sub></span> O pequeno rombihexaedro é o poliedro uniforme cujo dual é o pequeno rombihexacron. É uma versão facetada do pequeno rombicuboctaedro. O casco convexo do pequeno rombihexaedro é o pequeno rombicuboctaedro arquimediano, cujo dual é o icossitotraedro deltoidal, portanto o dual do pequeno rombihexaedro (pequeno rombihexacro) é uma das estrelas do icossitotraedro deltoidal.
 <br><br><b>Faces:</b> 12 quadrados e 6 octógonos regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 45° e 90°. <a href="https://mathworld.wolfram.com/SmallRhombihexahedron.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>2. Grande hexecontaedro deltoidal</h4>
+<h4>2. Pequeno rombihexacro</h4>
  <a href="../vr/small_rhombihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/132A.png" class="foto"></a><img src="../ar/132.png" class="qr">
  <br>O pequeno rombihexacro (ou pequeno disdodecaedro dipteral) é o poliedro dual do pequeno rombihexaedro. É visualmente idêntico ao pequeno icositetraedro hexacrônico e suas faces são antiparalelogramos (gravatas borboleta) formados por pares de triângulos coplanares.
 <br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallRhombihexacron.html" target="_blank">Mais sobre...</a>
