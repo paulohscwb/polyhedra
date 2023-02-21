@@ -467,6 +467,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/medial_deltoidal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/136A.png" class="foto"></a><img src="../ar/136.png" class="qr">
  <br>O hexecontaedro deltoidal medial é o dual do rombidodecadodecaedro. Suas 60 faces quadrilaterais que se cruzam são "pipas" e parte de cada "pipa" fica dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 "pipas" | <b>Arestas:</b> 120 | <b>Vértices:</b> 54 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialDeltoidalHexecontahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>33. Grande rombicosidodecaedro uniforme</h4>
+ <a href="../vr/uniform_great_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/135A.png" class="foto"></a><img src="../ar/135.png" class="qr">
+ <br><span class="titulo">U<sub>67</sub></span> O grande rombicosidodecaedro uniforme (ou quasirrombicosidodecaedro) é o poliedro uniforme cujo dual é o grande hexecontaedro deltoidal. Sua figura de vértice é um quadrilátero cruzado e compartilha seu arranjo de vértice com o grande dodecaedro truncado e com os compostos uniformes de 6 ou 12 prismas pentagonais.
+<br><br><b>Faces:</b> 30 quadrados, 20 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 69.09° e 301.71°. <a href="https://mathworld.wolfram.com/UniformGreatRhombicosidodecahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
