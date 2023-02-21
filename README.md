@@ -299,7 +299,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
-<details id="p5" style="border-bottom: 1px solid #a2dec0;">
+<details id="p5">
   <summary>Self-intersecting polyhedra</summary>
 To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
@@ -483,6 +483,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
+ <details id="p6" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Quasi regular polyhedra</summary>
+To view quasi regular polyhedra in AR, simply visit:
+<p align="center"><a href="quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
+<hr>
+<h4>1. Small Rhombihexahedron</h4>
+ <p class="topop"><a href="#p6" class="topo">back to top</a></p>
+</details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
