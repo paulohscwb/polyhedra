@@ -13,11 +13,11 @@
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 4; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="esfera" geometry="radius: 0.039;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.092;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 				
-		<a-entity position="0 0 0" scale="3.5 3.5 3.5">
+		<a-entity position="0 0 0" scale="1.5 1.5 1.5">
 			<a-obj-model src="outros/SmallRhombihexacron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
 			<a-obj-model src="outros/SmallRhombihexacronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.0 0.0 -3.41421'></a-sphere>
