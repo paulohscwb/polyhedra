@@ -468,6 +468,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>32. Medial deltoidal hexecontahedron</h4>
  <a href="vr/medial_deltoidal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/136A.png" class="foto"></a><img src="ar/136.png" class="qr">
  <br>The medial deltoidal hexecontahedronn is the dual of the rhombidodecadodecahedron. Its 60 intersecting quadrilateral faces are kites and part of each kite lies inside the solid, hence is invisible in solid models.
+ <br>
 <br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 54 | <b>Diedral angle:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialDeltoidalHexecontahedron.html" target="_blank">More...</a>
 <hr>
 <h4>33. Uniform great rhombicosidodecahedron</h4>
