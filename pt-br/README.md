@@ -297,7 +297,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 </details>
 
-<details id="p5" style="border-bottom: 1px solid #a2dec0;">
+<details id="p5">
   <summary>Poliedros de autointerseção</summary>
   Para visualizar os poliedros de autointerseção em RA, visite a página:
 <p align="center"><a href="../selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
@@ -479,6 +479,18 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande hexecontaedro deltoidal (ou grande ditriacontaedro sagital) é o dual do grande rombicosidodecaedro uniforme. É visualmente idêntico ao grande rombidodecacron e parte de cada dardo está dentro do sólido, portanto é invisível em modelos sólidos. Também é chamado de grande hexecontaedro estrombico.
 <br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 91.55°. <a href="https://mathworld.wolfram.com/GreatDeltoidalHexecontahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
+</details>
+
+<details id="p6" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Poliedros quase regulares</summary>
+  Para visualizar os poliedros quase regulares em RA, visite a página:
+<p align="center"><a href="../quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img style="border-radius:7px;" src="../ar/example3.jpg" width="85%"></p>
+ <hr>
+<h4>1. Small Rhombihexahedron</h4>
+<p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
