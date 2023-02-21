@@ -491,7 +491,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
 <hr>
-<h4>1. Small Rhombihexahedron</h4>
+<h4>1. Small rhombihexahedron</h4>
+<a href="vr/small_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto"></a><img src="ar/133.png" class="qr">
+ <br><span class="titulo">U<sub>18</sub></span> The small rhombihexahedron is the uniform polyhedron whose dual is the small rhombihexacron. It is a faceted version of the small rhombicuboctahedron. The convex hull of the small rhombihexahedron is the Archimedean small rhombicuboctahedron, whose dual is the deltoidal icositetrahedron, so the dual of the small rhombihexahedron (small rhombihexacron) is one of the stellations of the deltoidal icositetrahedron.
+<br><br><b>Faces:</b> 12 squares and 12 regular octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 45° and 90°. <a href="https://mathworld.wolfram.com/SmallRhombihexahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
