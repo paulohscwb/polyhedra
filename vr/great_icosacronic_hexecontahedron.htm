@@ -14,11 +14,12 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 3; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.05;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 				
 		<a-entity position="0 0 0" scale="2.8 2.8 2.8">
-			<a-obj-model src="outros/GreatIcosacronicHexecontahedron.obj" mtl="outros/solidos.mtl" scale="0.997 0.997 0.997"></a-obj-model>
-			<a-obj-model src="outros/GreatIcosacronicHexecontahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
+			<a-obj-model src="outros/GreatIcosacronicHexecontahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="outros/GreatIcosacronicHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.0 0.690983 -1.809017'></a-sphere>	
 			<a-sphere mixin='esfera mtl9' position='0.0 -0.690983 1.809017'></a-sphere>	
 			<a-sphere mixin='esfera mtl9' position='0.0 -0.690983 -1.809017'></a-sphere>	
