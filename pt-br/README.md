@@ -460,7 +460,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
 <h4>31. Rombidodecadodecaedro</h4>
  <a href="../vr/rhombidodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/137A.png" class="foto"></a><img src="../ar/137.png" class="qr">
- <br><span class="titulo">U<sub>38</sub></span> O rombidodecadodecaedro (ou grande dodecaedro cantelado) é o poliedro uniforme cujo poliedro dual é o hexecontaedro deltoidal medial. Ele compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares.
+ <br><span class="titulo">U<sub>38</sub></span> O rombidodecadodecaedro (ou grande dodecaedro cantelado) é o poliedro uniforme cujo dual é o hexecontaedro deltoidal medial. Ele compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares.
 <br><br><b>Faces:</b> 30 quadrados, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 121.71° e 148.28°. <a href="https://mathworld.wolfram.com/Rhombidodecadodecahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
