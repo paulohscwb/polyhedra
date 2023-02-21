@@ -466,6 +466,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>32. Hexecontaedro deltoidal medial</h4>
  <a href="../vr/medial_deltoidal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/136A.png" class="foto"></a><img src="../ar/136.png" class="qr">
  <br>O hexecontaedro deltoidal medial é o dual do rombidodecadodecaedro. Suas 60 faces quadrilaterais que se cruzam são "pipas" e parte de cada "pipa" fica dentro do sólido, portanto é invisível em modelos sólidos.
+ <br>
 <br><br><b>Faces:</b> 60 "pipas" | <b>Arestas:</b> 120 | <b>Vértices:</b> 54 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialDeltoidalHexecontahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>33. Grande rombicosidodecaedro uniforme</h4>
