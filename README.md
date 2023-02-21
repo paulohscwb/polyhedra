@@ -452,12 +452,18 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>29. Great Icosicosidodecahedron</h4>
  <a href="vr/great_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/139A.png" class="foto"></a><img src="ar/139.png" class="qr">
  <br><span class="titulo">U<sub>48</sub></span> The great icosicosidodecahedron (or great icosified icosidodecahedron) is the uniform polyhedron whose dual is the great icosacronic hexecontahedron. It shares its vertex arrangement with the truncated dodecahedron and its vertex figure is a crossed quadrilateral. 
-<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagons and 12 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 79.19° and 318.19°. <a href="https://mathworld.wolfram.com/GreatIcosicosidodecahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 equilateral triangles, 12 regular pentagons and 20 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 79.19° and 318.19°. <a href="https://mathworld.wolfram.com/GreatIcosicosidodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>30. Great icosacronic hexecontahedron</h4>
  <a href="vr/great_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/138A.png" class="foto"></a><img src="ar/138.png" class="qr">
  <br>The Great icosacronic hexecontahedron (or great sagittal trisicosahedron) is the dual of the great icosicosidodecahedron. Its faces are darts and a part of each dart lies inside the solid, hence is invisible in solid models.  
 <br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatIcosacronicHexecontahedron.html" target="_blank">More...</a>
+ <p class="topop"><a href="#p5" class="topo">back to top</a></p>
+ <hr>
+<h4>31. Rhombidodecadodecahedron</h4>
+ <a href="vr/rhombidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/137A.png" class="foto"></a><img src="ar/137.png" class="qr">
+ <br><span class="titulo">U<sub>38</sub></span> The rhombidodecadodecahedron (or cantellated great dodecahedron) is the uniform polyhedron whose dual polyhedron is the medial deltoidal hexecontahedron. It shares its vertex arrangement with the uniform compounds of 10 or 20 triangular prisms.
+<br><br><b>Faces:</b> 30 squares, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 121.71° and 148.28°. <a href="https://mathworld.wolfram.com/Rhombidodecadodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
