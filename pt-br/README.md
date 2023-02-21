@@ -489,7 +489,10 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
  <hr>
-<h4>1. Small rhombihexahedron</h4>
+<h4>1. Pequeno rombihexaedro</h4>
+<a href="../vr/small_rhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto"></a><img src="../ar/133.png" class="qr">
+ <br><span class="titulo">U<sub>18</sub></span> O pequeno rombihexaedro é o poliedro uniforme cujo dual é o rombihexacron pequeno. É uma versão facetada do pequeno rombicuboctaedro. O casco convexo do pequeno rombihexaedro é o pequeno rombicuboctaedro arquimediano, cujo dual é o icossitotraedro deltoidal, portanto o dual do pequeno rombihexaedro (pequeno rombihexacro) é uma das estrelas do icossitotraedro deltoidal.
+<br><br><b>Faces:</b> 12 quadrados e 6 octógonos regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 45° e 90°. <a href="https://mathworld.wolfram.com/SmallRhombihexahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
