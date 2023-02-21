@@ -489,7 +489,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
  <hr>
-<h4>1. Small Rhombihexahedron</h4>
+<h4>1. Small rhombihexahedron</h4>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
