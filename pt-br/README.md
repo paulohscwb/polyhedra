@@ -457,6 +457,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O Grande hexecontaedro icosacrônico (ou grande trisicosaedro sagital) é o dual do grande icosicosidodecaedro. Suas faces são dardos e uma parte de cada dardo fica dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 52 | <b>Ângulo diédrico:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatIcosacronicHexecontahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
+ <hr>
+<h4>31. Rombidodecadodecaedro</h4>
+ <a href="../vr/rhombidodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/137A.png" class="foto"></a><img src="../ar/137.png" class="qr">
+ <br><span class="titulo">U<sub>38</sub></span> O rombidodecadodecaedro (ou grande dodecaedro cantelado) é o poliedro uniforme cujo poliedro dual é o hexecontaedro deltoidal medial. Ele compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares.
+<br><br><b>Faces:</b> 30 quadrados, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 121.71° e 148.28°. <a href="https://mathworld.wolfram.com/Rhombidodecadodecahedron.html" target="_blank">Mais sobre...</a>
+ <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
