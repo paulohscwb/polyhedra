@@ -469,6 +469,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/medial_deltoidal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/136A.png" class="foto"></a><img src="ar/136.png" class="qr">
  <br>The medial deltoidal hexecontahedronn is the dual of the rhombidodecadodecahedron. Its 60 intersecting quadrilateral faces are kites and part of each kite lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 54 | <b>Diedral angle:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialDeltoidalHexecontahedron.html" target="_blank">More...</a>
+<hr>
+<h4>33. Uniform great rhombicosidodecahedron</h4>
+ <a href="vr/uniform_great_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/135A.png" class="foto"></a><img src="ar/135.png" class="qr">
+ <br><span class="titulo">U<sub>67</sub></span> The uniform great rhombicosidodecahedron (or quasirhombicosidodecahedron) is the uniform polyhedron whose dual is the great deltoidal hexecontahedron. Its vertex figure is a crossed quadrilateral and shares its vertex arrangement with the truncated great dodecahedron, and with the uniform compounds of 6 or 12 pentagonal prisms. 
+<br><br><b>Faces:</b> 30 squares, 20 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 69.09° and 301.71°. <a href="https://mathworld.wolfram.com/UniformGreatRhombicosidodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
