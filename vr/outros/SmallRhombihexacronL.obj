@@ -23,22 +23,27 @@ l 18 10 2 14
 l 18 11 5 6 
 l 18 12 4 8 
 l 18 13 3 16 
+usemtl CorL
 l 1 10 4 7 
 l 1 11 2 17 
 l 1 12 3 15 
 l 1 13 5 9 
+usemtl CorL
 l 2 14 4 6 
 l 2 15 1 10 
 l 2 16 18 11 
 l 2 17 5 7 
+usemtl CorL
 l 3 14 18 12 
 l 3 15 4 9 
 l 3 16 5 8 
-l 3 17 1 13 
+l 3 17 1 13
+usemtl CorL 
 l 4 6 18 10 
 l 4 7 2 15 
 l 4 8 3 14 
 l 4 9 1 12 
+usemtl CorL
 l 5 6 2 16 
 l 5 7 1 11 
 l 5 8 18 13 
