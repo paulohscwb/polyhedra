@@ -505,6 +505,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/131A.png" class="foto"></a><img src="ar/131.png" class="qr">
  <br><span class="titulo">U<sub>21</sub></span> The great rhombihexahedron (or great rhombicube) is the uniform polyhedron whose dual is the great rhombihexacron. The convex hull of the great rhombihexahedron is the Archimedean truncated cube, whose dual is the small triakis octahedron, so the dual of the great rhombihexahedron (great rhombihexacron) is one of the stellations of the small triakis octahedron.
 <br><br><b>Faces:</b> 12 squares and 12 regular octagrams | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Diedral angles:</b> 45° and 90°. <a href="https://mathworld.wolfram.com/GreatRhombihexahedron.html" target="_blank">More...</a>
+<hr>
+<h4>4. Great Rhombihexacron</h4>
+ <a href="vr/great_rhombihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/130A.png" class="foto"></a><img src="ar/130.png" class="qr">
+ <br>The great rhombihexacron (or great dipteral disdodecahedron) is the dual of the uniform great rhombihexahedron. It has 12 outer vertices which have the same vertex arrangement as the cuboctahedron, and 6 inner vertices with the vertex arrangement of an octahedron. It can be seen as visually similar to a Catalan solid disdyakis dodecahedron.
+<br><br><b>Faces:</b> 24 antiparallelograms | <b>Edges:</b> 48 | <b>Vertices:</b> 18 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatRhombihexacron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
