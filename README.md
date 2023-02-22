@@ -523,8 +523,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>7. Great dodecicosahedron</h4>
 <a href="vr/great_dodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/127A.png" class="foto"></a><img src="ar/127.png" class="qr">
- <br><span class="titulo">U<sub>63</sub></span> The great dodecicosahedron (or small dodekicosahedron) is the uniform polyhedron whose dual is the small dodecicosacron. Its vertex figure is a crossed quadrilateral and it shares its vertex arrangement with the great stellated truncated dodecahedron.
-<br><br><b>Faces:</b> 20 regular hexagons and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 37.38° and 100.81°. <a href="https://mathworld.wolfram.com/SmallDodecicosahedron.html" target="_blank">More...</a>
+ <br><span class="titulo">U<sub>63</sub></span> The great dodecicosahedron (or great dodekicosahedron) is the uniform polyhedron whose dual is the great dodecicosacron. Its vertex figure is a crossed quadrilateral and shares its vertex arrangement with the truncated dodecahedron. 
+<br><br><b>Faces:</b> 20 regular hexagons and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 37.38° and 100.81°. <a href="https://mathworld.wolfram.com/GreatDodecicosahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
