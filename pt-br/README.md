@@ -506,7 +506,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>4. Grande rombihexacro</h4>
  <a href="../vr/great_rhombihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/130A.png" class="foto"></a><img src="../ar/130.png" class="qr">
- <br>O grande rombihexacro (ou grande disdodecaedro dipteral) é o dual do grande rombihexaedro uniforme. Possui 12 vértices externos que têm o mesmo arranjo de vértices do cuboctaedro e 6 vértices internos com o arranjo de vértices de um octaedro. Pode ser visto como visualmente semelhante ao sólido de Catalan dodecaedro disdyakis.
+ <br>O grande rombihexacro (ou grande disdodecaedro dipteral) é o dual do grande rombihexaedro uniforme. Possui 12 vértices externos que têm o mesmo arranjo de vértices do cuboctaedro e 6 vértices internos com o arranjo de vértices de um octaedro. Pode ser considerado como visualmente semelhante ao sólido de Catalan dodecaedro disdyakis.
 <br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatRhombihexacron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
