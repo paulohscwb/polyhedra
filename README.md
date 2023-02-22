@@ -513,8 +513,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>5. Small dodecicosahedron</h4>
 <a href="vr/small_dodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/129A.png" class="foto"></a><img src="ar/129.png" class="qr">
- <br><span class="titulo">U<sub>50</sub></span> The small dodecicosahedron (or great rhombicube) is the uniform polyhedron whose dual is the great rhombihexacron. The convex hull of the great rhombihexahedron is the Archimedean truncated cube, whose dual is the small triakis octahedron, so the dual of the great rhombihexahedron (great rhombihexacron) is one of the stellations of the small triakis octahedron.
-<br><br><b>Faces:</b> 20 regular hexagons and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 37.38° and 79.19°. <a href="https://mathworld.wolfram.com/GreatRhombihexahedron.html" target="_blank">More...</a>
+ <br><span class="titulo">U<sub>50</sub></span> The small dodecicosahedron (or small dodekicosahedron) is the uniform polyhedron whose dual polyhedron is the small dodecicosacron. Its vertex figure is a crossed quadrilateral and it shares its vertex arrangement with the great stellated truncated dodecahedron.
+<br><br><b>Faces:</b> 20 regular hexagons and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 37.38° and 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecicosahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
