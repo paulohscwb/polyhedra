@@ -515,6 +515,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/small_dodecicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/129A.png" class="foto"></a><img src="ar/129.png" class="qr">
  <br><span class="titulo">U<sub>50</sub></span> The small dodecicosahedron (or small dodekicosahedron) is the uniform polyhedron whose dual is the small dodecicosacron. Its vertex figure is a crossed quadrilateral and it shares its vertex arrangement with the great stellated truncated dodecahedron.
 <br><br><b>Faces:</b> 20 regular hexagons and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 37.38° and 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecicosahedron.html" target="_blank">More...</a>
+<hr>
+<h4>6. Small dodecicosacron</h4>
+ <a href="vr/small_dodecicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/128A.png" class="foto"></a><img src="ar/128.png" class="qr">
+ <br>The small dodecicosacron (or small dipteral trisicosahedron) is the dual of uniform polyhedron small dodecicosahedron. It is visually identical to the small ditrigonal dodecacronic hexecontahedron and part of each face lies inside the solid, hence is invisible in solid models.
+<br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallDodecicosacron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
