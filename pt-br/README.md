@@ -508,6 +508,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/great_rhombihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/130A.png" class="foto"></a><img src="../ar/130.png" class="qr">
  <br>O grande rombihexacro (ou grande disdodecaedro dipteral) é o dual do grande rombihexaedro uniforme. Possui 12 vértices externos que têm o mesmo arranjo de vértices do cuboctaedro e 6 vértices internos com o arranjo de vértices de um octaedro. Pode ser considerado como visualmente semelhante ao sólido de Catalan dodecaedro disdyakis.
 <br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatRhombihexacron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>5. Grande rombihexaedro</h4>
+<a href="../vr/small_dodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/129A.png" class="foto"></a><img src="../ar/129.png" class="qr">
+ <br><span class="titulo">U<sub>50</sub></span> O grande rombihexaedro (ou grande rombocubo) é o poliedro uniforme cujo dual é o grande rombihexacro. O casco convexo do grande rombihexaedro é o cubo arquimediano truncado, cujo dual é o pequeno triakis octaedro, portanto o dual do grande rombihexaedro (grande rombihexacro) é uma das estrelas do pequeno triakis octaedro.
+<br><br><b>Faces:</b> 20 hexágonos regulares e 12 decágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 37.38° e 79.19°. <a href="https://mathworld.wolfram.com/GreatRhombihexahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
