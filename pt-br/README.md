@@ -511,7 +511,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>5. Pequeno dodecicosaedro</h4>
 <a href="../vr/small_dodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/129A.png" class="foto"></a><img src="../ar/129.png" class="qr">
- <br><span class="titulo">U<sub>50</sub></span> O pequeno dodecicosaedro (ou pequeno dodequicosaedro) é o poliedro uniforme cujo poliedro dual é o pequeno dodecicosacron. Sua figura de vértice é um quadrilátero cruzado e compartilha seu arranjo de vértice com o grande dodecaedro truncado estrelado.
+ <br><span class="titulo">U<sub>50</sub></span> O pequeno dodecicosaedro (ou pequeno dodequicosaedro) é o poliedro uniforme cujo dual é o pequeno dodecicosacron. Sua figura de vértice é um quadrilátero cruzado e compartilha seu arranjo de vértice com o grande dodecaedro truncado estrelado.
 <br><br><b>Faces:</b> 20 hexágonos regulares e 12 decágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 37.38° e 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecicosahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
