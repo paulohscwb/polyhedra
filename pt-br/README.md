@@ -496,8 +496,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Pequeno rombihexacro</h4>
  <a href="../vr/small_rhombihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/132A.png" class="foto"></a><img src="../ar/132.png" class="qr">
- <br>O pequeno rombihexacro (ou pequeno disdodecaedro dipteral) é o poliedro dual do pequeno rombihexaedro. É visualmente idêntico ao pequeno icositetraedro hexacrônico e suas faces são antiparalelogramos (gravatas borboleta) formados por pares de triângulos coplanares.
-<br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallRhombihexacron.html" target="_blank">Mais sobre...</a>
+ <br>O pequeno rombihexacro (ou pequeno disdodecaedro dipteral) é o poliedro dual do pequeno rombihexaedro. É visualmente idêntico ao pequeno icositetraedro hexacrônico e suas faces são antiparalelogramos (laços) formados por pares de triângulos coplanares.
+<br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombihexacron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Grande rombihexaedro</h4>
 <a href="../vr/great_rhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/131A.png" class="foto"></a><img src="../ar/131.png" class="qr">
@@ -507,22 +507,27 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>4. Grande rombihexacro</h4>
  <a href="../vr/great_rhombihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/130A.png" class="foto"></a><img src="../ar/130.png" class="qr">
  <br>O grande rombihexacro (ou grande disdodecaedro dipteral) é o dual do grande rombihexaedro uniforme. Possui 12 vértices externos que têm o mesmo arranjo de vértices do cuboctaedro e 6 vértices internos com o arranjo de vértices de um octaedro. Pode ser considerado como visualmente semelhante ao sólido de Catalan dodecaedro disdyakis.
-<br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatRhombihexacron.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 24 antiparalelogramos | <b>Arestas:</b> 48 | <b>Vértices:</b> 18 | <b>Ângulo diédrico:</b> 94.53°. <a href="https://en.wikipedia.org/wiki/Great_rhombihexacron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Pequeno dodecicosaedro</h4>
 <a href="../vr/small_dodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/129A.png" class="foto"></a><img src="../ar/129.png" class="qr">
  <br><span class="titulo">U<sub>50</sub></span> O pequeno dodecicosaedro (ou pequeno dodequicosaedro) é o poliedro uniforme cujo dual é o pequeno dodecicosacron. Sua figura de vértice é um quadrilátero cruzado e compartilha seu arranjo de vértice com o grande dodecaedro truncado estrelado.
 <br><br><b>Faces:</b> 20 hexágonos regulares e 12 decágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 37.38° e 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecicosahedron.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>6. Pequeno dodecicosacron</h4>
+<h4>6. Pequeno dodecicosacrono</h4>
  <a href="../vr/small_dodecicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/128A.png" class="foto"></a><img src="../ar/128.png" class="qr">
- <br>O pequeno dodecicosacron (ou pequeno trisicosaedro dipteral) é dual do poliedro uniforme pequeno dodecicosaedro. É visualmente idêntico ao pequeno hexecontaedro dodecacrônico ditrigonal e parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallDodecicosacron.html" target="_blank">Mais sobre...</a>
+ <br>O pequeno dodecicosacrono (ou pequeno trisicosaedro dipteral) é dual do poliedro uniforme pequeno dodecicosaedro. É visualmente idêntico ao pequeno hexecontaedro dodecacrônico ditrigonal e parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 146.23°. <a href="https://en.wikipedia.org/wiki/Small_dodecicosacron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>7. Grande dodecicosaedro</h4>
 <a href="../vr/great_dodecicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/127A.png" class="foto"></a><img src="../ar/127.png" class="qr">
  <br><span class="titulo">U<sub>63</sub></span> O grande dodecicosaedro (ou grande dodequicosaedro) é o poliedro uniforme cujo dual é o grande dodecicosacron. Sua figura de vértice é um quadrilátero cruzado e compartilha seu arranjo de vértice com o dodecaedro truncado.
 <br><br><b>Faces:</b> 20 hexágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 37.38° e 100.81°. <a href="https://mathworld.wolfram.com/GreatDodecicosahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>8. Grande dodecicosacrono</h4>
+ <a href="../vr/great_dodecicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/126A.png" class="foto"></a><img src="../ar/126.png" class="qr">
+ <br>O grande dodecicosacrono (ou grande trisicosaedro dipteral) é o dual do poliedro uniforme grande dodecicosaedro. Ele tem 60 faces em forma de laço (antiparalelogramos) que se cruzam e parte de cada face fica dentro do sólido, portanto, é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 127.69°. <a href="https://en.wikipedia.org/wiki/Great_dodecicosacron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
