@@ -288,14 +288,14 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 8 equilateral triangles and 6 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 70.53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">More...</a>
  <hr>
 <h4>17. Tetrahemihexahedron</h4>
- <div><a href="vr/tetrahemihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/197A.png" class="foto"></a><img src="ar/197.png" class="qr">
- <br><span class="titulo">U<sub>4</sub></span> The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. It is the only non-prismatic uniform polyhedron with an odd number of faces.</div>
-<br><div><b>Faces:</b> 4 equilateral triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">More...</a></div>
+ <a href="vr/tetrahemihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/197A.png" class="foto"></a><img src="ar/197.png" class="qr">
+ <br><span class="titulo">U<sub>4</sub></span> The tetrahemihexahedron is a nonconvex uniform polyhedron whose dual polyhedron is the tetrahemihexacron. It is a faceted form of the octahedron. It is the only non-prismatic uniform polyhedron with an odd number of faces.
+<br><br><b>Faces:</b> 4 equilateral triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Tetrahemihexahedron.html" target="_blank">More...</a>
  <hr>
 <h4>18. Cubohemioctahedron</h4>
- <div><a href="vr/cubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/198A.png" class="foto"></a><img src="ar/198.png" class="qr">
- <br><span class="titulo">U<sub>15</sub></span> The cubohemioctahedron is a nonconvex uniform polyhedron whose dual is the hexahemioctacron. It is a faceted version of the cuboctahedron. Its circumradius for unit edge length is R=1. </div>
-<br><div><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a></div>
+ <a href="vr/cubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/198A.png" class="foto"></a><img src="ar/198.png" class="qr">
+ <br><span class="titulo">U<sub>15</sub></span> The cubohemioctahedron is a nonconvex uniform polyhedron whose dual is the hexahemioctacron. It is a faceted version of the cuboctahedron. Its circumradius for unit edge length is R=1. 
+<br><br><br><br><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
@@ -538,7 +538,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>10. Small rhombidodecacron</h4>
  <a href="vr/small_rhombidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/124A.png" class="foto"></a><img src="ar/124.png" class="qr">
- <br>The small rhombidodecacron is the dual of the small rhombidodecahedron. It is visually identical to the small dodecacronic hexecontahedron.
+ <br>The small rhombidodecacron is the dual of the small rhombidodecahedron. It is visually identical to the small dodecacronic hexecontahedron and it has 60 intersecting antiparallelogram faces. 
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 154.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombidodecacron" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>

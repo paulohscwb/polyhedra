@@ -536,7 +536,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>10. Pequeno rombidodecácrono</h4>
  <a href="../vr/small_rhombidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/124A.png" class="foto"></a><img src="../ar/124.png" class="qr">
- <br>O pequeno rombidodecácrono é o dual do pequeno rombidodecaedro. É visualmente idêntico ao pequeno hexecontaedro dodecacrônico.
+ <br>O pequeno rombidodecácrono é o dual do pequeno rombidodecaedro. É visualmente idêntico ao pequeno hexecontaedro dodecacrônico e tem 60 faces de antiparalelogramos que se cruzam.
 <br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 42 | <b>Ângulo diédrico:</b> 154.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombidodecacron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
