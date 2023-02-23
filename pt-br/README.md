@@ -529,7 +529,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande dodecicosacrono (ou grande trisicosaedro dipteral) é o dual do poliedro uniforme grande dodecicosaedro. Ele tem 60 faces em forma de laço (antiparalelogramos) que se cruzam e parte de cada face fica dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 127.69°. <a href="https://en.wikipedia.org/wiki/Great_dodecicosacron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>9. pequeno rombidodecaedro</h4>
+<h4>9. Pequeno rombidodecaedro</h4>
 <a href="../vr/small_rhombidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/125A.png" class="foto"></a><img src="../ar/125.png" class="qr">
  <br><span class="titulo">U<sub>39</sub></span> O pequeno rombidodecaedro é o poliedro uniforme cujo dual é o pequeno rombidodecácrono. É uma versão facetada do pequeno rombicosidodecaedro e sua figura de vértice é um quadrilátero cruzado. Ele compartilha seu arranjo de vértice com o pequeno dodecaedro estrelado truncado e os compostos uniformes de 6 ou 12 prismas pentagrâmicos.
 <br><br><b>Faces:</b> 30 quadrados e 12 decágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 31.72° e 121.72°. <a href="https://mathworld.wolfram.com/SmallRhombidodecahedron.html" target="_blank">Mais sobre...</a>
