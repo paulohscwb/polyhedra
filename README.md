@@ -309,7 +309,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>1. Ditrigonal dodecahedron</h4>
  <a href="vr/ditrigonal_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/199A.png" class="foto"></a><img src="ar/199.png" class="qr">
- <br><span class="titulo">U<sub>41</sub></span> The ditrigonal dodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the medial triambic icosahedron. It is a faceted version of the small ditrigonal icosidodecahedron. 
+ <br><span class="titulo">U<sub>41</sub></span> The ditrigonal dodecahedron (or ditrigonary dodecadodecahedron) is a nonconvex uniform polyhedron whose dual is the medial triambic icosahedron. It is a faceted version of the small ditrigonal icosidodecahedron. 
 <br><br><b>Faces:</b> 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/DitrigonalDodecadodecahedron.html" target="_blank">More...</a>
  <hr>
 <h4>2. Medial Triambic Icosahedron</h4>
@@ -366,7 +366,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>12. Small Hexacronic Icositetrahedron</h4>
  <a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/156A.png" class="foto"></a><img src="ar/156.png" class="qr">
  <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron. A part of each dart lies inside the solid, hence is invisible in solid models.
-<br><br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/SmallHexacronicIcositetrahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 138.12°. <a href="https://en.wikipedia.org/wiki/Small_hexacronic_icositetrahedron" target="_blank">More...</a>
  <hr>
  <h4>13. Great Cubicuboctahedron</h4>
  <a href="vr/great_cubicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/155A.png" class="foto"></a><img src="ar/155.png" class="qr">
@@ -376,7 +376,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>14. Great Hexacronic Icositetrahedron</h4>
  <a href="vr/great_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/154A.png" class="foto"></a><img src="ar/154.png" class="qr">
  <br>The great hexacronic icositetrahedron is the dual of the great cubicuboctahedron. Its faces are kites, and part of each kite lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatHexacronicIcositetrahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 24 kites | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Diedral angle:</b> 94.53°. <a href="https://en.wikipedia.org/wiki/Great_hexacronic_icositetrahedron" target="_blank">More...</a>
  <hr>
  <h4>15. Uniform Great Rhombicuboctahedron</h4>
  <a href="vr/uniform_great_rhombicuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/153A.png" class="foto"></a><img src="ar/153.png" class="qr">
@@ -385,8 +385,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>16. Great Deltoidal Icositetrahedron</h4>
  <a href="vr/great_deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/152A.png" class="foto"></a><img src="ar/152.png" class="qr">
- <br>The great deltoidal icositetrahedron (or great sagittal disdodecahedron) is the dual of the uniform great rhombicuboctahedron. Its faces are darts, and part of each dart lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 94.53°. <a href="https://mathworld.wolfram.com/GreatDeltoidalIcositetrahedron.html" target="_blank">More...</a>
+ <br>The great deltoidal icositetrahedron (or great sagittal disdodecahedron) is the dual of the uniform great rhombicuboctahedron. Its faces are darts, and part of each dart lies inside the solid, hence is invisible in solid models. One of its halves can be rotated by 45&deg; to form the pseudo great deltoidal icositetrahedron, analogous to the pseudo-deltoidal icositetrahedron.  
+<br><br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Diedral angle:</b> 94.53°. <a href="https://en.wikipedia.org/wiki/Great_deltoidal_icositetrahedron" target="_blank">More...</a>
 <hr>
  <h4>17. Small Dodecicosidodecahedron</h4>
  <a href="vr/small_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/151A.png" class="foto"></a><img src="ar/151.png" class="qr">
@@ -396,7 +396,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>18. Small Dodecacronic Hexecontahedron</h4>
  <a href="vr/small_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/150A.png" class="foto"></a><img src="ar/150.png" class="qr">
  <br>The small dodecacronic hexecontahedron is the dual polyhedron of the small dodecicosidodecahedron. It is visually identical to the small rhombidodecacron. Its faces are darts, and a part of each dart lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 154.12°. <a href="https://mathworld.wolfram.com/SmallDodecacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 154.12°. <a href="https://polytope.miraheze.org/wiki/Small_dodecacronic_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>19. Great Dodecicosidodecahedron</h4>
  <a href="vr/great_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/149A.png" class="foto"></a><img src="ar/149.png" class="qr">
@@ -406,7 +406,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>20. Great dodecacronic hexecontahedron</h4>
  <a href="vr/great_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/148A.png" class="foto"></a><img src="ar/148.png" class="qr">
  <br>The Great dodecacronic hexecontahedron (or great lanceal ditriacontahedron) is the dual of the great dodecicosidodecahedron. Its 60 intersecting quadrilateral faces are kites. Part of each kite lies inside the solid, hence is invisible in solid models.
-<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 91.55°. <a href="https://mathworld.wolfram.com/GreatDodecacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_dodecacronic_hexecontahedron" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
  <hr>
 <h4>21. Small ditrigonal dodecicosidodecahedron</h4>
@@ -417,7 +417,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>22. Small ditrigonal dodecacronic hexecontahedron</h4>
  <a href="vr/small_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/146A.png" class="foto"></a><img src="ar/146.png" class="qr">
  <br>The Small ditrigonal dodecacronic hexecontahedron (or "fat" star) is the dual polyhedron of the small ditrigonal dodecicosidodecahedron. It is visually identical to the small dodecicosacron and its faces are darts. A part of each dart lies inside the solid, hence is invisible in solid models.
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallDitrigonalDodecacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 146.23°. <a href="https://en.wikipedia.org/wiki/Small_ditrigonal_dodecacronic_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>23. Great ditrigonal dodecicosidodecahedron</h4>
  <a href="vr/great_ditrigonal_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/145A.png" class="foto"></a><img src="ar/145.png" class="qr">
@@ -427,7 +427,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>24. Great ditrigonal dodecacronic hexecontahedron</h4>
  <a href="vr/great_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/144A.png" class="foto"></a><img src="ar/144.png" class="qr">
  <br>The Great ditrigonal dodecacronic hexecontahedron (or great lanceal trisicosahedron) is the dual of the great ditrigonal dodecicosidodecahedron and its faces are kites. Part of each kite lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatDitrigonalDodecacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 127.69°. <a href="https://en.wikipedia.org/wiki/Great_ditrigonal_dodecacronic_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>25. Icosidodecadodecahedron</h4>
  <a href="vr/icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/143A.png" class="foto"></a><img src="ar/143.png" class="qr">
@@ -437,7 +437,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>26. Medial icosacronic hexecontahedron</h4>
  <a href="vr/medial_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/142A.png" class="foto"></a><img src="ar/142.png" class="qr">
  <br>The Medial icosacronic hexecontahedron (or midly sagittal ditriacontahedron) is the dual of the icosidodecadodecahedron. Its faces are darts and part of each dart lies inside the solid, hence is invisible in solid models.
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialIcosacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Medial_icosacronic_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>27. Small icosicosidodecahedron</h4>
  <a href="vr/small_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/141A.png" class="foto"></a><img src="ar/141.png" class="qr">
@@ -447,7 +447,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>28. Small icosacronic hexecontahedron</h4>
  <a href="vr/small_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/140A.png" class="foto"></a><img src="ar/140.png" class="qr">
  <br>The Small icosacronic hexecontahedron (or small lanceal trisicosahedron) is The dual polyhedron of the small icosicosidodecahedron. Its faces are kites and part of each kite lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 146.23°. <a href="https://mathworld.wolfram.com/SmallIcosacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 146.23°. <a href="https://en.wikipedia.org/wiki/Small_icosacronic_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>29. Great Icosicosidodecahedron</h4>
  <a href="vr/great_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/139A.png" class="foto"></a><img src="ar/139.png" class="qr">
@@ -457,7 +457,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>30. Great icosacronic hexecontahedron</h4>
  <a href="vr/great_icosacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/138A.png" class="foto"></a><img src="ar/138.png" class="qr">
  <br>The Great icosacronic hexecontahedron (or great sagittal trisicosahedron) is the dual of the great icosicosidodecahedron. Its faces are darts and a part of each dart lies inside the solid, hence is invisible in solid models.  
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 127.69°. <a href="https://mathworld.wolfram.com/GreatIcosacronicHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 52 | <b>Diedral angle:</b> 127.69°. <a href="https://en.wikipedia.org/wiki/Great_icosacronic_hexecontahedron" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
  <hr>
 <h4>31. Rhombidodecadodecahedron</h4>
@@ -469,7 +469,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/medial_deltoidal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/136A.png" class="foto"></a><img src="ar/136.png" class="qr">
  <br>The medial deltoidal hexecontahedron is the dual of the rhombidodecadodecahedron. Its 60 intersecting quadrilateral faces are kites and part of each kite lies inside the solid, hence is invisible in solid models.
  <br>
-<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 54 | <b>Diedral angle:</b> 135.58°. <a href="https://mathworld.wolfram.com/MedialDeltoidalHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 kites | <b>Edges:</b> 120 | <b>Vertices:</b> 54 | <b>Diedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Medial_deltoidal_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>33. Uniform great rhombicosidodecahedron</h4>
  <a href="vr/uniform_great_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/135A.png" class="foto"></a><img src="ar/135.png" class="qr">
@@ -479,7 +479,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>34. Great deltoidal hexecontahedron</h4>
  <a href="vr/great_deltoidal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/134A.png" class="foto"></a><img src="ar/134.png" class="qr">
  <br>The great deltoidal hexecontahedron (or great sagittal ditriacontahedron) is the dual of the uniform great rhombicosidodecahedron. It is visually identical to the great rhombidodecacron and part of each dart lies inside the solid, hence is invisible in solid models. It is also called a great strombic hexecontahedron. 
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 91.55°. <a href="https://mathworld.wolfram.com/GreatDeltoidalHexecontahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Diedral angle:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_deltoidal_hexecontahedron" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
