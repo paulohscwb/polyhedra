@@ -295,7 +295,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>18. Cubohemioctahedron</h4>
  <a href="vr/cubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/198A.png" class="foto"></a><img src="ar/198.png" class="qr">
  <br><span class="titulo">U<sub>15</sub></span> The cubohemioctahedron is a nonconvex uniform polyhedron whose dual is the hexahemioctacron. It is a faceted version of the cuboctahedron. Its circumradius for unit edge length is R=1. 
-<br><br><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a>
+<br><br><br><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
