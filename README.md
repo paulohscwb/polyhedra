@@ -530,6 +530,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/great_dodecicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/126A.png" class="foto"></a><img src="ar/126.png" class="qr">
  <br>The great dodecicosacron (or great dipteral trisicosahedron) is the dual of uniform polyhedron great dodecicosahedron. It has 60 intersecting bow-tie-shaped (antiparallelograms) faces and part of each face lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 127.69°. <a href="https://en.wikipedia.org/wiki/Great_dodecicosacron" target="_blank">More...</a>
+<hr>
+<h4>9. Small rhombidodecahedron</h4>
+<a href="vr/small_rhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/127A.png" class="foto"></a><img src="ar/127.png" class="qr">
+ <br><span class="titulo">U<sub>39</sub></span> The small rhombidodecahedron (or great dodekicosahedron) is the uniform polyhedron whose dual is the great dodecicosacron. Its vertex figure is a crossed quadrilateral and shares its vertex arrangement with the truncated dodecahedron. 
+<br><br><b>Faces:</b> 30 squares and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 31.72° and 121.72°. <a href="https://mathworld.wolfram.com/GreatDodecicosahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
