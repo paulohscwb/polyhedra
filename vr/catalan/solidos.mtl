@@ -34,3 +34,33 @@ newmtl CorL
 Kd 0.1 0.1 0.2
 Ks 0.2 0.2 0.2
 d 1
+
+newmtl Cor7
+Kd 0.95 0.3 0.95
+Ks 0.2 0.2 0.2
+d 0.9
+
+newmtl Cor8
+Kd 0.5 1.0 0.5
+Ks 0.2 0.2 0.2
+d 0.9
+
+newmtl Cor9
+Kd 0.5 0.5 1.0
+Ks 0.2 0.2 0.2
+d 0.9
+
+newmtl Cor10
+Kd 0.7 0.7 1.0
+Ks 0.2 0.2 0.2
+d 0.9
+
+newmtl Cor11
+Kd 1.0 0.7 0.7
+Ks 0.2 0.2 0.2
+d 0.9
+
+newmtl Cor12
+Kd 0.4 0.7 0.4
+Ks 0.2 0.2 0.2
+d 0.9
