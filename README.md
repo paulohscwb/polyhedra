@@ -396,7 +396,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>18. Small Dodecacronic Hexecontahedron</h4>
  <a href="vr/small_dodecacronic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/150A.png" class="foto"></a><img src="ar/150.png" class="qr">
  <br>The small dodecacronic hexecontahedron is the dual polyhedron of the small dodecicosidodecahedron. It is visually identical to the small rhombidodecacron. Its faces are darts, and a part of each dart lies inside the solid, hence is invisible in solid models. 
-<br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 154.12°. <a href="https://polytope.miraheze.org/wiki/Small_dodecacronic_hexecontahedron" target="_blank">More...</a>
+<br><br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 44 | <b>Diedral angle:</b> 154.12°. <a href="https://polytope.miraheze.org/wiki/Small_dodecacronic_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>19. Great Dodecicosidodecahedron</h4>
  <a href="vr/great_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/149A.png" class="foto"></a><img src="ar/149.png" class="qr">

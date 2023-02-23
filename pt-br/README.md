@@ -394,7 +394,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <h4>18. Pequeno hexecontaedro dodecacrônico</h4>
  <a href="../vr/small_dodecacronic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/150A.png" class="foto"></a><img src="../ar/150.png" class="qr">
  <br>O pequeno hexecontaedro dodecacrônico é o poliedro dual do pequeno dodecicosidodecaedro. É visualmente idêntico ao pequeno rhombidodecacron. Suas faces são dardos, e uma parte de cada dardo fica dentro do sólido, portanto, é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 154,12°. <a href="https://polytope.miraheze.org/wiki/Small_dodecacronic_hexecontahedron" target="_blank">Mais sobre...</a>
+<br><br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 154,12°. <a href="https://polytope.miraheze.org/wiki/Small_dodecacronic_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>19. Grande hexecontaedro dodecacrônico</h4>
  <a href="../vr/great_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/149A.png" class="foto"></a><img src="../ar/149.png" class="qr">
