@@ -293,7 +293,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>18. Cubohemioctaedro</h4>
  <a href="../vr/cubohemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/198A.png" class="foto"></a><img src="../ar/198.png" class="qr">
  <br><span class="titulo">U<sub>15</sub></span> O cubohemioctaedro é um poliedro uniforme não convexo cujo dual é o hexahemioctacron. É uma versão facetada do cuboctaedro. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
-<br><br><b>Faces:</b> 6 quadrados e 4 hexágonos regulares | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">Mais sobre...</a>
+<br><br><br><b>Faces:</b> 6 quadrados e 4 hexágonos regulares | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 </details>
 
