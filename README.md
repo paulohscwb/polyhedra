@@ -533,8 +533,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>9. Small rhombidodecahedron</h4>
 <a href="vr/small_rhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/127A.png" class="foto"></a><img src="ar/127.png" class="qr">
- <br><span class="titulo">U<sub>39</sub></span> The small rhombidodecahedron (or great dodekicosahedron) is the uniform polyhedron whose dual is the great dodecicosacron. Its vertex figure is a crossed quadrilateral and shares its vertex arrangement with the truncated dodecahedron. 
-<br><br><b>Faces:</b> 30 squares and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 31.72° and 121.72°. <a href="https://mathworld.wolfram.com/GreatDodecicosahedron.html" target="_blank">More...</a>
+ <br><span class="titulo">U<sub>39</sub></span> The small rhombidodecahedron is the uniform polyhedron whose dual is the small rhombidodecacron. It is a faceted version of the small rhombicosidodecahedron and its vertex figure is a crossed quadrilateral. It shares its vertex arrangement with the small stellated truncated dodecahedron and the uniform compounds of 6 or 12 pentagrammic prisms. 
+<br><br><b>Faces:</b> 30 squares and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 31.72° and 121.72°. <a href="https://mathworld.wolfram.com/SmallRhombidodecahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
