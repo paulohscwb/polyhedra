@@ -526,7 +526,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>63</sub></span> The great dodecicosahedron (or great dodekicosahedron) is the uniform polyhedron whose dual is the great dodecicosacron. Its vertex figure is a crossed quadrilateral and shares its vertex arrangement with the truncated dodecahedron. 
 <br><br><b>Faces:</b> 20 regular hexagons and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 37.38° and 100.81°. <a href="https://mathworld.wolfram.com/GreatDodecicosahedron.html" target="_blank">More...</a>
 <hr>
-<h4>8. Small dodecicosacron</h4>
+<h4>8. Great dodecicosacron</h4>
  <a href="vr/great_dodecicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/126A.png" class="foto"></a><img src="ar/126.png" class="qr">
  <br>The great dodecicosacron (or great dipteral trisicosahedron) is the dual of uniform polyhedron great dodecicosahedron. It has 60 intersecting bow-tie-shaped (antiparallelograms) faces and part of each face lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 32 | <b>Diedral angle:</b> 127.69°. <a href="https://en.wikipedia.org/wiki/Great_dodecicosacron" target="_blank">More...</a>
@@ -535,6 +535,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/small_rhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/125A.png" class="foto"></a><img src="ar/125.png" class="qr">
  <br><span class="titulo">U<sub>39</sub></span> The small rhombidodecahedron is the uniform polyhedron whose dual is the small rhombidodecacron. It is a faceted version of the small rhombicosidodecahedron and its vertex figure is a crossed quadrilateral. It shares its vertex arrangement with the small stellated truncated dodecahedron and the uniform compounds of 6 or 12 pentagrammic prisms. 
 <br><br><b>Faces:</b> 30 squares and 12 regular decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 31.72° and 121.72°. <a href="https://mathworld.wolfram.com/SmallRhombidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>10. Small rhombidodecacron</h4>
+ <a href="vr/small_rhombidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/124A.png" class="foto"></a><img src="ar/124.png" class="qr">
+ <br>The small rhombidodecacron is the dual of the small rhombidodecahedron. It is visually identical to the small dodecacronic hexecontahedron.
+<br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 154.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombidodecacron" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
