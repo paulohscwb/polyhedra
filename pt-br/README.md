@@ -226,7 +226,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
  <h4>5. Icosaedro ortogonal de Jessen</h4>
  <a href="../vr/jessens_orthogonal_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/185A.png" class="foto"></a><img src="../ar/185.png" class="qr">
- <br>O icosaedro ortogonal de Jessen é um poliedro construído substituindo seis pares de triângulos adjacentes em um icosaedro (cujas arestas formam um quadrilátero oblíquo) por pares de triângulos isósceles compartilhando uma base comum. O poliedro pode ser construído dividindo os lados do octaedro na proporção áurea (como usado na construção do icosaedro ao longo das bordas do octaedro), mas invertendo os segmentos longo e curto. O esqueleto do icosaedro ortogonal de Jessen é o gráfico icosaédrico. Este poliedro têm 8 triângulos equiláteros e 12 triângulos isósceles (com ângulos de 109,47 e 35,26°).
+ <br>O icosaedro ortogonal de Jessen é um poliedro construído substituindo seis pares de triângulos adjacentes em um icosaedro (cujas arestas formam um quadrilátero oblíquo) por pares de triângulos isósceles compartilhando uma base comum. O poliedro pode ser construído dividindo os lados do octaedro na proporção áurea (como usado na construção do icosaedro ao longo das arestas do octaedro), mas invertendo os segmentos longo e curto. O esqueleto do icosaedro ortogonal de Jessen é o gráfico icosaédrico. Este poliedro têm 8 triângulos equiláteros e 12 triângulos isósceles (com ângulos de 109,47 e 35,26°).
 <br><br><b>Faces:</b> 20 triângulos | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 90° e 270°. <a href="https://mathworld.wolfram.com/JessensOrthogonalIcosahedron.html" target="_blank">Mais sobre...</a>
  <hr>
  <h4>6. Pequeno dodecaedro estrelado</h4>
@@ -552,7 +552,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>13. Grande rombidodecaedro</h4>
 <a href="../vr/rhombicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/121A.png" class="foto"></a><img src="../ar/121.png" class="qr">
- <br><span class="titulo">U<sub>56</sub></span> O rombicosaedro é o poliedro uniforme cujo  dual é o rombicosacron. Sua figura de vértice é um antiparalelogramo e compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares. Além disso, compartilha suas bordas com o rombidodecadodecaedro (tendo as faces quadradas em comum) e o icosidodecadodecaedro (tendo as faces hexagonais em comum).
+ <br><span class="titulo">U<sub>56</sub></span> O rombicosaedro é o poliedro uniforme cujo  dual é o rombicosacron. Sua figura de vértice é um antiparalelogramo e compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares. Além disso, compartilha suas arestas com o rombidodecadodecaedro (tendo as faces quadradas em comum) e o icosidodecadodecaedro (tendo as faces hexagonais em comum).
 <br><br><b>Faces:</b> 30 quadrados e 20 hexágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 20.91° e 110.91°. <a href="https://mathworld.wolfram.com/Rhombicosahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
