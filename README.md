@@ -556,6 +556,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/rhombicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/121A.png" class="foto"></a><img src="ar/121.png" class="qr">
  <br><span class="titulo">U<sub>56</sub></span> The rhombicosahedron is the uniform polyhedron whose dual is the rhombicosacron. Its vertex figure is an antiparallelogram and it shares its vertex arrangement with the uniform compounds of 10 or 20 triangular prisms. It additionally shares its edges with the rhombidodecadodecahedron (having the square faces in common) and the icosidodecadodecahedron (having the hexagonal faces in common).
 <br><br><b>Faces:</b> 30 squares and 20 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 20.91° and 110.91°. <a href="https://mathworld.wolfram.com/Rhombicosahedron.html" target="_blank">More...</a>
+<hr>
+<h4>14. Rhombicosacron</h4>
+ <a href="vr/rhombicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/120A.png" class="foto"></a><img src="ar/120.png" class="qr">
+ <br>The rhombicosacron (or midly dipteral ditriacontahedron) is the dual of the uniform rhombicosahedron. It has crossed-quadrilateral (antiparallelograms) faces.  
+<br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 50 | <b>Diedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Rhombicosacron" target="_blank">More...</a>
 <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
