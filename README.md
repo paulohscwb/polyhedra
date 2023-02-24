@@ -539,13 +539,18 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>10. Small rhombidodecacron</h4>
  <a href="vr/small_rhombidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/124A.png" class="foto"></a><img src="ar/124.png" class="qr">
  <br>The small rhombidodecacron is the dual of the small rhombidodecahedron. It is visually identical to the small dodecacronic hexecontahedron and it has 60 intersecting antiparallelogram faces. 
-<br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 154.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombidodecacron" target="_blank">More...</a>
+<br><br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 154.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombidodecacron" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
  <hr>
 <h4>11. Great rhombidodecahedron</h4>
 <a href="vr/great_rhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/123A.png" class="foto"></a><img src="ar/123.png" class="qr">
  <br><span class="titulo">U<sub>73</sub></span> The great rhombidodecahedron is the uniform polyhedron whose dual is the great rhombidodecacron. Its vertex figure is a crossed quadrilateral and it shares its vertex arrangement with the truncated great dodecahedron and the uniform compounds of 6 or 12 pentagonal prisms.
 <br><br><b>Faces:</b> 30 squares and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 31.72° and 58.28°. <a href="https://mathworld.wolfram.com/GreatRhombidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>12. Great rhombidodecacron</h4>
+ <a href="vr/great_rhombidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/122A.png" class="foto"></a><img src="ar/122.png" class="qr">
+ <br>The great rhombidodecacron (or great dipteral ditriacontahedron) is the dual of the great rhombidodecahedron. It is visually identical to the great deltoidal hexecontahedron and its faces are antiparallelograms. Part of each face lies inside the solid, hence is invisible in solid models.  
+<br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_rhombidodecacron" target="_blank">More...</a>
 <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
