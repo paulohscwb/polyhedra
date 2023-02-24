@@ -552,7 +552,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great rhombidodecacron (or great dipteral ditriacontahedron) is the dual of the great rhombidodecahedron. It is visually identical to the great deltoidal hexecontahedron and its faces are antiparallelograms. Part of each face lies inside the solid, hence is invisible in solid models.  
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_rhombidodecacron" target="_blank">More...</a>
 <hr>
-<h4>13. Great rhombidodecahedron</h4>
+<h4>13. Rhombicosahedron</h4>
 <a href="vr/rhombicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/121A.png" class="foto"></a><img src="ar/121.png" class="qr">
  <br><span class="titulo">U<sub>56</sub></span> The rhombicosahedron is the uniform polyhedron whose dual is the rhombicosacron. Its vertex figure is an antiparallelogram and it shares its vertex arrangement with the uniform compounds of 10 or 20 triangular prisms. It additionally shares its edges with the rhombidodecadodecahedron (having the square faces in common) and the icosidodecadodecahedron (having the hexagonal faces in common).
 <br><br><b>Faces:</b> 30 squares and 20 regular hexagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 20.91° and 110.91°. <a href="https://mathworld.wolfram.com/Rhombicosahedron.html" target="_blank">More...</a>
