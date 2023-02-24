@@ -550,10 +550,15 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande rombidodecácrono (ou grande ditriacontaedro dipteral) é o dual do grande rombidodecaedro. É visualmente idêntico ao grande hexecontaedro deltoidal e suas faces são antiparalelogramos. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 42 | <b>Ângulo diédrico:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_rhombidodecacron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>13. Grande rombidodecaedro</h4>
+<h4>13. Rombicosaedro</h4>
 <a href="../vr/rhombicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/121A.png" class="foto"></a><img src="../ar/121.png" class="qr">
  <br><span class="titulo">U<sub>56</sub></span> O rombicosaedro é o poliedro uniforme cujo  dual é o rombicosacron. Sua figura de vértice é um antiparalelogramo e compartilha seu arranjo de vértice com os compostos uniformes de 10 ou 20 prismas triangulares. Além disso, compartilha suas arestas com o rombidodecadodecaedro (tendo as faces quadradas em comum) e o icosidodecadodecaedro (tendo as faces hexagonais em comum).
 <br><br><b>Faces:</b> 30 quadrados e 20 hexágonos regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 20.91° e 110.91°. <a href="https://mathworld.wolfram.com/Rhombicosahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>14. Rombicosacro</h4>
+ <a href="../vr/rhombicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/120A.png" class="foto"></a><img src="../ar/120.png" class="qr">
+ <br>O rombicosacro (ou ditriacontaedro dipteral mediano) é o dual do rombicosaedro uniforme. Possui faces quadrilaterais cruzadas (antiparalelogramos).
+<br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 50 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Rhombicosacron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
