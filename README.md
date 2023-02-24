@@ -541,6 +541,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The small rhombidodecacron is the dual of the small rhombidodecahedron. It is visually identical to the small dodecacronic hexecontahedron and it has 60 intersecting antiparallelogram faces. 
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 42 | <b>Diedral angle:</b> 154.12°. <a href="https://en.wikipedia.org/wiki/Small_rhombidodecacron" target="_blank">More...</a>
  <p class="topop"><a href="#p6" class="topo">back to top</a></p>
+ <hr>
+<h4>11. Great rhombidodecahedron</h4>
+<a href="vr/great_rhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/123A.png" class="foto"></a><img src="ar/123.png" class="qr">
+ <br><span class="titulo">U<sub>73</sub></span> The great rhombidodecahedron is the uniform polyhedron whose dual is the great rhombidodecacron. Its vertex figure is a crossed quadrilateral and it shares its vertex arrangement with the truncated great dodecahedron and the uniform compounds of 6 or 12 pentagonal prisms.
+<br><br><b>Faces:</b> 30 squares and 12 regular decagrams | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Diedral angles:</b> 31.72° and 58.28°. <a href="https://mathworld.wolfram.com/GreatRhombidodecahedron.html" target="_blank">More...</a>
+<p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
