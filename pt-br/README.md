@@ -299,7 +299,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 
 <details id="p5">
   <summary>Poliedros de auto-interseção</summary>
-  Os poliedros de auto-interseção podem ter faces auto-interseccionadas ou figuras de vértices auto-interseccionados.Para visualizar os poliedros de auto-interseção em RA, visite a página:
+  Os poliedros de auto-interseção podem ter faces auto-interseccionadas ou figuras de vértices auto-interseccionados. Para visualizar os poliedros de auto-interseção em RA, visite a página:
 <p align="center"><a href="../selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
@@ -483,7 +483,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 
 <details id="p6" style="border-bottom: 1px solid #a2dec0;">
   <summary>Poliedros quase regulares</summary>
-  Para visualizar os poliedros quase regulares em RA, visite a página:
+  Um poliedro quase regular é um poliedro uniforme que tem exatamente dois tipos de faces regulares, que se alternam em torno de cada vértice. Para visualizar os poliedros quase regulares em RA, visite a página:
 <p align="center"><a href="../quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
