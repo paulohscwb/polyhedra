@@ -248,12 +248,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/great_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/189A.png" class="foto"></a><img src="../ar/189.png" class="qr">
  <br><span class="titulo">U<sub>53</sub></span> O grande icosaedro é um dos sólidos de Kepler-Poinsot cujo dual é o grande dodecaedro estrelado. O grande icosaedro pode ser construído a partir de um icosaedro com comprimentos de aresta unitários, tomando os 20 conjuntos de vértices que são mutuamente espaçados por uma distância &phi; (proporção áurea). O sólido, portanto, consiste em 20 triângulos equiláteros e a simetria de seu arranjo é tal que o sólido resultante contém 12 pentagramas.
 <br><br><b>Faces:</b> 20 triângulos equiláteros | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 41,81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">Mais sobre...</a>
-<p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>10. Pequeno dodecahemicosacron</h4>
  <a href="../vr/small_dodecahemicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/190A.png" class="foto"></a><img src="../ar/190.png" class="qr">
  <br><span class="titulo">U<sub>62</sub></span> O poliedro uniforme cujo poliedro dual é o pequeno dodecahemicosacron. É uma versão facetada do icosidodecaedro. É um hemipoliedro com dez faces hexagonais passando pelo centro do modelo.
 <br><br><b>Faces:</b> 12 pentagramas regulares e 10 hexágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79,19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
  <hr>
 <h4>11. Grande dodecahemidodecaedro</h4>
  <a href="../vr/great_dodecahemidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/191A.png" class="foto"></a><img src="../ar/191.png" class="qr">
@@ -294,6 +294,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/cubohemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/198A.png" class="foto"></a><img src="../ar/198.png" class="qr">
  <br><span class="titulo">U<sub>15</sub></span> O cubohemioctaedro é um poliedro uniforme não convexo cujo dual é o hexahemioctacron. É uma versão facetada do cuboctaedro. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
 <br><br><br><b>Faces:</b> 6 quadrados e 4 hexágonos regulares | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 54,74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>19. Deltaedro de Möbius - 24 faces</h4>
+ <a href="../vr/mobius24.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/119A.png" class="foto"></a><img src="../ar/119.png" class="qr">
+ <br>Um deltaedro é um poliedro com faces que são todos triângulos equiláteros. Existem cinco deltaedros acópticos para os quais cada linha de borda está em um plano de simetria. Triângulos de Möbius são aqueles que ocorrem na superfície de uma esfera dividida em seus planos de simetria. Os deltaedros de Möbius são simplesmente isômeros das versões do triângulo de Möbius do tetraedro (24 faces), cubo e dodecaedro.
+<br><br><b>Faces:</b> 24 triângulos equiláteros | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 </details>
 

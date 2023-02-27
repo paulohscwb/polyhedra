@@ -250,12 +250,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/great_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/189A.png" class="foto"></a><img src="ar/189.png" class="qr">
  <br><span class="titulo">U<sub>53</sub></span> The great icosahedron is one of the Kepler-Poinsot solids whose dual is the great stellated dodecahedron. The great icosahedron can be constructed from an icosahedron with unit edge lengths by taking the 20 sets of vertices that are mutually spaced by a distance &phi; (the golden ratio). The solid therefore consists of 20 equilateral triangles, and the symmetry of their arrangement is such that the resulting solid contains 12 pentagrams. 
 <br><br><b>Faces:</b> 20 equilateral triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 41.81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">More...</a>
-<p class="topop"><a href="#p4" class="topo">back to top</a></p>
 <hr>
 <h4>10. Small Dodecahemicosahedron</h4>
  <a href="vr/small_dodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/190A.png" class="foto"></a><img src="ar/190.png" class="qr">
  <br><span class="titulo">U<sub>62</sub></span> The uniform polyhedron whose dual polyhedron is the small dodecahemicosacron. It is a faceted version of the icosidodecahedron. It is a hemipolyhedron with ten hexagonal faces passing through the model center.  
 <br><br><b>Faces:</b> 12 regular pentagrams and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">More...</a>
+<p class="topop"><a href="#p4" class="topo">back to top</a></p>
  <hr>
 <h4>11. Great Dodecahemidodecahedron</h4>
  <a href="vr/great_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/191A.png" class="foto"></a><img src="ar/191.png" class="qr">
@@ -296,6 +296,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/cubohemioctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/198A.png" class="foto"></a><img src="ar/198.png" class="qr">
  <br><span class="titulo">U<sub>15</sub></span> The cubohemioctahedron is a nonconvex uniform polyhedron whose dual is the hexahemioctacron. It is a faceted version of the cuboctahedron. Its circumradius for unit edge length is R=1. 
 <br><br><br><br><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a>
+ <hr>
+<h4>19. Möbius deltahedra 24 faces</h4>
+ <a href="vr/mobius24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/119A.png" class="foto"></a><img src="ar/119.png" class="qr">
+ <br>A deltahedron is a polyhedron with faces that are all equilateral triangles. There are five acoptic deltahedra for which every edge line is on a symmetry plane. Möbius Triangles are those that occur on the surface of a sphere has been divided its symmetry planes. Möbius Deltahedra are simply isomers of the Möbius Triangle versions of the tetrahedron, cube and dodecahedron.
+<br><br><b>Faces:</b> 24 equilateral triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
