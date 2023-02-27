@@ -3,7 +3,7 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
-<br><br>Os poliedros de Arquimedes, Platão, Catalan e não convexos podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, cada poliedro pode ser visto em RV.
+<br><br>Os poliedros de Arquimedes, Platão, Catalan, não convexos e quase regulares podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, cada poliedro pode ser visto em RV.
 <br>Um <b>poliedro uniforme</b> possui polígonos regulares como faces e é isogonal, ou seja, possui uma isometria que permite que o conjunto de seus vértices correspondam entre si por meio de relações de simetria. A notação usada para o <b>n-ésimo</b> poliedro uniforme é <b>U<sub>n</sub></b>.
 <br>O ambiente RA foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js" target="_blank"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
@@ -198,7 +198,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 
 <details id="p4">
   <summary>Poliedros não convexos</summary>
-  Para visualizar os poliedros não convexos em RA, visite a página:
+  Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces. Para visualizar os poliedros não convexos em RA, visite a página:
 <p align="center"><a href="../nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
