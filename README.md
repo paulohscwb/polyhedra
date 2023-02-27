@@ -3,7 +3,7 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
- <br><br>The Archimedean, Plato, Catalan, non convex, self-intersecting and quasi-regular polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
+ <br><br>The Archimedean, Plato, Catalan, non convex, self-intersecting and quasi regular polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
  <br>A <b>uniform polyhedron</b> has regular polygons as faces and is isogonal, that is, it has an isometry that allows the set of its vertices to correspond to each other through symmetry relations. The notation used for the <b>n<sup>th</sup></b> uniform polyhedron is <b>U<sub>n</sub></b>.
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js" target="_blank">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Kevin Ngo</b> were used on the VR pages: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
@@ -485,7 +485,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  
  <details id="p6" style="border-bottom: 1px solid #a2dec0;">
   <summary>Quasi regular polyhedra</summary>
-To view quasi regular polyhedra in AR, simply visit:
+A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. To view quasi regular polyhedra in AR, simply visit:
 <p align="center"><a href="quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
