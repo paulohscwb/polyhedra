@@ -301,7 +301,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <details id="p5">
   <summary>Self-intersecting polyhedra</summary>
-To view self-intersecting polyhedra in AR, simply visit:
+The self-intersecting polyhedra may either have self-intersecting faces, or self-intersecting vertex figures. To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="selfintersect.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
