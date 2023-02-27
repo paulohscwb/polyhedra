@@ -200,7 +200,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <details id="p4">
   <summary>Non-convex polyhedra</summary>
-To view non-convex polyhedra in AR, simply visit:
+A polyhedron is non-convex if at least one of its diagonals is outside the region bounded by its faces. To view non-convex polyhedra in AR, simply visit:
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
