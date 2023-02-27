@@ -3,7 +3,7 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
- <br><br>The Archimedean, Plato, Catalan and nonconvex polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
+ <br><br>The Archimedean, Plato, Catalan, non convex and quasi-regular polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
  <br>A <b>uniform polyhedron</b> has regular polygons as faces and is isogonal, that is, it has an isometry that allows the set of its vertices to correspond to each other through symmetry relations. The notation used for the <b>n<sup>th</sup></b> uniform polyhedron is <b>U<sub>n</sub></b>.
 <br>The AR environment was created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js" target="_blank">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Kevin Ngo</b> were used on the VR pages: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
@@ -199,8 +199,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 </details>
 
 <details id="p4">
-  <summary>Non-convex polyhedra</summary>
-A polyhedron is non-convex if at least one of its diagonals is outside the region bounded by its faces. To view non-convex polyhedra in AR, simply visit:
+  <summary>Nonconvex polyhedra</summary>
+A polyhedron is nonconvex if at least one of its diagonals is outside the region bounded by its faces. To view nonconvex polyhedra in AR, simply visit:
 <p align="center"><a href="nonconvex.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
@@ -259,7 +259,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>11. Great Dodecahemidodecahedron</h4>
  <a href="vr/great_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/191A.png" class="foto"></a><img src="ar/191.png" class="qr">
- <br><span class="titulo">U<sub>70</sub></span> The large dodecahemidodecahedron is a uniform non-convex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
+ <br><span class="titulo">U<sub>70</sub></span> The large dodecahemidodecahedron is a uniform nonconvex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
 <br><br><b>Faces:</b> 12 regular pentagrams and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Diedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahemidodecahedron.html" target="_blank">More...</a>
  <hr>
 <h4>12. Great Dodecahemicosahedron</h4>
