@@ -305,7 +305,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>20. Möbius Octakis Hexahedron</h4>
  <a href="vr/mobius48a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/118A.png" class="foto"></a><img src="ar/118.png" class="qr">
  <br>The Octakis Hexahedron is a 48-faced Möbius deltahedron derived from the cube and the medial rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
-<br><br><b>Faces:</b> 24 equilateral triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 48 equilateral triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
+ <p class="topop"><a href="#p4" class="topo">back to top</a></p>
+ <hr>
+<h4>21. Möbius Hexakis Octahedron</h4>
+ <a href="vr/mobius48b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/117A.png" class="foto"></a><img src="ar/117.png" class="qr">
+ <br>The Hexakis Octahedron is a 48-faced Möbius deltahedron derived from the cube and the medial rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
+<br><br><b>Faces:</b> 48 equilateral triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
 
