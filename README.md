@@ -318,7 +318,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The Hexakis Icosahedron is a 120-faced Möbius deltahedron derived from the icosahedron and the great rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
 <br><br><b>Faces:</b> 120 equilateral triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
 <hr>
-<h4>22. Möbius 10-akis Dodecahedron</h4>
+<h4>23. Möbius 10-akis Dodecahedron</h4>
  <a href="vr/mobius120b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/115A.png" class="foto"></a><img src="ar/115.png" class="qr">
  <br>The 10-akis Dodecahedron is a 120-faced Möbius deltahedron derived from the dodecahedron and the great rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
 <br><br><b>Faces:</b> 120 equilateral triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
