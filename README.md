@@ -297,9 +297,14 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>15</sub></span> The cubohemioctahedron is a nonconvex uniform polyhedron whose dual is the hexahemioctacron. It is a faceted version of the cuboctahedron. Its circumradius for unit edge length is R=1. 
 <br><br><br><br><b>Faces:</b> 6 squares and 4 regular hexagons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Diedral angle:</b> 54.74°. <a href="https://mathworld.wolfram.com/Cubohemioctahedron.html" target="_blank">More...</a>
  <hr>
-<h4>19. Möbius deltahedra 24 faces</h4>
+<h4>19. Möbius Deltahedron - 24 faces</h4>
  <a href="vr/mobius24.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/119A.png" class="foto"></a><img src="ar/119.png" class="qr">
  <br>A deltahedron is a polyhedron with faces that are all equilateral triangles. There are five acoptic deltahedra for which every edge line is on a symmetry plane. Möbius Triangles are those that occur on the surface of a sphere has been divided its symmetry planes. Möbius Deltahedra are simply isomers of the Möbius Triangle versions of the tetrahedron, cube and dodecahedron.
+<br><br><b>Faces:</b> 24 equilateral triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
+<hr>
+<h4>20. Möbius Octakis Hexahedron</h4>
+ <a href="vr/mobius48a.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/118A.png" class="foto"></a><img src="ar/118.png" class="qr">
+ <br>The Octakis Hexahedron is a 48-faced Möbius deltahedron derived from the cube and the medial rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
 <br><br><b>Faces:</b> 24 equilateral triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 </details>
