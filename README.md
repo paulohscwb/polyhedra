@@ -212,7 +212,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 48 isosceles triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angles:</b> 117.04° and 90°. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
 <hr>
 <h4>2. Dual of Escher's Solid</h4>
- <a href="vr/escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/114A.png" class="foto"></a><img src="ar/114.png" class="qr">
+ <a href="vr/escher_dual.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/114A.png" class="foto"></a><img src="ar/114.png" class="qr">
  <br>The dual of Escher's solid was modeled by the author of this page (Paulo Henrique Siqueira) using the coordinates of the vertices and the respective edges of the Escher solid.
 <br><br><br><b>Faces:</b> 8 regular hexagons, 6 octagons and 12 rectangles | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Dihedral angles:</b> 114.74°, 125,26° and 135°. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
  <hr>
