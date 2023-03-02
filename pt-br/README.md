@@ -315,18 +315,23 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/mobius48a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/118A.png" class="foto"></a><img src="../ar/118.png" class="qr">
  <br>O Hexaedro Octakis é um deltaedro de Möbius com 48 faces derivado do cubo e do triacontaedro rômbico medial. É um dos cinco deltaedros que possuem cada aresta em um plano de simetria.
 <br><br><b>Faces:</b> 48 triângulos equiláteros | <b>Arestas:</b> 72 | <b>Vértices:</b> 26 | <b>Ângulos diédricos:</b> 319.8°, 203.74° e 105.16°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>23. Dual do Hexaedro Octakis de Möbius</h4>
+ <a href="../vr/mobius48a_dual.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/112A.png" class="foto"></a><img src="../ar/112.png" class="qr">
+ <br>O dual do hexaedro octakis de Möbius foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do hexaedro octakis de Möbius.
+<br><br><b>Faces:</b> 6 octógonos, 8 hexágonos e 12 retângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Ângulos diédricos:</b> 144,74°, 125.19° e 135°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
  <hr>
-<h4>23. Octaedro Hexakis de Möbius</h4>
+<h4>24. Octaedro Hexakis de Möbius</h4>
  <a href="../vr/mobius48b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/117A.png" class="foto"></a><img src="../ar/117.png" class="qr">
  <br>O Octaedro Hexakis é um deltaedro de Möbius com 48 faces derivado do cubo e do triacontaedro rômbico medial. É um dos cinco deltaedros que possuem cada aresta em um plano de simetria.
 <br><br><b>Faces:</b> 48 triângulos equiláteros | <b>Arestas:</b> 72 | <b>Vértices:</b> 26 | <b>Ângulos diédricos:</b> 352.13°, 123.82° e 93.74°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>24. Icosaedro Hexakis de Möbius</h4>
+<h4>25. Icosaedro Hexakis de Möbius</h4>
  <a href="../vr/mobius120a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/116A.png" class="foto"></a><img src="../ar/116.png" class="qr">
  <br>O Icosaedro Hexakis é um deltaedro de Möbius com 120 faces derivado do icosaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada borda em um plano de simetria.
 <br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 282.71°, 206.75° e 85.47°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>25. Dodecaedro 10-akis de Möbius</h4>
+<h4>26. Dodecaedro 10-akis de Möbius</h4>
  <a href="../vr/mobius120b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/115A.png" class="foto"></a><img src="../ar/115.png" class="qr">
  <br>O Dodecaedro 10-akis é um deltaedro de Möbius com 120 faces derivado do dodecaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada borda em um plano de simetria.
 <br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 332.16°, 132.64° e 82.51°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
