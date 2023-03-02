@@ -6,7 +6,7 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene >
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -18,55 +18,6 @@
 		</a-assets>
 				
 		<a-entity position="0 0 0" rotation="0 90 0" scale="5.5 5.5 5.5">
-			<a-text position='0.7958 0.4675 -0.133' value='1' mixin='texto'></a-text>
-<a-text position='-0.795 -0.467 0.1336' value='2' mixin='texto'></a-text>
-<a-text position='0.7675 0.3280 0.4161' value='3' mixin='texto'></a-text>
-<a-text position='-0.767 -0.328 -0.416' value='4' mixin='texto'></a-text>
-<a-text position='0.8412 0.1485 0.3743' value='5' mixin='texto'></a-text>
-<a-text position='-0.841 -0.148 -0.374' value='6' mixin='texto'></a-text>
-<a-text position='0.8695 0.2881 -0.175' value='7' mixin='texto'></a-text>
-<a-text position='-0.869 -0.288 0.1754' value='8' mixin='texto'></a-text>
-<a-text position='0.7887 -0.028 -0.496' value='9' mixin='texto'></a-text>
-<a-text position='-0.788 0.0287 0.4968' value='10' mixin='texto'></a-text>
-<a-text position='0.6604 -0.560 -0.345' value='11' mixin='texto'></a-text>
-<a-text position='-0.660 0.5607 0.3452' value='12' mixin='texto'></a-text>
-<a-text position='0.5373 -0.575 -0.500' value='13' mixin='texto'></a-text>
-<a-text position='-0.537 0.5752 0.5001' value='14' mixin='texto'></a-text>
-<a-text position='0.6656 -0.043 -0.651' value='15' mixin='texto'></a-text>
-<a-text position='-0.665 0.0432 0.6518' value='16' mixin='texto'></a-text>
-<a-text position='0.3441 0.2263 -0.836' value='17' mixin='texto'></a-text>
-<a-text position='0.7375 -0.281 0.4967' value='18' mixin='texto'></a-text>
-<a-text position='-0.182 0.0281 -0.914' value='19' mixin='texto'></a-text>
-<a-text position='0.6375 -0.673 0.0986' value='20' mixin='texto'></a-text>
-<a-text position='-0.256 0.2076 -0.872' value='21' mixin='texto'></a-text>
-<a-text position='0.5005 -0.756 0.2153' value='22' mixin='texto'></a-text>
-<a-text position='0.2704 0.4057 -0.795' value='23' mixin='texto'></a-text>
-<a-text position='0.6005 -0.364 0.6134' value='24' mixin='texto'></a-text>
-<a-text position='0.3511 0.7226 -0.473' value='25' mixin='texto'></a-text>
-<a-text position='0.1122 -0.735 -0.562' value='26' mixin='texto'></a-text>
-<a-text position='-0.075 0.9169 -0.152' value='27' mixin='texto'></a-text>
-<a-text position='-0.286 -0.401 -0.791' value='28' mixin='texto'></a-text>
-<a-text position='0.0477 0.9314 0.0021' value='29' mixin='texto'></a-text>
-<a-text position='-0.423 -0.484 -0.675' value='30' mixin='texto'></a-text>
-<a-text position='0.4742 0.7371 -0.318' value='31' mixin='texto'></a-text>
-<a-text position='-0.024 -0.818 -0.445' value='32' mixin='texto'></a-text>
-<a-text position='-0.344 -0.226 0.8367' value='33' mixin='texto'></a-text>
-<a-text position='-0.600 0.3644 -0.613' value='34' mixin='texto'></a-text>
-<a-text position='0.1824 -0.028 0.9141' value='35' mixin='texto'></a-text>
-<a-text position='-0.500 0.7569 -0.215' value='36' mixin='texto'></a-text>
-<a-text position='0.2561 -0.207 0.8724' value='37' mixin='texto'></a-text>
-<a-text position='-0.637 0.6734 -0.098' value='38' mixin='texto'></a-text>
-<a-text position='-0.270 -0.405 0.7950' value='39' mixin='texto'></a-text>
-<a-text position='-0.737 0.2810 -0.496' value='40' mixin='texto'></a-text>
-<a-text position='-0.351 -0.722 0.4735' value='41' mixin='texto'></a-text>
-<a-text position='0.0248 0.8187 0.4459' value='42' mixin='texto'></a-text>
-<a-text position='0.0753 -0.916 0.1528' value='43' mixin='texto'></a-text>
-<a-text position='0.4231 0.4848 0.6750' value='44' mixin='texto'></a-text>
-<a-text position='-0.047 -0.931 -0.002' value='45' mixin='texto'></a-text>
-<a-text position='0.2860 0.4014 0.7917' value='46' mixin='texto'></a-text>
-<a-text position='-0.474 -0.737 0.3185' value='47' mixin='texto'></a-text>
-<a-text position='-0.112 0.7352 0.5626' value='48' mixin='texto'></a-text>
-
 			<a-obj-model src="outros/Mobius48aDual.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
 			<a-obj-model src="outros/Mobius48aDualL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.7958 0.4675 -0.133'></a-sphere>
