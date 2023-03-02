@@ -308,7 +308,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>21. Dual do Deltaedro de Möbius de 24 faces</h4>
  <a href="../vr/mobius24_dual.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/113A.png" class="foto"></a><img src="../ar/113.png" class="qr">
- <br>O dual do sólido de Escher foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do sólido de Escher. 
+ <br>O dual do deltaedro de Möbius de 24 faces foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do deltaedro de Möbius. 
 <br><br><b>Faces:</b> 8 hexágonos e 6 retângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 125.25° e 109.47°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>22. Hexaedro Octakis de Möbius</h4>
