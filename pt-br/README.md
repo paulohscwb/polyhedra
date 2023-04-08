@@ -606,17 +606,18 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
   <summary>Pirâmides, tetraedros, prismas e antiprismas</summary>
   Para visualizar os poliedros em RA, visite a página:
-<p align="center"><a href="../quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
+<p align="center"><a href="../others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
  <hr>
-<h4>1. Pequeno rombihexaedro</h4>
-<a href="../vr/small_rhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto"></a><img src="../ar/133.png" class="qr">
- <br><span class="titulo">U<sub>18</sub></span> O pequeno rombihexaedro (ou grande rombocubo) é o poliedro uniforme cujo dual é o pequeno rombihexacron. É uma versão facetada do pequeno rombicuboctaedro. O casco convexo do pequeno rombihexaedro é o pequeno rombicuboctaedro arquimediano, cujo dual é o icossitotraedro deltoidal, portanto o dual do pequeno rombihexaedro (pequeno rombihexacro) é uma das estrelas do icossitotraedro deltoidal.
-<br><br><b>Faces:</b> 12 quadrados e 6 octógonos regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 45° e 90°. <a href="https://mathworld.wolfram.com/SmallRhombihexahedron.html" target="_blank">Mais sobre...</a>
+<h4>1. Tetraedro isósceles</h4>
+<a href="../vr/isosceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
+ <br>O pequeno rombihexaedro (ou grande rombocubo) é o poliedro uniforme cujo dual é o pequeno rombihexacron. É uma versão facetada do pequeno rombicuboctaedro. O casco convexo do pequeno rombihexaedro é o pequeno rombicuboctaedro arquimediano, cujo dual é o icossitotraedro deltoidal, portanto o dual do pequeno rombihexaedro (pequeno rombihexacro) é uma das estrelas do icossitotraedro deltoidal.
+<br><br><b>Faces:</b> 12 quadrados e 6 octógonos regulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 45° e 90°. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">Mais sobre...</a>
 <hr>
-
+<p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
+</details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
