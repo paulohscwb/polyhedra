@@ -6,7 +6,7 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+    <a-scene >
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -17,13 +17,18 @@
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 				
-		<a-entity position="0 0 0" scale="3.6 3.6 3.6">
+		<a-entity position="0 45 0" scale="3.6 3.6 3.6">
 			<a-obj-model src="outros/IsoscelesTetrahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
 			<a-obj-model src="outros/IsoscelesTetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-1 -1.25 -0.8'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='1 -1.25 -0.8'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.6174 1.2527 -0.8'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.6174 0.7583 0.6935'></a-sphere>
+			<a-text position='-1 -1.25 -0.8' value='1' mixin='texto'></a-text>
+<a-text position='1 -1.25 -0.8' value='2' mixin='texto'></a-text>
+<a-text position='-0.6174 1.2527 -0.8' value='3' mixin='texto'></a-text>
+<a-text position='0.6174 0.7583 0.6935' value='4' mixin='texto'></a-text>
+
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 150 300 650"></a-entity>
