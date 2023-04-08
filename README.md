@@ -524,7 +524,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
- <details id="p6" style="border-bottom: 1px solid #a2dec0;">
+ <details id="p6">
   <summary>Quasi regular polyhedra</summary>
 A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. To view quasi regular polyhedra in AR, simply visit:
 <p align="center"><a href="quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
@@ -604,6 +604,23 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 50 | <b>Dihedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Rhombicosacron" target="_blank">More...</a>
 <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
+
+<details id="p7" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Pyramids, tetrahedrons, prisms and antiprisms</summary>
+  To view polyhedra in AR, simply visit:
+<p align="center"><a href="others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
+<hr>
+<h4>1. Isosceles tetrahedron</h4>
+<a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
+ <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180 degrees, and iff its insphere and circumsphere are concentric 
+<br><br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">More...</a>
+<hr>
+<p class="topop"><a href="#p7" class="topo">back to top</a></p>
+</details>
+
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
