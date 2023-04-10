@@ -615,7 +615,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>1. Prism</h4>
 <a href="vr/heptagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/110A.png" class="foto"></a><img src="ar/110.png" class="qr">
- <br>A general prism is a polyhedron possessing two congruent polygonal faces and with all remaining faces parallelograms. A right prism is a prism in which the top and bottom polygons lie on top of each other so that the vertical polygons connecting their sides are not only parallelograms, but rectangles. The regular right prisms have particularly simple nets, given by two oppositely-oriented n-gonal bases connected by a set of n squares. The example shown on this page is a regular right heptagonal prism. 
+ <br><span class="titulo">U<sub>76</sub></span> A general prism is a polyhedron possessing two congruent polygonal faces and with all remaining faces parallelograms. A right prism is a prism in which the top and bottom polygons lie on top of each other so that the vertical polygons connecting their sides are not only parallelograms, but rectangles. The regular right prisms have particularly simple nets, given by two oppositely-oriented n-gonal bases connected by a set of n squares. The example shown on this page is a regular right heptagonal prism. 
 <br><br><b>Faces:</b> 2 polygons of n sides (bases) and n squares, rectangles or parallelograms (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Prism.html" target="_blank">More...</a>
 <hr>
 <h4>2. Pyramid</h4>
