@@ -630,7 +630,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>4. Dipyramid</h4>
 <a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto"></a><img src="ar/108.png" class="qr">
- <br>A pyramid is a polyhedron with one face (known as the "base") a polygon and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
+ <br>A dipyramid, also called a bipyramid or double pyramid, consists of two pyramids symmetrically placed base-to-base. The dipyramids are duals of the regular prisms. Their skeletons are the dipyramidal graphs. The example shown on this page is of a regular pentagonal dipyramid.
 <br><br><b>Faces:</b> 2n triangles | <b>Edges:</b> 3n | <b>Vertices:</b> n + 2. <a href="https://mathworld.wolfram.com/Dipyramid.html" target="_blank">More...</a>
 <hr>
 <h4>5. Isosceles tetrahedron</h4>
