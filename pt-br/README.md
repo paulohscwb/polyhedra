@@ -631,7 +631,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>Uma dipirâmide, também chamada de bipirâmide ou pirâmide dupla, consiste em duas pirâmides colocadas simetricamente de base a base. As dipirâmides são duais dos prismas regulares. Seus esqueletos são os gráficos dipiramidais. O exemplo mostrado nesta página é de uma dipirâmide regular pentagonal.
 <br><br><b>Faces:</b> 2n triângulos | <b>Arestas:</b> 3n | <b>Vértices:</b> n + 2. <a href="https://mathworld.wolfram.com/Dipyramid.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>5. Tetraedro isósceles</h4>
+<h4>5. Trapezoedro</h4>
+<a href="../vr/hexagonal_trapezohedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/106A.png" class="foto"></a><img src="../ar/106.png" class="qr">
+ <br>Um trapezoedro de n vértices, também chamado de antidipirâmide, antibipirâmide ou deltoedro é um sólido composto de "pipas" quadrilaterais simétricas intercaladas, metade das quais se encontram em um vértice superior e metade em um vértice inferior. Um trapezoedro regular pode ser construído a partir de dois conjuntos de pontos colocados em torno de dois polígonos regulares de n lados deslocados um em relação ao outro na direção perpendicular ao plano dos polígonos e girados um em relação ao outro por um ângulo de 180 &deg;/n. O exemplo mostrado nesta página é de um trapezoedro regular hexagonal.
+<br><br><b>Faces:</b> 2n "pipas" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/Trapezohedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Tetraedro isósceles</h4>
 <a href="../vr/isosceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
  <br>Um tetraedro isósceles é não regular e cada par de arestas opostas do poliedro são iguais, de modo que todas as faces triangulares são congruentes. Tetraedros isósceles são, portanto, isoedros. A única maneira de todas as faces de um tetraedro geral terem o mesmo perímetro ou a mesma área é serem totalmente congruentes, caso em que o tetraedro é isósceles. Um tetraedro é isósceles se a soma dos ângulos da face em cada vértice do poliedro é de 180&deg; e se sua esfera e circunsfera são concêntricas
 <br><br><b>Faces:</b> 4 triângulos isósceles | <b>Arestas:</b> 6 | <b>Vértices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">Mais sobre...</a>
