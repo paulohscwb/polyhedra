@@ -611,7 +611,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
  <hr>
-<h4>1. Tetraedro isósceles</h4>
+<h4>1. Prisma</h4>
+<a href="../vr/heptagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/110A.png" class="foto"></a><img src="../ar/110.png" class="qr">
+ <br>Um prisma geral é um poliedro que possui duas faces poligonais congruentes e com todas as faces restantes paralelogramos. Um prisma reto é um prisma no qual os polígonos superior e inferior ficam um sobre o outro, de modo que os polígonos verticais que conectam seus lados não são apenas paralelogramos, mas retângulos. Os prismas regulares retos têm redes particularmente simples, dadas por duas bases n-gonais de orientação oposta conectadas por um conjunto de n quadrados. O exemplo mostrado nesta página é de um prisma reto regula heptagonal.
+<br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/Prism.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>2. Tetraedro isósceles</h4>
 <a href="../vr/isosceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
  <br>Um tetraedro isósceles é não regular e cada par de arestas opostas do poliedro são iguais, de modo que todas as faces triangulares são congruentes. Tetraedros isósceles são, portanto, isoedros. A única maneira de todas as faces de um tetraedro geral terem o mesmo perímetro ou a mesma área é serem totalmente congruentes, caso em que o tetraedro é isósceles. Um tetraedro é isósceles se a soma dos ângulos da face em cada vértice do poliedro é de 180&deg; e se sua esfera e circunsfera são concêntricas
 <br><br><b>Faces:</b> 4 triângulos isósceles | <b>Arestas:</b> 6 | <b>Vértices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">Mais sobre...</a>
