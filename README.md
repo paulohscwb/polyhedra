@@ -618,27 +618,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>76</sub></span> A general prism is a polyhedron possessing two congruent polygonal faces and with all remaining faces parallelograms. A right prism is a prism in which the top and bottom polygons lie on top of each other so that the vertical polygons connecting their sides are not only parallelograms, but rectangles. The regular right prisms have particularly simple nets, given by two oppositely-oriented n-gonal bases connected by a set of n squares. The example shown on this page is a regular right heptagonal prism. 
 <br><br><b>Faces:</b> 2 polygons of n sides (bases) and n squares, rectangles or parallelograms (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Prism.html" target="_blank">More...</a>
 <hr>
-<h4>2. Antiprism</h4>
+<h4>2. Stellated Prism</h4>
+<a href="vr/octagrammic_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/105A.png" class="foto"></a><img src="ar/105.png" class="qr">
+ <br><span class="titulo">U<sub>78</sub></span> A stellated or polygrammic prism is formed by two regular stellated polygons (polygrams) displaced along their axis of symmetry and with corresponding edges connected by lateral faces (squares, rectangles or parallelograms). The example shown on this page is of an octagonal stellated right prism (octagrammic prism).
+<br><br><b>Faces:</b> 2 polygons of n sides (bases) and n squares, rectangles or parallelograms (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="hhttps://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">More...</a>
+<hr>
+<h4>3. Antiprism</h4>
 <a href="vr/hexagonal_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto"></a><img src="ar/108.png" class="qr">
  <br><span class="titulo">U<sub>77</sub></span> A general n-gonal antiprism is a polyhedron consisting of identical top and bottom n-gonal faces whose periphery is bounded by a set of 2n triangles with alternating up-down orientations. If the top and bottom faces are regular n-gons displaced relative to one another in the direction perpendicular to the plane of the polygons and rotated relative to one another by an angle of 180&deg;/n, then the antiprism is known as a right antiprism and its faces are equilateral triangles. The example shown on this page is a regular hexagonal antiprism.
 <br><br><b>Faces:</b> 2 polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Antiprism.html" target="_blank">More...</a>
 <hr>
-<h4>3. Pyramid</h4>
+<h4>4. Pyramid</h4>
 <a href="vr/heptagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/109A.png" class="foto"></a><img src="ar/109.png" class="qr">
  <br>A pyramid is a polyhedron with one face (known as the "base") a polygon and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
 <br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
 <hr>
-<h4>4. Dipyramid</h4>
+<h4>5. Dipyramid</h4>
 <a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto"></a><img src="ar/107.png" class="qr">
  <br>A dipyramid, also called a bipyramid or double pyramid, consists of two pyramids symmetrically placed base-to-base. The dipyramids are duals of the regular prisms. Their skeletons are the dipyramidal graphs. The example shown on this page is of a regular pentagonal dipyramid.
 <br><br><b>Faces:</b> 2n triangles | <b>Edges:</b> 3n | <b>Vertices:</b> n + 2. <a href="https://mathworld.wolfram.com/Dipyramid.html" target="_blank">More...</a>
 <hr>
-<h4>5. Trapezohedron</h4>
+<h4>6. Trapezohedron</h4>
 <a href="vr/hexagonal_trapezohedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/106A.png" class="foto"></a><img src="ar/106.png" class="qr">
  <br>An n-trapezohedron, also called an antidipyramid, antibipyramid, or deltohedron is a solid composed of interleaved symmetric quadrilateral kites, half of which meet in a top vertex and half in a bottom vertex. A regular n-trapezohedron can be constructed from two sets of points placed around two regular n-gons displaced relative to one another in the direction perpendicular to the plane of the polygons and rotated relative to one another by an angle of 180&deg;/n. The example shown on this page is of a regular hexagonal trapezohedron.
 <br><br><b>Faces:</b> 2n kites | <b>Edges:</b> 4n | <b>Vertices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/Trapezohedron.html" target="_blank">More...</a>
 <hr>
-<h4>6. Isosceles tetrahedron</h4>
+<h4>7. Isosceles tetrahedron</h4>
 <a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
  <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180&deg;, and iff its insphere and circumsphere are concentric.
 <br><br><b>Faces:</b> 4 isosceles triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">More...</a>
