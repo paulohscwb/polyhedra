@@ -629,7 +629,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
 <hr>
 <h4>4. Dipyramid</h4>
-<a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto"></a><img src="ar/108.png" class="qr">
+<a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto"></a><img src="ar/107.png" class="qr">
  <br>A dipyramid, also called a bipyramid or double pyramid, consists of two pyramids symmetrically placed base-to-base. The dipyramids are duals of the regular prisms. Their skeletons are the dipyramidal graphs. The example shown on this page is of a regular pentagonal dipyramid.
 <br><br><b>Faces:</b> 2n triangles | <b>Edges:</b> 3n | <b>Vertices:</b> n + 2. <a href="https://mathworld.wolfram.com/Dipyramid.html" target="_blank">More...</a>
 <hr>
