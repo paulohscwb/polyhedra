@@ -14,31 +14,17 @@ v -0.5 -1.038261 -0.5
 v 0.0 1.152382 0.5
 v 0.0 1.152382 -0.5
 v 1.123489 -0.256429 0.5
+v 0 0 -1.5
 usemtl CorL
 l 14 4 12 6 2 10 8 
 usemtl CorL
-l 1 9 11 3 7 13 5 
+l 15 14 4
+l 15 4 12
 usemtl CorL
-l 14 1 5 4 
+l 15 12 6
 usemtl CorL
-l 4 5 13 12
-usemtl CorL 
-l 12 13 7 6
-usemtl CorL 
-l 6 7 3 2 
+l 15 6 2
+l 15 2 10
 usemtl CorL
-l 2 3 11 10
-usemtl CorL 
-l 10 11 9 8 
-usemtl CorL
-l 8 9 1 14 
-usemtl CorL
-l 3 7
-usemtl CorL
-l 13 5
-usemtl CorL
-l 8 14
-usemtl CorL
-l 9 11
-usemtl CorL
-l 
+l 15 10 8
+l 15 8 14
