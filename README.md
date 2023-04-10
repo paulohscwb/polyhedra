@@ -620,7 +620,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>2. Antiprism</h4>
 <a href="vr/hexagonal_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto"></a><img src="ar/108.png" class="qr">
- <br><span class="titulo">U<sub>77</sub></span> A general n-gonal antiprism is a polyhedron consisting of identical top and bottom n-gonal faces whose periphery is bounded by a set of 2n triangles with alternating up-down orientations. If the top and bottom faces are regular n-gons displaced relative to one another in the direction perpendicular to the plane of the polygons and rotated relative to one another by an angle of 180 &deg;/n, then the antiprism is known as a right antiprism and its faces are equilateral triangles. The example shown on this page is a regular hexagonal antiprism.
+ <br><span class="titulo">U<sub>77</sub></span> A general n-gonal antiprism is a polyhedron consisting of identical top and bottom n-gonal faces whose periphery is bounded by a set of 2n triangles with alternating up-down orientations. If the top and bottom faces are regular n-gons displaced relative to one another in the direction perpendicular to the plane of the polygons and rotated relative to one another by an angle of 180&deg;/n, then the antiprism is known as a right antiprism and its faces are equilateral triangles. The example shown on this page is a regular hexagonal antiprism.
 <br><br><b>Faces:</b> 2 polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Antiprism.html" target="_blank">More...</a>
 <hr>
 <h4>3. Pyramid</h4>
@@ -640,7 +640,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>6. Isosceles tetrahedron</h4>
 <a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
- <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180 degrees, and iff its insphere and circumsphere are concentric.
+ <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180&deg;, and iff its insphere and circumsphere are concentric.
 <br><br><b>Faces:</b> 4 isosceles triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
