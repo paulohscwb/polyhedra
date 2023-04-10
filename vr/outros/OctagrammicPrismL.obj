@@ -28,6 +28,8 @@ usemtl CorL
 l 12 13 5 4
 usemtl CorL 
 l 4 5 7 6 
+usemtl CorL 
+l 2 3 1 16
 usemtl CorL
 l 6 7 15 14
 usemtl CorL 
