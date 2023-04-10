@@ -615,28 +615,32 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/heptagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/110A.png" class="foto"></a><img src="../ar/110.png" class="qr">
  <br><span class="titulo">U<sub>76</sub></span> Um prisma geral é um poliedro que possui duas faces poligonais congruentes e com todas as faces restantes paralelogramos. Um prisma reto é um prisma no qual os polígonos superior e inferior ficam um sobre o outro, de modo que os polígonos verticais que conectam seus lados não são apenas paralelogramos, mas retângulos. Os prismas regulares retos têm redes particularmente simples, dadas por duas bases n-gonais de orientação oposta conectadas por um conjunto de n quadrados. O exemplo mostrado nesta página é de um prisma reto regular heptagonal.
 <br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/Prism.html" target="_blank">Mais sobre...</a>
+<h4>2. Prisma estrelado</h4>
+<a href="../vr/octagrammic_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto"></a><img src="../ar/105.png" class="qr">
+ <br><span class="titulo">U<sub>78</sub></span> Um prisma estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares deslocados ao longo de seu eixo de simetria e com arestas correspondentes conectadas por faces laterais (quadrados, retângulos ou paralelogramos. O exemplo mostrado nesta página é de um prisma reto estrelado octagonal (prisma octagrâmico).
+<br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>2. Antiprisma</h4>
+<h4>3. Antiprisma</h4>
 <a href="../vr/hexagonal_antiprism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/108A.png" class="foto"></a><img src="../ar/108.png" class="qr">
  <br><span class="titulo">U<sub>77</sub></span> Um antiprisma de n lados geral é um poliedro que consiste em faces com n lados idênticas, superior e inferior, cuja periferia é limitada por um conjunto de 2n triângulos com orientações alternadas de cima para baixo. Se as faces superior e inferior são polígonos regulares deslocados um em relação ao outro na direção perpendicular ao plano dos polígonos e girados um em relação ao outro por um ângulo de 180&deg;/n, então o antiprisma é conhecido como um antiprisma regular e suas faces são triângulos equiláteros. O exemplo mostrado nesta página é de um antiprisma regular hexagonal.
 <br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n triângulos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/Antiprism.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>3. Pirâmide</h4>
+<h4>4. Pirâmide</h4>
 <a href="../vr/heptagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/109A.png" class="foto"></a><img src="../ar/109.png" class="qr">
  <br>Uma pirâmide é um poliedro com uma face (conhecida como base), um polígono e todas as outras faces triângulos que se encontram em um vértice de polígono comum (conhecido como "ápice"). Uma pirâmide reta é uma pirâmide para a qual a linha que une o centróide da base e o ápice é perpendicular à base. Uma pirâmide regular é uma pirâmide reta cuja base é um polígono regular. O exemplo mostrado nesta página é de uma pirâmide reta regular heptagonal.
 <br><br><b>Faces:</b> 1 polígonos de n lados (base) e n triângulos (faces laterais) | <b>Arestas:</b> 2n | <b>Vértices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>4. Dipirâmide</h4>
+<h4>5. Dipirâmide</h4>
 <a href="../vr/pentagonal_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/107A.png" class="foto"></a><img src="../ar/107.png" class="qr">
  <br>Uma dipirâmide, também chamada de bipirâmide ou pirâmide dupla, consiste em duas pirâmides colocadas simetricamente de base a base. As dipirâmides são duais dos prismas regulares. Seus esqueletos são os gráficos dipiramidais. O exemplo mostrado nesta página é de uma dipirâmide regular pentagonal.
 <br><br><b>Faces:</b> 2n triângulos | <b>Arestas:</b> 3n | <b>Vértices:</b> n + 2. <a href="https://mathworld.wolfram.com/Dipyramid.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>5. Trapezoedro</h4>
+<h4>6. Trapezoedro</h4>
 <a href="../vr/hexagonal_trapezohedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/106A.png" class="foto"></a><img src="../ar/106.png" class="qr">
  <br>Um trapezoedro de n vértices, também chamado de antidipirâmide, antibipirâmide ou deltoedro é um sólido composto de "pipas" quadrilaterais simétricas intercaladas, metade das quais se encontram em um vértice superior e metade em um vértice inferior. Um trapezoedro regular pode ser construído a partir de dois conjuntos de pontos colocados em torno de dois polígonos regulares de n lados deslocados um em relação ao outro na direção perpendicular ao plano dos polígonos e girados um em relação ao outro por um ângulo de 180&deg;/n. O exemplo mostrado nesta página é de um trapezoedro regular hexagonal.
 <br><br><b>Faces:</b> 2n "pipas" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/Trapezohedron.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>6. Tetraedro isósceles</h4>
+<h4>7. Tetraedro isósceles</h4>
 <a href="../vr/isosceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
  <br>Um tetraedro isósceles é não regular e cada par de arestas opostas do poliedro são iguais, de modo que todas as faces triangulares são congruentes. Tetraedros isósceles são, portanto, isoedros. A única maneira de todas as faces de um tetraedro geral terem o mesmo perímetro ou a mesma área é serem totalmente congruentes, caso em que o tetraedro é isósceles. Um tetraedro é isósceles se a soma dos ângulos da face em cada vértice do poliedro é de 180&deg; e se sua esfera e circunsfera são concêntricas
 <br><br><b>Faces:</b> 4 triângulos isósceles | <b>Arestas:</b> 6 | <b>Vértices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">Mais sobre...</a>
