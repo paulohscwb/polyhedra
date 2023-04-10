@@ -613,9 +613,14 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
 <hr>
-<h4>1. Isosceles tetrahedron</h4>
+<h4>1. Prism</h4>
+<a href="vr/heptagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
+ <br>A general prism is a polyhedron possessing two congruent polygonal faces and with all remaining faces parallelograms. A right prism is a prism in which the top and bottom polygons lie on top of each other so that the vertical polygons connecting their sides are not only parallelograms, but rectangles. The regular right prisms have particularly simple nets, given by two oppositely-oriented n-gonal bases connected by a set of n squares. The example shown on this page is a regular heptagonal straight prism. 
+<br><br><b>Faces:</b> 2 polygons of n sides (bases) and n squares, rectangles or parallelograms (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Prism.html" target="_blank">More...</a>
+<hr>
+<h4>2. Isosceles tetrahedron</h4>
 <a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
- <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180 degrees, and iff its insphere and circumsphere are concentric 
+ <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180 degrees, and iff its insphere and circumsphere are concentric.
 <br><br><b>Faces:</b> 4 isosceles triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
