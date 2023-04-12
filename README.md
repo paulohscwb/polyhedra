@@ -643,17 +643,22 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>A pyramid is a polyhedron with one face (known as the "base") a polygon and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
 <br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
 <hr>
-<h4>7. Dipyramid</h4>
+<h4>7. Stellated Pyramid</h4>
+<a href="vr/octagrammic_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/102A.png" class="foto"></a><img src="ar/102.png" class="qr">
+ <br>A stellated or polygrammic pyramid is formed by a regular stellated polygon (polygram) with corresponding edges connected by triangular side faces that meet at a common vertex (known as the "apex"). The example shown on this page is of an octagonal stellated pyramid (octagrammic pyramid).
+<br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">More...</a>
+<hr>
+<h4>8. Dipyramid</h4>
 <a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto"></a><img src="ar/107.png" class="qr">
  <br>A dipyramid, also called a bipyramid or double pyramid, consists of two pyramids symmetrically placed base-to-base. The dipyramids are duals of the regular prisms. Their skeletons are the dipyramidal graphs. The example shown on this page is of a regular pentagonal dipyramid.
 <br><br><b>Faces:</b> 2n triangles | <b>Edges:</b> 3n | <b>Vertices:</b> n + 2. <a href="https://mathworld.wolfram.com/Dipyramid.html" target="_blank">More...</a>
 <hr>
-<h4>8. Trapezohedron</h4>
+<h4>9. Trapezohedron</h4>
 <a href="vr/hexagonal_trapezohedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/106A.png" class="foto"></a><img src="ar/106.png" class="qr">
  <br>An n-trapezohedron, also called an antidipyramid, antibipyramid, or deltohedron is a solid composed of interleaved symmetric quadrilateral kites, half of which meet in a top vertex and half in a bottom vertex. A regular n-trapezohedron can be constructed from two sets of points placed around two regular n-gons displaced relative to one another in the direction perpendicular to the plane of the polygons and rotated relative to one another by an angle of 180&deg;/n. The example shown on this page is of a regular hexagonal trapezohedron.
 <br><br><b>Faces:</b> 2n kites | <b>Edges:</b> 4n | <b>Vertices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/Trapezohedron.html" target="_blank">More...</a>
 <hr>
-<h4>9. Isosceles tetrahedron</h4>
+<h4>10. Isosceles tetrahedron</h4>
 <a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
  <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180&deg;, and iff its insphere and circumsphere are concentric.
 <br><br><b>Faces:</b> 4 isosceles triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">More...</a>
