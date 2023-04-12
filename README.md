@@ -666,8 +666,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>11. Stellated Trapezohedron</h4>
 <a href="vr/heptagrammic_trapezohedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/100A.png" class="foto"></a><img src="ar/100.png" class="qr">
- <br>An stellated n-trapezohedron, also called an stellated antidipyramid, stellated antibipyramid, or stellated deltohedron is a solid composed of interleaved quadrilateral kites, half of which meet in a top vertex and half in a bottom vertex. The example shown on this page is of a regular hexagonal stellated trapezohedron (heptagrammic trapezohedron).
-<br><br><b>Faces:</b> 2n kites | <b>Edges:</b> 4n | <b>Vertices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">More...</a>
+ <br>An stellated n-trapezohedron, also called an stellated antidipyramid, stellated antibipyramid, or stellated deltohedron is a solid composed of interleaved quadrilateral kites, half of which meet in a top vertex and half in a bottom vertex. The example shown on this page is of a regular heptagonal stellated trapezohedron (heptagrammic trapezohedron).
+<br><br><b>Faces:</b> 2n kites | <b>Edges:</b> 4n | <b>Vertices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicDeltohedron.html" target="_blank">More...</a>
+<hr>
+<h4>12. Stellated Concave Trapezohedron</h4>
+<a href="vr/octagrammic_concave_trapezohedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/99A.png" class="foto"></a><img src="ar/99.png" class="qr">
+ <br>An stellated concave n-trapezohedron, also called an stellated concave antidipyramid, stellated concave antibipyramid, or stellated concave deltohedron is a solid composed of interleaved quadrilateral darts, half of which meet in a top vertex and half in a bottom vertex. The example shown on this page is of a regular octagonal stellated concave trapezohedron (octagrammic concave trapezohedron).
+<br><br><b>Faces:</b> 2n darts | <b>Edges:</b> 4n | <b>Vertices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">More...</a>
 <hr>
 <h4>12. Isosceles tetrahedron</h4>
 <a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">

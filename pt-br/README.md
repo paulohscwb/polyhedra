@@ -664,9 +664,14 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>11. Trapezoedro estrelado</h4>
 <a href="../vr/heptagrammic_trapezohedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/100A.png" class="foto"></a><img src="../ar/100.png" class="qr">
  <br>Um trapezoedro estrelado de n vértices, também chamado de antidipirâmide estrelada, deltoedro estrelado ou antibipirâmide estrelada é um sólido composto de "pipas" quadrilaterais intercaladas, metade das quais se encontram em um vértice superior e metade em um vértice inferior. O exemplo mostrado nesta página é de um trapezoedro regular estrelado heptagonal (trapezoedro heptagrâmico).
-<br><br><b>Faces:</b> 2n "pipas" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 2n "pipas" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicDeltohedron.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>12. Tetraedro isósceles</h4>
+<h4>12. Trapezoedro estrelado côncavo</h4>
+<a href="../vr/octagrammic_concave_trapezohedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/99A.png" class="foto"></a><img src="../ar/99.png" class="qr">
+ <br>Um trapezoedro estrelado côncavo de n vértices, também chamado de antidipirâmide estrelada côncava, deltoedro estrelado côncavo ou antibipirâmide estrelada côncava é um sólido composto de "dardos" quadrilaterais intercalados, metade das quais se encontram em um vértice superior e metade em um vértice inferior. O exemplo mostrado nesta página é de um trapezoedro regular estrelado côncavo octagonal (trapezoedro octagrâmico côncavo).
+<br><br><b>Faces:</b> 2n "dardos" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>13. Tetraedro isósceles</h4>
 <a href="../vr/isosceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
  <br>Um tetraedro isósceles é não regular e cada par de arestas opostas do poliedro são iguais, de modo que todas as faces triangulares são congruentes. Tetraedros isósceles são, portanto, isoedros. A única maneira de todas as faces de um tetraedro geral terem o mesmo perímetro ou a mesma área é serem totalmente congruentes, caso em que o tetraedro é isósceles. Um tetraedro é isósceles se a soma dos ângulos da face em cada vértice do poliedro é de 180&deg; e se sua esfera e circunsfera são concêntricas
 <br><br><b>Faces:</b> 4 triângulos isósceles | <b>Arestas:</b> 6 | <b>Vértices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">Mais sobre...</a>
