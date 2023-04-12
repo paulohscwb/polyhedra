@@ -20,3 +20,11 @@ l 1 3 8
 l 1 8 4 
 l 1 4 6 
 l 1 6 2 
+usemtl CorL
+l 4 6
+usemtl CorL
+l 2 7
+usemtl CorL
+l 5 9
+usemtl CorL
+l 3 8
