@@ -13,17 +13,27 @@
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 4; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="esfera" geometry="radius: 0.038;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.031;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 				
-		<a-entity position="0.5 0 0.5" rotation="0 45 0" scale="3.6 3.6 3.6">
-			<a-obj-model src="outros/IsoscelesTetrahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
-			<a-obj-model src="outros/IsoscelesTetrahedronL.obj" mtl="#material"></a-obj-model>
-			<a-sphere mixin='esfera mtl9' position='-1 -1.25 -0.8'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='1 -1.25 -0.8'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='-0.6174 1.2527 -0.8'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='0.6174 0.7583 0.6935'></a-sphere>
+		<a-entity position="0 0 0" rotation="0 30 0" scale="4.5 4.5 4.5">
+			<a-obj-model src="outros/TrapezoidalDodecahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="outros/TrapezoidalDodecahedronL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera mtl9' position='-0.5 0.7071068 0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.5 -0.3535534 0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.5 -0.7071068 0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='1. -0.3535534 0 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='1. 0.7071068 0 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0 1.06066 0 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-1. 0.3535534 0 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-1. -0.7071068 0 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0 -1.06066 0 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.5 -0.7071068 -0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.5 0.3535534 -0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.5 0.7071068 -0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.5 -0.3535534 -0.8660254 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.5 0.3535534 0.8660254 '></a-sphere>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 150 300 650"></a-entity>

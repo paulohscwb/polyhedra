@@ -674,10 +674,15 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>An stellated concave n-trapezohedron, also called an stellated concave antidipyramid, stellated concave antibipyramid, or stellated concave deltohedron is a solid composed of interleaved quadrilateral darts, half of which meet in a top vertex and half in a bottom vertex. This polyhedron is the dual of the stellated crossed antiprism. The example shown on this page is of a regular octagonal stellated concave trapezohedron (octagrammic concave trapezohedron).
 <br><br><b>Faces:</b> 2n darts | <b>Edges:</b> 4n | <b>Vertices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">More...</a>
 <hr>
-<h4>12. Isosceles tetrahedron</h4>
+<h4>13. Isosceles tetrahedron</h4>
 <a href="vr/isosceles_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
  <br>An isosceles tetrahedron is  nonregular and each pair of opposite polyhedron edges are equal,  so that all triangular faces are congruent. Isosceles tetrahedra are therefore isohedra. The only way for all the faces of a general tetrahedron to have the same perimeter or to have the same area is for them to be fully congruent, in which case the tetrahedron is isosceles. A tetrahedron is isosceles iff the sum of the face angles at each polyhedron vertex is 180&deg;, and iff its insphere and circumsphere are concentric.
 <br><br><b>Faces:</b> 4 isosceles triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">More...</a>
+<hr>
+<h4>14. Trapezo-rhombic Dodecahedron</h4>
+<a href="vr/trapezoidal_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/98A.png" class="foto"></a><img src="ar/98.png" class="qr">
+ <br>The trapezo-rhombic dodecahedron, also called the rhombo-trapezoidal dodecahedron, is a general dodecahedron consisting of six identical rhombi and six identical isosceles trapezoids. The trapezo-rhombic dodecahedron can be obtained from the rhombic dodecahedron by slicing in half and rotating the two halves 60&deg; with respect to each other. The lengths of the short and long edges of the rotated dodecahedron have lengths 2/3 and 4/3 times the length of the rhombic faces. 
+<br><br><b>Faces:</b> 6 rhombi and 6 isosceles trapezoids | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Trapezo-RhombicDodecahedron.html" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
