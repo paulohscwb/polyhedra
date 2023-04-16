@@ -25,6 +25,7 @@
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 		<a-mixin id="tamanho1" scale="1 1 2"></a-mixin>
+		<a-mixin id="tamanho2" scale="1 1 1.5"></a-mixin>
 	</a-assets>
 
     <a-entity camera></a-entity>
@@ -151,6 +152,47 @@
 			<a-sphere mixin='esfera mtl9 tamanho1' position='0.0 0.0 2.180956'></a-sphere>
 		</a-entity>
 	</a-marker>
+	
+	<a-marker type="barcode" value="103" smooth="smooth:true; smoothCount:1">
+		<a-link mixin="lnk" class="lnk" href="vr/heptagrammic_crossed_antiprism.htm"></a-link>
+	   	<a-entity position="2 0.8 0" rotation="90 5 0" scale="1.68 1.68 1.68">
+			<a-obj-model src="vr/outros/HeptagrammicCrossedAntiprism.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="vr/outros/HeptagrammicCrossedAntiprismL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esferaP mtl9' position='0.40097 0.31976 0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.40097 0.31976 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='-0.40097 0.31976 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='-0.22252 -0.46207 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.22252 -0.46207 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.22252 -0.46207 0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='-0.22252 -0.46207 0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.5 -0.11412 0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='-0.5 -0.11412 0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='-0.5 -0.11412 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.5 -0.11412 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.0 0.51286 -0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='0.0 0.51286 0.29870'></a-sphere>
+			<a-sphere mixin='esferaP mtl9' position='-0.40097 0.31976 0.29870'></a-sphere>
+		</a-entity>
+	</a-marker>	
+	
+	<a-marker type="barcode" value="104" smooth="smooth:true; smoothCount:1">
+		<a-link mixin="lnk" class="lnk" href="vr/pentagrammic_antiprism.htm"></a-link>
+	   	<a-entity position="2 0.8 0" rotation="90 0 0" scale="1.68 1.68 1.26">
+			<a-obj-model src="vr/outros/PentagrammicAntiprism.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="vr/outros/PentagrammicAntiprismL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='0.30902 -0.42533 0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='0.30902 -0.42533 -0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='-0.30902 -0.42533 -0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='-0.5 0.16246 -0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='0.5 0.16246 -0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='0.5 0.16246 0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='-0.5 0.16246 0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='0.0 0.52573 0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='0.0 0.52573 -0.39308'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho2' position='-0.30902 -0.42533 0.39308'></a-sphere>
+		</a-entity>
+	</a-marker>
+	
 	
   </a-scene>
 </body>
