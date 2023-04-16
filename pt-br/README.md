@@ -606,7 +606,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
   <summary>Pirâmides, tetraedros, prismas e antiprismas</summary>
   Para visualizar os poliedros em RA, visite a página:
-<p align="center"><a href="../others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
+<p align="center"><a href="../polyhedron.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
