@@ -608,7 +608,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
   <summary>Pyramids, tetrahedrons, prisms and antiprisms</summary>
   To view polyhedra in AR, simply visit:
-<p align="center"><a href="others.html" target="_blank">https://paulohscwb.github.io/polyhedra/others.html</a></p> 
+<p align="center"><a href="polyhedron.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
