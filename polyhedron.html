@@ -24,7 +24,7 @@
 		<a-mixin id="esferaG" geometry="radius: 0.1;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
-		<a-mixin id="tamanho1" scale="1 1 1"></a-mixin>
+		<a-mixin id="tamanho1" scale="1 1 2"></a-mixin>
 	</a-assets>
 
     <a-entity camera></a-entity>
@@ -103,6 +103,52 @@
 			<a-sphere mixin='esfera mtl9' position='-0.61803 0.85065 0.0'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.0 -1.05146 0.0'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.0 0.0 1.2'></a-sphere>
+		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="105" smooth="smooth:true; smoothCount:1">
+		<a-link mixin="lnk" class="lnk" href="vr/octagrammic_prism.htm"></a-link>
+	   	<a-entity position="2 0.8 0" rotation="90 -5 0" scale="1.68 1.68 0.84">
+			<a-obj-model src="vr/outros/OctagrammicPrism.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="vr/outros/OctagrammicPrismL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.207107 0.5 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.207107 -0.5 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.207107 -0.5 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.207107 0.5 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.207107 0.5 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.207107 -0.5 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.207107 -0.5 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.5 -0.207107 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.5 -0.207107 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.5 0.207107 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='-0.5 0.207107 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.5 -0.207107 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.5 -0.207107 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.5 0.207107 0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.5 0.207107 -0.5'></a-sphere>
+			<a-sphere mixin='esferaP mtl9 tamanho1' position='0.207107 0.5 0.5'></a-sphere>
+		</a-entity>
+	</a-marker>	
+	
+	<a-marker type="barcode" value="106" smooth="smooth:true; smoothCount:1">
+		<a-link mixin="lnk" class="lnk" href="vr/hexagonal_trapezohedron.htm"></a-link>
+	   	<a-entity position="2 0.8 0" rotation="90 -5 0" scale="0.84 0.84 0.42">
+			<a-obj-model src="vr/outros/HexagonalTrapezohedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="vr/outros/HexagonalTrapezohedronL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.0 0.0 -2.180956'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.0 1.0 0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.0 -1.0 0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='1.0 0.0 -0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='-1.0 0.0 -0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.866025 0.5 0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.866025 -0.5 0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='-0.866025 0.5 0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='-0.866025 -0.5 0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.5 0.866025 -0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.5 -0.866025 -0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='-0.5 0.866025 -0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='-0.5 -0.866025 -0.156586'></a-sphere>
+			<a-sphere mixin='esfera mtl9 tamanho1' position='0.0 0.0 2.180956'></a-sphere>
 		</a-entity>
 	</a-marker>
 	
