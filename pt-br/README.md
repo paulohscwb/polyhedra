@@ -619,8 +619,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Grande octaedro triakis</h4>
 <a href="../vr/great_triakis_octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/96A.png" class="foto"></a><img src="../ar/96.png" class="qr">
- <br>O grande octaedro triakis é o dual do hexaedro truncado estrelado. Ele tem 24 faces de triângulos isósceles que se cruzam e parte de cada triângulo está dentro do sólido, portanto, é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 24 triângulos isosceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">Mais sobre...</a>
+ <br>O grande octaedro triakis é o dual do uniforme hexaedro truncado estrelado. Ele tem 24 faces de triângulos isósceles que se cruzam e parte de cada triângulo está dentro do sólido, portanto, é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 24 triângulos isósceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Grande dodecaedro truncado</h4>
 <a href="../vr/truncated_great_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/95A.png" class="foto"></a><img src="../ar/95.png" class="qr">
@@ -629,13 +629,18 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>4. Pequeno dodecaedro stellapentakis</h4>
 <a href="../vr/small_stellapentakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/94A.png" class="foto"></a><img src="../ar/94.png" class="qr">
- <br>O pequeno dodecaedro stellapentakis é o poliedro uniforme cujo dual é o grande dodecaedro truncado. Ele tem 60 faces triangulares que se cruzam e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 60 triângulos isosceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 149.1°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
+ <br>O pequeno dodecaedro stellapentakis é o poliedro cujo dual é o uniforme grande dodecaedro truncado. Ele tem 60 faces triangulares que se cruzam e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 149.1°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Pequeno dodecaedro estrelado truncado</h4>
 <a href="../vr/small_stellated_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/93A.png" class="foto"></a><img src="../ar/93.png" class="qr">
  <br><span class="titulo">U<sub>58</sub></span> O pequeno dodecaedro estrelado truncado é o poliedro uniforme também chamado de pequeno dodecaedro estrelado quase truncado, cujo poliedro dual é o grande dodecaedro pentakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 12 pentágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 116.57°. <a href="https://mathworld.wolfram.com/SmallStellatedTruncatedDodecahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Grande dodecaedro pentakis</h4>
+<a href="../vr/great_pentakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto"></a><img src="../ar/92.png" class="qr">
+ <br>O grande dodecaedro pentakis é o poliedro cujo dual é o uniforme pequeno dodecaedro truncado estrelado. As faces pentagonais passam próximas ao centro no poliedro uniforme, fazendo com que esse dual seja muito pontiagudo e parte de cada triângulo fique dentro do sólido, portanto invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 108.22°. <a href="https://en.wikipedia.org/wiki/Great_pentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
@@ -710,9 +715,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 2n "dardos" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>13. Tetraedro isósceles</h4>
-<a href="../vr/isosceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
+<a href="../vr/isósceles_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
  <br>Um tetraedro isósceles é não regular e cada par de arestas opostas do poliedro são iguais, de modo que todas as faces triangulares são congruentes. Tetraedros isósceles são, portanto, isoedros. A única maneira de todas as faces de um tetraedro geral terem o mesmo perímetro ou a mesma área é serem totalmente congruentes, caso em que o tetraedro é isósceles. Um tetraedro é isósceles se a soma dos ângulos da face em cada vértice do poliedro é de 180&deg; e se sua esfera e circunsfera são concêntricas.
-<br><br><b>Faces:</b> 4 triângulos isósceles | <b>Arestas:</b> 6 | <b>Vértices:</b> 4. <a href="https://mathworld.wolfram.com/IsoscelesTetrahedron.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 4 triângulos isósceles | <b>Arestas:</b> 6 | <b>Vértices:</b> 4. <a href="https://mathworld.wolfram.com/isóscelesTetrahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>14. Dodecaedro Trapezo-Rômbico</h4>
 <a href="../vr/trapezoidal_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/98A.png" class="foto"></a><img src="../ar/98.png" class="qr">
