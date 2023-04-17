@@ -624,6 +624,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great triakis octahedron is the dual of the stellated truncated hexahedron. It has 24 intersecting isosceles triangles faces and part of each triangle lies within the solid, hence is invisible in solid models. 
 <br><br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Dihedral angle:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">More...</a>
 <hr>
+<h4>3. Truncated Great Dodecahedron</h4>
+<a href="vr/truncated_great_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/95A.png" class="foto"></a><img src="ar/95.png" class="qr">
+ <br><span class="titulo">U<sub>37</sub></span> The truncated great dodecahedron is the uniform polyhedron whose dual is the small stellapentakis dodecahedron. It shares its vertex arrangement with three other uniform polyhedra: the nonconvex great rhombicosidodecahedron, the great dodecicosidodecahedron, and the great rhombidodecahedron.
+<br><br><b>Faces:</b> 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 63.43° and 116.57°. <a href="https://en.wikipedia.org/wiki/Truncated_great_dodecahedron" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
