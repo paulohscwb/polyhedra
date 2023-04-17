@@ -629,6 +629,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>37</sub></span> The truncated great dodecahedron is the uniform polyhedron whose dual is the small stellapentakis dodecahedron. It shares its vertex arrangement with three other uniform polyhedra: the nonconvex great rhombicosidodecahedron, the great dodecicosidodecahedron, and the great rhombidodecahedron.
 <br><br><b>Faces:</b> 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 63.43° and 116.57°. <a href="https://en.wikipedia.org/wiki/Truncated_great_dodecahedron" target="_blank">More...</a>
 <hr>
+<h4>4. Small Stellapentakis Dodecahedron</h4>
+<a href="vr/truncated_great_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/95A.png" class="foto"></a><img src="ar/95.png" class="qr">
+ <br>The small stellapentakis dodecahedron is a the uniform polyhedron whose dual is the truncated great dodecahedron. It has 60 intersecting triangular faces and part of each triangle lies within the solid, hence is invisible in solid models. 
+<br><br><b>Faces:</b> 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 63.43° and 116.57°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
