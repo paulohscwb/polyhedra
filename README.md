@@ -659,6 +659,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>55</sub></span> The great truncated icosahedron is the uniform polyhedron, also called the truncated great icosahedron, whose dual is the great stellapentakis dodecahedron. Part of each face lies within the solid, hence is invisible in solid models. 
 <br><br><b>Faces:</b> 20 regular hexagons and 12 regular pentagrams | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 41.81° and 100.81°. <a href="https://mathworld.wolfram.com/GreatTruncatedIcosahedron.html" target="_blank">More...</a>
 <hr>
+<h4>10. Great Stellapentakis Dodecahedron</h4>
+<a href="vr/great_stellapentakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/88A.png" class="foto"></a><img src="ar/88.png" class="qr">
+ <br>The great stellapentakis dodecahedron (or great astropentakis dodecahedron) is the polyhedron whose dual is the uniform  great truncated icosahedron. Its faces are isosceles triangles and part of each triangle lies within the solid, hence is invisible in solid models.  
+<br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 123.32°. <a href="https://en.wikipedia.org/wiki/Great_stellapentakis_dodecahedron" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
