@@ -634,7 +634,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>5. Pequeno dodecaedro stellapentakis</h4>
 <a href="../vr/small_stellated_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/93A.png" class="foto"></a><img src="../ar/94.png" class="qr">
- <br>O pequeno dodecaedro estrelado truncado é o poliedro uniforme também chamado de pequeno dodecaedro estrelado quase truncado, cujo poliedro dual é o grande dodecaedro pentakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
+ <br><span class="titulo">U<sub>58</sub></span> O pequeno dodecaedro estrelado truncado é o poliedro uniforme também chamado de pequeno dodecaedro estrelado quase truncado, cujo poliedro dual é o grande dodecaedro pentakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 12 pentágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 116.57°. <a href="https://mathworld.wolfram.com/SmallStellatedTruncatedDodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
