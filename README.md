@@ -644,6 +644,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great pentakis dodecahedron is the polyhedron whose dual is the uniform small stellated truncated dodecahedron. The pentagonal faces pass close to the center in the uniform polyhedron, causing this dual to be very spikey and part of each triangle lies within the solid, hence is invisible in solid models.  
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 24 | <b>Dihedral angle:</b> 108.22°. <a href="https://en.wikipedia.org/wiki/Great_pentakis_dodecahedron" target="_blank">More...</a>
 <hr>
+<h4>7. Great Stellated Truncated Dodecahedron</h4>
+<a href="vr/great_stellated_truncated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto"></a><img src="ar/91.png" class="qr">
+ <br><span class="titulo">U<sub>66</sub></span> The great stellated truncated dodecahedron is the uniform polyhedron also called the quasitruncated great stellated dodecahedron, whose dual is the great triakis icosahedron. Part of each face lies within the solid, hence is invisible in solid models. 
+<br><br><b>Faces:</b> 20 equilateral triangles and 12 regular decagrams | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 63.43° and 79.19°. <a href="https://mathworld.wolfram.com/GreatStellatedTruncatedDodecahedron.html" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
