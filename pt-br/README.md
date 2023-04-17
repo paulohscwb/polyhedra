@@ -647,6 +647,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>66</sub></span> O grande dodecaedro estrelado truncado é o poliedro uniforme também chamado de grande dodecaedro estrelado quase truncado, cujo dual é o grande icosaedro triakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 20 triângulos equiláteros e 12 decagramas regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 79.19°. <a href="https://mathworld.wolfram.com/GreatStellatedTruncatedDodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
+<h4>8. Grande icosaedro triakis</h4>
+<a href="../vr/great_triakis_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto"></a><img src="../ar/90.png" class="qr">
+ <br>O grande icosaedro triakis é o poliedro cujo dual é o uniforme grande dodecaedro truncado estrelado. Suas faces são triângulos isósceles e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 81°. <a href="https://en.wikipedia.org/wiki/Great_triakis_icosahedron" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
 
