@@ -604,7 +604,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 </details>
 
 <details id="p8">
-  <summary>Poliedros Truncados de auto-interseção</summary>
+  <summary>Poliedros truncados de auto-interseção</summary>
   Um poliedro é regular truncado se for transitivo de vértice com figuras de vértice triangulares isósceles. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. Uma figura de vértice é o polígono produzido pela conexão dos pontos médios das arestas que se encontram no vértice na mesma ordem em que as arestas aparecem ao redor do vértice.
   Para visualizar os poliedros truncados de auto-interseção em RA, visite a página:
 <p align="center"><a href="../selfintersecttruncated.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated.html</a></p> 
@@ -616,6 +616,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/stellated_truncated_hexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/97A.png" class="foto"></a><img src="../ar/97.png" class="qr">
  <br><span class="titulo">U<sub>19</sub></span> O hexaedro estrelado truncado é o poliedro uniforme também chamado de hexaedro quasitruncado, cujo poliedro dual é o grande octaedro triakis. O casco convexo do hexaedro truncado estrelado é o pequeno rombicuboctaedro arquimediano.
 <br><br><b>Faces:</b> 14 triângulos equiláteros e 6 octagramas regulares | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 54.74° e 90°. <a href="https://mathworld.wolfram.com/StellatedTruncatedHexahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>2. Grande octaedro triakis</h4>
+<a href="../vr/great_triakis_octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/96A.png" class="foto"></a><img src="../ar/96.png" class="qr">
+ <br>O grande octaedro triakis é o dual do hexaedro truncado estrelado. Ele tem 24 faces de triângulos isósceles que se cruzam e parte de cada triângulo está dentro do sólido, portanto, é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 24 triângulos isosceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
