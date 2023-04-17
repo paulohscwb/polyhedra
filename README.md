@@ -605,6 +605,23 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 </details>
 
+<details id="p8">
+  <summary>Self-Intersecting Truncated Polyhedra</summary>
+  A polyhedron is truncated regular if it is vertex-transitive with isosceles triangular vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. A vertex figure is the polygon produced by connecting the midpoints of the edges meeting at the vertex in the same order that the edges appear around the vertex.
+  To view self-intersecting truncated polyhedra in AR, simply visit:
+<p align="center"><a href="selfintersecttruncated.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
+<hr>
+<h4>1. Stellated Truncated Hexahedron</h4>
+<a href="vr/stellated_truncated_hexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/97A.png" class="foto"></a><img src="ar/97.png" class="qr">
+ <br><span class="titulo">U<sub>19</sub></span> The stellated truncated hexahedron is the uniform polyhedron also called the quasitruncated hexahedron, whose dual polyhedron is the great triakis octahedron. The convex hull of the stellated truncated hexahedron is the Archimedean small rhombicuboctahedron.
+<br><br><b>Faces:</b> 14 equilateral triangles and 6 regular octagrams | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 54.74° and 90°. <a href="https://mathworld.wolfram.com/StellatedTruncatedHexahedron.html" target="_blank">More...</a>
+<hr>
+<p class="topop"><a href="#p8" class="topo">back to top</a></p>
+</details>
+
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
   <summary>Pyramids, tetrahedrons, prisms and antiprisms</summary>
   To view polyhedra in AR, simply visit:
