@@ -30,56 +30,67 @@ l 12 5 8
 l 12 8 10 
 l 12 10 4 
 l 12 4 2 
+usemtl CorL
 l 13 3 4 
 l 13 4 11 
 l 13 11 9 
 l 13 9 5 
 l 13 5 3 
+usemtl CorL
 l 14 24 6 
 l 14 6 10 
 l 14 10 8 
 l 14 8 7 
 l 14 7 24 
+usemtl CorL
 l 15 1 7 
 l 15 7 9 
 l 15 9 11 
 l 15 11 6 
 l 15 6 1 
+usemtl CorL
 l 16 24 1 
 l 16 1 8 
 l 16 8 5 
 l 16 5 9 
 l 16 9 24 
+usemtl CorL
 l 17 1 24 
 l 17 24 11 
 l 17 11 4 
 l 17 4 10 
 l 17 10 1 
+usemtl CorL
 l 18 3 2 
 l 18 2 9 
 l 18 9 7 
 l 18 7 8 
 l 18 8 3 
+usemtl CorL
 l 19 2 3 
 l 19 3 10 
 l 19 10 6 
 l 19 6 11 
 l 19 11 2 
+usemtl CorL
 l 20 24 9 
 l 20 9 2 
 l 20 2 4 
 l 20 4 6 
 l 20 6 24 
+usemtl CorL
 l 21 1 6 
 l 21 6 4 
 l 21 4 3 
 l 21 3 8 
 l 21 8 1 
+usemtl CorL
 l 22 24 7 
 l 22 7 5 
 l 22 5 2 
 l 22 2 11 
 l 22 11 24 
+usemtl CorL
 l 23 1 10 
 l 23 10 3 
 l 23 3 5 
