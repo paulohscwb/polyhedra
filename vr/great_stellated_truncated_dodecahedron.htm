@@ -6,13 +6,13 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene >
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
-			<a-mixin id="texto" text="width: 2; side:double; color: black" rotation="-25 0 0">
+			<a-mixin id="texto" text="width: 4; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.019;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
@@ -80,67 +80,6 @@
 			<a-sphere mixin='esfera mtl9' position='0.11803 0.61803 0.19098'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.11803 0.61803 -0.19098'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.0 -0.42705'></a-sphere>
-			<a-text position='0.5 0.0 0.42705' value='1' mixin='texto'></a-text>
-<a-text position='-0.5 0.0 -0.42705' value='2' mixin='texto'></a-text>
-<a-text position='-0.5 0.0 0.42705' value='3' mixin='texto'></a-text>
-<a-text position='0.0 -0.42705 0.5' value='4' mixin='texto'></a-text>
-<a-text position='0.0 -0.42705 -0.5' value='5' mixin='texto'></a-text>
-<a-text position='0.0 0.42705 0.5' value='6' mixin='texto'></a-text>
-<a-text position='0.0 0.42705 -0.5' value='7' mixin='texto'></a-text>
-<a-text position='-0.42705 0.5 0.0' value='8' mixin='texto'></a-text>
-<a-text position='0.42705 0.5 0.0' value='9' mixin='texto'></a-text>
-<a-text position='-0.42705 -0.5 0.0' value='10' mixin='texto'></a-text>
-<a-text position='0.42705 -0.5 0.0' value='11' mixin='texto'></a-text>
-<a-text position='0.19098 0.5 0.38197' value='12' mixin='texto'></a-text>
-<a-text position='0.19098 0.5 -0.38197' value='13' mixin='texto'></a-text>
-<a-text position='-0.19098 0.5 0.38197' value='14' mixin='texto'></a-text>
-<a-text position='-0.19098 0.5 -0.38197' value='15' mixin='texto'></a-text>
-<a-text position='0.19098 -0.5 0.38197' value='16' mixin='texto'></a-text>
-<a-text position='0.19098 -0.5 -0.38197' value='17' mixin='texto'></a-text>
-<a-text position='-0.19098 -0.5 0.38197' value='18' mixin='texto'></a-text>
-<a-text position='-0.19098 -0.5 -0.38197' value='19' mixin='texto'></a-text>
-<a-text position='0.5 0.38197 0.19098' value='20' mixin='texto'></a-text>
-<a-text position='0.5 0.38197 -0.19098' value='21' mixin='texto'></a-text>
-<a-text position='-0.5 0.38197 0.19098' value='22' mixin='texto'></a-text>
-<a-text position='-0.5 0.38197 -0.19098' value='23' mixin='texto'></a-text>
-<a-text position='0.5 -0.38197 0.19098' value='24' mixin='texto'></a-text>
-<a-text position='0.5 -0.38197 -0.19098' value='25' mixin='texto'></a-text>
-<a-text position='-0.5 -0.38197 0.19098' value='26' mixin='texto'></a-text>
-<a-text position='-0.5 -0.38197 -0.19098' value='27' mixin='texto'></a-text>
-<a-text position='0.38197 0.19098 0.5' value='28' mixin='texto'></a-text>
-<a-text position='0.38197 0.19098 -0.5' value='29' mixin='texto'></a-text>
-<a-text position='-0.38197 0.19098 0.5' value='30' mixin='texto'></a-text>
-<a-text position='-0.38197 0.19098 -0.5' value='31' mixin='texto'></a-text>
-<a-text position='0.38197 -0.19098 0.5' value='32' mixin='texto'></a-text>
-<a-text position='0.38197 -0.19098 -0.5' value='33' mixin='texto'></a-text>
-<a-text position='-0.38197 -0.19098 0.5' value='34' mixin='texto'></a-text>
-<a-text position='-0.38197 -0.19098 -0.5' value='35' mixin='texto'></a-text>
-<a-text position='-0.61803 0.19098 -0.11803' value='36' mixin='texto'></a-text>
-<a-text position='-0.61803 0.19098 0.11803' value='37' mixin='texto'></a-text>
-<a-text position='0.61803 0.19098 -0.11803' value='38' mixin='texto'></a-text>
-<a-text position='0.61803 0.19098 0.11803' value='39' mixin='texto'></a-text>
-<a-text position='-0.61803 -0.19098 -0.11803' value='40' mixin='texto'></a-text>
-<a-text position='-0.61803 -0.19098 0.11803' value='41' mixin='texto'></a-text>
-<a-text position='0.61803 -0.19098 -0.11803' value='42' mixin='texto'></a-text>
-<a-text position='0.61803 -0.19098 0.11803' value='43' mixin='texto'></a-text>
-<a-text position='0.19098 -0.11803 -0.61803' value='44' mixin='texto'></a-text>
-<a-text position='0.19098 -0.11803 0.61803' value='45' mixin='texto'></a-text>
-<a-text position='-0.19098 -0.11803 -0.61803' value='46' mixin='texto'></a-text>
-<a-text position='-0.19098 -0.11803 0.61803' value='47' mixin='texto'></a-text>
-<a-text position='0.19098 0.11803 -0.61803' value='48' mixin='texto'></a-text>
-<a-text position='0.19098 0.11803 0.61803' value='49' mixin='texto'></a-text>
-<a-text position='-0.19098 0.11803 -0.61803' value='50' mixin='texto'></a-text>
-<a-text position='-0.19098 0.11803 0.61803' value='51' mixin='texto'></a-text>
-<a-text position='-0.11803 -0.61803 0.19098' value='52' mixin='texto'></a-text>
-<a-text position='-0.11803 -0.61803 -0.19098' value='53' mixin='texto'></a-text>
-<a-text position='0.11803 -0.61803 0.19098' value='54' mixin='texto'></a-text>
-<a-text position='0.11803 -0.61803 -0.19098' value='55' mixin='texto'></a-text>
-<a-text position='-0.11803 0.61803 0.19098' value='56' mixin='texto'></a-text>
-<a-text position='-0.11803 0.61803 -0.19098' value='57' mixin='texto'></a-text>
-<a-text position='0.11803 0.61803 0.19098' value='58' mixin='texto'></a-text>
-<a-text position='0.11803 0.61803 -0.19098' value='59' mixin='texto'></a-text>
-<a-text position='0.5 0.0 -0.42705' value='60' mixin='texto'></a-text>
-
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 150 300 650"></a-entity>
