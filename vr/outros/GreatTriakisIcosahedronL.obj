@@ -112,3 +112,7 @@ usemtl CorL
 l 31 3 11 
 l 31 11 7 
 l 31 7 3 
+usemtl CorL
+l 5 32
+usemtl CorL
+l 10 32
