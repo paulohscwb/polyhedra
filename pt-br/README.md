@@ -628,9 +628,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 12 pentagramas regulares e 12 decágonos regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 116.57°. <a href="https://en.wikipedia.org/wiki/Truncated_great_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>4. Pequeno dodecaedro stellapentakis</h4>
-<a href="../vr/truncated_great_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/94A.png" class="foto"></a><img src="../ar/94.png" class="qr">
+<a href="../vr/small_stellapentakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/94A.png" class="foto"></a><img src="../ar/94.png" class="qr">
  <br>O pequeno dodecaedro stellapentakis é o poliedro uniforme cujo dual é o grande dodecaedro truncado. Ele tem 60 faces triangulares que se cruzam e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 12 pentagramas regulares e 12 decágonos regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 116.57°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 60 triângulos isosceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 149.1°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
