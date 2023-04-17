@@ -606,7 +606,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 </details>
 
 <details id="p8">
-  <summary>Self-Intersecting Truncated Polyhedra</summary>
+  <summary>Self-intersecting truncated Polyhedra</summary>
   A polyhedron is truncated regular if it is vertex-transitive with isosceles triangular vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. A vertex figure is the polygon produced by connecting the midpoints of the edges meeting at the vertex in the same order that the edges appear around the vertex.
   To view self-intersecting truncated polyhedra in AR, simply visit:
 <p align="center"><a href="selfintersecttruncated.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated.html</a></p> 
@@ -618,6 +618,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/stellated_truncated_hexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/97A.png" class="foto"></a><img src="ar/97.png" class="qr">
  <br><span class="titulo">U<sub>19</sub></span> The stellated truncated hexahedron is the uniform polyhedron also called the quasitruncated hexahedron, whose dual polyhedron is the great triakis octahedron. The convex hull of the stellated truncated hexahedron is the Archimedean small rhombicuboctahedron.
 <br><br><b>Faces:</b> 14 equilateral triangles and 6 regular octagrams | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 54.74° and 90°. <a href="https://mathworld.wolfram.com/StellatedTruncatedHexahedron.html" target="_blank">More...</a>
+<hr>
+<h4>2. Great Triakis Octahedron</h4>
+<a href="vr/great_triakis_octahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/96A.png" class="foto"></a><img src="ar/96.png" class="qr">
+ <br>The great triakis octahedron is the dual of the stellated truncated hexahedron. It has 24 intersecting isosceles triangles faces and part of each triangle lies within the solid, hence is invisible in solid models. 
+<br><br><b>Faces:</b> 24 isosceles triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Dihedral angle:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
