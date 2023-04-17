@@ -603,6 +603,23 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 </details>
 
+<details id="p8">
+  <summary>Poliedros Truncados de auto-interseção</summary>
+  Um poliedro é regular truncado se for transitivo de vértice com figuras de vértice triangulares isósceles. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. Uma figura de vértice é o polígono produzido pela conexão dos pontos médios das arestas que se encontram no vértice na mesma ordem em que as arestas aparecem ao redor do vértice.
+  Para visualizar os poliedros truncados de auto-interseção em RA, visite a página:
+<p align="center"><a href="../selfintersecttruncated.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
+ <hr>
+<h4>1. Hexaedro estrelado truncado</h4>
+<a href="../vr/stellated_truncated_hexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/97A.png" class="foto"></a><img src="../ar/97.png" class="qr">
+ <br><span class="titulo">U<sub>19</sub></span> O hexaedro estrelado truncado é o poliedro uniforme também chamado de hexaedro quasitruncado, cujo poliedro dual é o grande octaedro triakis. O casco convexo do hexaedro truncado estrelado é o pequeno rombicuboctaedro arquimediano.
+<br><br><b>Faces:</b> 14 triângulos equiláteros e 6 octagramas regulares | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 54.74° e 90°. <a href="https://mathworld.wolfram.com/StellatedTruncatedHexahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
+</details>
+
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
   <summary>Pirâmides, tetraedros, prismas e antiprismas</summary>
   Para visualizar os poliedros em RA, visite a página:
@@ -615,6 +632,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/heptagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/110A.png" class="foto"></a><img src="../ar/110.png" class="qr">
  <br><span class="titulo">U<sub>76</sub></span> Um prisma geral é um poliedro que possui duas faces poligonais congruentes e com todas as faces restantes paralelogramos. Um prisma reto é um prisma no qual os polígonos superior e inferior ficam um sobre o outro, de modo que os polígonos verticais que conectam seus lados não são apenas paralelogramos, mas retângulos. Os prismas regulares retos têm redes particularmente simples, dadas por duas bases n-gonais de orientação oposta conectadas por um conjunto de n quadrados. O exemplo mostrado nesta página é de um prisma reto regular heptagonal.
 <br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/Prism.html" target="_blank">Mais sobre...</a>
+<hr>
 <h4>2. Prisma estrelado</h4>
 <a href="../vr/octagrammic_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto"></a><img src="../ar/105.png" class="qr">
  <br><span class="titulo">U<sub>78</sub></span> Um prisma estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares deslocados ao longo de seu eixo de simetria e com arestas correspondentes conectadas por faces laterais (quadrados, retângulos ou paralelogramos). O exemplo mostrado nesta página é de um prisma reto estrelado octagonal (prisma octagrâmico).
