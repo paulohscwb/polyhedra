@@ -623,9 +623,14 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 24 triângulos isosceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Grande dodecaedro truncado</h4>
-<a href="../vr/truncated_great_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/95A.png" class="foto"></a><img src="../ar/97.png" class="qr">
+<a href="../vr/truncated_great_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/95A.png" class="foto"></a><img src="../ar/95.png" class="qr">
  <br><span class="titulo">U<sub>37</sub></span> O grande dodecaedro truncado é o poliedro uniforme cujo dual é o pequeno dodecaedro stellapentakis. Ele compartilha seu arranjo de vértice com três outros poliedros uniformes: o grande rombicosidodecaedro não convexo, o grande dodecicosidodecaedro e o grande rombidodecaedro.
 <br><br><b>Faces:</b> 12 pentagramas regulares e 12 decágonos regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 116.57°. <a href="https://en.wikipedia.org/wiki/Truncated_great_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>4. Pequeno dodecaedro stellapentakis</h4>
+<a href="../vr/truncated_great_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/94A.png" class="foto"></a><img src="../ar/94.png" class="qr">
+ <br>O pequeno dodecaedro stellapentakis é o poliedro uniforme cujo dual é o grande dodecaedro truncado. Ele tem 60 faces triangulares que se cruzam e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 12 pentagramas regulares e 12 decágonos regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 116.57°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
