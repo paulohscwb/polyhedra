@@ -642,6 +642,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande dodecaedro pentakis é o poliedro cujo dual é o uniforme pequeno dodecaedro truncado estrelado. As faces pentagonais passam próximas ao centro no poliedro uniforme, fazendo com que esse dual seja muito pontiagudo e parte de cada triângulo fique dentro do sólido, portanto invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 108.22°. <a href="https://en.wikipedia.org/wiki/Great_pentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
+<h4>7. Grande dodecaedro estrelado truncado</h4>
+<a href="../vr/great_stellated_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto"></a><img src="../ar/91.png" class="qr">
+ <br><span class="titulo">U<sub>66</sub></span> O grande dodecaedro estrelado truncado é o poliedro uniforme também chamado de grande dodecaedro estrelado quase truncado, cujo dual é o grande icosaedro triakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 20 triângulos equiláteros e 12 decagramas regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 79.19°. <a href="https://mathworld.wolfram.com/GreatStellatedTruncatedDodecahedron.html" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
 
