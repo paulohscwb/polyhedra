@@ -96,3 +96,7 @@ l 23 10 3
 l 23 3 5 
 l 23 5 7 
 l 23 7 1 
+usemtl CorL
+l 2 4
+usemtl CorL
+l 6 24
