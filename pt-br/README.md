@@ -16,7 +16,7 @@ Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por
 <p align="center"> <a href="../archimedes.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img style="border-radius:7px;" src="../ar/example.jpg" width="80%"></center>
+<br><br><center><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></center>
 <hr>
 <h4>1. Octaedro truncado</h4>
  <a href="../vr/truncated_octahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/hiroA.png" class="foto"></a><img src="../ar/hiro.png" class="qr">
@@ -91,7 +91,7 @@ Um sólido platônico é um poliedro regular e convexo. É construído por faces
 <p align="center"> <a href="../platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<br><center><img style="border-radius:7px;" src="../ar/example1.jpg" width="70%"></center>
+<br><center><img style="border-radius:7px;" src="../ar/example1.jpg" width="85%"></center>
 <hr>
 <h4>1. Icosaedro</h4>
  <a href="../vr/icosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto"></a><img src="../ar/9.png" class="qr">
