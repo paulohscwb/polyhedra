@@ -528,7 +528,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><a href="../quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example6.jpg" width="85%"></p>
  <hr>
 <h4>1. Pequeno rombihexaedro</h4>
 <a href="../vr/small_rhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto"></a><img src="../ar/133.png" class="qr">
@@ -661,7 +661,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><a href="../polyhedron.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example5.jpg" width="85%"></p>
  <hr>
 <h4>1. Prisma</h4>
 <a href="../vr/heptagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/110A.png" class="foto"></a><img src="../ar/110.png" class="qr">

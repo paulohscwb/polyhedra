@@ -530,7 +530,7 @@ A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of
 <p align="center"><a href="quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="ar/example6.jpg" width="85%"></p>
 <hr>
 <h4>1. Small rhombihexahedron</h4>
 <a href="vr/small_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto"></a><img src="ar/133.png" class="qr">
@@ -663,7 +663,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="polyhedron.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="ar/example5.jpg" width="85%"></p>
 <hr>
 <h4>1. Prism</h4>
 <a href="vr/heptagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/110A.png" class="foto"></a><img src="ar/110.png" class="qr">
