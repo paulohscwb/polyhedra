@@ -23,25 +23,25 @@ v 0 10 2
 usemtl CorL
 l 1 2 3 4 5
 usemtl CorL
-l 8 7 6 4 3
+l 3 4 6 7 8
 usemtl CorL
 l 2 3 8 9 10
 usemtl CorL
 l 9 8 7 11 12
 usemtl CorL
-l 11 14 13 6 7
+l 7 6 13 14 11
 usemtl CorL
 l 14 11 12 15 16
 usemtl CorL
-l 10 17 15 12 9
+l 9 12 15 17 10
 usemtl CorL
-l 18 17 10 2 1
+l 1 2 10 17 18
 usemtl CorL
-l 16 15 17 18 19
+l 19 18 17 15 16
 l 19 18 1 5 20
 usemtl CorL
-l 20 5 4 6 13
-l 14 16 19 20 13
+l 13 6 4 5 20
+l 13 20 19 16 14
 usemtl CorL
 l 1 5
 usemtl CorL
@@ -62,5 +62,3 @@ usemtl CorL
 l 15 16
 usemtl CorL
 l 9 10
-usemtl CorL
-l 
