@@ -761,6 +761,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The dyakis dodecahedron, also called the didodecahedron or diploid, is made from 24 quadrilaterals with only two equal and adjacent sides, with all dihedral angles less than 180&deg;. The Möbius octakis hexahedron is a special case of this polyhedron.
 <br><br><b>Faces:</b> 24 quadrilaterals | <b>Edges:</b> 48 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <hr>
+<h4>18. Trapezohedral Tristetrahedron</h4>
+<a href="vr/trapezohedral_tristetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto"></a><img src="ar/84.png" class="qr">
+ <br>The trapezohedral tristetrahedron is the polyhedra made from 12 kites shaped quadrilaterals. It can be constructed by means of symmetries from a regular tetrahedron.
+<br><br><br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 

@@ -759,6 +759,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O dodecaedro dyakis, também chamado de didodecaedro ou diplóide, é feito de 24 quadriláteros com apenas dois lados iguais e adjacentes, com todos os ângulos diédricos menores do que 180&deg;. O hexaedro Möbius octakis é um caso especial deste poliedro.
 <br><br><b>Faces:</b> 24 quadriláteros | <b>Arestas:</b> 48 | <b>Vértices:</b> 26. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
 <hr>
+<h4>18. Tristetraedro trapezoédrico</h4>
+<a href="../vr/trapezohedral_tristetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/84A.png" class="foto"></a><img src="../ar/84.png" class="qr">
+ <br>O tristetraedro trapezoédrico é o poliedro formado por 12 quadriláteros em forma de "pipa". Pode ser construído por meio de simetrias a partir de um tetraedro regular.
+<br><br><b>Faces:</b> 12 "pipas" | <b>Arestas:</b> 24 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 </details>
 
