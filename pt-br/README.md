@@ -744,6 +744,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O dodecaedro trapezo-rômbico, também chamado de dodecaedro rombo-trapezoidal, é um dodecaedro geral que consiste em seis losangos idênticos e seis trapézios isósceles idênticos. O dodecaedro trapezo-rômbico pode ser obtido a partir do dodecaedro rômbico cortando-o ao meio e girando as duas metades 60&deg; uma em relação à outra. Os comprimentos das arestas curta e longa do dodecaedro girado têm comprimentos 2/3 e 4/3 vezes o comprimento das faces rômbicas.
 <br><br><b>Faces:</b> 6 losangos e 6 trapézios isósceles | <b>Arestas:</b> 24 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Trapezo-RhombicDodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
+<h4>15. Dodecaedro pentagonal octaédrico</h4>
+<a href="../vr/octahedral_pentagonal_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/87A.png" class="foto"></a><img src="../ar/87.png" class="qr">
+ <br>O dodecaedro pentagonal octaédrico, também chamado de piritoedro, é feito de 12 pentágonos irregulares com 4 lados iguais e simetria bilateral. O dodecaedro regular é um caso especial deste poliedro.
+<br><br><b>Faces:</b> 12 pentágonos irregulares | <b>Arestas:</b> 30 | <b>Vértices:</b> 20. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 </details>
 
