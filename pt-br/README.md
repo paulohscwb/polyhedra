@@ -749,6 +749,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O dodecaedro pentagonal octaédrico, também chamado de piritoedro, é feito de 12 pentágonos irregulares com 4 lados iguais e simetria bilateral. O dodecaedro regular é um caso especial deste poliedro.
 <br><br><b>Faces:</b> 12 pentágonos irregulares | <b>Arestas:</b> 30 | <b>Vértices:</b> 20. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
 <hr>
+<h4>16. Dodecaedro dyakis</h4>
+<a href="../vr/dyakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/86A.png" class="foto"></a><img src="../ar/86.png" class="qr">
+ <br>O dodecaedro dyakis, também chamado de didodecaedro ou diplóide, é feito de 24 quadriláteros com apenas dois lados iguais e adjacentes. O hexaedro Möbius octakis é um caso especial deste poliedro.
+<br><br><b>Faces:</b> 24 quadriláteros | <b>Arestas:</b> 48 | <b>Vértices:</b> 26. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 </details>
 
