@@ -746,6 +746,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The trapezo-rhombic dodecahedron, also called the rhombo-trapezoidal dodecahedron, is a general dodecahedron consisting of six identical rhombi and six identical isosceles trapezoids. The trapezo-rhombic dodecahedron can be obtained from the rhombic dodecahedron by slicing in half and rotating the two halves 60&deg; with respect to each other. The lengths of the short and long edges of the rotated dodecahedron have lengths 2/3 and 4/3 times the length of the rhombic faces. 
 <br><br><b>Faces:</b> 6 rhombi and 6 isosceles trapezoids | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Trapezo-RhombicDodecahedron.html" target="_blank">More...</a>
 <hr>
+<h4>15. Octahedral Pentagonal Dodecahedron</h4>
+<a href="vr/octahedral_pentagonal_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/87A.png" class="foto"></a><img src="ar/87.png" class="qr">
+ <br>The octahedral pentagonal dodecahedron, also called the pyritohedron, is made from 12 irregular pentagons with 4 equal sides and bilateral symmetry. The regular dodecahedron is a special case of this polyhedron.
+<br><br><b>Faces:</b> 12 irregular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 
