@@ -751,9 +751,14 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The octahedral pentagonal dodecahedron, also called the pyritohedron, is made from 12 irregular pentagons with 4 equal sides and bilateral symmetry. The regular dodecahedron is a special case of this polyhedron.
 <br><br><b>Faces:</b> 12 irregular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <hr>
-<h4>16. Dyakis Dodecahedron</h4>
-<a href="vr/dyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/86A.png" class="foto"></a><img src="ar/86.png" class="qr">
- <br>The dyakis dodecahedron, also called the didodecahedron or diploid, is made from 24 quadrilaterals with only two equal and adjacent sides. The Möbius octakis hexahedron is a special case of this polyhedron.
+<h4>16. Concave Dyakis Dodecahedron</h4>
+<a href="vr/concave_dyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/86A.png" class="foto"></a><img src="ar/86.png" class="qr">
+ <br>The concave dyakis dodecahedron, also called the concave didodecahedron or concave diploid, is made from 24 quadrilaterals with only two equal and adjacent sides, with some dihedral angles greater than 180&deg;. The Möbius octakis hexahedron is a special case of this polyhedron.
+<br><br><b>Faces:</b> 24 quadrilaterals | <b>Edges:</b> 48 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
+<hr>
+<h4>17. Dyakis Dodecahedron</h4>
+<a href="vr/dyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/85A.png" class="foto"></a><img src="ar/85.png" class="qr">
+ <br>The dyakis dodecahedron, also called the didodecahedron or diploid, is made from 24 quadrilaterals with only two equal and adjacent sides, with all dihedral angles less than 180&deg;. The Möbius octakis hexahedron is a special case of this polyhedron.
 <br><br><b>Faces:</b> 24 quadrilaterals | <b>Edges:</b> 48 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
