@@ -766,7 +766,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>A tetragonal pentagonal dodecahedron (also called of tetartoid, pentagon-tritetrahedron, or tetrahedric pentagon dodecahedron) is a dodecahedron with chiral tetrahedral symmetry. Like the regular dodecahedron, it has twelve identical pentagonal faces, with three meeting in each of the 20 vertices. However, the pentagons are not regular and the figure has no fivefold symmetry axes (each face have two pairs of equal adjacent sides). Although regular dodecahedra do not exist in crystals, the tetartoid form does.
 <br><br><b>Faces:</b> 12 irregular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20. <a href="https://en.wikipedia.org/wiki/Dodecahedron" target="_blank">More...</a>
 <hr>
-<h4>19. Tetragonal Pentagonal Dodecahedron</h4>
+<h4>19. Hexakis Tetrahedron</h4>
 <a href="vr/hexakis_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/82A.png" class="foto"></a><img src="ar/82.png" class="qr">
  <br>A hexakis tetrahedron (also called of hextetrahedron) is made by changing the length of the faces axes and edges-midpoint axes of a tetrahedron. The equilateral hexakis tetrahedron is a Möbius deltahedron.
 <br><br><br><b>Faces:</b> 24 triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
