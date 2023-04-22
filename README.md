@@ -761,11 +761,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The dyakis dodecahedron, also called the didodecahedron or diploid, is made from 24 quadrilaterals with only two equal and adjacent sides, with all dihedral angles less than 180&deg;. The Möbius octakis hexahedron is a special case of this polyhedron.
 <br><br><b>Faces:</b> 24 quadrilaterals | <b>Edges:</b> 48 | <b>Vertices:</b> 26. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <hr>
-<h4>18. Trapezohedral Tristetrahedron</h4>
+<h4>18. Tetragonal Pentagonal Dodecahedron</h4>
+<a href="vr/tetartoid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/83A.png" class="foto"></a><img src="ar/83.png" class="qr">
+ <br>A tetragonal pentagonal dodecahedron (also called of tetartoid, pentagon-tritetrahedron, or tetrahedric pentagon dodecahedron) is a dodecahedron with chiral tetrahedral symmetry. Like the regular dodecahedron, it has twelve identical pentagonal faces, with three meeting in each of the 20 vertices. However, the pentagons are not regular and the figure has no fivefold symmetry axes (each face have two pairs of equal adjacent sides). Although regular dodecahedra do not exist in crystals, the tetartoid form does.
+<br><br><b>Faces:</b> 12 irregular pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20. <a href="https://en.wikipedia.org/wiki/Dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>19. Trapezohedral Tristetrahedron</h4>
 <a href="vr/trapezohedral_tristetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto"></a><img src="ar/84.png" class="qr">
  <br>The trapezohedral tristetrahedron is the polyhedra made from 12 kites shaped quadrilaterals. It can be constructed by means of symmetries from a regular tetrahedron.
-<br><br><br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
+<br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <hr>
+
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 
