@@ -23,7 +23,7 @@
 		<a-mixin id="esferaP" geometry="radius: 0.025;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="esferaG" geometry="radius: 0.1;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="esferaGG" geometry="radius: 0.4;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-		<a-mixin id="esferaGGG" geometry="radius: 0.4;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+		<a-mixin id="esferaGGG" geometry="radius: 0.25;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 		<a-mixin id="tamanho1" scale="1 1 2"></a-mixin>
@@ -410,7 +410,7 @@
 	
 	<a-marker type="barcode" value="84" smooth="smooth:true; smoothCount:1">
 		<a-link mixin="lnk" class="lnk" href="vr/trapezohedral_tristetrahedron.htm"></a-link>
-	   	<a-entity position="2 -1 -1" rotation="0 0 0" scale="0.21 0.21 0.21">
+	   	<a-entity position="2 -1 -1" rotation="0 0 0" scale="0.25 0.25 0.25">
 			<a-obj-model src="vr/outros/TrapezohedralTristetrahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
 			<a-obj-model src="vr/outros/TrapezohedralTristetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaGGG mtl9' position='0 6 0 '></a-sphere>
@@ -460,7 +460,7 @@
 	
 	<a-marker type="barcode" value="82" smooth="smooth:true; smoothCount:1">
 		<a-link mixin="lnk" class="lnk" href="vr/hexakis_tetrahedron.htm"></a-link>
-	   	<a-entity position="2 0.35 0" rotation="0 0 0" scale="0.17 0.17 0.17">
+	   	<a-entity position="2 0.35 0" rotation="0 0 0" scale="0.2 0.2 0.2">
 			<a-obj-model src="vr/outros/HexakisTetrahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
 			<a-obj-model src="vr/outros/HexakisTetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaGGG mtl9' position='0 6 -4.25'></a-sphere>
