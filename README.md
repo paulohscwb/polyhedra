@@ -776,7 +776,6 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The trapezohedral tristetrahedron is the polyhedra made from 12 kites shaped quadrilaterals. It can be constructed by means of symmetries from a regular tetrahedron.
 <br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <hr>
-
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 
