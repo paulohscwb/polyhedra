@@ -764,7 +764,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>Um dodecaedro pentagonal tetragonal (também chamado de tetartóide, pentágono tritetraedro ou dodecaedro pentágono tetraédrico) é um dodecaedro com simetria tetraédrica quiral. Como o dodecaedro regular, ele tem doze faces pentagonais idênticas, com três se encontrando em cada um dos 20 vértices. No entanto, os pentágonos não são regulares e a figura não tem eixos de simetria quíntupla (cada face tem dois pares de lados adjacentes iguais). Embora os dodecaedros regulares não existam nos cristais, a forma tetartoide existe.
 <br><br><b>Faces:</b> 12 pentágonos irregulares | <b>Arestas:</b> 30 | <b>Vértices:</b> 20. <a href="https://en.wikipedia.org/wiki/Dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>19. Tristetraedro trapezoédrico</h4>
+<h4>19. Tetraedro hexakis</h4>
+<a href="../vr/hexakis_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto"></a><img src="../ar/82.png" class="qr">
+ <br>Um tetraedro hexakis (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. O tetraedro hexakis equilátero é um deltaedro de Möbius.
+<br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>20. Tristetraedro trapezoédrico</h4>
 <a href="../vr/trapezohedral_tristetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/84A.png" class="foto"></a><img src="../ar/84.png" class="qr">
  <br>O tristetraedro trapezoédrico é o poliedro formado por 12 quadriláteros em forma de "pipa". Pode ser construído por meio de simetrias a partir de um tetraedro regular.
 <br><br><br><b>Faces:</b> 12 "pipas" | <b>Arestas:</b> 24 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
