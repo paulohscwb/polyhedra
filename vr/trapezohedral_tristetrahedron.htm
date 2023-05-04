@@ -6,7 +6,7 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene renderer="colorManagement: true; physicallyCorrectLights: true;">
+    <a-scene renderer="colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -16,8 +16,8 @@
 			<a-mixin id="titulos" text="width: 18; side:double; color: #6495ed;" rotation="0 14 0">
 			<a-mixin id="titulos1" text="width: 8; side:double; color: #4682b4; wrapCount:30;" visible="false" rotation="0 14 0">
 			<a-mixin id="esfera" geometry="radius: 0.15;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
-			<a-mixin id="anima" animation='property: opacity; dur: 10000; from: 1; to: 0; easing: linear; delay: 5000'></a-mixin>
-			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 3000'></a-mixin>
+			<a-mixin id="anima" animation='property: opacity; dur: 5000; from: 1; to: 0; easing: linear; delay: 5000'></a-mixin>
+			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
 			<a-mixin id="anima1" animation='property: rotation; dur: 10000; from: 0 0 90; to: 0 360 90; easing: linear; delay: 3000'></a-mixin>
 			<a-mixin id="anima2" animation__2='property: rotation; dur: 10000; from: 0 0 90; to: 180 0 90; dir: alternate; easing: linear; delay: 14000; loop: 1'></a-mixin>
 			<a-mixin id="anima3" animation__3='property: rotation; dur: 10000; from: 0 0 90; to: 0 0 270; dir: alternate; easing: linear; delay: 35000; loop: 1'></a-mixin>
@@ -51,20 +51,20 @@
 			<a-sphere mixin='esfera mtl9' position='-1.09 0.63 -1.68'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-1.81 1.04 -3.6'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0 0 -3.47'></a-sphere>
-			<a-text position='0 6 -4.25 ' value='1' mixin='texto anima'></a-text>
-			<a-text position='-5.2 -3 -4.25' value='2' mixin='texto anima'></a-text>
-			<a-text position='5.2 -3 -4.25' value='3' mixin='texto anima'></a-text>
-			<a-text position='0 0 4.24' value='4' mixin='texto anima'></a-text>
-			<a-text position='-1.81 -1.04 -0.66' value='5' mixin='texto anima'></a-text>
-			<a-text position='0 -2.08 -3.6' value='6' mixin='texto anima'></a-text>
-			<a-text position='0 -1.26 -1.68' value='7' mixin='texto anima'></a-text>
-			<a-text position='1.8 -1.04 -0.66' value='8' mixin='texto anima'></a-text>
-			<a-text position='1.09 0.63 -1.68' value='9' mixin='texto anima'></a-text>
-			<a-text position='1.8 1.04 -3.6' value='10' mixin='texto anima'></a-text>
-			<a-text position='0 2.08 -0.66' value='11' mixin='texto anima'></a-text>
-			<a-text position='-1.09 0.63 -1.68' value='12' mixin='texto anima'></a-text>
-			<a-text position='-1.81 1.04 -3.6' value='13' mixin='texto anima'></a-text>
-			<a-text position='0 0 -3.47' value='14' mixin='texto anima'></a-text>
+			<a-text position='0 6 -4.25 ' value='1' mixin='texto anima anima5'></a-text>
+			<a-text position='-5.2 -3 -4.25' value='2' mixin='texto anima anima5'></a-text>
+			<a-text position='5.2 -3 -4.25' value='3' mixin='texto anima anima5'></a-text>
+			<a-text position='0 0 4.24' value='4' mixin='texto anima anima5'></a-text>
+			<a-text position='-1.81 -1.04 -0.66' value='5' mixin='texto anima anima5'></a-text>
+			<a-text position='0 -2.08 -3.6' value='6' mixin='texto anima anima5'></a-text>
+			<a-text position='0 -1.26 -1.68' value='7' mixin='texto anima anima5'></a-text>
+			<a-text position='1.8 -1.04 -0.66' value='8' mixin='texto anima anima5'></a-text>
+			<a-text position='1.09 0.63 -1.68' value='9' mixin='texto anima anima5'></a-text>
+			<a-text position='1.8 1.04 -3.6' value='10' mixin='texto anima anima5'></a-text>
+			<a-text position='0 2.08 -0.66' value='11' mixin='texto anima anima5'></a-text>
+			<a-text position='-1.09 0.63 -1.68' value='12' mixin='texto anima anima5'></a-text>
+			<a-text position='-1.81 1.04 -3.6' value='13' mixin='texto anima anima5'></a-text>
+			<a-text position='0 0 -3.47' value='14' mixin='texto anima anima5'></a-text>
 		</a-entity>
 		
 		<a-text position='-12.5 6 0' value='Tristetraedro Trapezoedrico' mixin='titulos'></a-text>
