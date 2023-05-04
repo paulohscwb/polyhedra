@@ -17,10 +17,11 @@
 			<a-mixin id="titulos1" text="width: 8; side:double; color: #4682b4; wrapCount:30;" visible="false" rotation="0 14 0">
 			<a-mixin id="esfera" geometry="radius: 0.15;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
 			<a-mixin id="anima" animation='property: opacity; dur: 10000; from: 1; to: 0; easing: linear; delay: 5000'></a-mixin>
+			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 3000'></a-mixin>
 			<a-mixin id="anima1" animation='property: rotation; dur: 10000; from: 0 0 90; to: 0 360 90; easing: linear; delay: 3000'></a-mixin>
 			<a-mixin id="anima2" animation__2='property: rotation; dur: 10000; from: 0 0 90; to: 180 0 90; dir: alternate; easing: linear; delay: 14000; loop: 1'></a-mixin>
 			<a-mixin id="anima3" animation__3='property: rotation; dur: 10000; from: 0 0 90; to: 0 0 270; dir: alternate; easing: linear; delay: 35000; loop: 1'></a-mixin>
-			<a-mixin id="anima4" animation__4='property: visible; from: false; to: true; dur: 1; delay: 3000'></a-mixin>
+			<a-mixin id="anima4" animation__4='property: visible; from: false; to: true; dur: 1;'></a-mixin>
 			<a-mixin id="anima5" animation__5='property: visible; from: true; to: false; dur: 1; delay: 10000'></a-mixin>
 			<a-mixin id="anima6" animation__6='property: visible; from: false; to: true; dur: 1; delay: 11000'></a-mixin>
 			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; dur: 1; delay: 21000'></a-mixin>
@@ -34,7 +35,7 @@
 		</a-assets>
 
 		<a-entity position="0 0 1.8" rotation="0 0 90" scale="0.9 0.9 0.9" mixin="anima1 anima2 anima3">
-			<a-obj-model src="outros/TrapezohedralTristetrahedron.obj" mtl="#material" ></a-obj-model>
+			<a-obj-model src="outros/TrapezohedralTristetrahedron.obj" mtl="#material" visible="false" mixin="anima0"></a-obj-model>
 			<a-obj-model src="outros/TrapezohedralTristetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0 6 -4.25 '></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-5.2 -3 -4.25'></a-sphere>
