@@ -6,7 +6,7 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene renderer="colorManagement: true;">
+    <a-scene renderer="colorManagement: true; toneMapping: ACESFilmic;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -34,7 +34,7 @@
 		</a-assets>
 
 		<a-entity position="0 0 1.8" rotation="0 0 90" scale="0.9 0.9 0.9" mixin="anima1 anima2 anima3">
-			<a-obj-model src="outros/TrapezohedralTristetrahedron.obj" mtl="#material" scale="0.997 0.997 0.997"></a-obj-model>
+			<a-obj-model src="outros/TrapezohedralTristetrahedron.obj" mtl="#material" ></a-obj-model>
 			<a-obj-model src="outros/TrapezohedralTristetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0 6 -4.25 '></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-5.2 -3 -4.25'></a-sphere>
