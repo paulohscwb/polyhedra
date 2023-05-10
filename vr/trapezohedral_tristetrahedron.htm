@@ -10,27 +10,16 @@
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
-			<a-mixin id="mtl9" material="color: #E0E0E0; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: green; x-offset: 0.15" rotation="-25 0 -90">
 			<a-mixin id="titulos" text="width: 18; side:double; color: #6495ed;" rotation="0 14 0">
 			<a-mixin id="titulos1" text="width: 8; side:double; color: #4682b4; wrapCount:30;" visible="false" rotation="0 14 0">
 			<a-mixin id="esfera" geometry="radius: 0.15;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
-			<a-mixin id="anima" animation='property: opacity; dur: 3000; from: 1; to: 0; easing: linear; delay: 1000'></a-mixin>
 			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
 			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 0 0 90; to: 0 360 90; easing: linear; delay: 3000'></a-mixin>
 			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 0 0 90; to: 180 0 90; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
 			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 0 0 90; to: 0 0 270; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
-			<a-mixin id="anima4" animation__4='property: visible; from: false; to: true; dur: 1;'></a-mixin>
-			<a-mixin id="anima5" animation__5='property: visible; from: true; to: false; dur: 1; delay: 10000'></a-mixin>
-			<a-mixin id="anima6" animation__6='property: visible; from: false; to: true; dur: 1; delay: 11000'></a-mixin>
-			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; dur: 1; delay: 21000'></a-mixin>
-			<a-mixin id="anima8" animation__8='property: visible; from: false; to: true; dur: 1; delay: 22000'></a-mixin>
-			<a-mixin id="anima9" animation__9='property: visible; from: true; to: false; dur: 1; delay: 31000'></a-mixin>
-			<a-mixin id="anima10" animation__10='property: visible; from: false; to: true; dur: 1; delay: 32000'></a-mixin>
-			<a-mixin id="anima11" animation__11='property: visible; from: true; to: false; dur: 1; delay: 41000'></a-mixin>
-			<a-mixin id="anima12" animation__10='property: visible; from: false; to: true; dur: 1; delay: 42000'></a-mixin>
-			<a-mixin id="anima13" animation__11='property: visible; from: true; to: false; dur: 1; delay: 51000'></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 
@@ -51,29 +40,7 @@
 			<a-sphere mixin='esfera mtl9' position='-1.09 0.63 -1.68'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-1.81 1.04 -3.6'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0 0 -3.47'></a-sphere>
-			<a-text position='0 6 -4.25 ' value='1' mixin='texto anima anima5'></a-text>
-			<a-text position='-5.2 -3 -4.25' value='2' mixin='texto anima anima5'></a-text>
-			<a-text position='5.2 -3 -4.25' value='3' mixin='texto anima anima5'></a-text>
-			<a-text position='0 0 4.24' value='4' mixin='texto anima anima5'></a-text>
-			<a-text position='-1.81 -1.04 -0.66' value='5' mixin='texto anima anima5'></a-text>
-			<a-text position='0 -2.08 -3.6' value='6' mixin='texto anima anima5'></a-text>
-			<a-text position='0 -1.26 -1.68' value='7' mixin='texto anima anima5'></a-text>
-			<a-text position='1.8 -1.04 -0.66' value='8' mixin='texto anima anima5'></a-text>
-			<a-text position='1.09 0.63 -1.68' value='9' mixin='texto anima anima5'></a-text>
-			<a-text position='1.8 1.04 -3.6' value='10' mixin='texto anima anima5'></a-text>
-			<a-text position='0 2.08 -0.66' value='11' mixin='texto anima anima5'></a-text>
-			<a-text position='-1.09 0.63 -1.68' value='12' mixin='texto anima anima5'></a-text>
-			<a-text position='-1.81 1.04 -3.6' value='13' mixin='texto anima anima5'></a-text>
-			<a-text position='0 0 -3.47' value='14' mixin='texto anima anima5'></a-text>
 		</a-entity>
-		
-		<a-text position='-12 5.2 0' value='Tristetraedro Trapezoedrico' mixin='titulos'></a-text>
-		<a-text position='-12 6 0' value='Trapezohedral Tristetrahedron' mixin='titulos'></a-text>
-		<a-text position='4 -5 0' value='vertices: 14' mixin='titulos1 anima4 anima5'></a-text>
-		<a-text position='4 -5 0' value='edges (arestas): 24' mixin='titulos1 anima7 anima6'></a-text>
-		<a-text position='4 -5 0' value='faces: 12 kites (pipas)' mixin='titulos1 anima9 anima8'></a-text>
-		<a-text position='4 -5 0' value='can be constructed by means of symmetries from a regular tetrahedron' mixin='titulos1 anima11 anima10'></a-text>
-		<a-text position='4 -5 0' value='pode ser construído por meio de simetrias a partir de um tetraedro regular' mixin='titulos1 anima12 anima13'></a-text>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 150 150 750"></a-entity>
 	  
