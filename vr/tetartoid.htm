@@ -15,10 +15,14 @@
 			<a-mixin id="texto" text="width: 4; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.34;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
+			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
+			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 3000'></a-mixin>
+			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 0 0 0; to: 180 0 0; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
+			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 0 0 0; to: 0 0 270; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
 		</a-assets>
 				
-		<a-entity position="0 0 0" rotation="0 0 0" scale="0.4 0.4 0.4">
-			<a-obj-model src="outros/Tetartoid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+		<a-entity position="0 0 0" rotation="0 0 0" scale="0.4 0.4 0.4" mixin="anima1 anima2 anima3">
+			<a-obj-model src="outros/Tetartoid.obj" mtl="#material" scale="0.998 0.998 0.998" visible="false" mixin="anima0"></a-obj-model>
 			<a-obj-model src="outros/TetartoidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-11 5.16 -1.69 '></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-11 -5.16 1.69 '></a-sphere>
