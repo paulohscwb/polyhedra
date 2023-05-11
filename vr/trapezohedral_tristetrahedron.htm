@@ -13,18 +13,12 @@
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: green; x-offset: 0.15" rotation="-25 0 -90">
-			<a-mixin id="titulos" text="width: 18; side:double; color: #6495ed;" rotation="0 14 0">
-			<a-mixin id="titulos1" text="width: 8; side:double; color: #4682b4; wrapCount:30;" visible="false" rotation="0 14 0">
 			<a-mixin id="esfera" geometry="radius: 0.15;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
-			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
-			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 0 0 90; to: 0 360 90; easing: linear; delay: 3500'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 0 0 90; to: 180 0 90; dir: alternate; easing: linear; delay: 17500; loop: 1'></a-mixin>
-			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 0 0 90; to: 0 0 270; dir: alternate; easing: linear; delay: 44500; loop: 1'></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 
-		<a-entity position="0 0 1.8" rotation="0 0 90" scale="0.9 0.9 0.9" mixin="anima1 anima2 anima3">
-			<a-obj-model src="outros/TrapezohedralTristetrahedron.obj" mtl="#material" visible="false" scale="0.998 0.998 0.998" mixin="anima0"></a-obj-model>
+		<a-entity position="0 0 1.8" rotation="0 0 90" scale="0.9 0.9 0.9">
+			<a-obj-model src="outros/TrapezohedralTristetrahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="outros/TrapezohedralTristetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0 6 -4.25 '></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-5.2 -3 -4.25'></a-sphere>
