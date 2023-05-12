@@ -6,7 +6,7 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene >
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -17,7 +17,7 @@
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 				
-		<a-entity position="0 0 0" rotation="0 0 0" scale="3.5 3.5 3.5">
+		<a-entity position="0 0 0" rotation="0 45 -59" scale="3.5 3.5 3.5">
 			<a-obj-model src="outros/AntiHeptagonalIrisToroid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="outros/AntiHeptagonalIrisToroidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.0 -1.12349'></a-sphere>
@@ -34,21 +34,6 @@
 			<a-sphere mixin='esfera mtl9' position='0.22252 1.20943 0.0'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.22252 -1.20943 0.0'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.0 1.12349'></a-sphere>
-			<a-text position='0.5 0.0 -1.12349' value='1' mixin='texto'></a-text>
-<a-text position='-0.5 0.0 1.12349' value='2' mixin='texto'></a-text>
-<a-text position='-0.5 0.0 -1.12349' value='3' mixin='texto'></a-text>
-<a-text position='0.0 0.83695 0.90097' value='4' mixin='texto'></a-text>
-<a-text position='0.0 0.83695 -0.90097' value='5' mixin='texto'></a-text>
-<a-text position='0.0 -0.83695 0.90097' value='6' mixin='texto'></a-text>
-<a-text position='0.0 -0.83695 -0.90097' value='7' mixin='texto'></a-text>
-<a-text position='0.90097 0.67118 0.5' value='8' mixin='texto'></a-text>
-<a-text position='0.90097 0.67118 -0.5' value='9' mixin='texto'></a-text>
-<a-text position='-0.90097 -0.67118 0.5' value='10' mixin='texto'></a-text>
-<a-text position='-0.90097 -0.67118 -0.5' value='11' mixin='texto'></a-text>
-<a-text position='0.22252 1.20943 0.0' value='12' mixin='texto'></a-text>
-<a-text position='-0.22252 -1.20943 0.0' value='13' mixin='texto'></a-text>
-<a-text position='0.5 0.0 1.12349' value='14' mixin='texto'></a-text>
-
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 100 150 700"></a-entity>
