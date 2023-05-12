@@ -779,8 +779,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>21. Iris Toroid</h4>
 <a href="vr/heptagonal_iris_toroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto"></a><img src="ar/81.png" class="qr">
- <br>A polyhedron is called of toroid when had genus g &ge; 1 (i.e., one having one or more holes). A toroid is said to be non-regular if not all of its faces have the same number of vertices, or not all of its vertices join the same number of faces. The example shown is a heptagonal base.
-<br><br><b>Faces:</b> n squares and 2n obtuse triangles | <b>Edges:</b> 5n | <b>Vertices:</b> 2n. <a href="http://dmccooey.com/polyhedra/HeptagonalIrisToroid.html" target="_blank">More...</a>
+ <br>A polyhedron is called of toroid when had genus g &ge; 1 (i.e., one having one or more holes). A toroid is said to be non-regular if not all of its faces have the same number of vertices, or not all of its vertices join the same number of faces. The example shown is a regular heptagonal base, with square side faces.
+<br><br><b>Faces:</b> n squares and 2n obtuse triangles | <b>Edges:</b> 5n | <b>Vertices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalNonRegular.html" target="_blank">More...</a>
+<hr>
+<h4>22. Iris Antitoroid</h4>
+<a href="vr/anti_heptagonal_iris_toroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/80A.png" class="foto"></a><img src="ar/80.png" class="qr">
+ <br>When we consider the triangular lateral faces on a toroid, we have a polyhedron called an antitoroid. The example shown is a regular heptagonal base, with equilateral triangles on the side faces.
+<br><br><b>Faces:</b> 2n equilateral triangles and 2n obtuse triangles | <b>Edges:</b> 6n | <b>Vertices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalNonRegular.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 
