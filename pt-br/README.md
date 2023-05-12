@@ -775,10 +775,10 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><br><b>Faces:</b> 12 "pipas" | <b>Arestas:</b> 24 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 <hr>
-<h4>21. Poliedro de Hugel</h4>
-<a href="../vr/hugel.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto"></a><img src="../ar/81.png" class="qr">
- <br>The Hugel polyhedron (also known as the inverted dodecahedron) can be constructed by faceting (an action that removes parts of a polyhedron without creating new vertices) of a regular dodecahedron. Its faces are self-intersecting and this shape is considered a rare polyhedron.
-<br><br><b>Faces:</b> 20 ditrigonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 41.81&deg; e 221.81&deg;. <a href="http://dmccooey.com/polyhedra/Hugel.html" target="_blank">Mais sobre...</a>
+<h4>21. Toróide de íris</h4>
+<a href="../vr/heptagonal_iris_toroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto"></a><img src="../ar/81.png" class="qr">
+ <br>Um poliedro é chamado de toróide quando possui gênero g &ge; 1 (ou seja, aquele que possui um ou mais orifícios). Um toróide é dito não regular se nem todas as suas faces tiverem o mesmo número de vértices, ou nem todos os seus vértices unirem o mesmo número de faces. O exemplo mostrado é uma base heptagonal.
+<br><br><b>Faces:</b> n quadrados e 2n triângulos obtusângulos | <b>Arestas:</b> 5n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/HeptagonalIrisToroid.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 </details>
 

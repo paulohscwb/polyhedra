@@ -777,10 +777,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 <hr>
-<h4>21. Hugel's Polyhedron</h4>
-<a href="vr/hugel.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto"></a><img src="ar/81.png" class="qr">
- <br>The Hugel polyhedron (also known as the inverted dodecahedron) can be constructed by faceting (an action that removes parts of a polyhedron without creating new vertices) of a regular dodecahedron. Its faces are self-intersecting and this shape is considered a rare polyhedron.
-<br><br><b>Faces:</b> 20 ditrigons | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 41.81&deg; and 221.81&deg;. <a href="http://dmccooey.com/polyhedra/Hugel.html" target="_blank">More...</a>
+<h4>21. Iris Toroid</h4>
+<a href="vr/heptagonal_iris_toroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto"></a><img src="ar/81.png" class="qr">
+ <br>A polyhedron is called of toroid when had genus g &ge; 1 (i.e., one having one or more holes). A toroid is said to be non-regular if not all of its faces have the same number of vertices, or not all of its vertices join the same number of faces. The example shown is a heptagonal base.
+<br><br><b>Faces:</b> n squares and 2n obtuse triangles | <b>Edges:</b> 5n | <b>Vertices:</b> 2n. <a href="http://dmccooey.com/polyhedra/HeptagonalIrisToroid.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 
