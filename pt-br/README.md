@@ -776,9 +776,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>21. Poliedro de Hugel</h4>
-<a href="../vr/hugel.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/83A.png" class="foto"></a><img src="../ar/83.png" class="qr">
+<a href="../vr/hugel.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto"></a><img src="../ar/81.png" class="qr">
  <br>The Hugel polyhedron (also known as the inverted dodecahedron) can be constructed by faceting (an action that removes parts of a polyhedron without creating new vertices) of a regular dodecahedron. Its faces are self-intersecting and this shape is considered a rare polyhedron.
-<br><b>Faces:</b> 20 ditrigonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 41.81&deg; e 221.81&deg;. <a href="http://dmccooey.com/polyhedra/Hugel.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 20 ditrigonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 41.81&deg; e 221.81&deg;. <a href="http://dmccooey.com/polyhedra/Hugel.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 </details>
 
