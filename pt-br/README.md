@@ -777,8 +777,13 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>21. Toróide de íris</h4>
 <a href="../vr/heptagonal_iris_toroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto"></a><img src="../ar/81.png" class="qr">
- <br>Um poliedro é chamado de toróide quando possui gênero g &ge; 1 (ou seja, aquele que possui um ou mais orifícios). Um toróide é dito não regular se nem todas as suas faces tiverem o mesmo número de vértices, ou nem todos os seus vértices unirem o mesmo número de faces. O exemplo mostrado é uma base heptagonal.
-<br><br><b>Faces:</b> n quadrados e 2n triângulos obtusângulos | <b>Arestas:</b> 5n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/HeptagonalIrisToroid.html" target="_blank">Mais sobre...</a>
+ <br>Um poliedro é chamado de toróide quando possui gênero g &ge; 1 (ou seja, aquele que possui um ou mais orifícios). Um toróide é dito não regular se nem todas as suas faces tiverem o mesmo número de vértices, ou nem todos os seus vértices unirem o mesmo número de faces. O exemplo mostrado é uma base heptagonal regular, com faces laterais quadradas.
+<br><br><b>Faces:</b> n quadrados e 2n triângulos obtusângulos | <b>Arestas:</b> 5n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalNonRegular.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>22. Antitoróide de íris</h4>
+<a href="../vr/anti_heptagonal_iris_toroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/80A.png" class="foto"></a><img src="../ar/80.png" class="qr">
+ <br>Quando considerarmos as faces laterais triangulares em um toróide, teremos um poliedro chamado antitoróide. O exemplo mostrado é uma base heptagonal regular, com triângulos equiláteros nas faces laterais.
+<br><br><b>Faces:</b> 2n triângulos equiláteros e 2n triângulos obtusângulos | <b>Arestas:</b> 6n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalRegularTriangular.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 </details>
 
