@@ -775,7 +775,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/trapezohedral_tristetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto"></a><img src="ar/84.png" class="qr">
  <br>The trapezohedral tristetrahedron is the polyhedra made from 12 kites shaped quadrilaterals. It can be constructed by means of symmetries from a regular tetrahedron.
 <br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a>
+<p class="topop"><a href="#p7" class="topo">back to top</a></p>
 <hr>
+<h4>21. Hugel's Polyhedron</h4>
+<a href="vr/hugel.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/83A.png" class="foto"></a><img src="ar/83.png" class="qr">
+ <br>The Hugel polyhedron (also known as the inverted dodecahedron) can be constructed by faceting (an action that removes parts of a polyhedron without creating new vertices) of a regular dodecahedron. Its faces are self-intersecting and this shape is considered a rare polyhedron.
+<br><b>Faces:</b> 20 ditrigons | <b>Edges:</b> 60 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 41.81&deg; and 221.81&deg;. <a href="http://dmccooey.com/polyhedra/Hugel.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 </details>
 
