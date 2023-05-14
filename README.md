@@ -661,7 +661,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>10. Great Stellapentakis Dodecahedron</h4>
 <a href="vr/great_stellapentakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/88A.png" class="foto"></a><img src="ar/88.png" class="qr">
- <br>The great stellapentakis dodecahedron (or great astropentakis dodecahedron) is the polyhedron whose dual is the uniform  great truncated icosahedron. Its faces are isosceles triangles and part of each triangle lies within the solid, hence is invisible in solid models.  
+ <br>The great stellapentakis dodecahedron (or great astropentakis dodecahedron) is the polyhedron whose dual is the uniform great truncated icosahedron. Its faces are isosceles triangles and part of each triangle lies within the solid, hence is invisible in solid models.  
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 123.32°. <a href="https://en.wikipedia.org/wiki/Great_stellapentakis_dodecahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 <hr>
@@ -669,6 +669,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/cubitruncated_cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto"></a><img src="ar/79.png" class="qr">
  <br><span class="titulo">U<sub>16</sub></span> The cubitruncated cuboctahedron (or cuboctatruncated cuboctahedron) is the uniform polyhedron whose dual is the tetradyakis hexahedron and is a faceted octahedron. Its convex hull is a nonuniform truncated cuboctahedron.   
 <br><br><b>Faces:</b> 8 regular hexagons, 6 regular octagons and 6 regular octagrams | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Dihedral angles:</b> 54.74°, 90° and 125.26°. <a href="https://mathworld.wolfram.com/CubitruncatedCuboctahedron.html" target="_blank">More...</a>
+<hr>
+<h4>12. Tetradyakis Hexahedron</h4>
+<a href="vr/tetradyakis_hexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/78A.png" class="foto"></a><img src="ar/78.png" class="qr">
+ <br>The tetradyakis hexahedron (or great disdyakis dodecahedron) is the polyhedron whose dual is the uniform cubitruncated cuboctahedron. Its faces are scalene triangles and part of each triangle lies within the solid, hence is invisible in solid models.  
+<br><br><b>Faces:</b> 48 obtuse triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 20 | <b>Dihedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Cubitruncated_cuboctahedron#Tetradyakis_hexahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
