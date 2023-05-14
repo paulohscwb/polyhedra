@@ -691,7 +691,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>16. Icosaedro tridyakis</h4>
 <a href="../vr/tridyakis_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/74A.png" class="foto"></a><img src="../ar/74.png" class="qr">
  <br>O icosaedro tridyakis é o poliedro cujo dual é o uniforme dodecadodecaedro icositruncado. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 151.04°. <a href="https://en.wikipedia.org/wiki/Tridyakis_icosahedron" target="_blank">Mais sobre...</a>
+<br><br><br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 151.04°. <a href="https://en.wikipedia.org/wiki/Tridyakis_icosahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>17. Dodecadodecaedro icositruncado</h4>
 <a href="../vr/truncated_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/73A.png" class="foto"></a><img src="../ar/73.png" class="qr">
