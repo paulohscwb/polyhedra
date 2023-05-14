@@ -144,7 +144,30 @@ usemtl CorL
 l 18 98 102 22 90 54 46 42 50 94 
 usemtl CorL
 l 19 95 51 43 47 55 91 23 103 99 
-
+usemtl CorL
+l 120 52 44 45 53 1 75 115 114 74 
+usemtl CorL
+l 2 72 112 113 73 3 55 47 46 54 
+usemtl CorL
+l 4 78 118 119 79 5 49 41 40 48 
+usemtl CorL
+l 6 50 42 43 51 7 77 117 116 76 
+usemtl CorL
+l 8 58 26 30 62 12 85 101 97 81 
+usemtl CorL
+l 9 80 96 100 84 13 63 31 27 59 
+usemtl CorL
+l 10 83 99 103 87 14 60 28 24 56 
+usemtl CorL
+l 11 57 25 29 61 15 86 102 98 82 
+usemtl CorL
+l 16 65 33 35 67 18 94 110 108 92 
+usemtl CorL
+l 17 93 109 111 95 19 66 34 32 64 
+usemtl CorL
+l 20 88 104 106 90 22 71 39 37 69 
+usemtl CorL
+l 21 68 36 38 70 23 91 107 105 89 
 usemtl CorL
 l 120 104 88 52 
 usemtl CorL
