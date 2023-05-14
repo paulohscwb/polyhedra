@@ -674,7 +674,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 48 triângulos obtusângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Cubitruncated_cuboctahedron#Tetradyakis_hexahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>13. Grande cuboctaedro truncado</h4>
-<a href="../vr/cubitruncated_cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/77A.png" class="foto"></a><img src="../ar/77.png" class="qr">
+<a href="../vr/great_truncated_cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/77A.png" class="foto"></a><img src="../ar/77.png" class="qr">
  <br><span class="titulo">U<sub>20</sub></span> O grande cuboctaedro truncado (ou cuboctaedro quase truncado ou cuboctaedro estelar truncado) é o poliedro uniforme cujo dual é o grande disdyakis dodecaedro. Seu casco convexo é um cuboctaedro truncado não uniforme.
 <br><br><b>Faces:</b> 8 hexágonos regulares, 12 quadrados e 6 octagramas regulares | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Ângulos diédricos:</b> 35.26°, 54.73° e 135°. <a href="https://mathworld.wolfram.com/GreatTruncatedCuboctahedron.html" target="_blank">Mais sobre...</a>
 <hr>
