@@ -691,7 +691,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 20 regular hexagons, 12 regular decagons and 12 regular decagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 120 | <b>Dihedral angles:</b> 100.81°, 116.57° and 142.62°. <a href="https://mathworld.wolfram.com/IcositruncatedDodecadodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>16. Tridyakis icosahedron</h4>
-<a href="vr/great_disdyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/74A.png" class="foto"></a><img src="ar/74.png" class="qr">
+<a href="vr/tridyakis_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/74A.png" class="foto"></a><img src="ar/74.png" class="qr">
  <br>The tridyakis icosahedron is the polyhedron whose dual is the uniform icositruncated dodecadodecahedron. Its faces are scalene triangles and part of each triangle lies within the solid, hence is invisible in solid models.   
 <br><br><b>Faces:</b> 120 obtuse triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 44 | <b>Dihedral angle:</b> 151.04°. <a href="https://en.wikipedia.org/wiki/Tridyakis_icosahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
