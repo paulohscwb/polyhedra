@@ -661,7 +661,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/great_stellapentakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/88A.png" class="foto"></a><img src="../ar/88.png" class="qr">
  <br>O grande dodecaedro stellapentakis (ou grande dodecaedro astropentakis) é o poliedro cujo dual é o uniforme grande icosaedro truncado. Suas faces são triângulos isósceles e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 123.32°. <a href="https://en.wikipedia.org/wiki/Great_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 <hr>
+<h4>11. Cuboctaedro cubitruncado</h4>
+<a href="../vr/cubitruncated_cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/79A.png" class="foto"></a><img src="../ar/79.png" class="qr">
+ <br><span class="titulo">U<sub>16</sub></span> O cuboctaedro cubitruncado (ou cuboctatruncado cuboctaedro) é o poliedro uniforme cujo dual é o hexaedro tetradyakis e é um octaedro facetado. Sua casca convexa é um cubectaedro truncado não uniforme.
+<br><br><b>Faces:</b> 8 hexágonos regulares, 6 octógonos regulares e 6 octagramas regulares | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Ângulos diédricos:</b> 54.74°, 90° e 125.26°. <a href="https://mathworld.wolfram.com/CubitruncatedCuboctahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
 
