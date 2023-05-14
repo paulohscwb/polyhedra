@@ -679,6 +679,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/cubitruncated_cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto"></a><img src="ar/77.png" class="qr">
  <br><span class="titulo">U<sub>20</sub></span> The great truncated cuboctahedron (or quasitruncated cuboctahedron or stellatruncated cuboctahedron) is the uniform polyhedron whose dual is the great disdyakis dodecahedron. Its convex hull is a nonuniform truncated cuboctahedron. 
 <br><br><b>Faces:</b> 8 regular hexagons, 12 squares and 6 regular octagrams | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Dihedral angles:</b> 35.26°, 54.73° and 135°. <a href="https://mathworld.wolfram.com/GreatTruncatedCuboctahedron.html" target="_blank">More...</a>
+<hr>
+<h4>14. Great Disdyakis Dodecahedron</h4>
+<a href="vr/great_disdyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/76A.png" class="foto"></a><img src="ar/76.png" class="qr">
+ <br>The great disdyakis dodecahedron is the polyhedron whose dual is the uniform great truncated cuboctahedron. The great disdyakis dodecahedron is topologically identical to the convex Catalan solid, disdyakis dodecahedron, which is dual to the truncated cuboctahedron.  
+<br><br><b>Faces:</b> 48 obtuse triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angles:</b> 123.85° and 236.15°. <a href="https://en.wikipedia.org/wiki/Great_disdyakis_dodecahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
