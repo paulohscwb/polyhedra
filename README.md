@@ -684,6 +684,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_disdyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/76A.png" class="foto"></a><img src="ar/76.png" class="qr">
  <br>The great disdyakis dodecahedron is the polyhedron whose dual is the uniform great truncated cuboctahedron. The great disdyakis dodecahedron is topologically identical to the convex Catalan solid, disdyakis dodecahedron, which is dual to the truncated cuboctahedron.  
 <br><br><b>Faces:</b> 48 obtuse triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angles:</b> 123.85° and 236.15°. <a href="https://en.wikipedia.org/wiki/Great_disdyakis_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>15. Icositruncated Dodecadodecahedron</h4>
+<a href="vr/icositruncated_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/75A.png" class="foto"></a><img src="ar/75.png" class="qr">
+ <br><span class="titulo">U<sub>45</sub></span> The icositruncated dodecadodecahedron (or icosidodecatruncated icosidodecahedron) is the uniform polyhedron whose dual is the tridyakis icosahedron. Its convex hull is a nonuniform truncated icosidodecahedron.  
+<br><br><b>Faces:</b> 20 regular hexagons, 12 regular decagons and 12 regular decagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 120 | <b>Dihedral angles:</b> 100.81°, 116.57° and 142.62°. <a href="https://mathworld.wolfram.com/IcositruncatedDodecadodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
