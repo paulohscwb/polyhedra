@@ -676,7 +676,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 48 obtuse triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 20 | <b>Dihedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Cubitruncated_cuboctahedron#Tetradyakis_hexahedron" target="_blank">More...</a>
 <hr>
 <h4>13. Great Truncated Cuboctahedron</h4>
-<a href="vr/cubitruncated_cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto"></a><img src="ar/77.png" class="qr">
+<a href="vr/great_truncated_cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto"></a><img src="ar/77.png" class="qr">
  <br><span class="titulo">U<sub>20</sub></span> The great truncated cuboctahedron (or quasitruncated cuboctahedron or stellatruncated cuboctahedron) is the uniform polyhedron whose dual is the great disdyakis dodecahedron. Its convex hull is a nonuniform truncated cuboctahedron. 
 <br><br><b>Faces:</b> 8 regular hexagons, 12 squares and 6 regular octagrams | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Dihedral angles:</b> 35.26°, 54.73° and 135°. <a href="https://mathworld.wolfram.com/GreatTruncatedCuboctahedron.html" target="_blank">More...</a>
 <hr>
