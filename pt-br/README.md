@@ -670,7 +670,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>12. Hexaedro tetradyakis</h4>
 <a href="../vr/tetradyakis_hexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/78A.png" class="foto"></a><img src="../ar/78.png" class="qr">
- <br>O hexaedro tetradyakis (ou o grande dodecaedro disdyakis) é o poliedro cujo dual é o cuboctaedro cúbico uniforme. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+ <br>O hexaedro tetradyakis (ou grande dodecaedro disdyakis) é o poliedro cujo dual é o cuboctaedro cúbico uniforme. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 48 triângulos obtusângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 20 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Cubitruncated_cuboctahedron#Tetradyakis_hexahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
