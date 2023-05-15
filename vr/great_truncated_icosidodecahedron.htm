@@ -6,13 +6,13 @@
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+    <a-scene >
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
-			<a-mixin id="texto" text="width: 4; side:double; color: black; x-offset:0.03;" rotation="-25 0 0">
+			<a-mixin id="texto" text="width: 2; side:double; color: black; x-offset:0.03;" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.0276;" material="metalness:0.4; roughness:0.5;" scale="1 1 1"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
@@ -20,8 +20,6 @@
 		<a-entity position="0 0 0" rotation="0 0 0" scale="5 5 5">
 			<a-obj-model src="outros/GreatTruncatedIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="outros/GreatTruncatedIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
-			<a-obj-model src="outros/GreatTruncatedIcosidodecahedronL1.obj" mtl="#material"></a-obj-model>
-			<a-obj-model src="outros/GreatTruncatedIcosidodecahedronL2.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.5 0.736068'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.5 0.5 -0.736068'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.5 0.5 0.736068'></a-sphere>
@@ -142,6 +140,127 @@
 			<a-sphere mixin='esfera mtl9' position='-0.381966 0.927051 0.190983'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.381966 0.927051 -0.190983'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.5 -0.736068'></a-sphere>
+			<a-text position='0.5 0.5 0.736068' value='1' mixin='texto'></a-text>
+<a-text position='-0.5 0.5 -0.736068' value='2' mixin='texto'></a-text>
+<a-text position='-0.5 0.5 0.736068' value='3' mixin='texto'></a-text>
+<a-text position='0.5 -0.5 -0.736068' value='4' mixin='texto'></a-text>
+<a-text position='0.5 -0.5 0.736068' value='5' mixin='texto'></a-text>
+<a-text position='-0.5 -0.5 -0.736068' value='6' mixin='texto'></a-text>
+<a-text position='-0.5 -0.5 0.736068' value='7' mixin='texto'></a-text>
+<a-text position='0.5 -0.736068 0.5' value='8' mixin='texto'></a-text>
+<a-text position='0.5 -0.736068 -0.5' value='9' mixin='texto'></a-text>
+<a-text position='-0.5 -0.736068 0.5' value='10' mixin='texto'></a-text>
+<a-text position='-0.5 -0.736068 -0.5' value='11' mixin='texto'></a-text>
+<a-text position='0.5 0.736068 0.5' value='12' mixin='texto'></a-text>
+<a-text position='0.5 0.736068 -0.5' value='13' mixin='texto'></a-text>
+<a-text position='-0.5 0.736068 0.5' value='14' mixin='texto'></a-text>
+<a-text position='-0.5 0.736068 -0.5' value='15' mixin='texto'></a-text>
+<a-text position='-0.736068 0.5 0.5' value='16' mixin='texto'></a-text>
+<a-text position='-0.736068 0.5 -0.5' value='17' mixin='texto'></a-text>
+<a-text position='0.736068 0.5 0.5' value='18' mixin='texto'></a-text>
+<a-text position='0.736068 0.5 -0.5' value='19' mixin='texto'></a-text>
+<a-text position='-0.736068 -0.5 0.5' value='20' mixin='texto'></a-text>
+<a-text position='-0.736068 -0.5 -0.5' value='21' mixin='texto'></a-text>
+<a-text position='0.736068 -0.5 0.5' value='22' mixin='texto'></a-text>
+<a-text position='0.736068 -0.5 -0.5' value='23' mixin='texto'></a-text>
+<a-text position='0.190983 1.0 0.072949' value='24' mixin='texto'></a-text>
+<a-text position='0.190983 1.0 -0.072949' value='25' mixin='texto'></a-text>
+<a-text position='-0.190983 1.0 0.072949' value='26' mixin='texto'></a-text>
+<a-text position='-0.190983 1.0 -0.072949' value='27' mixin='texto'></a-text>
+<a-text position='0.190983 -1.0 0.072949' value='28' mixin='texto'></a-text>
+<a-text position='0.190983 -1.0 -0.072949' value='29' mixin='texto'></a-text>
+<a-text position='-0.190983 -1.0 0.072949' value='30' mixin='texto'></a-text>
+<a-text position='-0.190983 -1.0 -0.072949' value='31' mixin='texto'></a-text>
+<a-text position='1.0 0.072949 0.190983' value='32' mixin='texto'></a-text>
+<a-text position='1.0 0.072949 -0.190983' value='33' mixin='texto'></a-text>
+<a-text position='-1.0 0.072949 0.190983' value='34' mixin='texto'></a-text>
+<a-text position='-1.0 0.072949 -0.190983' value='35' mixin='texto'></a-text>
+<a-text position='1.0 -0.072949 0.190983' value='36' mixin='texto'></a-text>
+<a-text position='1.0 -0.072949 -0.190983' value='37' mixin='texto'></a-text>
+<a-text position='-1.0 -0.072949 0.190983' value='38' mixin='texto'></a-text>
+<a-text position='-1.0 -0.072949 -0.190983' value='39' mixin='texto'></a-text>
+<a-text position='0.072949 0.190983 1.0' value='40' mixin='texto'></a-text>
+<a-text position='0.072949 0.190983 -1.0' value='41' mixin='texto'></a-text>
+<a-text position='-0.072949 0.190983 1.0' value='42' mixin='texto'></a-text>
+<a-text position='-0.072949 0.190983 -1.0' value='43' mixin='texto'></a-text>
+<a-text position='0.072949 -0.190983 1.0' value='44' mixin='texto'></a-text>
+<a-text position='0.072949 -0.190983 -1.0' value='45' mixin='texto'></a-text>
+<a-text position='-0.072949 -0.190983 1.0' value='46' mixin='texto'></a-text>
+<a-text position='-0.072949 -0.190983 -1.0' value='47' mixin='texto'></a-text>
+<a-text position='-0.118034 0.5 0.881966' value='48' mixin='texto'></a-text>
+<a-text position='-0.118034 0.5 -0.881966' value='49' mixin='texto'></a-text>
+<a-text position='0.118034 0.5 0.881966' value='50' mixin='texto'></a-text>
+<a-text position='0.118034 0.5 -0.881966' value='51' mixin='texto'></a-text>
+<a-text position='-0.118034 -0.5 0.881966' value='52' mixin='texto'></a-text>
+<a-text position='-0.118034 -0.5 -0.881966' value='53' mixin='texto'></a-text>
+<a-text position='0.118034 -0.5 0.881966' value='54' mixin='texto'></a-text>
+<a-text position='0.118034 -0.5 -0.881966' value='55' mixin='texto'></a-text>
+<a-text position='0.5 0.881966 -0.118034' value='56' mixin='texto'></a-text>
+<a-text position='0.5 0.881966 0.118034' value='57' mixin='texto'></a-text>
+<a-text position='-0.5 0.881966 -0.118034' value='58' mixin='texto'></a-text>
+<a-text position='-0.5 0.881966 0.118034' value='59' mixin='texto'></a-text>
+<a-text position='0.5 -0.881966 -0.118034' value='60' mixin='texto'></a-text>
+<a-text position='0.5 -0.881966 0.118034' value='61' mixin='texto'></a-text>
+<a-text position='-0.5 -0.881966 -0.118034' value='62' mixin='texto'></a-text>
+<a-text position='-0.5 -0.881966 0.118034' value='63' mixin='texto'></a-text>
+<a-text position='0.881966 -0.118034 0.5' value='64' mixin='texto'></a-text>
+<a-text position='0.881966 -0.118034 -0.5' value='65' mixin='texto'></a-text>
+<a-text position='-0.881966 -0.118034 0.5' value='66' mixin='texto'></a-text>
+<a-text position='-0.881966 -0.118034 -0.5' value='67' mixin='texto'></a-text>
+<a-text position='0.881966 0.118034 0.5' value='68' mixin='texto'></a-text>
+<a-text position='0.881966 0.118034 -0.5' value='69' mixin='texto'></a-text>
+<a-text position='-0.881966 0.118034 0.5' value='70' mixin='texto'></a-text>
+<a-text position='-0.881966 0.118034 -0.5' value='71' mixin='texto'></a-text>
+<a-text position='-0.618034 0.690983 -0.427051' value='72' mixin='texto'></a-text>
+<a-text position='-0.618034 0.690983 0.427051' value='73' mixin='texto'></a-text>
+<a-text position='0.618034 0.690983 -0.427051' value='74' mixin='texto'></a-text>
+<a-text position='0.618034 0.690983 0.427051' value='75' mixin='texto'></a-text>
+<a-text position='-0.618034 -0.690983 -0.427051' value='76' mixin='texto'></a-text>
+<a-text position='-0.618034 -0.690983 0.427051' value='77' mixin='texto'></a-text>
+<a-text position='0.618034 -0.690983 -0.427051' value='78' mixin='texto'></a-text>
+<a-text position='0.618034 -0.690983 0.427051' value='79' mixin='texto'></a-text>
+<a-text position='0.690983 -0.427051 -0.618034' value='80' mixin='texto'></a-text>
+<a-text position='0.690983 -0.427051 0.618034' value='81' mixin='texto'></a-text>
+<a-text position='-0.690983 -0.427051 -0.618034' value='82' mixin='texto'></a-text>
+<a-text position='-0.690983 -0.427051 0.618034' value='83' mixin='texto'></a-text>
+<a-text position='0.690983 0.427051 -0.618034' value='84' mixin='texto'></a-text>
+<a-text position='0.690983 0.427051 0.618034' value='85' mixin='texto'></a-text>
+<a-text position='-0.690983 0.427051 -0.618034' value='86' mixin='texto'></a-text>
+<a-text position='-0.690983 0.427051 0.618034' value='87' mixin='texto'></a-text>
+<a-text position='-0.427051 -0.618034 0.690983' value='88' mixin='texto'></a-text>
+<a-text position='-0.427051 -0.618034 -0.690983' value='89' mixin='texto'></a-text>
+<a-text position='0.427051 -0.618034 0.690983' value='90' mixin='texto'></a-text>
+<a-text position='0.427051 -0.618034 -0.690983' value='91' mixin='texto'></a-text>
+<a-text position='-0.427051 0.618034 0.690983' value='92' mixin='texto'></a-text>
+<a-text position='-0.427051 0.618034 -0.690983' value='93' mixin='texto'></a-text>
+<a-text position='0.427051 0.618034 0.690983' value='94' mixin='texto'></a-text>
+<a-text position='0.427051 0.618034 -0.690983' value='95' mixin='texto'></a-text>
+<a-text position='-0.927051 0.190983 0.381966' value='96' mixin='texto'></a-text>
+<a-text position='-0.927051 0.190983 -0.381966' value='97' mixin='texto'></a-text>
+<a-text position='0.927051 0.190983 0.381966' value='98' mixin='texto'></a-text>
+<a-text position='0.927051 0.190983 -0.381966' value='99' mixin='texto'></a-text>
+<a-text position='-0.927051 -0.190983 0.381966' value='100' mixin='texto'></a-text>
+<a-text position='-0.927051 -0.190983 -0.381966' value='101' mixin='texto'></a-text>
+<a-text position='0.927051 -0.190983 0.381966' value='102' mixin='texto'></a-text>
+<a-text position='0.927051 -0.190983 -0.381966' value='103' mixin='texto'></a-text>
+<a-text position='0.190983 0.381966 -0.927051' value='104' mixin='texto'></a-text>
+<a-text position='0.190983 0.381966 0.927051' value='105' mixin='texto'></a-text>
+<a-text position='-0.190983 0.381966 -0.927051' value='106' mixin='texto'></a-text>
+<a-text position='-0.190983 0.381966 0.927051' value='107' mixin='texto'></a-text>
+<a-text position='0.190983 -0.381966 -0.927051' value='108' mixin='texto'></a-text>
+<a-text position='0.190983 -0.381966 0.927051' value='109' mixin='texto'></a-text>
+<a-text position='-0.190983 -0.381966 -0.927051' value='110' mixin='texto'></a-text>
+<a-text position='-0.190983 -0.381966 0.927051' value='111' mixin='texto'></a-text>
+<a-text position='0.381966 -0.927051 0.190983' value='112' mixin='texto'></a-text>
+<a-text position='0.381966 -0.927051 -0.190983' value='113' mixin='texto'></a-text>
+<a-text position='-0.381966 -0.927051 0.190983' value='114' mixin='texto'></a-text>
+<a-text position='-0.381966 -0.927051 -0.190983' value='115' mixin='texto'></a-text>
+<a-text position='0.381966 0.927051 0.190983' value='116' mixin='texto'></a-text>
+<a-text position='0.381966 0.927051 -0.190983' value='117' mixin='texto'></a-text>
+<a-text position='-0.381966 0.927051 0.190983' value='118' mixin='texto'></a-text>
+<a-text position='-0.381966 0.927051 -0.190983' value='119' mixin='texto'></a-text>
+<a-text position='0.5 0.5 -0.736068' value='120' mixin='texto'></a-text>
+
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 100 150 700"></a-entity>
