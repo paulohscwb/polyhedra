@@ -709,6 +709,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_truncated_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/71A.png" class="foto"></a><img src="ar/71.png" class="qr">
  <br><span class="titulo">U<sub>68</sub></span> The great truncated icosidodecahedron (or great quasitruncated icosidodecahedron or stellatruncated icosidodecahedron) is the uniform polyhedron whose dual is the great disdyakis triacontahedron. It can be alternated into the great inverted snub icosidodecahedron after equalizing edge lengths.  
 <br><br><b>Faces:</b> 30 squares, 20 regular hexagons and 12 regular decagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 120 | <b>Dihedral angles:</b> 69.09°, 79.19° and 121.72°. <a href="https://mathworld.wolfram.com/GreatTruncatedIcosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>20. Great Disdyakis Triacontahedron</h4>
+<a href="vr/medial_disdyakis_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/70A.png" class="foto"></a><img src="ar/70.png" class="qr">
+ <br>The great disdyakis triacontahedron (or trisdyakis icosahedron) is the polyhedron whose dual is the uniform great truncated icosidodecahedron. Its faces are scalene triangles and part of each triangle lies within the solid, hence is invisible in solid models.   
+<br><br><br><br><b>Faces:</b> 120 obtuse triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 121.34°. <a href="https://en.wikipedia.org/wiki/Great_truncated_icosidodecahedron#Great_disdyakis_triacontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 </details>
 
