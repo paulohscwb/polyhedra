@@ -697,6 +697,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/truncated_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/73A.png" class="foto"></a><img src="../ar/73.png" class="qr">
  <br><span class="titulo">U<sub>59</sub></span> O dodecadodecaedro truncado (ou dodecadodecaedro quase truncado ou dodecadodecaedro stellatruncated) é o poliedro uniforme cujo dual é o disdyakis triacontahedron medial. A região central do poliedro está ligada ao exterior através de 20 pequenos orifícios triangulares.
 <br><br><b>Faces:</b> 30 quadrados, 12 decágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 120 | <b>Ângulos diédricos:</b> 58.28°, 63.43° e 148.28°. <a href="https://en.wikipedia.org/wiki/Truncated_dodecadodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>18. Triacontaedro disdyakis medial</h4>
+<a href="../vr/medial_disdyakis_triacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/72A.png" class="foto"></a><img src="../ar/72.png" class="qr">
+ <br>O triacontaedro disdyakis medial é o poliedro cujo dual é o uniforme dodecadodecaedro truncado. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+<br><br><br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 54 | <b>Ângulos diédricos:</b> 144.9° e 215.09°. <a href="https://en.wikipedia.org/wiki/Medial_disdyakis_triacontahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
 
