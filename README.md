@@ -524,7 +524,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 </details>
  
- <details id="p6">
+<details id="p6">
   <summary>Quasi regular polyhedra</summary>
 A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. To view quasi regular polyhedra in AR, simply visit:
 <p align="center"><a href="quasiregular.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular.html</a></p> 
@@ -715,6 +715,23 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great disdyakis triacontahedron (or trisdyakis icosahedron) is the polyhedron whose dual is the uniform great truncated icosidodecahedron. Its faces are scalene triangles and part of each triangle lies within the solid, hence is invisible in solid models.   
 <br><br><br><br><b>Faces:</b> 120 obtuse triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 121.34°. <a href="https://en.wikipedia.org/wiki/Great_truncated_icosidodecahedron#Great_disdyakis_triacontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
+</details>
+
+<details id="p9">
+  <summary>Self-intersecting snub polyhedra</summary>
+  A polyhedron is snub quasi-regular if it is vertex-transitive with irregular pentagonal, hexagonal, or octagonal vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. The snubification of a polyhedron is an operation that allows to obtain another polyhedron. This operation consists of moving all faces of the polyhedron apart, rotating them by a certain angle and filling the resulting empty spaces with polygons (examples: triangles, rectangles or pentagons).
+  To view self-intersecting snub polyhedra in AR, simply visit:
+<p align="center"><a href="selfintersectsnub.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example7.jpg" width="85%"></p>
+<hr>
+<h4>1. Snub Dodecadodecahedron</h4>
+<a href="vr/stellated_truncated_hexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto"></a><img src="ar/69..png" class="qr">
+ <br><span class="titulo">U<sub>40</sub></span> The snub dodecadodecahedron is the uniform polyhedron also called the siddid, whose dual polyhedron is the medial pentagonal hexecontahedron. Three triangles, 1 pentagon, and one pentagram meet at each vertex. 
+<br><br><b>Faces:</b> 60 equilateral triangles, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 129.79°, 151.49° and 157.78°. <a href="https://mathworld.wolfram.com/SnubDodecadodecahedron.html" target="_blank">More...</a>
+<hr>
+<p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
