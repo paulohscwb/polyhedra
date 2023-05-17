@@ -715,6 +715,24 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 </details>
 
+<details id="p9">
+  <summary>Poliedros truncados snubficados</summary>
+  Um poliedro é quase regular snubficado se for transitivo de vértice com figuras irregulares de vértice pentagonal, hexagonal ou octogonal. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. A snubificação de um poliedro é uma operação que permite obter outro poliedro. Esta operação consiste em afastar todas as faces do poliedro, rotacionar as mesmas um certo ângulo e preencher os espaços vazios resultantes com polígonos (por exemplo, triângulos, retângulos ou pentágonos).
+  Para visualizar os poliedros truncados snubficados em RA, visite a página:
+<p align="center"><a href="../selfintersectsnub.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img style="border-radius:7px;" src="../ar/example7.jpg" width="85%"></p>
+ <hr>
+<h4>1. Dodecadodecaedro snub</h4>
+<a href="../vr/snub_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/69A.png" class="foto"></a><img src="../ar/69.png" class="qr">
+ <br><span class="titulo">U<sub>40</sub></span> O dodecadodecaedro snub é o poliedro uniforme também chamado de siddid, cujo poliedro dual é o hexecontaedro pentagonal medial. Três triângulos, 1 pentágono e um pentagrama se encontram em cada vértice.
+<br><br><b>Faces:</b> 60 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 129.79°, 151.49° e 157.78°. <a href="https://mathworld.wolfram.com/SnubDodecadodecahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
+</details>
+
+
 <details id="p7" style="border-bottom: 1px solid #a2dec0;">
   <summary>Pirâmides, tetraedros, prismas e antiprismas</summary>
   Para visualizar os poliedros em RA, visite a página:
