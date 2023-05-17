@@ -729,6 +729,10 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>40</sub></span> O dodecadodecaedro snub é o poliedro uniforme também chamado de siddid, cujo poliedro dual é o hexecontaedro pentagonal medial. Três triângulos, 1 pentágono e um pentagrama se encontram em cada vértice.
 <br><br><b>Faces:</b> 60 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 129.79°, 151.49° e 157.78°. <a href="https://mathworld.wolfram.com/SnubDodecadodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
+<h4>2. Hexecontaedro pentagonal medial</h4>
+<a href="../vr/medial_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/68A.png" class="foto"></a><img src="../ar/68.png" class="qr">
+ <br>O hexecontaedro pentagonal medial é o poliedro cujo dual é o dodecadodecaedro achatado uniforme. Consiste em 60 pentágonos irregulares, cada um com duas arestas curtas, uma média e duas longas.
+<br><br><b>Faces:</b> 60 pentágonos irregulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 84 | <b>Ângulo diédrico:</b> 133.8°. <a href="https://en.wikipedia.org/wiki/Medial_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 </details>
 

@@ -731,6 +731,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>40</sub></span> The snub dodecadodecahedron is the uniform polyhedron also called the siddid, whose dual polyhedron is the medial pentagonal hexecontahedron. Three triangles, 1 pentagon, and one pentagram meet at each vertex. 
 <br><br><b>Faces:</b> 60 equilateral triangles, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 129.79°, 151.49° and 157.78°. <a href="https://mathworld.wolfram.com/SnubDodecadodecahedron.html" target="_blank">More...</a>
 <hr>
+<h4>2. Medial pentagonal hexecontahedron</h4>
+<a href="vr/medial_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/68A.png" class="foto"></a><img src="ar/68.png" class="qr">
+ <br>The medial pentagonal hexecontahedron is the polyhedron whose dual is the uniform snub dodecadodecahedron. It consists of 60 irregular pentagons, each with two short, one medium, and two long edges.
+<br><br><b>Faces:</b> 60 irregular pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 84 | <b>Dihedral angles:</b> 133.8°. <a href="https://en.wikipedia.org/wiki/Medial_pentagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
