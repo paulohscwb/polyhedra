@@ -91,9 +91,21 @@ l 84 50 62 38 26
 l 84 26 82 46 68 
 l 84 68 56 41 16
 usemtl CorL
+l 16 17
+usemtl CorL
+l 40 76
+usemtl CorL
+l 32 44
+usemtl CorL
 l 50 62
 usemtl CorL
+l 38 26
+usemtl CorL
 l 41 16
+usemtl CorL
+l 82 46
+usemtl CorL
+l 68 56
 usemtl CorL
 l 1 17 16 41 77 
 l 1 77 33 47 51 
@@ -101,11 +113,23 @@ l 1 51 63 39 27
 l 1 27 83 45 69 
 l 1 69 57 40 17
 usemtl CorL
+l 41 77
+usemtl CorL
 l 1 17
 usemtl CorL
 l 47 51
 usemtl CorL
 l 63 39
+usemtl CorL
+l 33 47
+usemtl CorL
+l 51 63
+usemtl CorL
+l 39 27
+usemtl CorL
+l 83 45
+usemtl CorL
+l 69 57
 usemtl CorL
 l 2 18 19 43 78 
 l 2 78 34 46 48 
@@ -119,6 +143,16 @@ l 80 44
 usemtl CorL
 l 42 18
 usemtl CorL
+l 18 19
+usemtl CorL
+l 43 78
+usemtl CorL
+l 34 46
+usemtl CorL
+l 48 60
+usemtl CorL
+l 70 58
+usemtl CorL
 l 3 19 18 42 79 
 l 3 79 35 45 49 
 l 3 49 61 37 25 
@@ -128,6 +162,18 @@ usemtl CorL
 l 25 81
 usemtl CorL
 l 3 19
+usemtl CorL
+l 42 79
+usemtl CorL
+l 35 45
+usemtl CorL
+l 49 61
+usemtl CorL
+l 37 25
+usemtl CorL
+l 81 47
+usemtl CorL
+l 71 59
 usemtl CorL
 l 4 21 22 44 80
 l 4 80 24 36 52 
@@ -139,6 +185,10 @@ l 21 22
 usemtl CorL
 l 52 64
 usemtl CorL
+l 41 29
+usemtl CorL
+l 73 37
+usemtl CorL
 l 5 20 23 47 81 
 l 5 81 25 37 53 
 l 5 53 65 40 28 
@@ -147,9 +197,17 @@ l 5 60 48 46 20
 usemtl CorL
 l 5 20
 usemtl CorL
+l 20 23
+usemtl CorL
 l 37 53
 usemtl CorL
 l 65 40
+usemtl CorL
+l 53 65
+usemtl CorL
+l 40 28
+usemtl CorL
+l 72 36
 usemtl CorL
 l 6 22 21 45 83 
 l 6 83 27 39 55 
@@ -161,6 +219,8 @@ l 43 30
 usemtl CorL
 l 74 38
 usemtl CorL
+l 55 67
+usemtl CorL
 l 7 23 20 46 82 
 l 7 82 26 38 54 
 l 7 54 66 42 31 
@@ -170,6 +230,12 @@ usemtl CorL
 l 7 23
 usemtl CorL
 l 31 75
+usemtl CorL
+l 54 66
+usemtl CorL
+l 42 31
+usemtl CorL
+l 75 39
 usemtl CorL
 l 8 14 12 36 72 
 l 8 72 28 40 57 
@@ -186,6 +252,8 @@ l 9 32 76 40 65
 l 9 65 53 37 13
 usemtl CorL
 l 9 13
+usemtl CorL
+l 13 15
 usemtl CorL
 l 10 12 14 38 74 
 l 10 74 30 43 59 
