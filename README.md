@@ -727,7 +727,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example7.jpg" width="85%"></p>
 <hr>
 <h4>1. Snub Dodecadodecahedron</h4>
-<a href="vr/stellated_truncated_hexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto"></a><img src="ar/69..png" class="qr">
+<a href="vr/snub_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto"></a><img src="ar/69.png" class="qr">
  <br><span class="titulo">U<sub>40</sub></span> The snub dodecadodecahedron is the uniform polyhedron also called the siddid, whose dual polyhedron is the medial pentagonal hexecontahedron. Three triangles, 1 pentagon, and one pentagram meet at each vertex. 
 <br><br><b>Faces:</b> 60 equilateral triangles, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 129.79°, 151.49° and 157.78°. <a href="https://mathworld.wolfram.com/SnubDodecadodecahedron.html" target="_blank">More...</a>
 <hr>
