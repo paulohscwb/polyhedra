@@ -753,7 +753,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>2. Prisma estrelado</h4>
 <a href="../vr/octagrammic_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto"></a><img src="../ar/105.png" class="qr">
  <br><span class="titulo">U<sub>78</sub></span> Um prisma estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares deslocados ao longo de seu eixo de simetria e com arestas correspondentes conectadas por faces laterais (quadrados, retângulos ou paralelogramos). O exemplo mostrado nesta página é de um prisma reto estrelado octagonal (prisma octagrâmico).
-<br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 2 polígonos estrelados de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Antiprisma</h4>
 <a href="../vr/hexagonal_antiprism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/108A.png" class="foto"></a><img src="../ar/108.png" class="qr">
@@ -763,12 +763,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>4. Antiprisma estrelado</h4>
 <a href="../vr/pentagrammic_antiprism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/104A.png" class="foto"></a><img src="../ar/104.png" class="qr">
  <br><span class="titulo">U<sub>79</sub></span> Um antiprisma estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares superior e inferior, cuja periferia é limitada por um conjunto de 2n triângulos com orientações alternadas de cima para baixo. O exemplo mostrado nesta página é de um antiprisma reto estrelado pentagonal (antiprisma pentagrâmico).
-<br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n triângulos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicAntiprism.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 2 polígonos estrelados de n lados (bases) e n triângulos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicAntiprism.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Antiprisma cruzado estrelado</h4>
 <a href="../vr/heptagrammic_crossed_antiprism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/103A.png" class="foto"></a><img src="../ar/103.png" class="qr">
  <br><span class="titulo">U<sub>80</sub></span> Um antiprisma cruzado estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares superior e inferior, cuja periferia é limitada por um conjunto de 2n triângulos com orientações alternadas de cima para baixo conectados com vértices opostos das bases. O exemplo mostrado nesta página é de um antiprisma reto cruzado estrelado heptagonal (antiprisma heptagrâmico cruzado).
-<br><br><b>Faces:</b> 2 polígonos de n lados (bases) e n triângulos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicCrossedAntiprism.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 2 polígonos estrelados de n lados (bases) e n triângulos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicCrossedAntiprism.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>6. Pirâmide</h4>
 <a href="../vr/heptagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/109A.png" class="foto"></a><img src="../ar/109.png" class="qr">
@@ -778,7 +778,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>7. Pirâmide estrelada</h4>
 <a href="../vr/octagrammic_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/102A.png" class="foto"></a><img src="../ar/102.png" class="qr">
  <br>Uma pirâmide estrelada ou poligrâmica é formada por um polígono estrelado (poligrama) regular com arestas correspondentes conectadas por faces laterais triangulares que se encontram em um vértice comum (conhecido como "ápice"). O exemplo mostrado nesta página é de uma pirâmide estrelada octagonal (pirâmide octagrâmica).
-<br><br><b>Faces:</b> 1 polígono de n lados (base) e n triângulos (faces laterais) | <b>Arestas:</b> 2n | <b>Vértices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 1 polígono estrelado de n lados (base) e n triângulos (faces laterais) | <b>Arestas:</b> 2n | <b>Vértices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>8. Dipirâmide</h4>
 <a href="../vr/pentagonal_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/107A.png" class="foto"></a><img src="../ar/107.png" class="qr">
