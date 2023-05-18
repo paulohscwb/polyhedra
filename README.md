@@ -779,7 +779,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>7. Stellated Pyramid</h4>
 <a href="vr/octagrammic_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/102A.png" class="foto"></a><img src="ar/102.png" class="qr">
  <br>A stellated or polygrammic pyramid is formed by a regular stellated polygon (polygram) with corresponding edges connected by triangular side faces that meet at a common vertex (known as the "apex"). The example shown on this page is of an octagonal stellated pyramid (octagrammic pyramid).
-<br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">More...</a>
+<br><br><b>Faces:</b> 1 polygon of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">More...</a>
 <hr>
 <h4>8. Dipyramid</h4>
 <a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto"></a><img src="ar/107.png" class="qr">
