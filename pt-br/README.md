@@ -773,7 +773,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>6. Pirâmide</h4>
 <a href="../vr/heptagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/109A.png" class="foto"></a><img src="../ar/109.png" class="qr">
  <br>Uma pirâmide é um poliedro com uma face (conhecida como base), um polígono e todas as outras faces triângulos que se encontram em um vértice de polígono comum (conhecido como "ápice"). Uma pirâmide reta é uma pirâmide para a qual a linha que une o centróide da base e o ápice é perpendicular à base. Uma pirâmide regular é uma pirâmide reta cuja base é um polígono regular. O exemplo mostrado nesta página é de uma pirâmide reta regular heptagonal.
-<br><br><b>Faces:</b> 1 polígonos de n lados (base) e n triângulos (faces laterais) | <b>Arestas:</b> 2n | <b>Vértices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 1 polígono de n lados (base) e n triângulos (faces laterais) | <b>Arestas:</b> 2n | <b>Vértices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>7. Pirâmide estrelada</h4>
 <a href="../vr/octagrammic_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/102A.png" class="foto"></a><img src="../ar/102.png" class="qr">
