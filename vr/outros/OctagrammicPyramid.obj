@@ -13,7 +13,7 @@ v 0.0 0.0 2.585786
 v -0.207107 0.5 0.0
 usemtl Cor5
 f 11 2 6 4 8 3 9 5 7
-usemtl Cor6
+usemtl Cor3
 f 1 2 7 
 f 1 7 5 
 f 1 5 9 
