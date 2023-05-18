@@ -773,8 +773,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>6. Pyramid</h4>
 <a href="vr/heptagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/109A.png" class="foto"></a><img src="ar/109.png" class="qr">
- <br>A pyramid is a polyhedron with one face (known as the "base") a polygon and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
-<br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
+ <br>A pyramid is a polyhedron with one polygon face (known as the "base") and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
+<br><br><b>Faces:</b> 1 polygon of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
 <hr>
 <h4>7. Stellated Pyramid</h4>
 <a href="vr/octagrammic_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/102A.png" class="foto"></a><img src="ar/102.png" class="qr">
