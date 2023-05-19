@@ -754,7 +754,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>2. Stellated Prism</h4>
 <a href="vr/octagrammic_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/105A.png" class="foto"></a><img src="ar/105.png" class="qr">
  <br><span class="titulo">U<sub>78</sub></span> A stellated or polygrammic prism is formed by two regular stellated polygons (polygrams) displaced along their axis of symmetry and with corresponding edges connected by lateral faces (squares, rectangles or parallelograms). The example shown on this page is of an octagonal stellated right prism (octagrammic prism).
-<br><br><b>Faces:</b> 2 polygons of n sides (bases) and n squares, rectangles or parallelograms (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="hhttps://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and n squares, rectangles or parallelograms (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="hhttps://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">More...</a>
 <hr>
 <h4>3. Antiprism</h4>
 <a href="vr/hexagonal_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto"></a><img src="ar/108.png" class="qr">
@@ -764,22 +764,22 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>4. Stellated Antiprism</h4>
 <a href="vr/pentagrammic_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/104A.png" class="foto"></a><img src="ar/104.png" class="qr">
  <br><span class="titulo">U<sub>79</sub></span> A stellated or polygrammic antiprism is formed by two upper and lower regular stellated polygons (polygrams), whose periphery is bounded by a set of 2n triangles with alternating orientations from top to bottom. The example shown on this page is of a pentagonal stellated right antiprism (pentagrammic antiprism).
-<br><br><b>Faces:</b> 2 polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicAntiprism.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicAntiprism.html" target="_blank">More...</a>
 <hr>
 <h4>5. Stellated Crossed Antiprism</h4>
 <a href="vr/heptagrammic_crossed_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/103A.png" class="foto"></a><img src="ar/103.png" class="qr">
  <br><span class="titulo">U<sub>80</sub></span> A stellated or polygrammic crossed antiprism is formed by two upper and lower regular stellated polygons (polygrams), whose periphery is bounded by a 2n set with alternating orientations from top to bottom connected with opposite vertices of the bases. The example shown on this page is a heptagonal stellated crossed right antiprism (heptagrammic crossed antiprism).
-<br><br><b>Faces:</b> 2 polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicCrossedAntiprism.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicCrossedAntiprism.html" target="_blank">More...</a>
 <hr>
 <h4>6. Pyramid</h4>
 <a href="vr/heptagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/109A.png" class="foto"></a><img src="ar/109.png" class="qr">
- <br>A pyramid is a polyhedron with one face (known as the "base") a polygon and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
-<br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
+ <br>A pyramid is a polyhedron with one polygonal face (known as the "base") and all the other faces triangles meeting at a common polygon vertex (known as the "apex"). A right pyramid is a pyramid for which the line joining the centroid of the base and the apex is perpendicular to the base. A regular pyramid is a right pyramid whose base is a regular polygon. The example shown on this page is of a regular right heptagonal pyramid.
+<br><br><b>Faces:</b> 1 polygon of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://mathworld.wolfram.com/Pyramid.html" target="_blank">More...</a>
 <hr>
 <h4>7. Stellated Pyramid</h4>
 <a href="vr/octagrammic_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/102A.png" class="foto"></a><img src="ar/102.png" class="qr">
  <br>A stellated or polygrammic pyramid is formed by a regular stellated polygon (polygram) with corresponding edges connected by triangular side faces that meet at a common vertex (known as the "apex"). The example shown on this page is of an octagonal stellated pyramid (octagrammic pyramid).
-<br><br><b>Faces:</b> 1 polygons of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">More...</a>
+<br><br><b>Faces:</b> 1 stellated polygon of n sides (base) and n triangles (side faces) | <b>Edges:</b> 2n | <b>Vertices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">More...</a>
 <hr>
 <h4>8. Dipyramid</h4>
 <a href="vr/pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto"></a><img src="ar/107.png" class="qr">
