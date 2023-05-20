@@ -48,7 +48,8 @@
 	     
 			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
 			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
-	     		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
+	     	<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
+			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 
     <a-entity camera></a-entity>
@@ -60,6 +61,7 @@
 	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1">
 		<a-link mixin="lnk" class="lnk" href="vr/icosahedron.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.31 0.31 0.31">
+				<a-obj-model scale="3 3 3" rotation="-110.905 0 0" src="vr/outros/Icosahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s1_1" ></a-cylinder>
@@ -323,6 +325,7 @@
 	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1">
 		<a-link mixin="lnk" class="lnk" href="vr/dodecahedron.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.23 0.23 0.23">
+				<a-obj-model scale="3 3 3" rotation="0 -18 -58.28255" src="vr/outros/Dodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s2_1" ></a-cylinder>
@@ -586,12 +589,14 @@
 						<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
 					</a-entity>
+					<a-obj-model rotation="180 0 90" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 					<a-entity mixin="s3_3"> <!--joga para o centro do dodecaedro-->
 						<a-entity rotation="109.28 0 0"> <!--angulo entre as faces-->
 							<a-entity mixin="s3_3"> <!--joga na lateral a partir do centro-->
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
@@ -606,6 +611,7 @@
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
@@ -620,6 +626,7 @@
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
@@ -631,6 +638,7 @@
 				</a-entity>
 				
 				<a-entity id="cima" position="0 2.4492 0" rotation="180 120 0">
+					<a-obj-model rotation="180 0 90" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s3_1" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
@@ -643,6 +651,34 @@
 						<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
 					</a-entity>
+					<a-entity mixin="s3_3">
+						<a-entity rotation="109.28 240 0">
+							<a-entity mixin="s3_3">
+								<a-entity rotation="0 120 90">
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s3_3">
+						<a-entity rotation="109.28 120 0">
+							<a-entity mixin="s3_3">
+								<a-entity rotation="0 120 90">
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s3_3">
+					<a-entity rotation="109.28 0 0">
+						<a-entity mixin="s3_3">
+							<a-entity rotation="0 120 90">
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
 				</a-entity>
 			</a-entity>
 	</a-marker>
@@ -650,7 +686,8 @@
 	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1">
 		<a-link mixin="lnk" class="lnk" href="vr/cube.html"></a-link>
 	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.35 0.35 0.35">	  
-	  			<a-entity id="baixo">
+	  			<a-obj-model scale="3 3 3" rotation="0 0 0" src="vr/outros/Cube.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s4_1" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s4_2"></a-sphere>
@@ -759,12 +796,14 @@
 						<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
 					</a-entity>
+					<a-obj-model rotation="180 0 90" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 					<a-entity mixin="s5_3"> <!--joga para o centro do dodecaedro-->
 						<a-entity rotation="70.3288 0 0"> <!--angulo entre as faces-->
 							<a-entity mixin="s5_3"> <!--joga na lateral a partir do centro-->
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 								</a-entity>
 							</a-entity>
 						</a-entity>
@@ -775,6 +814,7 @@
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 								</a-entity>
 							</a-entity>
 						</a-entity>
@@ -785,6 +825,7 @@
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
