@@ -23,6 +23,8 @@
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700"></a-entity>
+		
 		<!--<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0"</a-plane> 
 			<a-text mixin="texto" position="0 -1 2.5" value="value:CUBE  |  Faces: 6 squares  |  Edges: 12  |  Vertices: 8  |  Sphericity: 0.806  |  Diedral angle: 90 degrees;"></a-text>
@@ -124,8 +126,6 @@
 				
 			</a-entity>
 		</a-entity>
-
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700"></a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
