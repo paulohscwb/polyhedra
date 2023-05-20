@@ -121,6 +121,7 @@
 			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
 			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 	     	<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
+			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 		</a-assets>
 
     <a-entity camera></a-entity>
@@ -132,8 +133,8 @@
 	<a-marker preset="hiro" smooth="smooth:true; smoothCount:1">
 	   <a-link mixin="lnk" class="lnk" href="vr/truncated_octahedron.html"></a-link>
 	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.16 0.16 0.16">
+		<a-obj-model scale="3 3 3" rotation="0 45 0" src="vr/outros/TruncatedOctahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 		<a-entity position="0 -4.2426 0"> <!--apotema-->
-				
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s1_1q"></a-cylinder>
