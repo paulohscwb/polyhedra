@@ -734,7 +734,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>2. Medial pentagonal hexecontahedron</h4>
 <a href="vr/medial_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/68A.png" class="foto"></a><img src="ar/68.png" class="qr">
  <br>The medial pentagonal hexecontahedron is the polyhedron whose dual is the uniform snub dodecadodecahedron. It consists of 60 irregular pentagons, each with two short, one medium, and two long edges.
-<br><br><b>Faces:</b> 60 irregular pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 84 | <b>Dihedral angles:</b> 133.8°. <a href="https://en.wikipedia.org/wiki/Medial_pentagonal_hexecontahedron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 irregular pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 84 | <b>Dihedral angle:</b> 133.8°. <a href="https://en.wikipedia.org/wiki/Medial_pentagonal_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>3. Inverted Snub Dodecadodecahedron</h4>
+<a href="vr/inverted_snub_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/67A.png" class="foto"></a><img src="ar/67.png" class="qr">
+ <br><span class="titulo">U<sub>60</sub></span> The inverted snub dodecadodecahedron is the uniform polyhedron also called of vertisnub dodecadodecahedron or isdid, whose dual polyhedron is the medial inverted pentagonal hexecontahedron. Three triangles, 1 pentagon, and one pentagram meeting at each vertex. It can be constructed by alternation of the quasitruncated dodecadodecahedron and then setting all edge lengths to be equal.  
+<br><br><b>Faces:</b> 60 equilateral triangles, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 68.64°, 130.49° and 11.12°. <a href="https://mathworld.wolfram.com/InvertedSnubDodecadodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
