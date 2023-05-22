@@ -1,0 +1,230 @@
+mtllib solidos.mtl
+s 1
+v 0.67603 -0.36263 -0.36981
+v -0.67603 -0.36263 0.36981
+v -0.67603 0.36263 -0.36981
+v 0.36981 0.67603 0.36263
+v 0.36981 -0.67603 -0.36263
+v -0.36981 -0.67603 0.36263
+v -0.36981 0.67603 -0.36263
+v 0.36263 0.36981 0.67603
+v 0.36263 -0.36981 -0.67603
+v -0.36263 -0.36981 0.67603
+v -0.36263 0.36981 -0.67603
+v 0.15891 0.47407 0.6894
+v 0.15891 -0.47407 -0.6894
+v -0.15891 -0.47407 0.6894
+v -0.15891 0.47407 -0.6894
+v 0.6894 -0.15891 -0.47407
+v 0.6894 0.15891 0.47407
+v -0.6894 0.15891 -0.47407
+v -0.6894 -0.15891 0.47407
+v -0.47407 -0.6894 0.15891
+v -0.47407 0.6894 -0.15891
+v 0.47407 0.6894 0.15891
+v 0.47407 -0.6894 -0.15891
+v -0.51711 0.61976 0.27159
+v -0.51711 -0.61976 -0.27159
+v 0.51711 -0.61976 0.27159
+v 0.51711 0.61976 -0.27159
+v 0.27159 -0.51711 0.61976
+v 0.27159 0.51711 -0.61976
+v -0.27159 0.51711 0.61976
+v -0.27159 -0.51711 -0.61976
+v 0.61976 0.27159 -0.51711
+v 0.61976 -0.27159 0.51711
+v -0.61976 -0.27159 -0.51711
+v -0.61976 0.27159 0.51711
+v 0.74567 -0.24995 0.32677
+v 0.74567 0.24995 -0.32677
+v -0.74567 0.24995 0.32677
+v -0.74567 -0.24995 -0.32677
+v 0.32677 0.74567 -0.24995
+v 0.32677 -0.74567 0.24995
+v -0.32677 -0.74567 -0.24995
+v -0.32677 0.74567 0.24995
+v -0.24995 0.32677 0.74567
+v -0.24995 -0.32677 -0.74567
+v 0.24995 -0.32677 0.74567
+v 0.24995 0.32677 -0.74567
+v -0.09104 -0.06964 0.84388
+v -0.09104 0.06964 -0.84388
+v 0.09104 0.06964 0.84388
+v 0.09104 -0.06964 -0.84388
+v 0.84388 0.09104 0.06964
+v 0.84388 -0.09104 -0.06964
+v -0.84388 -0.09104 0.06964
+v -0.84388 0.09104 -0.06964
+v 0.06964 -0.84388 -0.09104
+v 0.06964 0.84388 0.09104
+v -0.06964 0.84388 -0.09104
+v -0.06964 -0.84388 0.09104
+v 0.67603 0.36263 0.36981
+usemtl CorL
+l 60 28 12 36 48 
+usemtl CorL
+l 1 29 13 37 49 
+usemtl CorL
+l 2 30 14 38 50 
+usemtl CorL
+l 3 31 15 39 51 
+usemtl CorL
+l 4 32 17 40 53 
+usemtl CorL
+l 5 33 16 41 52 
+usemtl CorL
+l 6 34 19 42 55 
+usemtl CorL
+l 7 35 18 43 54 
+usemtl CorL
+l 8 24 22 44 58 
+usemtl CorL
+l 9 25 23 45 59 
+usemtl CorL
+l 10 26 20 46 56 
+usemtl CorL
+l 11 27 21 47 57 
+usemtl CorL
+l 60 26 42 18 58 
+usemtl CorL
+l 1 27 43 19 59 
+usemtl CorL
+l 2 24 40 16 56 
+usemtl CorL
+l 3 25 41 17 57 
+usemtl CorL
+l 4 29 45 20 48 
+usemtl CorL
+l 5 28 44 21 49 
+usemtl CorL
+l 6 31 47 22 50 
+usemtl CorL
+l 7 30 46 23 51 
+usemtl CorL
+l 8 35 39 13 53 
+usemtl CorL
+l 9 34 38 12 52 
+usemtl CorL
+l 10 33 37 15 55 
+usemtl CorL
+l 11 32 36 14 54 
+usemtl CorL
+l 60 58 44 
+usemtl CorL
+l 1 59 45 
+usemtl CorL
+l 2 56 46 
+usemtl CorL
+l 3 57 47 
+usemtl CorL
+l 4 48 36 
+usemtl CorL
+l 5 49 37 
+usemtl CorL
+l 6 50 38 
+usemtl CorL
+l 7 51 39 
+usemtl CorL
+l 8 53 40 
+usemtl CorL
+l 9 52 41 
+usemtl CorL
+l 10 55 42 
+usemtl CorL
+l 11 54 43 
+usemtl CorL
+l 12 38 14 
+usemtl CorL
+l 13 39 15 
+usemtl CorL
+l 14 36 12 
+usemtl CorL
+l 15 37 13 
+usemtl CorL
+l 16 40 17 
+usemtl CorL
+l 17 41 16 
+usemtl CorL
+l 18 42 19 
+usemtl CorL
+l 19 43 18 
+usemtl CorL
+l 20 45 23 
+usemtl CorL
+l 21 44 22 
+usemtl CorL
+l 22 47 21 
+usemtl CorL
+l 23 46 20 
+usemtl CorL
+l 24 2 50 
+usemtl CorL
+l 25 3 51 
+usemtl CorL
+l 26 60 48 
+usemtl CorL
+l 27 1 49 
+usemtl CorL
+l 28 5 52 
+usemtl CorL
+l 29 4 53 
+usemtl CorL
+l 30 7 54 
+usemtl CorL
+l 31 6 55 
+usemtl CorL
+l 32 11 57 
+usemtl CorL
+l 33 10 56 
+usemtl CorL
+l 34 9 59 
+usemtl CorL
+l 35 8 58 
+usemtl CorL
+l 36 32 4 
+usemtl CorL
+l 37 33 5 
+usemtl CorL
+l 38 34 6 
+usemtl CorL
+l 39 35 7 
+usemtl CorL
+l 40 24 8 
+usemtl CorL
+l 41 25 9 
+usemtl CorL
+l 42 26 10 
+usemtl CorL
+l 43 27 11 
+usemtl CorL
+l 44 28 60 
+usemtl CorL
+l 45 29 1 
+usemtl CorL
+l 46 30 2 
+usemtl CorL
+l 47 31 3 
+usemtl CorL
+l 48 20 26 
+usemtl CorL
+l 49 21 27 
+usemtl CorL
+l 50 22 24 
+usemtl CorL
+l 51 23 25 
+usemtl CorL
+l 52 12 28 
+usemtl CorL
+l 53 13 29 
+usemtl CorL
+l 54 14 30 
+usemtl CorL
+l 55 15 31 
+usemtl CorL
+l 56 16 33 
+usemtl CorL
+l 57 17 32 
+usemtl CorL
+l 58 18 35 
+usemtl CorL
+l 59 19 34 
