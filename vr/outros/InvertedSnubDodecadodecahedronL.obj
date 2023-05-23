@@ -205,122 +205,362 @@ l 10 33 37 15 55
 usemtl CorL
 l 11 32 36 14 54 
 usemtl CorL
-l 60 58 44 
+l 60 58
 usemtl CorL
-l 1 59 45 
+l 58 44
 usemtl CorL
-l 2 56 46 
+l 44 60 
 usemtl CorL
-l 3 57 47 
+l 1 59
 usemtl CorL
-l 4 48 36 
+l 59 45
 usemtl CorL
-l 5 49 37 
+l 45 1 
 usemtl CorL
-l 6 50 38 
+l 2 56
 usemtl CorL
-l 7 51 39 
+l 56 46
 usemtl CorL
-l 8 53 40 
+l 56 2 
 usemtl CorL
-l 9 52 41 
+l 3 57
 usemtl CorL
-l 10 55 42 
+l 57 47
 usemtl CorL
-l 11 54 43 
+l 47 3 
 usemtl CorL
-l 12 38 14 
+l 4 48
 usemtl CorL
-l 13 39 15 
+l 48 36
 usemtl CorL
-l 14 36 12 
+l 36 4 
 usemtl CorL
-l 15 37 13 
+l 5 49
 usemtl CorL
-l 16 40 17 
+l 49 37
 usemtl CorL
-l 17 41 16 
+l 37 5 
 usemtl CorL
-l 18 42 19 
+l 6 50
 usemtl CorL
-l 19 43 18 
+l 50 38
 usemtl CorL
-l 20 45 23 
+l 38 6 
 usemtl CorL
-l 21 44 22 
+l 7 51
 usemtl CorL
-l 22 47 21 
+l 51 39
 usemtl CorL
-l 23 46 20 
+l 39 7 
 usemtl CorL
-l 24 2 50 
+l 8 53
 usemtl CorL
-l 25 3 51 
+l 53 40
 usemtl CorL
-l 26 60 48 
+l 40 8 
 usemtl CorL
-l 27 1 49 
+l 9 52
 usemtl CorL
-l 28 5 52 
+l 52 41
 usemtl CorL
-l 29 4 53 
+l 41 9 
 usemtl CorL
-l 30 7 54 
+l 10 55
 usemtl CorL
-l 31 6 55 
+l 55 42
 usemtl CorL
-l 32 11 57 
+l 42 10 
 usemtl CorL
-l 33 10 56 
+l 11 54
 usemtl CorL
-l 34 9 59 
+l 54 43
 usemtl CorL
-l 35 8 58 
+l 43 11 
 usemtl CorL
-l 36 32 4 
+l 12 38
 usemtl CorL
-l 37 33 5 
+l 38 14
 usemtl CorL
-l 38 34 6 
+l 14 12 
 usemtl CorL
-l 39 35 7 
+l 13 39
 usemtl CorL
-l 40 24 8 
+l 39 15
 usemtl CorL
-l 41 25 9 
+l 15 13 
 usemtl CorL
-l 42 26 10 
+l 14 36
 usemtl CorL
-l 43 27 11 
+l 36 12
 usemtl CorL
-l 44 28 60 
+l 12 14 
 usemtl CorL
-l 45 29 1 
+l 15 37
 usemtl CorL
-l 46 30 2 
+l 37 13
 usemtl CorL
-l 47 31 3 
+l 13 15 
 usemtl CorL
-l 48 20 26 
+l 16 40
 usemtl CorL
-l 49 21 27 
+l 40 17
 usemtl CorL
-l 50 22 24 
+l 17 16
 usemtl CorL
-l 51 23 25 
+l 17 41
 usemtl CorL
-l 52 12 28 
+l 41 16
 usemtl CorL
-l 53 13 29 
+l 16 17 
 usemtl CorL
-l 54 14 30 
+l 18 42
 usemtl CorL
-l 55 15 31 
+l 42 19
 usemtl CorL
-l 56 16 33 
+l 19 18 
 usemtl CorL
-l 57 17 32 
+l 19 43
 usemtl CorL
-l 58 18 35 
+l 43 18
 usemtl CorL
-l 59 19 34 
+l 18 19 
+usemtl CorL
+l 20 45
+usemtl CorL
+l 45 23
+usemtl CorL
+l 23 20 
+usemtl CorL
+l 21 44
+usemtl CorL
+l 44 22
+usemtl CorL
+l 22 21 
+usemtl CorL
+l 22 47
+usemtl CorL
+l 47 21
+usemtl CorL
+l 21 22 
+usemtl CorL
+l 23 46
+usemtl CorL
+l 46 20
+usemtl CorL
+l 20 23 
+usemtl CorL
+l 24 2 
+usemtl CorL
+l 2 50
+usemtl CorL
+l 50 24 
+usemtl CorL
+l 25 3 
+usemtl CorL
+l 3 51
+usemtl CorL
+l 51 25 
+usemtl CorL
+l 26 60
+usemtl CorL
+l 60 48
+usemtl CorL
+l 40 26 
+usemtl CorL
+l 27 1
+usemtl CorL
+l 1 49
+usemtl CorL
+l 49 27 
+usemtl CorL
+l 28 5 
+usemtl CorL
+l 5 52
+usemtl CorL
+l 52 28 
+usemtl CorL
+l 29 4 
+usemtl CorL
+l 4 53
+usemtl CorL
+l 53 29 
+usemtl CorL
+l 30 7 
+usemtl CorL
+l 7 54
+usemtl CorL
+l 54 30 
+usemtl CorL
+l 31 6 
+usemtl CorL
+l 6 55
+usemtl CorL
+l 55 31 
+usemtl CorL
+l 32 11
+usemtl CorL
+l 11 57
+usemtl CorL
+l 57 32 
+usemtl CorL
+l 33 10
+usemtl CorL
+l 10 56
+usemtl CorL
+l 56 33 
+usemtl CorL
+l 34 9 
+usemtl CorL
+l 9 59
+usemtl CorL
+l 59 34 
+usemtl CorL
+l 35 8 
+usemtl CorL
+l 8 58
+usemtl CorL
+l 58 35 
+usemtl CorL
+l 36 32
+usemtl CorL
+l 32 4
+usemtl CorL
+l 4 36 
+usemtl CorL
+l 37 33
+usemtl CorL
+l 33 5
+usemtl CorL
+l 5 37 
+usemtl CorL
+l 38 34
+usemtl CorL
+l 34 6
+usemtl CorL
+l 6 38 
+usemtl CorL
+l 39 35
+usemtl CorL
+l 35 7
+usemtl CorL
+l 7 39 
+usemtl CorL
+l 40 24
+usemtl CorL
+l 24 8
+usemtl CorL
+l 8 40 
+usemtl CorL
+l 41 25
+usemtl CorL
+l 25 9
+usemtl CorL
+l 9 41 
+usemtl CorL
+l 42 26
+usemtl CorL
+l 26 10
+usemtl CorL
+l 10 42 
+usemtl CorL
+l 43 27
+usemtl CorL
+l 27 11
+usemtl CorL
+l 11 43 
+usemtl CorL
+l 44 28
+usemtl CorL
+l 28 60
+usemtl CorL
+l 60 44 
+usemtl CorL
+l 45 29
+usemtl CorL
+l 29 1
+usemtl CorL
+l 1 45 
+usemtl CorL
+l 46 30
+usemtl CorL
+l 30 2
+usemtl CorL
+l 2 46 
+usemtl CorL
+l 47 31
+usemtl CorL
+l 31 3
+usemtl CorL
+l 3 47 
+usemtl CorL
+l 48 20
+usemtl CorL
+l 20 26
+usemtl CorL
+l 26 48 
+usemtl CorL
+l 49 21
+usemtl CorL
+l 21 27
+usemtl CorL
+l 27 49 
+usemtl CorL
+l 50 22
+usemtl CorL
+l 22 24
+usemtl CorL
+l 24 50 
+usemtl CorL
+l 51 23
+usemtl CorL
+l 23 25
+usemtl CorL
+l 25 51 
+usemtl CorL
+l 52 12
+usemtl CorL
+l 12 28
+usemtl CorL
+l 28 52 
+usemtl CorL
+l 53 13
+usemtl CorL
+l 13 29
+usemtl CorL
+l 29 53 
+usemtl CorL
+l 54 14
+usemtl CorL
+l 14 30
+usemtl CorL
+l 30 54 
+usemtl CorL
+l 55 15
+usemtl CorL
+l 15 31
+usemtl CorL
+l 31 55 
+usemtl CorL
+l 56 16
+usemtl CorL
+l 16 33
+usemtl CorL
+l 33 56 
+usemtl CorL
+l 57 17
+usemtl CorL
+l 17 32
+usemtl CorL
+l 32 57 
+usemtl CorL
+l 58 18
+usemtl CorL
+l 18 35
+usemtl CorL
+l 35 58 
+usemtl CorL
+l 59 19
+usemtl CorL
+l 19 34
+usemtl CorL
+l 34 59 
