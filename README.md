@@ -743,7 +743,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>4. Medial pentagonal hexecontahedron</h4>
 <a href="vr/medial_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/66A.png" class="foto"></a><img src="ar/66.png" class="qr">
- <br>The medial inverted pentagonal hexecontahedron is the polyhedron whose dual is the uniform inverted snub dodecadodecahedron. It consists of 60 irregular pentagons, each with two short, one medium, and two long edges.
+ <br>The medial inverted pentagonal hexecontahedron is the polyhedron whose dual is the uniform inverted snub dodecadodecahedron. It consists of 60 irregular pentagons, each with two short, one medium, and two long edges. Part of each pentagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 irregular pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 84 | <b>Dihedral angle:</b> 108.09°. <a href="https://polytope.miraheze.org/wiki/Medial_inverted_pentagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
