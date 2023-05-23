@@ -731,13 +731,18 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Hexecontaedro pentagonal medial</h4>
 <a href="../vr/medial_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/68A.png" class="foto"></a><img src="../ar/68.png" class="qr">
- <br>O hexecontaedro pentagonal medial é o poliedro cujo dual é o dodecadodecaedro achatado uniforme. Consiste em 60 pentágonos irregulares, cada um com duas arestas curtas, uma média e duas longas.
+ <br>O hexecontaedro pentagonal medial é o poliedro cujo dual é o uniforme dodecadodecaedro snub. Consiste em 60 pentágonos irregulares, cada um com duas arestas curtas, uma média e duas longas.
 <br><br><b>Faces:</b> 60 pentágonos irregulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 84 | <b>Ângulo diédrico:</b> 133.8°. <a href="https://en.wikipedia.org/wiki/Medial_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Dodecadodecaedro snub invertido</h4>
 <a href="../vr/inverted_snub_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/67A.png" class="foto"></a><img src="../ar/67.png" class="qr">
  <br><span class="titulo">U<sub>60</sub></span> O dodecadodecaedro snub invertido é o poliedro uniforme também chamado de dodecadodecaedro vertisnub ou isdid, cujo poliedro dual é o hexecontaedro pentagonal invertido medial. Três triângulos, 1 pentágono e um pentagrama se encontrando em cada vértice. Ele pode ser construído pela alternância do dodecadodecaedro quase truncado e, em seguida, definindo todos os comprimentos de arestas para ficarem com mesmo tamanho.
 <br><br><b>Faces:</b> 60 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 68.64°, 130.49° e 11.12°. <a href="https://mathworld.wolfram.com/InvertedSnubDodecadodecahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>4. Hexecontaedro pentagonal medial</h4>
+<a href="../vr/medial_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/66A.png" class="foto"></a><img src="../ar/66.png" class="qr">
+ <br>O hexecontaedro pentagonal invertido medial é o poliedro cujo dual é o uniforme dodecadodecaedro snub invertido. Consiste em 60 pentágonos irregulares, cada um com duas arestas curtas, uma média e duas longas.
+<br><br><b>Faces:</b> 60 pentágonos irregulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 84 | <b>Ângulo diédrico:</b> 108.09°. <a href="https://polytope.miraheze.org/wiki/Medial_inverted_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 </details>
 
