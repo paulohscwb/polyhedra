@@ -736,13 +736,18 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>3. Dodecadodecaedro snub invertido</h4>
 <a href="../vr/inverted_snub_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/67A.png" class="foto"></a><img src="../ar/67.png" class="qr">
- <br><span class="titulo">U<sub>60</sub></span> O dodecadodecaedro snub invertido é o poliedro uniforme também chamado de dodecadodecaedro vertisnub ou isdid, cujo poliedro dual é o hexecontaedro pentagonal invertido medial. Três triângulos, 1 pentágono e um pentagrama se encontrando em cada vértice. Ele pode ser construído pela alternância do dodecadodecaedro quase truncado e, em seguida, definindo todos os comprimentos de arestas para ficarem com mesmo tamanho.
+ <br><span class="titulo">U<sub>60</sub></span> O dodecadodecaedro snub invertido é o poliedro uniforme também chamado de dodecadodecaedro vertisnub ou isdid, cujo poliedro dual é o hexecontaedro pentagonal invertido medial. Três triângulos, 1 pentágono e um pentagrama se encontram em cada vértice. Ele pode ser construído pela alternância do dodecadodecaedro quase truncado e, em seguida, definindo todos os comprimentos de arestas para ficarem com mesmo tamanho.
 <br><br><b>Faces:</b> 60 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 68.64°, 130.49° e 11.12°. <a href="https://mathworld.wolfram.com/InvertedSnubDodecadodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>4. Hexecontaedro pentagonal medial</h4>
 <a href="../vr/medial_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/66A.png" class="foto"></a><img src="../ar/66.png" class="qr">
  <br>O hexecontaedro pentagonal invertido medial é o poliedro cujo dual é o uniforme dodecadodecaedro snub invertido. Consiste em 60 pentágonos irregulares, cada um com duas arestas curtas, uma média e duas longas. Parte de cada pentágono está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 pentágonos irregulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 84 | <b>Ângulo diédrico:</b> 108.09°. <a href="https://polytope.miraheze.org/wiki/Medial_inverted_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>5. Grande icosidodecaedro snub</h4>
+<a href="../vr/great_snub_icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/65A.png" class="foto"></a><img src="../ar/65.png" class="qr">
+ <br><span class="titulo">U<sub>57</sub></span> O grande icosidodecaedro snub é o poliedro uniforme também chamado de gosid, cujo poliedro dual é o grande hexecontaedro pentagonal. Quatro triângulos e um pentagrama se encontram em cada vértice. Este poliedro é o membro snubficado da família que inclui o grande icosaedro, o grande dodecaedro estrelado e o grande icosidodecaedro.
+<br><br><b>Faces:</b> 80 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 126.82° e 138.82°. <a href="https://mathworld.wolfram.com/GreatSnubIcosidodecahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 </details>
 
