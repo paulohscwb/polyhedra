@@ -748,6 +748,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/great_snub_icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/65A.png" class="foto"></a><img src="../ar/65.png" class="qr">
  <br><span class="titulo">U<sub>57</sub></span> O grande icosidodecaedro snub é o poliedro uniforme também chamado de gosid, cujo poliedro dual é o grande hexecontaedro pentagonal. Quatro triângulos e um pentagrama se encontram em cada vértice. Este poliedro é o membro snubficado da família que inclui o grande icosaedro, o grande dodecaedro estrelado e o grande icosidodecaedro.
 <br><br><b>Faces:</b> 80 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 126.82° e 138.82°. <a href="https://mathworld.wolfram.com/GreatSnubIcosidodecahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Grande hexecontaedro pentagonal</h4>
+<a href="../vr/great_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/64A.png" class="foto"></a><img src="../ar/64.png" class="qr">
+ <br>O grande hexecontaedro pentagonal é o poliedro cujo dual é o uniforme grande icosidodecaedro snub. Consiste em 60 pentágonos simétricos, cada um com duas arestas curtas e três longas. Parte de cada pentágono está dentro do sólido, portanto é invisível em modelos sólidos.
+<br><br><b>Faces:</b> 60 pentágonos simétricos | <b>Arestas:</b> 150 | <b>Vértices:</b> 92 | <b>Ângulo diédrico:</b> 104.43°. <a href="https://polytope.miraheze.org/wiki/Great_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 </details>
 

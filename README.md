@@ -750,6 +750,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_snub_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/65A.png" class="foto"></a><img src="ar/65.png" class="qr">
  <br><span class="titulo">U<sub>57</sub></span> The great snub icosidodecahedron is the uniform polyhedron also called of gosid, whose dual polyhedron is the great pentagonal hexecontahedron. Four triangles and one pentagram meeting at each vertex. This polyhedron is the snub member of a family that includes the great icosahedron, the great stellated dodecahedron and the great icosidodecahedron.   
 <br><br><b>Faces:</b> 80 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 126.82° and 138.82°. <a href="https://mathworld.wolfram.com/GreatSnubIcosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>6. Great Pentagonal Hexecontahedron</h4>
+<a href="vr/great_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/64A.png" class="foto"></a><img src="ar/64.png" class="qr">
+ <br>The great pentagonal hexecontahedron is the polyhedron whose dual is the uniform great snub icosidodecahedron. It consists of 60 mirror-symmetric pentagons, each with two short and three long edges. Part of each pentagon lies within the solid, hence is invisible in solid models.
+<br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 104.43°. <a href="https://polytope.miraheze.org/wiki/Great_pentagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
