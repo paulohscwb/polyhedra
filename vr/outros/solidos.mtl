@@ -91,6 +91,13 @@ Pr/map_Pr 0.7
 Pm/map_Pm 0.2
 d 0.85
 
+newmtl Cor13a
+Kd 0.7 0.7 0.7
+Ks 0.2 0.2 0.2
+Pr/map_Pr 0.7
+Pm/map_Pm 0.2
+d 0.85
+
 newmtl Cor14
 Kd 0 0 0
 Ks 0.2 0.2 0.2
