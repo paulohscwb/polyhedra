@@ -251,7 +251,7 @@ l 40 76
 usemtl Cor13
 l 54 66
 usemtl Cor13
-l 10 84
+l 10 9
 usemtl Cor13
 l 67 55
 usemtl Cor13
@@ -275,4 +275,4 @@ l 41 77
 usemtl Cor13
 l 58 70
 usemtl Cor13
-l 
+l 1 3
