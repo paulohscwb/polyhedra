@@ -20,49 +20,49 @@ v 1.69 11 5.16
 v -5.16 1.69 -11
 v -1.69 11 -5.16
 v -8 8 -8
-usemtl Cor13a
+usemtl CorL
 l 6 18 20 1 2
-usemtl Cor13a
+usemtl CorL
 l 4 11 2 1 16
-usemtl Cor13a
+usemtl CorL
 l 16 1 20 19 17
-usemtl Cor13a
+usemtl CorL
 l 7 4 16 17 10
-usemtl Cor13a
+usemtl CorL
 l 10 17 19 12 13
-usemtl Cor13a
+usemtl CorL
 l 19 20 18 15 12
-usemtl Cor13a
+usemtl CorL
 l 6 9 14 15 18
-usemtl Cor13a
+usemtl CorL
 l 11 8 9 6 2
-usemtl Cor13a
+usemtl CorL
 l 8 5 3 14 9
-usemtl Cor13a
+usemtl CorL
 l 13 12 15 14 3
-usemtl Cor13a
+usemtl CorL
 l 7 10 13 3 5
-usemtl Cor13a
+usemtl CorL
 l 4 7 5 8 11
-usemtl Cor13a
+usemtl CorL
 l 19 17
-usemtl Cor13a
+usemtl CorL
 l 10 13
-usemtl Cor13a
+usemtl CorL
 l 4 16
-usemtl Cor13a
+usemtl CorL
 l 5 7
-usemtl Cor13a
+usemtl CorL
 l 3 5
-usemtl Cor13a
+usemtl CorL
 l 12 15
-usemtl Cor13a
+usemtl CorL
 l 18 20
-usemtl Cor13a
+usemtl CorL
 l 2 6
-usemtl Cor13a
+usemtl CorL
 l 2 11
-usemtl Cor13a
+usemtl CorL
 l 8 9
-usemtl Cor13a
+usemtl CorL
 l 9 14 
