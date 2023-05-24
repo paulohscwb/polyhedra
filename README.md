@@ -758,8 +758,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>7. Great Inverted Snub Icosidodecahedron</h4>
 <a href="vr/great_inverted_snub_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/63A.png" class="foto"></a><img src="ar/63.png" class="qr">
- <br><span class="titulo">U<sub>69</sub></span> The great inverted snub icosidodecahedron is the uniform polyhedron also called of gisid, whose dual polyhedron is the great inverted pentagonal hexecontahedron. Four triangles and one pentagram meet at each vertex. It can be constructed by alternation of the great quasitruncated icosidodecahedron after setting all edge lengths to be equal.  
+ <br><span class="titulo">U<sub>69</sub></span> The great inverted snub icosidodecahedron is the uniform polyhedron also called of gisid, whose dual polyhedron is the great inverted pentagonal hexecontahedron. Four triangles and one pentagram meet at each vertex. It can be constructed by alternation of the great quasitruncated icosidodecahedron after setting all edge lengths equal.  
 <br><br><b>Faces:</b> 80 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 21.61° and 89.79°. <a href="https://mathworld.wolfram.com/GreatInvertedSnubIcosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>8. Great Inverted Pentagonal Hexecontahedron</h4>
+<a href="vr/great_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/62A.png" class="foto"></a><img src="ar/62.png" class="qr">
+ <br>The great inverted pentagonal hexecontahedron is the polyhedron whose dual is the uniform great inverted snub icosidodecahedron. It consists of 60 mirror-symmetric concave  pentagons, each with two short and three long edges. Part of each pentagon lies within the solid, hence is invisible in solid models.
+<br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 78.36°. <a href="https://polytope.miraheze.org/wiki/Great_inverted_pentagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
