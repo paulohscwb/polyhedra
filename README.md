@@ -22,27 +22,27 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/truncated_octahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/hiroA.png" class="foto"></a><img src="ar/hiro.png" class="qr">
  <!--<div class="embed-container"><iframe src="vr/truncated_octahedron.html" width="100%" title="truncated_octahedron" loading="lazy"></iframe></div>-->
  <br><span class="titulo">U<sub>8</sub></span> A truncated octahedron is constructed from a regular octahedron with side length <b>3a</b> by the removal of six right square pyramids, one from each point. These pyramids have both base side length <b>a</b> and lateral side length <b>e</b> of <b>a</b>, to form equilateral triangles. The truncated octahedron can be dissected into a central octahedron, surrounded by 8 triangular cupola on each face, and 6 square pyramids above the vertices. The truncated octahedron exists in the structure of the faujasite crystals. 
- <br><br><b>Faces:</b> 14 | <b>Polygons:</b> 6 squares and 8 hexagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.905 | <b>Dihedral angles:</b> 125°15′51″ (4-6) and 109°28′16″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedOctahedron.html" target="_blank">More...</a>  
+ <br><br><b>Faces:</b> 14 | <b>Polygons:</b> 6 squares and 8 hexagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.905 | <b>Dihedral angles:</b> 125.26° (4-6) and 109.47°. <a href="http://mathworld.wolfram.com/TruncatedOctahedron.html" target="_blank">More...</a>  
 <hr>
 <h4>2. Truncated icosahedron</h4>
  <a href="vr/truncated_icosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/kanjiA.png" class="foto"></a><img src="ar/kanji.png" class="qr">
  <br><span class="titulo">U<sub>25</sub></span> The geometry of truncated icosahedron is associated with footballs (soccer balls) typically patterned with white hexagons and black pentagons. This polyhedron can be constructed from an icosahedron with the 12 vertices truncated, such that one third of each edge is cut off at each of both ends. This creates 12 new pentagon faces, and leaves the original 20 triangle faces as regular hexagons. Thus the length of the edges is one third of that of the original edges. 
- <br><br><b>Faces:</b> 32 | <b>Polygons:</b> 12 pentagons and 20 hexagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.967 | <b>Dihedral angles:</b> 138.1897° (6-6) and 142.62° (5-6). <a href="http://mathworld.wolfram.com/TruncatedIcosahedron.html" target="_blank">More...</a>  
+ <br><br><b>Faces:</b> 32 | <b>Polygons:</b> 12 pentagons and 20 hexagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.967 | <b>Dihedral angles:</b> 138.19° (6-6) and 142.62° (5-6). <a href="http://mathworld.wolfram.com/TruncatedIcosahedron.html" target="_blank">More...</a>  
 <hr>
 <h4>3. Truncated icosidodecahedron</h4>
  <a href="vr/truncated_icosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/19A.png" class="foto"></a><img src="ar/19.png" class="qr">
  <br><span class="titulo">U<sub>28</sub></span> The truncated icosidodecahedron is also known as the great rhombicosidodecahedron, and if a set of all 13 Archimedean solids were constructed with all edge lengths equal, the truncated icosidodecahedron would be the largest. It has more vertices and edges than any other convex nonprismatic uniform polyhedron.
- <br><br><b>Faces:</b> 62 | <b>Polygons:</b> 30 squares, 20 hexagons and 12 decagons | <b>Edges:</b> 180 | <b>Vertices:</b> 120 | <b>Sphericity:</b> 0.97 | <b>Dihedral angles:</b> 142.62° (6-10), 148.28° (4-10) and 159.095° (4-6). <a href="http://mathworld.wolfram.com/GreatRhombicosidodecahedron.html" target="_blank">More...</a>   
+ <br><br><b>Faces:</b> 62 | <b>Polygons:</b> 30 squares, 20 hexagons and 12 decagons | <b>Edges:</b> 180 | <b>Vertices:</b> 120 | <b>Sphericity:</b> 0.97 | <b>Dihedral angles:</b> 142.62° (6-10), 148.28° (4-10) and 159.1° (4-6). <a href="http://mathworld.wolfram.com/GreatRhombicosidodecahedron.html" target="_blank">More...</a>   
 <hr>
 <h4>4. Rhombicosidodecahedron</h4>
  <a href="vr/rhombicosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/18A.png" class="foto"></a><img src="ar/18.png" class="qr">
  <br><span class="titulo">U<sub>27</sub></span> The rhombicosidodecahedron is also known as the small rhombicosidodecahedron or small dodeicosidodecahedron. If you expand an icosahedron by moving the faces away from the origin the right amount, without changing the orientation or size of the faces, and do the same to its dual dodecahedron, and patch the square holes in the result, you get a rhombicosidodecahedron. It can also be called an expanded dodecahedron or icosahedron, from truncation operations on either uniform polyhedron.
- <br><br><b>Faces:</b> 62 | <b>Polygons:</b> 30 squares, 20 triangles and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.979 | <b>Dihedral angles:</b> 159°05′41″ (3-4) and 148°16′57″ (4-5). <a href="http://mathworld.wolfram.com/SmallRhombicosidodecahedron.html" target="_blank">More...</a>   
+ <br><br><b>Faces:</b> 62 | <b>Polygons:</b> 30 squares, 20 triangles and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.979 | <b>Dihedral angles:</b> 159.09° (3-4) and 148.28° (4-5). <a href="http://mathworld.wolfram.com/SmallRhombicosidodecahedron.html" target="_blank">More...</a>   
 <hr>
 <h4>5. Snub dodecahedron</h4>
  <a href="vr/snub_dodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto"></a><img src="ar/17.png" class="qr">
  <br><span class="titulo">U<sub>29</sub></span> The snub dodecahedron has the highest sphericity of all Archimedean solids. It has two distinct forms, which are mirror images  of each other. The union of both forms is a compound of two snub dodecahedra. The snub dodecahedron can be generated by taking the twelve pentagonal faces of the dodecahedron and pulling them outward so they no longer touch. At a proper distance this can create the rhombicosidodecahedron by filling in square faces between the divided edges and triangle faces between the divided vertices.
- <br><br><b>Faces:</b> 92 | <b>Polygons:</b> 80 triangles and 12 pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.982 | <b>Dihedral angles:</b> 164°10′31″ (3-3) and 152°55′53″ (3-5). <a href="http://mathworld.wolfram.com/SnubDodecahedron.html" target="_blank">More...</a>
+ <br><br><b>Faces:</b> 92 | <b>Polygons:</b> 80 triangles and 12 pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.982 | <b>Dihedral angles:</b> 164.18° (3-3) and 152.93° (3-5). <a href="http://mathworld.wolfram.com/SnubDodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>6. Truncated dodecahedron</h4>
  <a href="vr/truncated_dodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto"></a><img src="ar/16.png" class="qr">
@@ -57,22 +57,22 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>8. Snub cube</h4>
  <a href="vr/snubcube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/15A.png" class="foto"></a><img src="ar/15.png" class="qr">
  <br><span class="titulo">U<sub>12</sub></span> The snub cube is also known as snub cuboctahedron and it has two distinct forms, which are mirror images of each other. The snub cube can be generated by taking the six faces of the cube, pulling them outward so they no longer touch, then giving them each a small rotation on their centers (all clockwise or all counter-clockwise) until the spaces between can be filled with equilateral triangles. 
- <br><br><b>Faces:</b> 38 | <b>Polygons:</b> 32 triangles and 6 squares | <b>Edges:</b> 60 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.965 | <b>Dihedral angles:</b> 153°14′04″ (3-3) and 142°59′00″ (3-4). <a href="http://mathworld.wolfram.com/SnubCube.html" target="_blank">More...</a> 
+ <br><br><b>Faces:</b> 38 | <b>Polygons:</b> 32 triangles and 6 squares | <b>Edges:</b> 60 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.965 | <b>Dihedral angles:</b> 153.23° (3-3) and 142.98° (3-4). <a href="http://mathworld.wolfram.com/SnubCube.html" target="_blank">More...</a> 
 <hr>
 <h4>9. Truncated cuboctahedron</h4>
  <a href="vr/truncated_cuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/14A.png" class="foto"></a><img src="ar/14.png" class="qr">
  <br><span class="titulo">U<sub>11</sub></span> The truncated cuboctahedron is also known as great rhombicuboctahedron. The truncated cuboctahedron is the convex hull of a rhombicuboctahedron with cubes above its 12 squares on 2-fold symmetry axes. The rest of its space can be dissected into 6 square cupolas below the octagons and 8 triangular cupolas below the hexagons.
- <br><br><b>Faces:</b> 26 | <b>Polygons:</b> 12 squares, 8 hexagons and 6 octagons | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Sphericity:</b> 0.943 | <b>Dihedral angles:</b> 144°44′08″ (4-6), 135° (4-8) and 125°15′51″ (6-8). <a href="http://mathworld.wolfram.com/GreatRhombicuboctahedron.html" target="_blank">More...</a>
+ <br><br><b>Faces:</b> 26 | <b>Polygons:</b> 12 squares, 8 hexagons and 6 octagons | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Sphericity:</b> 0.943 | <b>Dihedral angles:</b> 144.74° (4-6), 135° (4-8) and 125.26° (6-8). <a href="http://mathworld.wolfram.com/GreatRhombicuboctahedron.html" target="_blank">More...</a>
 <hr>
 <h4>10. Rhombicuboctahedron</h4>
  <a href="vr/rhombicuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/13A.png" class="foto"></a><img src="ar/13.png" class="qr">
  <br><span class="titulo">U<sub>10</sub></span> The rhombicuboctahedron is also known as small rhombicuboctahedron. This solid may also be called an expanded cube or octahedron and it can be dissected into two square cupolae and a central octagonal prism. There are three pairs of parallel planes that each intersect the rhombicuboctahedron in a regular octagon.
- <br><br><b>Faces:</b> 26 | <b>Polygons:</b> 18 squares and 8 triangles | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.954 | <b>Dihedral angles:</b> 144°44′08″ (4-3) and 135° (4-4). <a href="http://mathworld.wolfram.com/SmallRhombicuboctahedron.html" target="_blank">More...</a>
+ <br><br><b>Faces:</b> 26 | <b>Polygons:</b> 18 squares and 8 triangles | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.954 | <b>Dihedral angles:</b> 144.74° (4-3) and 135° (4-4). <a href="http://mathworld.wolfram.com/SmallRhombicuboctahedron.html" target="_blank">More...</a>
 <hr>
 <h4>11. Truncated cube</h4>
  <a href="vr/truncated_cube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto"></a><img src="ar/12.png" class="qr">
  <br><span class="titulo">U<sub>9</sub></span> The truncated cube is one of a family of uniform polyhedra related to the cube and regular octahedron. This solid can be dissected into a central cube, with six square cupola around each of the cube's faces, and 8 regular tetrahedral in the corners. This dissection can also be seen within the runcic cubic honeycomb, with cube, tetrahedron, and rhombicuboctahedron cells.
- <br><br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 octagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.849 | <b>Dihedral angles:</b> 125°15′51″ (8-3) and 90° (8-8). <a href="http://mathworld.wolfram.com/TruncatedCube.html" target="_blank">More...</a> 
+ <br><br><b>Faces:</b> 14 | <b>Polygons:</b> 8 triangles and 6 octagons | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Sphericity:</b> 0.849 | <b>Dihedral angles:</b> 125.26° (8-3) and 90° (8-8). <a href="http://mathworld.wolfram.com/TruncatedCube.html" target="_blank">More...</a> 
 <hr>
 <h4>12. Cuboctahedron</h4>
  <a href="vr/cuboctahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/11A.png" class="foto"></a><img src="ar/11.png" class="qr">
@@ -82,7 +82,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>13. Truncated tetrahedron</h4>
  <a href="vr/truncated_tetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto"></a><img src="ar/10.png" class="qr">
  <br><span class="titulo">U<sub>2</sub></span> The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
- <br><br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Dihedral angles:</b> 109°28′16′ (6-3) and 70°31′44″ (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
+ <br><br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Dihedral angles:</b> 109.47° (6-3) and 70.53° (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a>  
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 </details>
  
@@ -98,17 +98,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>1. Icosahedron</h4>
  <a href="vr/icosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto"></a><img src="ar/9.png" class="qr">
  <br><span class="titulo">U<sub>22</sub></span> The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
-<br><br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.939 | <b>Dihedral angle:</b> 138.1897°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 triangles | <b>Edges:</b> 30 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.939 | <b>Dihedral angle:</b> 138.19°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">More...</a>
 <hr>
 <h4>2. Dodecahedron</h4>
  <a href="vr/dodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/8A.png" class="foto"></a><img src="ar/8.png" class="qr">
  <br><span class="titulo">U<sub>23</sub></span> The dodecahedron has three regular pentagonal faces meeting at each vertex. The regular dodecahedron is the third in an infinite set of truncated trapezohedra which can be constructed by truncating the two axial vertices of a pentagonal trapezohedron. If the five Platonic solids are built with same volume, the regular dodecahedron has the shortest edges.
-<br><br><b>Faces:</b> 12 pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Sphericity:</b> 0.91 | <b>Dihedral angle:</b> 116.5651°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 pentagons | <b>Edges:</b> 30 | <b>Vertices:</b> 20 | <b>Sphericity:</b> 0.91 | <b>Dihedral angle:</b> 116.57°. <a href="http://mathworld.wolfram.com/RegularDodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>3. Octahedron</h4>
  <a href="vr/octahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto"></a><img src="ar/7.png" class="qr">
  <br><span class="titulo">U<sub>5</sub></span> The octahedron has four equilateral triangular faces meeting at each vertex. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations. The octahedron is unique among the Platonic solids in having an even number of faces meeting at each vertex. Consequently, it is the only member of that group to possess mirror planes that do not pass through any of the faces.
-<br><br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Dihedral angle:</b> 109.4712°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 8 triangles | <b>Edges:</b> 12 | <b>Vertices:</b> 6 | <b>Sphericity:</b> 0.846 | <b>Dihedral angle:</b> 109.47°. <a href="http://mathworld.wolfram.com/RegularOctahedron.html" target="_blank">More...</a>
 <hr>
 <h4>4. Cube</h4>
  <a href="vr/cube.html" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto"></a><img src="ar/6.png" class="qr">
@@ -118,7 +118,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>5. Tetrahedron</h4>
  <a href="vr/tetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto"></a><img src="ar/5.png" class="qr">
  <br><span class="titulo">U<sub>1</sub></span> The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres. 
-<br><br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Dihedral angle:</b> 70.5288°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Dihedral angle:</b> 70.53°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p2" class="topo">back to top</a></p>
 </details>
  
@@ -134,7 +134,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>1. Triakis Tetrahedron</h4>
  <a href="vr/triakis_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/180A.png" class="foto"></a><img src="ar/180.png" class="qr">
  <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as an augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.885° (once) and 33.557° (twice).
-<br><br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Dihedral angle:</b> 129.521°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Dihedral angle:</b> 129.52°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
  <hr>
  <h4>2. Rhombic Dodecahedron</h4>
  <a href="vr/rhombic_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/165A.png" class="foto"></a><img src="ar/165.png" class="qr">
@@ -163,32 +163,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>7. Rhombic Triacontahedron</h4>
  <a href="vr/rhombic_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/172A.png" class="foto"></a><img src="ar/172.png" class="qr">
- <br>The rhombic triacontahedron is a zonohedron which is the dual polyhedron of the icosidodecahedron. The intersecting edges of the dodecahedron-icosahedron compound form the diagonals of 30 rhombi which comprise the triacontahedron. The cube 5-compound has the 30 facial planes of the rhombic triacontahedron and its interior is a rhombic triacontahedron. Its rhombi faces have vertex angles of 116.565° and 63.435°.
+ <br>The rhombic triacontahedron is a zonohedron which is the dual polyhedron of the icosidodecahedron. The intersecting edges of the dodecahedron-icosahedron compound form the diagonals of 30 rhombi which comprise the triacontahedron. The cube 5-compound has the 30 facial planes of the rhombic triacontahedron and its interior is a rhombic triacontahedron. Its rhombi faces have vertex angles of 116.57° and 63.44°.
 <br><br><b>Faces:</b> 30 rhombi | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 144°. <a href="https://mathworld.wolfram.com/RhombicTriacontahedron.html" target="_blank">More...</a>
  <hr>
  <h4>8. Disdyakis Dodecahedron</h4>
  <a href="vr/disdyakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/174A.png" class="foto"></a><img src="ar/174.png" class="qr">
- <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean truncated cuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedron. Its acute triangles faces have vertex angles of 87.202°, 55.025° and 37.773°.  
+ <br>The disdyakis dodecahedron is the dual polyhedron of the Archimedean truncated cuboctahedron. Replacing each face of the rhombic dodecahedron with a flat pyramid creates a polyhedron that looks almost like the disdyakis dodecahedron. Its acute triangles faces have vertex angles of 87.2°, 55.03° and 37.77°.  
 <br><br><b>Faces:</b> 48 acute triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angle:</b> 155.08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">More...</a>
  <hr>
  <h4>9. Pentakis Dodecahedron</h4>
  <a href="vr/pentakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/175A.png" class="foto"></a><img src="ar/175.png" class="qr">
- <br>The pentakis dodecahedron is the 60-faced dual polyhedron of the truncated icosahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentakis dodecahedron. Its isosceles triangles faces have vertex angles of 68.619° (once) and 55.691° (twice). 
+ <br>The pentakis dodecahedron is the 60-faced dual polyhedron of the truncated icosahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentakis dodecahedron. Its isosceles triangles faces have vertex angles of 68.62° (once) and 55.69° (twice). 
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 156.72°. <a href="https://mathworld.wolfram.com/PentakisDodecahedron.html" target="_blank">More...</a>
  <hr>
  <h4>10. Triakis Icosahedron</h4>
  <a href="vr/triakis_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/176A.png" class="foto"></a><img src="ar/176.png" class="qr">
- <br>The triakis icosahedron is the 60-faced dual polyhedron of the truncated dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed on the vertices of the triakis icosahedron. Its isosceles triangles faces have vertex angles of 119.039° (once) and 30.48° (twice).
+ <br>The triakis icosahedron is the 60-faced dual polyhedron of the truncated dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed on the vertices of the triakis icosahedron. Its isosceles triangles faces have vertex angles of 119.04° (once) and 30.48° (twice).
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 160.61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">More...</a>
  <hr>
  <h4>11. Pentagonal Hexecontahedron - dextro</h4>
  <a href="vr/pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/177A.png" class="foto"></a><img src="ar/177.png" class="qr">
- <br>The pentagonal hexecontahedron is the 60-faced dual polyhedron of the snub dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentagonal hexecontahedron. Its irregular pentagonal faces have vertex angles of 118.137° (four times) and 67.4535° (once). 
+ <br>The pentagonal hexecontahedron is the 60-faced dual polyhedron of the snub dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentagonal hexecontahedron. Its irregular pentagonal faces have vertex angles of 118.14° (four times) and 67.45° (once). 
 <br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 153.18°. <a href="https://mathworld.wolfram.com/PentagonalHexecontahedron.html" target="_blank">More...</a>
  <hr>
  <h4>12. Deltoidal Hexecontahedron</h4>
  <a href="vr/deltoidal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/178A.png" class="foto"></a><img src="ar/178.png" class="qr">
- <br>The deltoidal hexecontahedron is the 60-faced dual polyhedron of the small rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can all be inscribed in the vertices of the deltoidal hexecontahedron. Its tri-equiangular kites faces have vertex angles of 86.974° (twice), 67.783° (once) and 118.269° (once). 
+ <br>The deltoidal hexecontahedron is the 60-faced dual polyhedron of the small rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can all be inscribed in the vertices of the deltoidal hexecontahedron. Its tri-equiangular kites faces have vertex angles of 86.97° (twice), 67.78° (once) and 118.27° (once). 
 <br><br><b>Faces:</b> 60 tri-equiangular kites | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 154.12°. <a href="https://mathworld.wolfram.com/DeltoidalHexecontahedron.html" target="_blank">More...</a>
 <hr>
  <h4>13. Disdyakis Triacontahedron</h4>
