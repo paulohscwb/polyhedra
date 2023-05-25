@@ -17,6 +17,7 @@
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example.jpg" width="85%"></p>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX-LnHasjCL1lJnvpiYh7ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Truncated octahedron</h4>
  <a href="vr/truncated_octahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/hiroA.png" class="foto"></a><img src="ar/hiro.png" class="qr">
@@ -94,6 +95,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example1.jpg" width="85%"></p>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Icosahedron</h4>
  <a href="vr/icosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto"></a><img src="ar/9.png" class="qr">
@@ -775,6 +777,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example5.jpg" width="85%"></p>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV8nBnE8o_krXqahDtI9O4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Prism</h4>
 <a href="vr/heptagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/110A.png" class="foto"></a><img src="ar/110.png" class="qr">
@@ -895,8 +898,6 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <h4>How to cite this work:</h4> 
 <p>Siqueira, P.H., "Polyhedra". Available in: <https://paulohscwb.github.io/polyhedra/>, September 2019.</p>
-
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV8nBnE8o_krXqahDtI9O4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
