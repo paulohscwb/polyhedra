@@ -40,7 +40,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>5. Dodecaedro snub</h4>
  <a href="../vr/snub_dodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto"></a><img src="../ar/17.png" class="qr">
  <br><span class="titulo">U<sub>29</sub></span> O dodecaedro snub tem a mais alta esfericidade de todos os sólidos de Arquimedes. Tem duas formas distintas, que são imagens espelhadas umas da outra. A união de ambas as formas é um composto de dois dodecaedros snub. O dodecaedro snub pode ser gerado tomando-se as doze faces pentagonais do dodecaedro e deslocando-as para fora, para não se interceptarem. A uma distância adequada, esta tranformação pode criar o rombicosidodecaedro preenchendo as faces quadradas entre as arestas divididas e as faces triangulares entre os vértices divididos.
- <br><br><b>Faces:</b> 92 | <b>Polígonos:</b> 80 triângulos e 12 pentágonos | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Esfericidade:</b> 0.982 | <b>Ângulos diédricos:</b> 164.18° (3-3) e 152.93°. <a href="http://mathworld.wolfram.com/SnubDodecahedron.html" target="_blank">Mais sobre...</a>  
+ <br><br><b>Faces:</b> 92 | <b>Polígonos:</b> 80 triângulos e 12 pentágonos | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Esfericidade:</b> 0.982 | <b>Ângulos diédricos:</b> 164.18° (3-3) e 152.93° (3-5). <a href="http://mathworld.wolfram.com/SnubDodecahedron.html" target="_blank">Mais sobre...</a>  
 <hr>
 <h4>6. Dodecaedro truncado</h4>
  <a href="../vr/truncated_dodecahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16A.png" class="foto"></a><img src="../ar/16.png" class="qr">
@@ -80,7 +80,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>13. Tetraedro truncado</h4>
  <a href="../vr/truncated_tetrahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto"></a><img src="../ar/10.png" class="qr">
  <br><span class="titulo">U<sub>2</sub></span> O tetraedro truncado pode ser construído truncando todos os 4 vértices de um tetraedro regular com um terço do comprimento original da aresta. Um truncamento mais profundo, removendo um tetraedro de metade do comprimento original da aresta de cada vértice, é chamado de retificação. A retificação de um tetraedro produz um octaedro.
-<br><br><b>Faces:</b> 8 | <b>Polígonos:</b> 4 triângulos e 4 hexágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.775 | <b>Ângulos diédricos:</b> 109.47° (6-3) e 70.53° (6-6) (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">Mais sobre...</a> 
+<br><br><b>Faces:</b> 8 | <b>Polígonos:</b> 4 triângulos e 4 hexágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.775 | <b>Ângulos diédricos:</b> 109.47° (6-3) e 70.53° (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">Mais sobre...</a> 
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 </details>
  
