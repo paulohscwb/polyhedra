@@ -21,17 +21,21 @@
 			<a-mixin id="esfera" geometry="radius: 0.17;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
 			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
+			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
+			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 3000'></a-mixin>
+			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 0 0 0; to: 180 0 0; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
+			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 0 0 0; to: 270 0 270; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 100 150 700"></a-entity>
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 100 150 700; maxDistance: 1500;"></a-entity>
 
 		<!--<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.5" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:TRUNCATED CUBE  |  Faces: 14  |  Polygons: 8 triangles and 6 octagons  |  Edges: 36  |  Vertices: 24  |  Sphericity: 0.849  |  Diedral angles: 125.15 (8-3) and 90 (8-8) degrees;"></a-plane>
 		</a-entity>-->
-		<a-entity scale="0.9 0.9 0.9" position="0 0 0">
+		<a-entity scale="0.9 0.9 0.9" position="0 0 0" mixin="anima1 anima2 anima3">
 	  		<!--<a-gltf-model src="archimedes/truncated_cube.glb"></a-gltf-model>-->
-			<a-obj-model scale="3 3 3" rotation="0 0 0" src="outros/TruncatedCube.obj" mtl="#material"></a-obj-model>
+			<a-obj-model scale="3 3 3" rotation="0 0 0" src="outros/TruncatedCube.obj" mtl="#material" visible="false" mixin="anima0"></a-obj-model>
 			<a-entity position="0 -3.6213 0"> <!--apotema-->
 			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
