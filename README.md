@@ -132,6 +132,7 @@ The Catalan solids are the duals of the Archimedean solids. They are named after
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example2.jpg" width="85%"></p>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Triakis Tetrahedron</h4>
  <a href="vr/triakis_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/180A.png" class="foto"></a><img src="ar/180.png" class="qr">
