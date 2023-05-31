@@ -768,6 +768,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/62A.png" class="foto"></a><img src="ar/62.png" class="qr">
  <br>The great inverted pentagonal hexecontahedron is the polyhedron whose dual is the uniform great inverted snub icosidodecahedron. It consists of 60 mirror-symmetric concave  pentagons, each with two short and three long edges. Part of each pentagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 78.36°. <a href="https://polytope.miraheze.org/wiki/Great_inverted_pentagonal_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>9. Great Retrosnub Icosidodecahedron</h4>
+<a href="vr/great_retrosnub_icosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/61A.png" class="foto"></a><img src="ar/61.png" class="qr">
+ <br><span class="titulo">U<sub>74</sub></span> The great retrosnub icosidodecahedron is the uniform polyhedron also called of great inverted retrosnub icosidodecahedron, whose dual polyhedron is the great pentagrammic hexecontahedron. Four triangles and one pentagram meet at each vertex.  
+<br><br><b>Faces:</b> 80 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 21.72° and 67.31°. <a href="https://mathworld.wolfram.com/GreatRetrosnubIcosidodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 

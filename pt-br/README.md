@@ -766,6 +766,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/great_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/62A.png" class="foto"></a><img src="../ar/62.png" class="qr">
  <br>O grande hexecontaedro pentagonal invertido é o poliedro cujo dual é o uniforme grande icosidodecaedro snub invertido. Consiste em 60 pentágonos simétricos côncavos, cada um com duas arestas curtas e três longas. Parte de cada pentágono está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 pentágonos simétricos | <b>Arestas:</b> 150 | <b>Vértices:</b> 92 | <b>Ângulo diédrico:</b> 78.36°. <a href="https://polytope.miraheze.org/wiki/Great_inverted_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>9. Grande icosidodecaedro retrosnub</h4>
+<a href="../vr/great_retrosnub_icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/61A.png" class="foto"></a><img src="../ar/61.png" class="qr">
+ <br><span class="titulo">U<sub>74</sub></span> O grande icosidodecaedro retrosnub é o poliedro uniforme também chamado de grande icosidodecaedro retrosnub invertido, cujo poliedro dual é o grande hexecontaedro pentagrâmico. Quatro triângulos e um pentagrama se encontram em cada vértice.
+<br><br><b>Faces:</b> 80 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 21.72° e 67.31°. <a href="https://mathworld.wolfram.com/GreatRetrosnubIcosidodecahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 </details>
 
