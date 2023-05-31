@@ -301,43 +301,123 @@ l 58 24 14
 usemtl CorL
 l 59 25 15 
 usemtl CorL
-l 24 60 14 
+l 24 60 
 usemtl CorL
-l 25 1 15 
+l 60 14 
 usemtl CorL
-l 26 2 12 
+l 14 24 
 usemtl CorL
-l 27 3 13 
+l 25 1  
 usemtl CorL
-l 28 4 16 
+l 1 15 
 usemtl CorL
-l 29 5 17 
+l 15 25
 usemtl CorL
-l 30 6 18 
+l 26 2 
 usemtl CorL
-l 31 7 19 
+l 2 12 
 usemtl CorL
-l 32 8 21 
+l 12 26 
 usemtl CorL
-l 33 9 20 
+l 27 3 
 usemtl CorL
-l 34 10 23 
+l 3 13 
 usemtl CorL
-l 35 11 22 
+l 13 27 
 usemtl CorL
-l 36 44 40 
+l 28 4 
 usemtl CorL
-l 37 45 41 
+l 4 16 
 usemtl CorL
-l 38 46 42 
+l 16 28 
 usemtl CorL
-l 39 47 43 
+l 29 5 
 usemtl CorL
-l 48 52 56 
+l 5 17 
 usemtl CorL
-l 49 53 57 
+l 17 29 
 usemtl CorL
-l 50 54 58 
+l 30 6 
 usemtl CorL
-l 51 55 59 
+l 6 18 
+usemtl CorL
+l 18 30 
+usemtl CorL
+l 31 7 
+usemtl CorL
+l 7 19 
+usemtl CorL
+l 19 31 
+usemtl CorL
+l 32 8 
+usemtl CorL
+l 8 21 
+usemtl CorL
+l 21 32 
+usemtl CorL
+l 33 9 
+usemtl CorL
+l 9 20 
+usemtl CorL
+l 20 33 
+usemtl CorL
+l 34 10 
+usemtl CorL
+l 10 23 
+usemtl CorL
+l 23 34 
+usemtl CorL
+l 35 11 
+usemtl CorL
+l 11 22 
+usemtl CorL
+l 22 35 
+usemtl CorL
+l 36 44 
+usemtl CorL
+l 44 40 
+usemtl CorL
+l 40 36 
+usemtl CorL
+l 37 45 
+usemtl CorL
+l 45 41 
+usemtl CorL
+l 41 37 
+usemtl CorL
+l 38 46 
+usemtl CorL
+l 46 42 
+usemtl CorL
+l 42 38 
+usemtl CorL
+l 39 47 
+usemtl CorL
+l 47 43 
+usemtl CorL
+l 43 39 
+usemtl CorL
+l 48 52 
+usemtl CorL
+l 52 56 
+usemtl CorL
+l 56 48 
+usemtl CorL
+l 49 53 
+usemtl CorL
+l 53 57 
+usemtl CorL
+l 57 49 
+usemtl CorL
+l 50 54 
+usemtl CorL
+l 54 58 
+usemtl CorL
+l 58 50 
+usemtl CorL
+l 51 55 
+usemtl CorL
+l 55 59 
+usemtl CorL
+l 59 51 
 
