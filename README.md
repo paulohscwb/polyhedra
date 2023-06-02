@@ -778,6 +778,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_pentagrammic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/60A.png" class="foto"></a><img src="ar/60.png" class="qr">
  <br>The great pentagrammic hexecontahedron, also called of great dentoid ditriacontahedronis, is the polyhedron whose dual is the uniform great retrosnub icosidodecahedron. It consists of 60 mirror-symmetric pentagons and part of each pentagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 60.9°. <a href="https://polytope.miraheze.org/wiki/Great_pentagrammic_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>11. Snub Icosidodecadodecahedron</h4>
+<a href="vr/snub_icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto"></a><img src="ar/59.png" class="qr">
+ <br><span class="titulo">U<sub>46</sub></span> The snub icosidodecadodecahedron is the uniform polyhedron also called of sided, whose dual polyhedron is the medial hexagonal hexecontahedron. Four triangles, one pentagon, and one pentagram meeting at each vertex. It can be constructed by alternation of the icosidodecatruncated icosidodecahedron and then setting all edge lengths to be equal.  
+<br><br><b>Faces:</b> 80 equilateral triangles, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 7.35°, 120.43° and 146.78°. <a href="https://mathworld.wolfram.com/SnubIcosidodecadodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 

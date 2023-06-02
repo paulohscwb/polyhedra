@@ -776,6 +776,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/great_pentagrammic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/60A.png" class="foto"></a><img src="../ar/60.png" class="qr">
  <br>O grande hexecontaedro pentagrâmico, também chamado de grande ditriacontaedro dentóide, é o poliedro cujo dual é o uniforme grande retrosnub icosidodecaedro. Consiste em 60 pentágonos simétricos e parte de cada pentágono está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 pentágonos simétricos | <b>Arestas:</b> 150 | <b>Vértices:</b> 92 | <b>Ângulo diédrico:</b> 60.9°. <a href="https://polytope.miraheze.org/wiki/Great_pentagrammic_hexecontahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>11. Icosidodecadodecaedro snub</h4>
+<a href="../vr/snub_icosidodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/59A.png" class="foto"></a><img src="../ar/59.png" class="qr">
+ <br><span class="titulo">U<sub>46</sub></span> O icosidodecadodecaedro snub é o poliedro uniforme também denominado de sided, cujo poliedro dual é o hexecontaedro hexagonal medial. Quatro triângulos, um pentágono e um pentagrama reunidos em cada vértice. Ele pode ser construído pela alternância do icosidodecatruncado icosidodecaedro e, em seguida, definindo todos os comprimentos de arestas para serem iguais.
+<br><br><b>Faces:</b> 80 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 7.35°, 120.43° e 146.78°. <a href="https://mathworld.wolfram.com/SnubIcosidodecadodecahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 </details>
 
