@@ -783,6 +783,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/snub_icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto"></a><img src="ar/59.png" class="qr">
  <br><span class="titulo">U<sub>46</sub></span> The snub icosidodecadodecahedron is the uniform polyhedron also called of sided, whose dual polyhedron is the medial hexagonal hexecontahedron. Four triangles, one pentagon, and one pentagram meeting at each vertex. It can be constructed by alternation of the icosidodecatruncated icosidodecahedron and then setting all edge lengths to be equal.  
 <br><br><b>Faces:</b> 80 equilateral triangles, 12 regular pentagons and 12 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 7.35°, 120.43° and 146.78°. <a href="https://mathworld.wolfram.com/SnubIcosidodecadodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>12. Medial Hexagonal Hexecontahedron</h4>
+<a href="vr/medial_hexagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto"></a><img src="ar/58.png" class="qr">
+ <br>The medial hexagonal hexecontahedron is the polyhedron whose dual is the uniform snub icosidodecadodecahedron. It consists of 60 asymmetric nonconvex hexagons and each hexagon has two long edges, two of medium length and two short ones. Part of each hexagon lies within the solid, hence is invisible in solid models.
+<br><br><b>Faces:</b> 60 irregular hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 104 | <b>Dihedral angle:</b> 127.32°. <a href="https://polytope.miraheze.org/wiki/Medial_hexagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
