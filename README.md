@@ -159,7 +159,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its tri-equiangular kites faces have vertex angles of 94.42° (twice), 71.69° (once) and 99.48° (once).
 <br><br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Dihedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
  <hr>
- <h4>6. Pentagonal Icositetrahedron - dextro</h4>
+ <h4>6. Pentagonal Icositetrahedron</h4>
  <a href="vr/pentagonal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/170A.png" class="foto"></a><img src="ar/170.png" class="qr">
  <br>The pentagonal icositetrahedron is the 24-faced dual polyhedron of the snub cube. The mineral cuprite (Cu<sub>2</sub>O) forms in pentagonal icositetrahedral crystals. A cube, octahedron, and stella octangula can all be inscribed on the vertices of the pentagonal icositetrahedron. Its irregular pentagonal faces have vertex angles of 114.81° (four times) and 80.75° (once). 
 <br><br><b>Faces:</b> 24 mirror-symmetric pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 38 | <b>Dihedral angle:</b> 136.31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">More...</a>
@@ -184,7 +184,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The triakis icosahedron is the 60-faced dual polyhedron of the truncated dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed on the vertices of the triakis icosahedron. Its isosceles triangles faces have vertex angles of 119.04° (once) and 30.48° (twice).
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 160.61°. <a href="https://mathworld.wolfram.com/TriakisIcosahedron.html" target="_blank">More...</a>
  <hr>
- <h4>11. Pentagonal Hexecontahedron - dextro</h4>
+ <h4>11. Pentagonal Hexecontahedron</h4>
  <a href="vr/pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/177A.png" class="foto"></a><img src="ar/177.png" class="qr">
  <br>The pentagonal hexecontahedron is the 60-faced dual polyhedron of the snub dodecahedron. A tetrahedron 10-compound, cube 5-compound, icosahedron, and dodecahedron can be inscribed in the vertices of the pentagonal hexecontahedron. Its irregular pentagonal faces have vertex angles of 118.14° (four times) and 67.45° (once). 
 <br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 153.18°. <a href="https://mathworld.wolfram.com/PentagonalHexecontahedron.html" target="_blank">More...</a>
