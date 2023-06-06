@@ -169,7 +169,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
  <h4>8. Dodecaedro disdiakis</h4>
  <a href="../vr/disdyakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/174A.png" class="foto"></a><img src="../ar/174.png" class="qr">
- <br>O dodecaedro disdiakis é o poliedro dual do cuboctaedro truncado de Arquimedes. A substituição de cada face do dodecaedro rômbico por uma pirâmide plana cria um poliedro que se parece quase com o dodecaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos dos vértices com medidas de 87.2°, 55.03° e 37.77°. 
+ <br>O dodecaedro disdiakis é o poliedro dual do cuboctaedro truncado de Arquimedes. A substituição de cada face do dodecaedro rômbico por uma pirâmide plana cria um poliedro que se parece com o dodecaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos dos vértices com medidas de 87.2°, 55.03° e 37.77°. 
 <br><br><b>Faces:</b> 48 triângulos acutângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 155.08°. <a href="https://mathworld.wolfram.com/DisdyakisDodecahedron.html" target="_blank">Mais sobre...</a>
  <hr>
  <h4>9. Dodecaedro pentakis</h4>
