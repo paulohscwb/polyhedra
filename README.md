@@ -136,7 +136,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>1. Triakis Tetrahedron</h4>
  <a href="vr/triakis_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/180A.png" class="foto"></a><img src="ar/180.png" class="qr">
- <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as an augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.885° (once) and 33.557° (twice).
+ <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as an augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.89° (once) and 33.56° (twice).
 <br><br><b>Faces:</b> 12 isosceles triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Dihedral angle:</b> 129.52°. <a href="https://mathworld.wolfram.com/TriakisTetrahedron.html" target="_blank">More...</a>
  <hr>
  <h4>2. Rhombic Dodecahedron</h4>
@@ -156,12 +156,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>5. Deltoidal Icositetrahedron</h4>
  <a href="vr/deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/168A.png" class="foto"></a><img src="ar/168.png" class="qr">
- <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its tri-equiangular kites faces have vertex angles of 94.416° (twice), 71.69° (once) and 99.477° (once).
+ <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its tri-equiangular kites faces have vertex angles of 94.42° (twice), 71.69° (once) and 99.48° (once).
 <br><br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Dihedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
  <hr>
  <h4>6. Pentagonal Icositetrahedron - dextro</h4>
  <a href="vr/pentagonal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/170A.png" class="foto"></a><img src="ar/170.png" class="qr">
- <br>The pentagonal icositetrahedron is the 24-faced dual polyhedron of the snub cube. The mineral cuprite (Cu<sub>2</sub>O) forms in pentagonal icositetrahedral crystals. A cube, octahedron, and stella octangula can all be inscribed on the vertices of the pentagonal icositetrahedron. Its irregular pentagonal faces have vertex angles of 114.812° (four times) and 80.7517° (once). 
+ <br>The pentagonal icositetrahedron is the 24-faced dual polyhedron of the snub cube. The mineral cuprite (Cu<sub>2</sub>O) forms in pentagonal icositetrahedral crystals. A cube, octahedron, and stella octangula can all be inscribed on the vertices of the pentagonal icositetrahedron. Its irregular pentagonal faces have vertex angles of 114.81° (four times) and 80.75° (once). 
 <br><br><b>Faces:</b> 24 mirror-symmetric pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 38 | <b>Dihedral angle:</b> 136.31°. <a href="https://mathworld.wolfram.com/PentagonalIcositetrahedron.html" target="_blank">More...</a>
  <hr>
  <h4>7. Rhombic Triacontahedron</h4>
@@ -196,7 +196,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
  <h4>13. Disdyakis Triacontahedron</h4>
  <a href="vr/disdyakis_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/179A.png" class="foto"></a><img src="ar/179.png" class="qr">
- <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.992°, 58.238° and 32.77°. 
+ <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.99°, 58.24° and 32.77°. 
 <br><br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p3" class="topo">back to top</a></p>
 </details>
