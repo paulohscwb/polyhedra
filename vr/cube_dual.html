@@ -24,12 +24,14 @@
 			<a-mixin id="esfera" geometry="radius: 0.12;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
 			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"> <!--arestas-->
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
-			<a-mixin id="anima0" animation__0='property: visible; from: false; to: true; dur: 1; delay: 8000'></a-mixin>
+			<a-mixin id="anima0" animation__0='property: visible; from: false; to: true; delay: 8000'></a-mixin>
 			<a-mixin id="anima2" animation='property: rotation; dur: 30000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 6000'></a-mixin>
 			<a-mixin id="anima3" animation__3='property: rotation; dur: 30000; from: 0 0 0; to: 180 0 0; dir: alternate; easing: linear; delay: 36000; loop: 1'></a-mixin>
-			<a-mixin id="anima4" animation__4='property: visible; from: true; to: false; dur: 1; delay: 30000'></a-mixin>
-			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; dur: 1; delay: 33000'></a-mixin>
+			<a-mixin id="anima4" animation__4='property: visible; from: true; to: false; delay: 30000'></a-mixin>
+			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; delay: 33000'></a-mixin>
 			<a-mixin id="anima6" animation__6='property: camera.zoom; from: 1; to: 2; dur: 60000; delay: 0'></a-mixin>
+			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; delay: 10000'></a-mixin>
+			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; delay: 40000'></a-mixin>
 		</a-assets>
 
 		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
@@ -57,14 +59,14 @@
 						<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
 					</a-entity>
-					<a-obj-model rotation="180 0 90" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+					<a-obj-model rotation="180 0 90" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 					<a-entity mixin="s3_3"> <!--joga para o centro do dodecaedro-->
 					<a-entity rotation="109.28 0 0"> <!--angulo entre as faces-->
 						<a-entity mixin="s3_3"> <!--joga na lateral a partir do centro-->
 							<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
-									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
@@ -79,7 +81,7 @@
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
-									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
@@ -94,7 +96,7 @@
 								<a-entity rotation="0 120 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
 									<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
-									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 								</a-entity>
 								<a-entity rotation="0 240 90">
 									<a-cylinder mixin="arestas mtl8 s3_1"></a-cylinder>
@@ -106,7 +108,7 @@
 				</a-entity>
 				
 				<a-entity id="cima" position="0 2.4492 0" rotation="180 120 0">
-					<a-obj-model rotation="180 0 90" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+					<a-obj-model rotation="180 0 90" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s3_1" ></a-cylinder>
 						<a-sphere mixin="esfera mtl9 s3_2"></a-sphere>
@@ -124,7 +126,7 @@
 						<a-entity rotation="109.28 240 0">
 							<a-entity mixin="s3_3">
 								<a-entity rotation="0 120 90">
-									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 								</a-entity>
 							</a-entity>
 						</a-entity>
@@ -133,7 +135,7 @@
 						<a-entity rotation="109.28 120 0">
 							<a-entity mixin="s3_3">
 								<a-entity rotation="0 120 90">
-									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 								</a-entity>
 							</a-entity>
 						</a-entity>
@@ -142,7 +144,7 @@
 					<a-entity rotation="109.28 0 0">
 						<a-entity mixin="s3_3">
 							<a-entity rotation="0 120 90">
-									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mtl="#material"></a-obj-model>
+									<a-obj-model rotation="60 0 0" src="outros/triangulo.obj" mixin="anima7" mtl="#material"></a-obj-model>
 								</a-entity>
 							</a-entity>
 						</a-entity>
@@ -156,7 +158,7 @@
 		
 		<a-entity scale="1.7 1.7 1.7" position="0 0 0" mixin="anima4">
 	  		<!--<a-gltf-model src="plato/cube.glb"></a-gltf-model>-->
-			<a-obj-model scale="3 3 3" rotation="0 0 0" src="outros/Cube.obj" mtl="#material"></a-obj-model>
+			<a-obj-model scale="3 3 3" rotation="0 0 0" src="outros/Cube.obj" mixin="anima8" mtl="#material"></a-obj-model>
 			<a-entity position="0 -1.5 0"> <!--apotema-->
 			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
