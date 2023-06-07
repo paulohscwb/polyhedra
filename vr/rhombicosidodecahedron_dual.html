@@ -4,6 +4,12 @@
 	<meta charset="ISO-8859-1">
 	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+	<style>
+		#objeto: animation: fadeInFromNone 1.5s ease-out;
+		@-webkit-keyframes fadeInFromNone {
+			0% {opacity: 0;}
+			100% {opacity: 1;}}
+	</style>
 </head>  
 <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -50,7 +56,7 @@
 		<!--dual 1.2: rotation="125 45 0" visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
 		
 		<a-entity position="0 0 0" rotation="-148.28 36 0" visible="false" mixin="anima0" scale="1.85 1.85 1.85">
-			<a-obj-model src="catalan/DeltoidalHexecontahedron.obj" mtl="catalan/solidos.mtl" scale="0.998 0.998 0.998" mixin="anima8"></a-obj-model>
+			<a-obj-model src="catalan/DeltoidalHexecontahedron.obj" mtl="catalan/solidos.mtl" scale="0.998 0.998 0.998" mixin="anima8" id="objeto"></a-obj-model>
 			<a-obj-model src="catalan/DeltoidalHexecontahedronL.obj" mtl="catalan/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera1 mtl7" position="0.0 0.0 -2.23607"></a-sphere>
 			<a-sphere mixin="esfera1 mtl7" position="2.23607 0.0 0.0"></a-sphere>
