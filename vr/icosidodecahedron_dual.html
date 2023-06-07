@@ -37,7 +37,7 @@
 			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; delay: 40000'>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 50 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
 		
 		<!--<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0"</a-plane> 
@@ -618,9 +618,9 @@
 		
 		
 		<!--dual do dual 0.57: visible="false" mixin="anima5" -->
-		<a-entity scale="0.6 0.6 0.6" mixin="anima4" position="0 0 0">
+		<a-entity scale="0.6 0.6 0.6" visible="false" mixin="anima5" position="0 0 0">
 	  		<!--<a-gltf-model src="archimedes/icosidodecahedron.glb"></a-gltf-model>-->
-			<a-obj-model scale="3 3 3" rotation="148 36 0" src="outros/Icosidodecahedron.obj" mtl="#material" mixin="anima7"></a-obj-model>
+			<a-obj-model scale="3 3 3" rotation="148 36 0" src="outros/Icosidodecahedron.obj" mtl="#material"></a-obj-model>
 			<a-entity position="0 -4.1291 0"> <!--apotema-->
 			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
