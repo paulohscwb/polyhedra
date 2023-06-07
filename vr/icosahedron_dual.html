@@ -31,12 +31,12 @@
 			<a-mixin id="anima3" animation__3='property: rotation; dur: 30000; from: 0 0 0; to: 180 0 0; dir: alternate; easing: linear; delay: 36000; loop: 1'></a-mixin>
 			<a-mixin id="anima4" animation__4='property: visible; from: true; to: false; delay: 30000'></a-mixin>
 			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; delay: 33000'></a-mixin>
-			<a-mixin id="anima6" animation__6='property: camera.zoom; from: 1; to: 2; dur: 60000; delay: 0'></a-mixin>
+			<a-mixin id="anima6" animation__6='property: camera.zoom; from: 1; to: 1.5; dur: 60000; delay: 0'></a-mixin>
 			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; delay: 13000'></a-mixin>
 			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; delay: 40000'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: -50 150 700; maxDistance: 1500;"></a-entity>
 		
 		<!--<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0"</a-plane> 
