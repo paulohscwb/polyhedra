@@ -11,8 +11,8 @@
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl7" material="color: lightcyan; side:double;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #87CEFA; side:double;"></a-mixin>
-			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.1; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 5; color: #556B2F; align:center;" rotation="-45 0 0"></a-mixin>
@@ -32,11 +32,11 @@
 			<a-mixin id="anima4" animation__4='property: visible; from: true; to: false; delay: 30000'></a-mixin>
 			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; delay: 33000'></a-mixin>
 			<a-mixin id="anima6" animation__6='property: camera.zoom; from: 1; to: 1.5; dur: 60000; delay: 0'></a-mixin>
-			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; delay: 13000'></a-mixin>
+			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; delay: 7000'></a-mixin>
 			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; delay: 40000'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: -50 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
 		
 		<!--<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p" material="color: #b3b3b3" width="5" position="0 -1 2.5" rotation="-45 0 0"</a-plane> 
@@ -527,7 +527,7 @@
 		
 		<!--dual do dual 0.57: visible="false" mixin="anima5" -->
 		
-		<a-entity scale="0.5 0.5 0.5" visible="false" mixin="anima5" position="0 0 0">
+		<a-entity scale="0.525 0.525 0.525" visible="false" mixin="anima5" position="0 0 0">
 	  		<!--<a-gltf-model src="archimedes/truncated_cuboctahedron.glb"></a-gltf-model>-->
 			<a-obj-model scale="3 3 3" rotation="0 0 0" src="outros/TruncatedCuboctahedron.obj" mtl="#material"></a-obj-model>
 			<a-entity position="0 -5.7426 0"> <!--apotema-->
