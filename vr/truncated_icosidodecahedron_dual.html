@@ -6,27 +6,40 @@
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script>
 		AFRAME.registerComponent("model-opacity", {
-		  schema: {
-			opacity: { type: "number", default: 1 }
+		  multiple: true,
+		  schema: {opacity: {default: 1}},
+		  init: function () {
+
+		   this.el.addEventListener('fadeOut', this.update.bind(this));
+		   this.el.addEventListener('fadeIn', this.update.bind(this));
 		  },
-		  init: function() {
-			this.el.addEventListener("model-loaded", this.update.bind(this));
-		  },
-		  update: function() {
-			var mesh = this.el.getObject3D("mesh");
+		  update: function () {
+			var mesh = this.el.getObject3D('mesh');
 			var data = this.data;
-			if (!mesh) {
-			  return;
-			}
-			mesh.traverse(function(node) {
+			if (!mesh) { return; }
+			mesh.traverse(function (node) {
 			  if (node.isMesh) {
-				console.log(node);
+				var material = node.material
+
 				node.material.opacity = data.opacity;
-				node.material.transparent = data.opacity < 1.0;
+
+				if (node.isMesh) {
+				  node.material.depthWrite = !node.material.transparent;
+				}
 				node.material.needsUpdate = true;
+			  }else{
+				if(data.opacity == 0){
+				  node.visible = false
+				  node.opacity = 0
+				}else{
+				  node.visible = true
+				
+				}
+
 			  }
 			});
-		  }
+		  },
+
 		});
 	</script>
 </head>  
