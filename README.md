@@ -794,6 +794,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_snub_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto"></a><img src="ar/57.png" class="qr">
  <br><span class="titulo">U<sub>64</sub></span> The great snub dodecicosidodecahedron is the uniform polyhedron also called of gisdid, whose dual polyhedron is the great hexagonal hexecontahedron. Four triangles and two pentagrams meet at each vertex. This polyhedron's edges are a subset of those of the great dirhombicosidodecahedron, and it shares the same vertices.  
 <br><br><b>Faces:</b> 80 equilateral triangles and 24 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 16.3°, 109.47° and 125.77°. <a href="https://mathworld.wolfram.com/GreatSnubDodecicosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>14. Great Hexagonal Hexecontahedron</h4>
+<a href="vr/great_hexagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/56A.png" class="foto"></a><img src="ar/56.png" class="qr">
+ <br>The great hexagonal hexecontahedron is the polyhedron whose dual is the uniform great snub dodecicosidodecahedron. It consists of 60 asymmetric nonconvex hexagons and each hexagon has two short, two medium, and two long edges. Part of each hexagon lies within the solid, hence is invisible in solid models.
+<br><br><b>Faces:</b> 60 irregular hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 104 | <b>Dihedral angle:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
