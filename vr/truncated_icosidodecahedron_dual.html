@@ -7,7 +7,7 @@
 	<script>
 		AFRAME.registerComponent("model-opacity", {
 		  schema: {
-			opacity: { type: "number", default: 0.5 }
+			opacity: { type: "number", default: 1 }
 		  },
 		  init: function() {
 			this.el.addEventListener("model-loaded", this.update.bind(this));
@@ -21,11 +21,9 @@
 			mesh.traverse(function(node) {
 			  if (node.isMesh) {
 				console.log(node);
-				node.material.forEach( (mtl) =>{
-					mtl.opacity = data.opacity;
-					mtl.transparent = data.opacity < 1.0;
-					mtl.needsUpdate = true;
-				})
+				node.material.opacity = data.opacity;
+				node.material.transparent = data.opacity < 1.0;
+				node.material.needsUpdate = true;
 			  }
 			});
 		  }
