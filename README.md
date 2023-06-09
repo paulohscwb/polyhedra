@@ -778,6 +778,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_pentagrammic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/60A.png" class="foto"></a><img src="ar/60.png" class="qr">
  <br>The great pentagrammic hexecontahedron, also called of great dentoid ditriacontahedronis, is the polyhedron whose dual is the uniform great retrosnub icosidodecahedron. It consists of 60 mirror-symmetric pentagons and part of each pentagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 60.9°. <a href="https://polytope.miraheze.org/wiki/Great_pentagrammic_hexecontahedron" target="_blank">More...</a>
+<p class="topop"><a href="#p9" class="topo">back to top</a></p>
 <hr>
 <h4>11. Snub Icosidodecadodecahedron</h4>
 <a href="vr/snub_icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto"></a><img src="ar/59.png" class="qr">
@@ -788,6 +789,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/medial_hexagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto"></a><img src="ar/58.png" class="qr">
  <br>The medial hexagonal hexecontahedron is the polyhedron whose dual is the uniform snub icosidodecadodecahedron. It consists of 60 asymmetric nonconvex hexagons and each hexagon has two long edges, two of medium length and two short ones. Part of each hexagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 irregular hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 104 | <b>Dihedral angle:</b> 127.32°. <a href="https://polytope.miraheze.org/wiki/Medial_hexagonal_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>13. Great Snub Dodecicosidodecahedron</h4>
+<a href="vr/great_snub_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto"></a><img src="ar/57.png" class="qr">
+ <br><span class="titulo">U<sub>64</sub></span> The great snub dodecicosidodecahedron is the uniform polyhedron also called of gisdid, whose dual polyhedron is the great hexagonal hexecontahedron. Four triangles and two pentagrams meet at each vertex. This polyhedron's edges are a subset of those of the great dirhombicosidodecahedron, and it shares the same vertices.  
+<br><br><b>Faces:</b> 80 equilateral triangles and 24 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 16.3°, 109.47° and 125.77°. <a href="https://mathworld.wolfram.com/GreatSnubDodecicosidodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
