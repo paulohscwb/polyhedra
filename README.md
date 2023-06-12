@@ -813,12 +813,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>17. Small Retrosnub Icosicosidodecahedron</h4>
 <a href="vr/small_retrosnub_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto"></a><img src="ar/53.png" class="qr">
  <br><span class="titulo">U<sub>72</sub></span> The small retrosnub icosicosidodecahedron is the uniform polyhedron also called of retrosnub disicosidodecahedron, whose dual polyhedron is the small hexagrammic hexecontahedron. The 40 non-snub triangular faces form 20 coplanar pairs, forming star hexagons that are not quite regular. Unlike most snub polyhedra, it has reflection symmetries.  
-<br><br><b>Faces:</b> 100 equilateral triangles and 24 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 24.33° and 44.46°. <a href="https://mathworld.wolfram.com/SmallRetrosnubIcosicosidodecahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 100 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 24.33° and 44.46°. <a href="https://mathworld.wolfram.com/SmallRetrosnubIcosicosidodecahedron.html" target="_blank">More...</a>
 <hr>
 <h4>18. Small Hexagrammic Hexecontahedron</h4>
 <a href="vr/small_hexagrammic_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto"></a><img src="ar/52.png" class="qr">
  <br>The small hexagrammic hexecontahedronn is the polyhedron whose dual is the uniform small retrosnub icosicosidodecahedron. It consists of 60 mirror-symmetric unicursal hexagrams and part of each hexagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 mirror-symmetric hexagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 112 | <b>Dihedral angle:</b> 61.13°. <a href="https://polytope.miraheze.org/wiki/Small_hexagrammic_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>19. Great dirhombicosidodecahedron</h4>
+<a href="vr/great_dirhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto"></a><img src="ar/51.png" class="qr">
+ <br><span class="titulo">U<sub>75</sub></span> The great dirhombicosidodecahedron is the uniform polyhedron also called of gidrid, whose dual polyhedron is the great dirhombicosidodecacron. It is the only uniform polyhedron with more than six polygons surrounding each polyhedron vertex: four squares alternating with two triangles and two pentagrams. The great dirhombicosidodecahedron is the most complex uniform polyhedron and has faces going through its middle. Therefore, some of the great dirhombicosidodecacron's vertices are at an ideal points infinitely far away from the origin.
+<br><br><b>Faces:</b> 40 equilateral triangles, 60 squares and 24 regular pentagrams | <b>Edges:</b> 240 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 54.74° and 71.04°. <a href="https://mathworld.wolfram.com/GreatDirhombicosidodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
