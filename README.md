@@ -804,6 +804,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/small_snub_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto"></a><img src="ar/55.png" class="qr">
  <br><span class="titulo">U<sub>32</sub></span> The small snub icosicosidodecahedron is the uniform polyhedron also called of seside, whose dual polyhedron is the small hexagonal hexecontahedron. Five triangles and one pentagram meet at each vertex. It consists of 60 snub triangles, 40 more triangles that create 20 hexagrams due to pairs falling in the same plane, and 12 pentagrams. 
 <br><br><b>Faces:</b> 100 equilateral triangles and 24 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 155.67° and 161.02°. <a href="https://mathworld.wolfram.com/SmallSnubIcosicosidodecahedron.html" target="_blank">More...</a>
+<hr>
+<h4>16. Small Hexagonal Hexecontahedron</h4>
+<a href="vr/small_hexagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/54A.png" class="foto"></a><img src="ar/54.png" class="qr">
+ <br>The small hexagonal hexecontahedron is the polyhedron whose dual is the uniform small snub icosicosidodecahedron. It consists of 60 mirror-symmetric hexagons and part of each hexagon lies within the solid, hence is invisible in solid models.
+<br><br><b>Faces:</b> 60 mirror-symmetric hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 112 | <b>Dihedral angle:</b> 139.89°. <a href="https://polytope.miraheze.org/wiki/Small_hexagonal_hexecontahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
