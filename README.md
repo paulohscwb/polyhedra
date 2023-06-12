@@ -801,7 +801,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 60 irregular hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 104 | <b>Dihedral angle:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">More...</a>
 <hr>
 <h4>15. Small Snub Icosicosidodecahedron</h4>
-<a href="vr/great_snub_dodecicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto"></a><img src="ar/55.png" class="qr">
+<a href="vr/small_snub_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto"></a><img src="ar/55.png" class="qr">
  <br><span class="titulo">U<sub>32</sub></span> The small snub icosicosidodecahedron is the uniform polyhedron also called of seside, whose dual polyhedron is the small hexagonal hexecontahedron. Five triangles and one pentagram meet at each vertex. It consists of 60 snub triangles, 40 more triangles that create 20 hexagrams due to pairs falling in the same plane, and 12 pentagrams. 
 <br><br><b>Faces:</b> 100 equilateral triangles and 24 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 155.67° and 161.02°. <a href="https://mathworld.wolfram.com/SmallSnubIcosicosidodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
