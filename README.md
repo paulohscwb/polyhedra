@@ -809,6 +809,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/small_hexagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/54A.png" class="foto"></a><img src="ar/54.png" class="qr">
  <br>The small hexagonal hexecontahedron is the polyhedron whose dual is the uniform small snub icosicosidodecahedron. It consists of 60 mirror-symmetric hexagons and part of each hexagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 mirror-symmetric hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 112 | <b>Dihedral angle:</b> 139.89°. <a href="https://polytope.miraheze.org/wiki/Small_hexagonal_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>17. Small Retrosnub Icosicosidodecahedron</h4>
+<a href="vr/small_retrosnub_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto"></a><img src="ar/53.png" class="qr">
+ <br><span class="titulo">U<sub>72</sub></span> The small retrosnub icosicosidodecahedron is the uniform polyhedron also called of retrosnub disicosidodecahedron, whose dual polyhedron is the small hexagrammic hexecontahedron. The 40 non-snub triangular faces form 20 coplanar pairs, forming star hexagons that are not quite regular. Unlike most snub polyhedra, it has reflection symmetries.  
+<br><br><b>Faces:</b> 100 equilateral triangles and 24 regular pentagrams | <b>Edges:</b> 180 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 24.33° and 44.46°. <a href="https://mathworld.wolfram.com/SmallRetrosnubIcosicosidodecahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
