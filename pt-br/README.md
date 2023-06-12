@@ -725,7 +725,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><a href="../selfintersectsnub.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:7px;" src="../ar/example7.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example8.jpg" width="85%"></p>
  <hr>
 <h4>1. Dodecadodecaedro snub</h4>
 <a href="../vr/snub_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/69A.png" class="foto"></a><img src="../ar/69.png" class="qr">
