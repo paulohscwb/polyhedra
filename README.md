@@ -727,7 +727,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="selfintersectsnub.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<p align="center"><img style="border-radius:7px;" src="ar/example7.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="ar/example8.jpg" width="85%"></p>
 <hr>
 <h4>1. Snub Dodecadodecahedron</h4>
 <a href="vr/snub_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto"></a><img src="ar/69.png" class="qr">
