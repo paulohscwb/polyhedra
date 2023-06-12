@@ -799,7 +799,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 60 hexágonos assimétricos | <b>Arestas:</b> 180 | <b>Vértices:</b> 104 | <b>Ângulo diédrico:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>15. Pequeno icosicosidodecaedro snub</h4>
-<a href="../vr/great_snub_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto"></a><img src="../ar/55.png" class="qr">
+<a href="../vr/small_snub_icosicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto"></a><img src="../ar/55.png" class="qr">
  <br><span class="titulo">U<sub>32</sub></span> O pequeno icosicosidodecaedro snub é o poliedro uniforme também chamado de seside, cujo poliedro dual é o pequeno hexecontaedro hexagonal. Cinco triângulos e um pentagrama se encontram em cada vértice. É composto por 60 triângulos snubficados, mais 40 triângulos que criam 20 hexagramas devido a pares caindo no mesmo plano e 12 pentagramas.
 <br><br><b>Faces:</b> 100 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 155.67° e 161.02°. <a href="https://mathworld.wolfram.com/SmallSnubIcosicosidodecahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
