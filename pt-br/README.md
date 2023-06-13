@@ -270,7 +270,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
 <h4>13. Grande dodecahemidodecaedro</h4>
  <a href="../vr/great_dodecahemicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/192A.png" class="foto"></a><img src="../ar/192.png" class="qr">
- <br><span class="titulo">U<sub>62</sub></span> O grande dodecahemicosaedro (ou pequeno dodecahemicoaedro) é um poliedro uniforme não convexo cuja figura de vértice é um quadrilátero cruzado. É um dodecadodecaedro facetado e o seu raio circunscrito para o comprimento unitário da aresta mede 2.
+ <br><span class="titulo">U<sub>65</sub></span> O grande dodecahemicosaedro (ou pequeno dodecahemicoaedro) é um poliedro uniforme não convexo cuja figura de vértice é um quadrilátero cruzado. É um dodecadodecaedro facetado e o seu raio circunscrito para o comprimento unitário da aresta mede 2.
 <br><br><b>Faces:</b> 12 pentágonos regulares e 10 hexágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
  <hr>
 <h4>14. Pequeno dodecahemidodecaedro</h4>
