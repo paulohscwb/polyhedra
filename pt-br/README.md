@@ -206,6 +206,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example3.jpg" width="85%"></p>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/playlist?list=PLy0I_lGW8HxWJpy766Me-L4lhuQGfqR9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Sólido de Escher</h4>
  <a href="../vr/escher.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/181A.png" class="foto"></a><img src="../ar/181.png" class="qr">
