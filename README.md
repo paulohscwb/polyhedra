@@ -267,7 +267,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>12. Great Dodecahemidodecahedron</h4>
  <a href="vr/great_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/191A.png" class="foto"></a><img src="ar/191.png" class="qr">
- <br><span class="titulo">U<sub>70</sub></span> The large dodecahemidodecahedron is a uniform nonconvex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
+ <br><span class="titulo">U<sub>70</sub></span> The great dodecahemidodecahedron is a uniform nonconvex polyhedron whose its vertex figure is a crossed quadrilateral and its dual is the great dodecahemidodecacron. Its circumradius for unit edge length is &phi;<sup>-1</sup>, where &phi; is the golden ratio.  
 <br><br><b>Faces:</b> 12 regular pentagrams and 6 regular decagrams | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/GreatDodecahemidodecahedron.html" target="_blank">More...</a>
  <hr>
 <h4>13. Great Dodecahemicosahedron</h4>
