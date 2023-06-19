@@ -14,10 +14,14 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.028;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
+			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 3000'></a-mixin>
+			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 0 0 0; to: 180 0 0; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
+			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 0 0 0; to: 270 0 270; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
 		</a-assets>
 				
-		<a-entity position="0 0 0" scale="5 5 5">
-			<a-obj-model src="outros/GreatDodecahemicosahedron.obj" mtl="outros/solidos.mtl" scale="0.997 0.997 0.997"></a-obj-model>
+		<a-entity position="0 0 0" scale="5 5 5" mixin="anima1 anima2 anima3">
+			<a-obj-model src="outros/GreatDodecahemicosahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998" visible="false" mixin="anima0"></a-obj-model>
 			<a-obj-model src="outros/GreatDodecahemicosahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -1.0"></a-sphere>
 			<a-sphere mixin="esfera mtl9" position="1.0 0.0 0.0"></a-sphere>
@@ -51,7 +55,7 @@
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 1.0"></a-sphere>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; minDistance: 0.5; initialPosition: 100 300 650"></a-entity>
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
