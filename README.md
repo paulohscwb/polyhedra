@@ -273,7 +273,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>13. Great Dodecahemicosahedron</h4>
  <a href="vr/great_dodecahemicosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/192A.png" class="foto"></a><img src="ar/192.png" class="qr">
  <br><span class="titulo">U<sub>65</sub></span> The great dodecahemicosahedron (or small dodecahemiicosahedron) is a nonconvex uniform polyhedron whose its vertex figure is a crossed quadrilateral. It is a faceted dodecadodecahedron and the circumradius for unit edge length is 2. 
-<br><br><b>Faces:</b> 12 regular pentagons and 10 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angle:</b> 37.38°. <a href="https://mathworld.wolfram.com/GreatDodecahemicosahedron.html" target="_blank">More...</a>
  <hr>
 <h4>14. Small Dodecahemidodecahedron</h4>
  <a href="vr/small_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/193A.png" class="foto"></a><img src="ar/193.png" class="qr">
