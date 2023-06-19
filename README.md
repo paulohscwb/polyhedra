@@ -208,15 +208,16 @@ A polyhedron is nonconvex if at least one of its diagonals is outside the region
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/playlist?list=PLy0I_lGW8HxWJpy766Me-L4lhuQGfqR9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Escher's Solid</h4>
  <a href="vr/escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/181A.png" class="foto"></a><img src="ar/181.png" class="qr">
  <br>Escher's solid is illustrated on the right pedestal in M. C. Escher's "Waterfall" woodcut. It is obtained by augmenting a rhombic dodecahedron until incident edges become parallel, corresponding to augmentation of height for a rhombic dodecahedron. It is the first rhombic dodecahedron stellation and is a space-filling polyhedron. Its convex hull is a cuboctahedron. Its isosceles triangles faces have vertex angles of 70.53° (once) and 54.73° (twice).
 <br><br><b>Faces:</b> 48 isosceles triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angles:</b> 117.04° and 90°. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
 <hr>
-<h4>2. Dual of Escher's Solid</h4>
+<h4>2. Escher's Solid Dual</h4>
  <a href="vr/escher_dual.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/114A.png" class="foto"></a><img src="ar/114.png" class="qr">
- <br>The dual of Escher's solid was modeled by the author of this page (Paulo Henrique Siqueira) using the coordinates of the vertices and the respective edges of the Escher solid. It is a truncated cube, determining hexagonal, octagonal and rectangular faces.
+ <br>The Escher's solid dual was modeled by the author of this page (Paulo Henrique Siqueira) using the coordinates of the vertices and the respective edges of the Escher solid. It is a truncated cube, determining hexagonal, octagonal and rectangular faces.
 <br><br><b>Faces:</b> 8 regular hexagons, 6 octagons and 12 rectangles | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Dihedral angles:</b> 114.74°, 125,26° and 135°. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">More...</a>
  <hr>
  <h4>3. Stella Octangula</h4>
