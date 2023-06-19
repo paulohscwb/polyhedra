@@ -842,7 +842,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Prisma estrelado</h4>
 <a href="../vr/octagrammic_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto"></a><img src="../ar/105.png" class="qr">
- <br><span class="titulo">U<sub>78</sub></span> Um prisma estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares deslocados ao longo de seu eixo de simetria e com arestas correspondentes conectadas por faces laterais (quadrados, retângulos ou paralelogramos). O exemplo mostrado nesta página é de um prisma reto estrelado octagonal (prisma octagrâmico).
+ <br><span class="titulo">U<sub>78</sub></span> Um prisma estrelado ou poligrâmico é formado por dois polígonos estrelados (poligramas) regulares deslocados ao longo de seu eixo de simetria e com arestas correspondentes conectadas por faces laterais (quadrados, retângulos ou paralelogramos). O exemplo mostrado nesta página é de um prisma reto estrelado octogonal (prisma octagrâmico).
 <br><br><b>Faces:</b> 2 polígonos estrelados de n lados (bases) e n quadrados, retângulos ou paralelogramos (faces laterais) | <b>Arestas:</b> 3n | <b>Vértices:</b> 2n. <a href="https://mathworld.wolfram.com/PolygrammicPrism.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Antiprisma</h4>
@@ -867,7 +867,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>7. Pirâmide estrelada</h4>
 <a href="../vr/octagrammic_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/102A.png" class="foto"></a><img src="../ar/102.png" class="qr">
- <br>Uma pirâmide estrelada ou poligrâmica é formada por um polígono estrelado (poligrama) regular com arestas correspondentes conectadas por faces laterais triangulares que se encontram em um vértice comum (conhecido como "ápice"). O exemplo mostrado nesta página é de uma pirâmide estrelada octagonal (pirâmide octagrâmica).
+ <br>Uma pirâmide estrelada ou poligrâmica é formada por um polígono estrelado (poligrama) regular com arestas correspondentes conectadas por faces laterais triangulares que se encontram em um vértice comum (conhecido como "ápice"). O exemplo mostrado nesta página é de uma pirâmide estrelada octogonal (pirâmide octagrâmica).
 <br><br><b>Faces:</b> 1 polígono estrelado de n lados (base) e n triângulos (faces laterais) | <b>Arestas:</b> 2n | <b>Vértices:</b> n + 1. <a href="https://polytope.miraheze.org/wiki/Pentagrammic_pyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>8. Dipirâmide</h4>
@@ -893,7 +893,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>12. Trapezoedro estrelado côncavo</h4>
 <a href="../vr/octagrammic_concave_trapezohedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/99A.png" class="foto"></a><img src="../ar/99.png" class="qr">
- <br>Um trapezoedro estrelado côncavo de n vértices, também chamado de antidipirâmide estrelada côncava, deltoedro estrelado côncavo ou antibipirâmide estrelada côncava é um sólido composto de "dardos" quadrilaterais intercalados, metade das quais se encontram em um vértice superior e metade em um vértice inferior. Este poliedro é o dual do antiprisma cruzado estrelado. O exemplo mostrado nesta página é de um trapezoedro regular estrelado côncavo octagonal (trapezoedro octagrâmico côncavo).
+ <br>Um trapezoedro estrelado côncavo de n vértices, também chamado de antidipirâmide estrelada côncava, deltoedro estrelado côncavo ou antibipirâmide estrelada côncava é um sólido composto de "dardos" quadrilaterais intercalados, metade das quais se encontram em um vértice superior e metade em um vértice inferior. Este poliedro é o dual do antiprisma cruzado estrelado. O exemplo mostrado nesta página é de um trapezoedro regular estrelado côncavo octogonal (trapezoedro octagrâmico côncavo).
 <br><br><b>Faces:</b> 2n "dardos" | <b>Arestas:</b> 4n | <b>Vértices:</b> 2n + 2. <a href="https://mathworld.wolfram.com/PentagrammicConcaveDeltohedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>13. Tetraedro isósceles</h4>
