@@ -214,8 +214,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Dual do sólido de Escher</h4>
  <a href="../vr/escher_dual.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/114A.png" class="foto"></a><img src="../ar/114.png" class="qr">
- <br>O dual do sólido de Escher foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do sólido de Escher.
-<br><br><br><b>Faces:</b> 8 hexágonos regulares, 6 octógonos e 12 retângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Ângulos diédricos:</b> 144.74°, 125.26° e 135°. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">Mais sobre...</a>
+ <br>O dual do sólido de Escher foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do sólido de Escher. Trata-se de um cubo truncado, determinando faces hexagonais, octogonais e retangulares.
+<br><br><b>Faces:</b> 8 hexágonos regulares, 6 octógonos e 12 retângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Ângulos diédricos:</b> 144.74°, 125.26° e 135°. <a href="https://mathworld.wolfram.com/EschersSolid.html" target="_blank">Mais sobre...</a>
  <hr>
  <h4>3. Octaedro estrelado</h4>
  <a href="../vr/stella_octangula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/182A.png" class="foto"></a><img src="../ar/182.png" class="qr">
