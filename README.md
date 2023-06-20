@@ -825,6 +825,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_dirhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/51A.png" class="foto"></a><img src="ar/51.png" class="qr">
  <br><span class="titulo">U<sub>75</sub></span> The great dirhombicosidodecahedron is the uniform polyhedron also called of gidrid, whose dual polyhedron is the great dirhombicosidodecacron. It is the only uniform polyhedron with more than six polygons surrounding each polyhedron vertex: four squares alternating with two triangles and two pentagrams. The great dirhombicosidodecahedron is the most complex uniform polyhedron and has faces going through its middle. Therefore, some of the great dirhombicosidodecacron's vertices are at an ideal points infinitely far away from the origin.
 <br><br><b>Faces:</b> 40 equilateral triangles, 60 squares and 24 regular pentagrams | <b>Edges:</b> 240 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 54.74° and 71.04°. <a href="https://mathworld.wolfram.com/GreatDirhombicosidodecahedron.html" target="_blank">More...</a>
+ <hr>
+<h4>20. Great Disnub Dirhombidodecahedron</h4>
+<a href="vr/great_disnub_dirhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto"></a><img src="ar/50.png" class="qr">
+ <br>The great disnub dirhombidodecahedron, also called gidisdrid or Skilling's figure, is a degenerate uniform star polyhedron. Due to its geometric realization having some double edges where 4 faces meet, it is considered a degenerate uniform polyhedron but not strictly a uniform polyhedron. Six triangles, four squares, and two pentagrams meet at each vertex. It can be constructed as a blend of the uniform great dirhombicosidodecahedron and the disnub icosahedron, the uniform compound of 20 octahedra with which it shares its edge skeleton.
+<br><br><b>Faces:</b> 120 equilateral triangles, 60 squares and 24 regular pentagrams | <b>Edges:</b> 360 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 109.47°, 54.73° and 71.04°. <a href="https://polytope.miraheze.org/wiki/Great_disnub_dirhombidodecahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
