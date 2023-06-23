@@ -987,6 +987,31 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/j5_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
  <br><span class="titulo">J<sub>5</sub></span> A cúpula pentagonal, ou pecu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no pentágono e é uma das três cúpulas sólidas de Johnson. Pode ser obtido como um segmento do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 5 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 37.38° e 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Rotunda pentagonal</h4>
+<a href="../vr/j6_pentagonal_rotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto"></a><img src="../ar/44.png" class="qr">
+ <br><span class="titulo">J<sub>6</sub></span> A rotunda pentagonal, ou pero, é um dos 92 sólidos de Johnson. É uma rotunda baseada em um pentágono e a única rotunda que resulta em um sólido de Johnson. Pode ser construída cortando um icosidodecaedro ao meio ao longo de um de seus círculos das arestas dos decágonos.
+<br><br><b>Faces:</b> 10 triângulos, 6 pentágonos e 1 decágono | <b>Arestas:</b> 35 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 142.62°, 79.19° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_rotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>7. Pirâmide triangular alongada</h4>
+<a href="../vr/j7_elongated_triangular_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/43A.png" class="foto"></a><img src="../ar/43.png" class="qr">
+ <br><span class="titulo">J<sub>7</sub></span> A pirâmide triangular alongada, ou etripy, é um dos 92 sólidos de Johnson. Pode ser construída anexando um prisma triangular a uma das faces do tetraedro, visto como uma pirâmide triangular. Se um segundo tetraedro estiver ligado à outra base triangular do prisma, o resultado é a bipirâmide triangular alongada.
+<br><br><b>Faces:</b> 4 triângulos e 3 quadrados | <b>Arestas:</b> 12 | <b>Vértices:</b> 7 | <b>Ângulos diédricos:</b> 160.53°, 90°, 60° e 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_pyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>8. Pirâmide quadrada alongada</h4>
+<a href="../vr/j8_elongated_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/42A.png" class="foto"></a><img src="../ar/42.png" class="qr">
+ <br><span class="titulo">J<sub>8</sub></span> A pirâmide quadrada alongada, ou esquipy, é um dos 92 sólidos de Johnson. Pode ser construída anexando um cubo, visto como um prisma quadrado, à base da pirâmide quadrada. Se uma segunda pirâmide for anexada à face oposta do cubo, o resultado é a bipirâmide quadrada alongada.
+<br><br><b>Faces:</b> 4 triângulos e 5 quadrados | <b>Arestas:</b> 16 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 144.74°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_pyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>9. Pirâmide pentagonal alongada</h4>
+<a href="../vr/j9_elongated_pentagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto"></a><img src="../ar/41.png" class="qr">
+ <br><span class="titulo">J<sub>9</sub></span> A pirâmide pentagonal alongada, ou epeppy, é um dos 92 sólidos de Johnson. Pode ser construída anexando um prisma pentagonal à base da pirâmide pentagonal. Se uma segunda pirâmide estiver ligada à outra base do prisma pentagonal, o resultado é a bipirâmide pentagonal alongada.
+<br><br><b>Faces:</b> 5 triângulos, 5 quadrados e 1 pentágono | <b>Arestas:</b> 20 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 138.19°, 90°, 108° e 127.38°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_pyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>10. Pirâmide quadrada girolongada</h4>
+<a href="../vr/j10_gyroelongated_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto"></a><img src="../ar/40.png" class="qr">
+ <br><span class="titulo">J<sub>10</sub></span> A pirâmide quadrada girolongada, ou gyesp, é um dos 92 sólidos de Johnson. Pode ser construída anexando um antiprisma quadrado à base da pirâmide quadrada. Se uma segunda pirâmide estiver ligada à outra base do antiprisma quadrado, o resultado é a bipirâmide quadrada girolongada.
+<br><br><b>Faces:</b> 12 triângulos e 1 quadrado | <b>Arestas:</b> 20 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 158.57°, 127.55°, 109.47° e 103.84°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_pyramid" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
