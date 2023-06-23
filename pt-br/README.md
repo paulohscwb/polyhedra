@@ -1013,6 +1013,32 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>10</sub></span> A pirâmide quadrada girolongada, ou gyesp, é um dos 92 sólidos de Johnson. Pode ser construída anexando um antiprisma quadrado à base da pirâmide quadrada. Se uma segunda pirâmide estiver ligada à outra base do antiprisma quadrado, o resultado é a bipirâmide quadrada girolongada.
 <br><br><b>Faces:</b> 12 triângulos e 1 quadrado | <b>Arestas:</b> 20 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 158.57°, 127.55°, 109.47° e 103.84°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_pyramid" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
+<hr>
+<h4>11. Pirâmide pentagonal girolongada</h4>
+<a href="../vr/j11_gyroelongated_pentagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto"></a><img src="../ar/39.png" class="qr">
+ <br><span class="titulo">J<sub>11</sub></span> A pirâmide pentagonal giroalongada, ou gyepic, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma pentagonal à base da pirâmide pentagonal. Alternativamente, pode ser construída diminuindo um vértice do icosaedro regular, razão pela qual esse poliedro também pode ser chamado de icosaedro diminuído.
+<br><br><b>Faces:</b> 15 triângulos e 1 pentágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 138.19° e 100.81°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_pyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>12. Dipirâmide triangular</h4>
+<a href="../vr/j12_triangular_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto"></a><img src="../ar/38.png" class="qr">
+ <br><span class="titulo">J<sub>12</sub></span> A dipirâmide triangular, também chamada de tegum triangular ou bipirâmide triangular ou trit, é um dos sólidos de Johnson. Pode ser construída unindo dois tetraedros regulares em uma de suas faces. É uma das três dipirâmides (tegums) poligonais regulares; as outras são o octaedro regular (tegum quadrado) e o tegum pentagonal.
+<br><br><b>Faces:</b> 6 triângulos | <b>Arestas:</b> 9 | <b>Vértices:</b> 5 | <b>Ângulos diédricos:</b> 141.06° e 70.53°. <a href="https://polytope.miraheze.org/wiki/Triangular_tegum" target="_blank">Mais sobre...</a>
+<hr>
+<h4>13. Dipirâmide pentagonal</h4>
+<a href="../vr/j13_pentagonal_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto"></a><img src="../ar/37.png" class="qr">
+ <br><span class="titulo">J<sub>13</sub></span> A dipirâmide pentagonal, também chamada de bipirâmide pentagonal ou tegum pentagonal ou pet, é um dos sólidos de Johnson. Pode ser construída unindo duas pirâmides pentagonais em suas bases. É uma das três dipirâmides poligonais regulares (tegums).
+<br><br><b>Faces:</b> 10 triângulos | <b>Arestas:</b> 15 | <b>Vértices:</b> 7 | <b>Ângulos diédricos:</b> 138.19° e 74.75°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_tegum" target="_blank">Mais sobre...</a>
+<hr>
+<h4>14. Dipirâmide triangular alongada</h4>
+<a href="../vr/j14_elongated_triangular_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto"></a><img src="../ar/36.png" class="qr">
+ <br><span class="titulo">J<sub>14</sub></span> A dipirâmide triangular alongada, ou bipirâmide triangular alongada ou etidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma triangular entre as duas metades da dipirâmide triangular.
+<br><br><b>Faces:</b> 6 triângulos e 3 quadrados | <b>Arestas:</b> 15 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 160.53°, 60° e 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_bipyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>15. Dipirâmide quadrada alongada</h4>
+<a href="../vr/j15_elongated_square_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto"></a><img src="../ar/35.png" class="qr">
+ <br><span class="titulo">J<sub>15</sub></span> A dipirâmide quadrada alongada, ou bipirâmide quadrada alongada ou esquidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um cubo, visto como um prisma quadrado, entre as duas metades piramidais do octaedro regular, visto como uma dipirâmide quadrada.
+<br><br><b>Faces:</b> 8 triângulos e 4 quadrados | <b>Arestas:</b> 20 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 144.74°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_bipyramid" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

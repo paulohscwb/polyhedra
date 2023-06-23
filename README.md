@@ -1014,6 +1014,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>10</sub></span> The gyroelongated square pyramid, or gyesp, is one of the 92 Johnson solids. It can be constructed by attaching a square antiprism to the base of the square pyramid. If a second pyramid is attached to the other base of the square antiprism, the result is the gyroelongated square bipyramid.   
 <br><br><b>Faces:</b> 12 triangles and 1 square | <b>Edges:</b> 20 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 158.57°, 127.55°, 109.47° and 103.84°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_pyramid" target="_blank">More...</a>
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
+<hr>
+<h4>11. Gyroelongated pentagonal pyramid</h4>
+<a href="vr/j11_gyroelongated_pentagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/39A.png" class="foto"></a><img src="ar/39.png" class="qr">
+ <br><span class="titulo">J<sub>11</sub></span> The gyroelongated pentagonal pyramid, or gyepic, is one of the Johnson solids. It can be constructed by attaching a pentagonal antiprism to the base of the pentagonal pyramid. Alternatively, it can be constructed by diminishing one vertex from the regular icosahedron, which is why this polyhedron can also be called the diminished icosahedron.  
+<br><br><b>Faces:</b> 15 triangles and 1 pentagon | <b>Edges:</b> 25 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> 138.19° and 100.81°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_pyramid" target="_blank">More...</a>
+<hr>
+<h4>12. Triangular dipyramid</h4>
+<a href="vr/j12_triangular_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto"></a><img src="ar/38.png" class="qr">
+ <br><span class="titulo">J<sub>12</sub></span> The triangular dipyramid, also called a triangular tegum or triangular bipyramid or trit, is one of the Johnson solids. It can be constructed by joining two regular tetrahedra at one of their faces. It is one of three regular polygonal dipyramid (tegums); the others are the regular octahedron (square tegum) and the pentagonal tegum.   
+<br><br><b>Faces:</b> 6 triangles | <b>Edges:</b> 9 | <b>Vertices:</b> 5 | <b>Dihedral angles:</b> 141.06° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Triangular_tegum" target="_blank">More...</a>
+<hr>
+<h4>13. Pentagonal dipyramid</h4>
+<a href="vr/j13_pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto"></a><img src="ar/37.png" class="qr">
+ <br><span class="titulo">J<sub>13</sub></span> The pentagonal dipyramid, also called a pentagonal bipyramid or pentagonal tegum or pet, is one of the Johnson solids. It can be constructed by joining two pentagonal pyramids at their bases. It is one of three regular polygonal dipyramid (tegums). 
+<br><br><b>Faces:</b> 10 triangles | <b>Edges:</b> 15 | <b>Vertices:</b> 7 | <b>Dihedral angles:</b> 138.19° and 74.75°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_tegum" target="_blank">More...</a>
+<hr>
+<h4>14. Elongated triangular dipyramid</h4>
+<a href="vr/j14_elongated_triangular_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto"></a><img src="ar/36.png" class="qr">
+ <br><span class="titulo">J<sub>14</sub></span> The elongated triangular dipyramid, or elongated triangular bipyramid or etidpy, is one of the Johnson solids. It can be constructed by inserting a triangular prism between the two halves of the triangular dipyramid. 
+<br><br><b>Faces:</b> 6 triangles and 3 squares | <b>Edges:</b> 15 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 160.53°, 60° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_bipyramid" target="_blank">More...</a>
+<hr>
+<h4>15. Elongated triangular dipyramid</h4>
+<a href="vr/j15_elongated_square_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto"></a><img src="ar/35.png" class="qr">
+ <br><span class="titulo">J<sub>15</sub></span> The elongated square dipyramid, or elongated square bipyramid or esquidpy, is one of the Johnson solids. It can be constructed by inserting a cube, seen as a square prism, between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
+<br><br><b>Faces:</b> 8 triangles and 4 squares | <b>Edges:</b> 20 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_bipyramid" target="_blank">More...</a>
+<p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 
 
