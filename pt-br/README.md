@@ -832,7 +832,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 </details>
 
 
-<details id="p7" style="border-bottom: 1px solid #a2dec0;">
+<details id="p7">
   <summary>Pirâmides, tetraedros, prismas e antiprismas</summary>
   Para visualizar os poliedros em RA, visite a página:
 <p align="center"><a href="../polyhedron.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron.html</a></p> 
@@ -953,6 +953,41 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>Quando considerarmos as faces laterais triangulares em um toróide, teremos um poliedro chamado antitoróide. O exemplo mostrado é uma base heptagonal regular, com triângulos equiláteros nas faces laterais.
 <br><br><b>Faces:</b> 2n triângulos equiláteros e 2n triângulos obtusângulos | <b>Arestas:</b> 6n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalRegularTriangular.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
+</details>
+
+<details id="p11" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Sólidos de Johnson: J<sub>1</sub> - J<sub>32</sub></summary>
+  Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Nesta primeira parte, temos os primeiros 32 sólidos de Johnson. Para visualizar os poliedros de Johnson em RA, visite a página:
+<p align="center"><a href="../johnson1.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson1.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img style="border-radius:7px;" src="../ar/example5.jpg" width="85%"></p>
+<hr>
+<h4>1. Pirâmide quadrada</h4>
+<a href="../vr/j1_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto"></a><img src="../ar/49.png" class="qr">
+ <br><span class="titulo">J<sub>1</sub></span> A pirâmide quadrada, ou squippy, é uma pirâmide com uma base quadrada e 4 triângulos como lados. A versão com triângulos equiláteros como lados é o primeiro dos 92 sólidos de Johnson. Duas pirâmides quadradas podem ser unidas em sua base quadrada para formar um octaedro regular.
+<br><br><b>Faces:</b> 4 triângulos (faces laterais) e 1 quadrado (base) | <b>Arestas:</b> 8 | <b>Vértices:</b> 5 | <b>Ângulos diédricos:</b> 109.47° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_pyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>2. Pirâmide pentagonal</h4>
+<a href="../vr/j2_pentagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto"></a><img src="../ar/48.png" class="qr">
+ <br><span class="titulo">J<sub>2</sub></span> A pirâmide pentagonal, ou peppy, é uma pirâmide com uma base pentagonal e 5 triângulos como lados. A versão com triângulos equiláteros como lados é o segundo dos 92 sólidos de Johnson. É a tampa do primeiro vértice do icosaedro. Um icosaedro regular pode ser construído anexando duas pirâmides pentagonais às bases de um antiprisma pentagonal.
+<br><br><b>Faces:</b> 5 triângulos (faces laterais) e 1 pentágono (base) | <b>Arestas:</b> 10 | <b>Vértices:</b> 6 | <b>Ângulos diédricos:</b> 138.19° e 37.38°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_pyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>3. Cúpula triangular</h4>
+<a href="../vr/j3_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto"></a><img src="../ar/47.png" class="qr">
+ <br><span class="titulo">J<sub>3</sub></span> A cúpula triangular, ou tricu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no triângulo equilátero e é uma das três cúpulas sólidas de Johnson, sendo as outras duas a cúpula quadrada e a cúpula pentagonal.
+<br><br><b>Faces:</b> 4 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 125.26°, 70.53° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>4. Cúpula quadrada</h4>
+<a href="../vr/j4_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto"></a><img src="../ar/46.png" class="qr">
+ <br><span class="titulo">J<sub>4</sub></span> A cúpula quadrada, ou squacu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no quadrado e é uma das três cúpulas sólidas de Johnson. Pode ser obtida como um segmento do pequeno rombicuboctaedro, quando considerado como uma ortobicúpula quadrada alongada.
+<br><br><b>Faces:</b> 4 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 20 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 144.74°, 135°, 45° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>5. Cúpula pentagonal</h4>
+<a href="../vr/j5_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
+ <br><span class="titulo">J<sub>5</sub></span> A cúpula pentagonal, ou pecu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no pentágono e é uma das três cúpulas sólidas de Johnson. Pode ser obtido como um segmento do pequeno rombicosidodecaedro.
+<br><br><b>Faces:</b> 5 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 37.38° e 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
