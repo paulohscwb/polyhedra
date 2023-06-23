@@ -988,6 +988,31 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/j5_pentagonal_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto"></a><img src="ar/45.png" class="qr">
  <br><span class="titulo">J<sub>5</sub></span> The pentagonal cupola, or pecu, is one of the 92 Johnson solids. It is a cupola based on the pentagon, and is one of three Johnson solid cupolas. It can be obtained as a segment of the small rhombicosidodecahedron. 
 <br><br><b>Faces:</b> 5 triangles, 5 squares, 1 pentagon and 1 decagon | <b>Edges:</b> 25 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 159.09°, 148.28°, 37.38° and 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">More...</a>
+<hr>
+<h4>6. Pentagonal rotunda</h4>
+<a href="vr/j6_pentagonal_rotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/44A.png" class="foto"></a><img src="ar/44.png" class="qr">
+ <br><span class="titulo">J<sub>6</sub></span> The pentagonal rotunda, or pero, is one of the 92 Johnson solids. It is a rotunda based on a pentagon, and the only rotunda that results in a Johnson solid. It can be constructed by cutting an icosidodecahedron in half along one of its decagonal circles of edges.
+<br><br><b>Faces:</b> 10 triangles, 6 pentagons and 1 decagon | <b>Edges:</b> 35 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 142.62°, 79.19° and 63.43°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_rotunda" target="_blank">More...</a>
+<hr>
+<h4>7. Elongated triangular pyramid</h4>
+<a href="vr/j7_elongated_triangular_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/43A.png" class="foto"></a><img src="ar/43.png" class="qr">
+ <br><span class="titulo">J<sub>7</sub></span> The elongated triangular pyramid, or etripy, is one of the 92 Johnson solids. It can be constructed by attaching a triangular prism to one of the faces of the tetrahedron, seen as a triangular pyramid. If a second tetrahedron is attached to the other triangular base of the prism, the result is the elongated triangular bipyramid. 
+<br><br><b>Faces:</b> 4 triangles and 3 squares | <b>Edges:</b> 12 | <b>Vertices:</b> 7 | <b>Dihedral angles:</b> 160.53°, 90°, 60° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_pyramid" target="_blank">More...</a>
+<hr>
+<h4>8. Elongated square pyramid</h4>
+<a href="vr/j8_elongated_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/42A.png" class="foto"></a><img src="ar/42.png" class="qr">
+ <br><span class="titulo">J<sub>8</sub></span> The elongated square pyramid, or esquipy, is one of the 92 Johnson solids. It can be constructed by attaching a cube, seen as a square prism, to the base of the square pyramid. If a second pyramid is attached to the opposite face of the cube, the result is the elongated square bipyramid.  
+<br><br><b>Faces:</b> 4 triangles and 5 squares | <b>Edges:</b> 16 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_pyramid" target="_blank">More...</a>
+<hr>
+<h4>9. Elongated pentagonal pyramid</h4>
+<a href="vr/j9_elongated_pentagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto"></a><img src="ar/41.png" class="qr">
+ <br><span class="titulo">J<sub>9</sub></span> The elongated pentagonal pyramid, or epeppy, is one of the 92 Johnson solids. It can be constructed by attaching a pentagonal prism to the base of the pentagonal pyramid. If a second pyramid is attached to the other base of the pentagonal prism, the result is the elongated pentagonal bipyramid.  
+<br><br><b>Faces:</b> 5 triangles, 5 squares and 1 pentagon | <b>Edges:</b> 20 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> 138.19°, 90°, 108° and 127.38°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_pyramid" target="_blank">More...</a>
+<hr>
+<h4>10. Gyroelongated square pyramid</h4>
+<a href="vr/j10_gyroelongated_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/40A.png" class="foto"></a><img src="ar/40.png" class="qr">
+ <br><span class="titulo">J<sub>10</sub></span> The gyroelongated square pyramid, or gyesp, is one of the 92 Johnson solids. It can be constructed by attaching a square antiprism to the base of the square pyramid. If a second pyramid is attached to the other base of the square antiprism, the result is the gyroelongated square bipyramid.   
+<br><br><b>Faces:</b> 12 triangles and 1 square | <b>Edges:</b> 20 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 158.57°, 127.55°, 109.47° and 103.84°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_pyramid" target="_blank">More...</a>
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 
