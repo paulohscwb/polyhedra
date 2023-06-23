@@ -1060,10 +1060,36 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>19</sub></span> The elongated square cupola, or escu, is one of the Johnson solids. It can be constructed by attaching an octagonal prism to the octagonal base of the square cupola. It can also be seen as a diminished small rhombicuboctahedron, formed by cutting off one of its square cupola segments. 
 <br><br><b>Faces:</b> 4 triangles, 13 squares and 1 octagon | <b>Edges:</b> 36 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 144.74°, 135° and 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cupola" target="_blank">More...</a>
 <hr>
-<h4>20. Elongated square cupola</h4>
-<a href="vr/j19_elongated_square_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto"></a><img src="ar/30.png" class="qr">
+<h4>20. Elongated pentagonal cupola</h4>
+<a href="vr/j20_elongated_pentagonal_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto"></a><img src="ar/30.png" class="qr">
  <br><span class="titulo">J<sub>20</sub></span> The elongated pentagonal cupola, or epcu, is one of the Johnson solids. It can be constructed by attaching a decagonal prism to the decagonal base of the pentagonal cupola. If a second cupola is attached to the other decagonal base of the prism in the same orientation, the result is the elongated pentagonal orthobicupola. 
-<br><br><b>Faces:</b> 4 triangles, 13 squares and 1 octagon | <b>Edges:</b> 36 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 144.74°, 135° and 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cupola" target="_blank">More...</a>
+<br><br><b>Faces:</b> 5 triangles, 15 squares, 1 pentagon and 1 decagon | <b>Edges:</b> 45 | <b>Vertices:</b> 25 | <b>Dihedral angles:</b> 159.09°, 148.28°, 144°, 127.38°, 121.72° and 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_cupola" target="_blank">More...</a>
+<p class="topop"><a href="#p11" class="topo">back to top</a></p>
+<hr>
+<h4>21. Elongated pentagonal rotunda</h4>
+<a href="vr/j21_elongated_pentagonal_rotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/29A.png" class="foto"></a><img src="ar/29.png" class="qr">
+ <br><span class="titulo">J<sub>21</sub></span> The elongated pentagonal rotunda, or epro, is one of the Johnson solids. It can be constructed by attaching a decagonal prism to the decagonal base of the pentagonal rotunda. If a second rotunda is attached to the other decagonal base of the prism in the same orientation, the result is the elongated pentagonal orthobirotunda.
+<br><br><b>Faces:</b> 10 triangles, 10 squares, 6 pentagons and 1 decagon | <b>Edges:</b> 55 | <b>Vertices:</b> 30 | <b>Dihedral angles:</b> 169.19°, 153.43°, 144°, 142.62° and 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_rotunda" target="_blank">More...</a>
+<hr>
+<h4>22. Gyroelongated triangular cupola</h4>
+<a href="vr/j22_gyroelongated_triangular_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/28A.png" class="foto"></a><img src="ar/28.png" class="qr">
+ <br><span class="titulo">J<sub>22</sub></span> The gyroelongated triangular cupola, or gyetcu, is one of the Johnson solids. It can be constructed by attaching a hexagonal antiprism to the hexagonal base of the triangular cupola. If a second cupola is attached to the other hexagonal base of the antiprism, the result is the gyroelongated triangular bicupola. 
+<br><br><b>Faces:</b> 16 triangles, 3 squares and 1 hexagon | <b>Edges:</b> 33 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 169.43°, 153.64°, 145.22°, 125.26° and 98.9°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_cupola" target="_blank">More...</a>
+<hr>
+<h4>23. Gyroelongated square cupola</h4>
+<a href="vr/j23_gyroelongated_square_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto"></a><img src="ar/27.png" class="qr">
+ <br><span class="titulo">J<sub>23</sub></span> The gyroelongated square cupola, or gyescu, is one of the Johnson solids. It can be constructed by attaching an octagonal antiprism to the octagonal base of the square cupola. If a second cupola is attached to the other octagonal base of the antiprism, the result is the gyroelongated square bicupola.  
+<br><br><b>Faces:</b> 20 triangles, 5 squares and 1 octagon | <b>Edges:</b> 44 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 153.96°, 151.33°, 144.74°, 141.59°, 135° and 96.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_cupola" target="_blank">More...</a>
+<hr>
+<h4>24. Gyroelongated pentagonal cupola</h4>
+<a href="vr/j24_gyroelongated_pentagonal_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto"></a><img src="ar/26.png" class="qr">
+ <br><span class="titulo">J<sub>24</sub></span> The gyroelongated pentagonal cupola, or gyepcu, is one of the Johnson solids. It can be constructed by attaching a decagonal antiprism to the decagonal base of the pentagonal cupola. If a second cupola is attached to the other decagonal base of the antiprism, the result is the gyroelongated pentagonal bicupola.  
+<br><br><b>Faces:</b> 25 triangles, 5 squares, 1 pentagon and 1 decagon | <b>Edges:</b> 55 | <b>Vertices:</b> 25 | <b>Dihedral angles:</b> 159.19°, 159.09°, 148.28°, 132.62°, 126.96° and 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupola" target="_blank">More...</a>
+<hr>
+<h4>25. Gyroelongated pentagonal rotunda</h4>
+<a href="vr/j25_gyroelongated_pentagonal_rotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto"></a><img src="ar/25.png" class="qr">
+ <br><span class="titulo">J<sub>25</sub></span> The gyroelongated pentagonal rotunda, or gyepro, is one of the Johnson solids. It can be constructed by attaching a decagonal antiprism to the decagonal base of the pentagonal rotunda. If a second rotunda is attached to the other decagonal base of the antiprism, the result is the gyroelongated pentagonal birotunda.   
+<br><br><b>Faces:</b> 30 triangles, 6 pentagons and 1 decagon | <b>Edges:</b> 65 | <b>Vertices:</b> 30 | <b>Dihedral angles:</b> 174.43°, 159.19°, 158.68°, 142.62° and 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_rotunda" target="_blank">More...</a>
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 
