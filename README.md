@@ -1032,13 +1032,38 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>14. Elongated triangular dipyramid</h4>
 <a href="vr/j14_elongated_triangular_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto"></a><img src="ar/36.png" class="qr">
- <br><span class="titulo">J<sub>14</sub></span> The elongated triangular dipyramid, or elongated triangular bipyramid or etidpy, is one of the Johnson solids. It can be constructed by inserting a triangular prism between the two halves of the triangular dipyramid. 
+ <br><span class="titulo">J<sub>14</sub></span> The elongated triangular dipyramid, also called a elongated triangular bipyramid or etidpy, is one of the Johnson solids. It can be constructed by inserting a triangular prism between the two halves of the triangular dipyramid. 
 <br><br><b>Faces:</b> 6 triangles and 3 squares | <b>Edges:</b> 15 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 160.53°, 60° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_bipyramid" target="_blank">More...</a>
 <hr>
 <h4>15. Elongated triangular dipyramid</h4>
 <a href="vr/j15_elongated_square_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto"></a><img src="ar/35.png" class="qr">
- <br><span class="titulo">J<sub>15</sub></span> The elongated square dipyramid, or elongated square bipyramid or esquidpy, is one of the Johnson solids. It can be constructed by inserting a cube, seen as a square prism, between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
+ <br><span class="titulo">J<sub>15</sub></span> The elongated square dipyramid, also called a elongated square bipyramid or esquidpy, is one of the Johnson solids. It can be constructed by inserting a cube, seen as a square prism, between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
 <br><br><b>Faces:</b> 8 triangles and 4 squares | <b>Edges:</b> 20 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_bipyramid" target="_blank">More...</a>
+<hr>
+<h4>16. Elongated pentagonal dipyramid</h4>
+<a href="vr/j16_elongated_pentagonal_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/34A.png" class="foto"></a><img src="ar/34.png" class="qr">
+ <br><span class="titulo">J<sub>16</sub></span> The elongated pentagonal dipyramid, also called a elongated pentagonal bipyramid or epedpy, is one of the Johnson solids. It can be constructed by inserting a pentagonal prism between the halves of the pentagonal dipyramid. 
+<br><br><b>Faces:</b> 10 triangles and 5 squares | <b>Edges:</b> 25 | <b>Vertices:</b> 12 | <b>Dihedral angles:</b> 138.19°, 108° and 127.38°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_bipyramid" target="_blank">More...</a>
+<hr>
+<h4>17. Gyroelongated square dipyramid</h4>
+<a href="vr/j17_gyroelongated_square_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto"></a><img src="ar/33.png" class="qr">
+ <br><span class="titulo">J<sub>17</sub></span> The gyroelongated square dipyramid, also called a gyroelongated square bipyramid or gyesqidpy, is one of the Johnson solids. It can be constructed by inserting a square antiprism between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
+<br><br><b>Faces:</b> 16 triangles | <b>Edges:</b> 24 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 158.57°, 127.55° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bipyramid" target="_blank">More...</a>
+<hr>
+<h4>18. Elongated triangular cupola</h4>
+<a href="vr/j18_elongated_triangular_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/32A.png" class="foto"></a><img src="ar/32.png" class="qr">
+ <br><span class="titulo">J<sub>18</sub></span> The elongated triangular cupola, also called a etcu, is one of the Johnson solids. It can be constructed by attaching a hexagonal prism to the hexagonal base of the triangular cupola. If a second cupola is attached to the other hexagonal base of the prism in the same orientation, the result is the elongated triangular orthobicupola. 
+<br><br><b>Faces:</b> 4 triangles, 9 squares and 1 hexagon | <b>Edges:</b> 27 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 160.53°, 144.74°, 120°, 60° and 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_cupola" target="_blank">More...</a>
+<hr>
+<h4>19. Elongated square cupola</h4>
+<a href="vr/j19_elongated_square_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/31A.png" class="foto"></a><img src="ar/31.png" class="qr">
+ <br><span class="titulo">J<sub>19</sub></span> The elongated square cupola, or escu, is one of the Johnson solids. It can be constructed by attaching an octagonal prism to the octagonal base of the square cupola. It can also be seen as a diminished small rhombicuboctahedron, formed by cutting off one of its square cupola segments. 
+<br><br><b>Faces:</b> 4 triangles, 13 squares and 1 octagon | <b>Edges:</b> 36 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 144.74°, 135° and 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cupola" target="_blank">More...</a>
+<hr>
+<h4>20. Elongated square cupola</h4>
+<a href="vr/j19_elongated_square_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto"></a><img src="ar/30.png" class="qr">
+ <br><span class="titulo">J<sub>20</sub></span> The elongated pentagonal cupola, or epcu, is one of the Johnson solids. It can be constructed by attaching a decagonal prism to the decagonal base of the pentagonal cupola. If a second cupola is attached to the other decagonal base of the prism in the same orientation, the result is the elongated pentagonal orthobicupola. 
+<br><br><b>Faces:</b> 4 triangles, 13 squares and 1 octagon | <b>Edges:</b> 36 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 144.74°, 135° and 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cupola" target="_blank">More...</a>
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 

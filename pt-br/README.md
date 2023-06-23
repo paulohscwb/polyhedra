@@ -1031,13 +1031,38 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>14. Dipirâmide triangular alongada</h4>
 <a href="../vr/j14_elongated_triangular_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/36A.png" class="foto"></a><img src="../ar/36.png" class="qr">
- <br><span class="titulo">J<sub>14</sub></span> A dipirâmide triangular alongada, ou bipirâmide triangular alongada ou etidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma triangular entre as duas metades da dipirâmide triangular.
+ <br><span class="titulo">J<sub>14</sub></span> A dipirâmide triangular alongada, também chamada de bipirâmide triangular alongada ou etidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma triangular entre as duas metades da dipirâmide triangular.
 <br><br><b>Faces:</b> 6 triângulos e 3 quadrados | <b>Arestas:</b> 15 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 160.53°, 60° e 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_bipyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>15. Dipirâmide quadrada alongada</h4>
 <a href="../vr/j15_elongated_square_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/35A.png" class="foto"></a><img src="../ar/35.png" class="qr">
- <br><span class="titulo">J<sub>15</sub></span> A dipirâmide quadrada alongada, ou bipirâmide quadrada alongada ou esquidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um cubo, visto como um prisma quadrado, entre as duas metades piramidais do octaedro regular, visto como uma dipirâmide quadrada.
+ <br><span class="titulo">J<sub>15</sub></span> A dipirâmide quadrada alongada, também chamada de bipirâmide quadrada alongada ou esquidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um cubo, visto como um prisma quadrado, entre as duas metades piramidais do octaedro regular, visto como uma dipirâmide quadrada.
 <br><br><b>Faces:</b> 8 triângulos e 4 quadrados | <b>Arestas:</b> 20 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 144.74°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_bipyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>16. Dipirâmide pentagonal alongada</h4>
+<a href="../vr/j16_elongated_pentagonal_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/34A.png" class="foto"></a><img src="../ar/34.png" class="qr">
+ <br><span class="titulo">J<sub>16</sub></span> A dipirâmide pentagonal alongada, também chamada de bipirâmide pentagonal alongada ou epedpy, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma pentagonal entre as metades da dipirâmide pentagonal.
+<br><br><b>Faces:</b> 10 triângulos e 5 quadrados | <b>Arestas:</b> 25 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 138.19°, 108° e 127.38°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_bipyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>17. Dipirâmide quadrada girolongada</h4>
+<a href="../vr/j17_gyroelongated_square_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto"></a><img src="../ar/33.png" class="qr">
+ <br><span class="titulo">J<sub>17</sub></span> A dipirâmide quadrada girolongada, também chamada de bipirâmide quadrada girolongada ou gyesqidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um antiprisma quadrado entre as duas metades piramidais do octaedro regular, visto como uma dipirâmide quadrada.
+<br><br><b>Faces:</b> 16 triângulos | <b>Arestas:</b> 24 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 158.57°, 127.55° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bipyramid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>18. Cúpula triangular alongada</h4>
+<a href="../vr/j18_elongated_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto"></a><img src="../ar/32.png" class="qr">
+ <br><span class="titulo">J<sub>18</sub></span> A cúpula triangular alongada, também chamada de etcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do prisma na mesma orientação, o resultado é a ortobicúpula triangular alongada.
+<br><br><b>Faces:</b> 4 triângulos, 9 quadrados e 1 hexágono | <b>Arestas:</b> 27 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120°, 60° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>19. Cúpula quadrada alongada</h4>
+<a href="../vr/j19_elongated_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto"></a><img src="../ar/31.png" class="qr">
+ <br><span class="titulo">J<sub>19</sub></span> A cúpula quadrada alongada, ou escu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma octogonal à base octogonal da cúpula quadrada. Também pode ser vista como um pequeno rombicuboctaedro diminuído, formado cortando um de seus segmentos quadrados de cúpula.
+<br><br><b>Faces:</b> 4 triângulos, 13 quadrados e 1 octógono | <b>Arestas:</b> 36 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 144.74°, 135° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>20. Cúpula pentagonal alongada</h4>
+<a href="../vr/j20_elongated_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto"></a><img src="../ar/30.png" class="qr">
+ <br><span class="titulo">J<sub>20</sub></span> A cúpula pentagonal alongada, ou epcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do prisma na mesma orientação, o resultado é a ortobicúpula pentagonal alongada.
+<br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 45 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38°, 121.72° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_cupola" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
