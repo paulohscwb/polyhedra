@@ -1064,6 +1064,32 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>20</sub></span> A cúpula pentagonal alongada, ou epcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do prisma na mesma orientação, o resultado é a ortobicúpula pentagonal alongada.
 <br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 45 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38°, 121.72° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_cupola" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
+<hr>
+<h4>21. Rotunda pentagonal alongada</h4>
+<a href="../vr/j21_elongated_pentagonal_rotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/29A.png" class="foto"></a><img src="../ar/29.png" class="qr">
+ <br><span class="titulo">J<sub>21</sub></span> A rotunda pentagonal alongada, ou epro, é um dos sólidos de Johnson. Pode ser construída anexando um prisma decagonal à base decagonal da rotunda pentagonal. Se uma segunda rotunda for anexada à outra base decagonal do prisma na mesma orientação, o resultado é a ortobirotunda pentagonal alongada.
+<br><br><b>Faces:</b> 10 triângulos, 10 quadrados, 6 pentágonos e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 169.19°, 153.43°, 144°, 142.62° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_rotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>22. Cúpula triangular girolongada</h4>
+<a href="../vr/j22_gyroelongated_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto"></a><img src="../ar/28.png" class="qr">
+ <br><span class="titulo">J<sub>22</sub></span> A cúpula triangular girolongada, ou gyetcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do antiprisma, o resultado é a bicúpula triangular giroalongada.
+<br><br><b>Faces:</b> 16 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 33 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22°, 125.26° e 98.9°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>23. Cúpula quadrada girolongada</h4>
+<a href="../vr/j23_gyroelongated_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto"></a><img src="../ar/27.png" class="qr">
+ <br><span class="titulo">J<sub>23</sub></span> A cúpula quadrada girolongada, ou gyescu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma octogonal à base octogonal da cúpula quadrada. Se uma segunda cúpula for anexada à outra base octogonal do antiprisma, o resultado é a bicúpula quadrada giro-alongada.
+<br><br><b>Faces:</b> 20 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 44 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 141.59°, 135° e 96.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>24. Cúpula pentagonal girolongada</h4>
+<a href="../vr/j24_gyroelongated_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto"></a><img src="../ar/26.png" class="qr">
+ <br><span class="titulo">J<sub>24</sub></span> A cúpula pentagonal giroalongada, ou gyepcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do antiprisma, o resultado é a bicúpula pentagonal giroalongada.
+<br><br><b>Faces:</b> 25 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62°, 126.96° e 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>25. Rotunda pentagonal girolongada</h4>
+<a href="../vr/j25_gyroelongated_pentagonal_rotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto"></a><img src="../ar/25.png" class="qr">
+ <br><span class="titulo">J<sub>25</sub></span> A rotunda pentagonal giroalongada, ou gyepro, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da rotunda pentagonal. Se uma segunda rotunda for anexada à outra base decagonal do antiprisma, o resultado é a birotunda pentagonal giroalongada.
+<br><br><b>Faces:</b> 30 triângulos, 6 pentágonos e 1 decágono | <b>Arestas:</b> 65 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 158.68°, 142.62° e 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_rotunda" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
