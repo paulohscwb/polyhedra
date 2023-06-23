@@ -961,7 +961,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><a href="../johnson1.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson1.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:7px;" src="../ar/example5.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
 <hr>
 <h4>1. Pirâmide quadrada</h4>
 <a href="../vr/j1_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto"></a><img src="../ar/49.png" class="qr">
