@@ -1090,6 +1090,42 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/j25_gyroelongated_pentagonal_rotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/25A.png" class="foto"></a><img src="ar/25.png" class="qr">
  <br><span class="titulo">J<sub>25</sub></span> The gyroelongated pentagonal rotunda, or gyepro, is one of the Johnson solids. It can be constructed by attaching a decagonal antiprism to the decagonal base of the pentagonal rotunda. If a second rotunda is attached to the other decagonal base of the antiprism, the result is the gyroelongated pentagonal birotunda.   
 <br><br><b>Faces:</b> 30 triangles, 6 pentagons and 1 decagon | <b>Edges:</b> 65 | <b>Vertices:</b> 30 | <b>Dihedral angles:</b> 174.43°, 159.19°, 158.68°, 142.62° and 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_rotunda" target="_blank">More...</a>
+<hr>
+<h4>26. Gyrobifastigium</h4>
+<a href="vr/j26_gyrobifastigium.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto"></a><img src="ar/24.png" class="qr">
+ <br><span class="titulo">J<sub>26</sub></span> The gyrobifastigium, or gybef, is one of the Johnson solids. It can be constructed by attaching two triangular prisms, seen as digonal cupolas, at one of their square faces so that their opposite edges are perpendicular. As such, it could be considered to be a digonal gyrobicupola.   
+<br><br><b>Faces:</b> 4 triangles and 4 squares | <b>Edges:</b> 14 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 150°, 90° and 60°. <a href="https://polytope.miraheze.org/wiki/Gyrobifastigium" target="_blank">More...</a>
+<hr>
+<h4>27. Triangular orthobicupola</h4>
+<a href="vr/j27_triangular_orthobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/23A.png" class="foto"></a><img src="ar/23.png" class="qr">
+ <br><span class="titulo">J<sub>27</sub></span> The triangular orthobicupola, or tobcu, is one of the Johnson solids. It can be constructed by attaching two triangular cupolas at their hexagonal bases, such that the two triangular bases are in the same orientation. If the cupolas are joined such that the bases are rotated 60°, the result is the triangular gyrobicupola, better known as the uniform cuboctahedron.   
+<br><br><b>Faces:</b> 8 triangles and 6 squares | <b>Edges:</b> 24 | <b>Vertices:</b> 12 | <b>Dihedral angles:</b> 141.06°, 125.26° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Triangular_orthobicupola" target="_blank">More...</a>
+<hr>
+<h4>28. Square orthobicupola</h4>
+<a href="vr/j28_square_orthobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/22A.png" class="foto"></a><img src="ar/22.png" class="qr">
+ <br><span class="titulo">J<sub>28</sub></span> The square orthobicupola, or squobcu, is one of the Johnson solids. It can be constructed by attaching two square cupolas at their octagonal bases, such that the two square bases are in the same orientation. If the cupolas are joined such that the bases are rotated 45°, the result is the square gyrobicupola.    
+<br><br><b>Faces:</b> 8 triangles and 10 squares | <b>Edges:</b> 32 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> 144.74°, 135°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Square_orthobicupola" target="_blank">More...</a>
+<hr>
+<h4>29. Square gyrobicupola</h4>
+<a href="vr/j29_square_gyrobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/21A.png" class="foto"></a><img src="ar/21.png" class="qr">
+ <br><span class="titulo">J<sub>29</sub></span> The square gyrobicupola, or squigybcu, is one of the Johnson solids. It can be constructed by attaching two square cupolas at their octagonal bases, such that the two square bases are rotated 45° from each other. It is topologically equivalent to the rectified square antiprism.     
+<br><br><b>Faces:</b> 8 triangles and 10 squares | <b>Edges:</b> 32 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> 144.74°, 135° and 99.74°. <a href="https://polytope.miraheze.org/wiki/Square_gyrobicupola" target="_blank">More...</a>
+<hr>
+<h4>30. Pentagonal orthobicupola</h4>
+<a href="vr/j30_pentagonal_orthobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20bA.png" class="foto"></a><img src="ar/20b.png" class="qr">
+ <br><span class="titulo">J<sub>30</sub></span> The pentagonal orthobicupola, or pobcu, is one of the Johnson solids. It can be constructed by attaching two pentagonal cupolas at their decagonal bases, such that the two pentagonal bases are in the same orientation. If the cupolas are joined such that the bases are rotated 36°, the result is the pentagonal gyrobicupola.      
+<br><br><b>Faces:</b> 10 triangles, 10 squares and 2 pentagons | <b>Edges:</b> 40 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 159.09°, 148.28°, 74.75° and 63.43°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthobicupola" target="_blank">More...</a>
+<p class="topop"><a href="#p11" class="topo">back to top</a></p>
+<hr>
+<h4>31. Pentagonal gyrobicupola</h4>
+<a href="vr/j31_pentagonal_gyrobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/19bA.png" class="foto"></a><img src="ar/19b.png" class="qr">
+ <br><span class="titulo">J<sub>31</sub></span> The pentagonal gyrobicupola, or pegybcu, is one of the Johnson solids. It can be constructed by attaching two pentagonal cupolas at their decagonal bases, such that the two pentagonal bases are rotated 36° with respect to each other. It is topologically equivalent to the rectified pentagonal antiprism.       
+<br><br><b>Faces:</b> 10 triangles, 10 squares and 2 pentagons | <b>Edges:</b> 40 | <b>Vertices:</b> 20 | <b>Dihedral angles:</b> 159.09°, 148.28° and 69.09°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_gyrobicupola" target="_blank">More...</a>
+<hr>
+<h4>32. Pentagonal orthocupolarotunda</h4>
+<a href="vr/j32_pentagonal_orthocupolarontunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/18bA.png" class="foto"></a><img src="ar/18b.png" class="qr">
+ <br><span class="titulo">J<sub>32</sub></span> The pentagonal orthocupolarotunda, or pocuro, is one of the Johnson solids. It can be constructed by attaching a pentagonal cupola and a pentagonal rotunda at their decagonal bases, such that the two pentagonal bases are in the same orientation. If the cupola and rotunda are joined such that the bases are rotated 36º, the result is the pentagonal gyrocupolarotunda.        
+<br><br><b>Faces:</b> 15 triangles, 5 squares and 7 pentagons | <b>Edges:</b> 50 | <b>Vertices:</b> 25 | <b>Dihedral angles:</b> 159.09°, 148.28°, 142.62°, 110.95° and 100.81°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthocupolarotunda" target="_blank">More...</a>
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 
