@@ -962,7 +962,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><a href="johnson1.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson1.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
-<p align="center"><img style="border-radius:7px;" src="ar/example5.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
 <hr>
 <h4>1. Square pyramid</h4>
 <a href="vr/j1_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto"></a><img src="ar/49.png" class="qr">
