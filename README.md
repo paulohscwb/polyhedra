@@ -833,7 +833,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 </details>
 
-<details id="p7" style="border-bottom: 1px solid #a2dec0;">
+<details id="p7">
   <summary>Pyramids, tetrahedrons, prisms and antiprisms</summary>
   To view polyhedra in AR, simply visit:
 <p align="center"><a href="polyhedron.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron.html</a></p> 
@@ -954,6 +954,41 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>When we consider the triangular lateral faces on a toroid, we have a polyhedron called an antitoroid. The example shown is a regular heptagonal base, with equilateral triangles on the side faces.
 <br><br><b>Faces:</b> 2n equilateral triangles and 2n obtuse triangles | <b>Edges:</b> 6n | <b>Vertices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalNonRegular.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
+</details>
+
+<details id="p11" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Johnson solids: J<sub>1</sub> - J<sub>32</sub></summary>
+  A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In this first part, we have first 32 Johnson solids. To view Johnson solids in AR, simply visit:
+<p align="center"><a href="johnson1.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson1.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example5.jpg" width="85%"></p>
+<hr>
+<h4>1. Square pyramid</h4>
+<a href="vr/j1_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto"></a><img src="ar/49.png" class="qr">
+ <br><span class="titulo">J<sub>1</sub></span> The square pyramid, or squippy, is a pyramid with a square base and 4 triangles as sides. The version with equilateral triangles as sides is the first of the 92 Johnson solids. Two square pyramids can be joined together at their square base to form a regular octahedron.
+<br><br><b>Faces:</b> 4 triangles (side faces), 1 square (base) | <b>Edges:</b> 8 | <b>Vertices:</b> 5 | <b>Dihedral angles:</b> 109.47° and 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_pyramid" target="_blank">More...</a>
+<hr>
+<h4>2. Pentagonal pyramid</h4>
+<a href="vr/j2_pentagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto"></a><img src="ar/48.png" class="qr">
+ <br><span class="titulo">J<sub>2</sub></span> The pentagonal pyramid, or peppy, is a pyramid with a pentagonal base and 5 triangles as sides. The version with equilateral triangles as sides is the second of the 92 Johnson solids. It is the vertex-first cap of the icosahedron. A regular icosahedron can be constructed by attaching two pentagonal pyramids to the bases of a pentagonal antiprism.
+<br><br><b>Faces:</b> 5 triangles (side faces) and 1 pentagon (base) | <b>Edges:</b> 10 | <b>Vertices:</b> 6 | <b>Dihedral angles:</b> 138.19° and 37.38°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_pyramid" target="_blank">More...</a>
+<hr>
+<h4>3. Triangular cupola</h4>
+<a href="vr/j3_triangular_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/47A.png" class="foto"></a><img src="ar/47.png" class="qr">
+ <br><span class="titulo">J<sub>3</sub></span> The triangular cupola, or tricu, is one of the 92 Johnson solids. It is a cupola based on the equilateral triangle, and is one of three Johnson solid cupolas, the other two being the square cupola and the pentagonal cupola.
+<br><br><b>Faces:</b> 4 triangles, 3 squares and 1 hexagon | <b>Edges:</b> 15 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 125.26°, 70.53° and 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cupola" target="_blank">More...</a>
+<hr>
+<h4>4. Square cupola</h4>
+<a href="vr/j4_square_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto"></a><img src="ar/46.png" class="qr">
+ <br><span class="titulo">J<sub>4</sub></span> The square cupola, or squacu, is one of the 92 Johnson solids. It is a cupola based on the square, and is one of three Johnson solid cupolas. It can be obtained as a segment of the small rhombicuboctahedron, when considered as an elongated square orthobicupola.
+<br><br><b>Faces:</b> 4 triangles, 5 squares and 1 octagon | <b>Edges:</b> 20 | <b>Vertices:</b> 12 | <b>Dihedral angles:</b> 144.74°, 135°, 45° and 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cupola" target="_blank">More...</a>
+<hr>
+<h4>5. Pentagonal cupola</h4>
+<a href="vr/j5_pentagonal_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto"></a><img src="ar/45.png" class="qr">
+ <br><span class="titulo">J<sub>5</sub></span> The pentagonal cupola, or pecu, is one of the 92 Johnson solids. It is a cupola based on the pentagon, and is one of three Johnson solid cupolas. It can be obtained as a segment of the small rhombicosidodecahedron. 
+<br><br><b>Faces:</b> 5 triangles, 5 squares, 1 pentagon and 1 decagon | <b>Edges:</b> 25 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 159.09°, 148.28°, 37.38° and 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">More...</a>
+<p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 
 
