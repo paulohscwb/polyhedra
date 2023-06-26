@@ -1,0 +1,64 @@
+<html>
+  <head>
+    <title>Polyhedra</title>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.031;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="johnson/solidos.mtl"></a-asset-item>
+		</a-assets>
+				
+		<a-entity position="0 0 0" rotation="50.53 0 -74.04" scale="4.5 4.5 4.5">
+			<a-obj-model src="johnson/j46_gyroelongated_pentagonal_bicupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="johnson/j46_gyroelongated_pentagonal_bicupolaL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera mtl9' position='-0.942301 -0.435696 0.287991'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.736715 0.342260 -0.136766'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.716200 -0.281228 -0.294218'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.680334 0.758077 0.350950'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.653736 -0.229833 0.824928'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.626624 -0.874236 -0.061265'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.516012 0.397771 0.858028'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.476990 -0.788175 0.558536'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.259134 0.641512 -0.447112'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.225940 -0.367313 -0.701875'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.202753 1.057329 0.040605'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.136364 -0.960322 -0.468922'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.116423 0.854913 0.645191'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.053283 -1.063987 0.160603'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.029965 -0.362198 0.739264'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.056543 0.202971 -0.796368'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.107759 0.265405 0.772363'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.287508 0.971244 -0.367052'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.341218 -0.661070 -0.779268'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.392401 0.966981 0.267715'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.393741 -0.638011 0.341331'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.455541 -0.951919 -0.216873'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.603185 0.532703 -0.716309'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.616584 0.377473 0.394887'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.623700 -0.090786 -0.873761'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.793330 -0.180868 0.128495'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.816108 0.691169 -0.130218'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.855130 -0.494777 -0.429710'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.992854 0.132827 -0.396611'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.962816 0.187793 0.445444'></a-sphere>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 50 150 700; maxDistance: 1500;"></a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="aliceblue"></a-sky>
+    </a-scene>
+  </body>
+</html>
