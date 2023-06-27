@@ -310,7 +310,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 24 triângulos equiláteros | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 334.15°, 193.09° e 131.81°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 <hr>
-<h4>21. Dual do Deltaedro de Möbius de 24 faces</h4>
+<h4>21. Dual do Deltaedro de Möbius</h4>
  <a href="../vr/mobius24_dual.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/113A.png" class="foto"></a><img src="../ar/113.png" class="qr">
  <br>Trata-se de um tetraedro truncado, determinando faces hexagonais e retangulares. O dual do deltaedro de Möbius de 24 faces foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do deltaedro de Möbius. 
 <br><br><b>Faces:</b> 8 hexágonos e 6 retângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 125.25° e 109.47°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
