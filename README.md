@@ -279,7 +279,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>14. Small Dodecahemidodecahedron</h4>
  <a href="vr/small_dodecahemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/193A.png" class="foto"></a><img src="ar/193.png" class="qr">
  <br><span class="titulo">U<sub>51</sub></span> The small dodecahemidodecahedron is a nonconvex uniform polyhedron whose dual polyhedron is the small dodecahemidodecacron. Its circumradius for unit edge lengths is R=&phi;, where &phi; is the golden ratio. 
-<br><br><b>Faces:</b> 12 regular pentagons and 10 regular hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 regular pentagons and 10 regular decagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angle:</b> 63.43°. <a href="https://mathworld.wolfram.com/SmallDodecahemidodecahedron.html" target="_blank">More...</a>
  <hr>
 <h4>15. Great Icosihemidodecahedron</h4>
  <a href="vr/great_icosihemidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/194A.png" class="foto"></a><img src="ar/194.png" class="qr">
