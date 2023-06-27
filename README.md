@@ -312,7 +312,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 24 equilateral triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 334.15°, 193.09° and 131.81°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
 <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 <hr>
-<h4>21. Dual of Möbius Deltahedron - 24 faces</h4>
+<h4>21. Möbius Deltahedron dual</h4>
  <a href="vr/mobius24_dual.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/113A.png" class="foto"></a><img src="ar/113.png" class="qr">
  <br>It is a truncated tetrahedron, determining hexagonal and rectangular faces. The dual of Möbius Deltahedron (24 faces) was modeled by the author of this page (Paulo Henrique Siqueira) using the coordinates of the vertices and the respective edges of the Möbius Deltahedron.
 <br><br><b>Faces:</b> 8 hexagons and 6 rectangles | <b>Edges:</b> 36 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 125.25° and 109.47°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
