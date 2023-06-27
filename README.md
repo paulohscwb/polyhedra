@@ -322,9 +322,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The Octakis Hexahedron is a 48-faced Möbius deltahedron derived from the cube and the medial rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
 <br><br><b>Faces:</b> 48 equilateral triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angles:</b> 319.8°, 203.74° and 105.16°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
 <hr>
-<h4>23. Dual of Möbius Octakis Hexahedron</h4>
+<h4>23. Möbius Octakis Hexahedron dual</h4>
  <a href="vr/mobius48a_dual.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/112A.png" class="foto"></a><img src="ar/112.png" class="qr">
- <br>The dual of Möbius Octakis Hexahedron was modeled by the author of this page (Paulo Henrique Siqueira) using the coordinates of the vertices and the respective edges of the Möbius Octakis Hexahedron.
+ <br>It is a truncated octahedron, determining hexagonal, octagonal and rectangular faces. The dual of Möbius Octakis Hexahedron was modeled by the author of this page (Paulo Henrique Siqueira) using the coordinates of the vertices and the respective edges of the Möbius Octakis Hexahedron.
 <br><br><b>Faces:</b> 6 octagons, 12 rectangles and 8 hexagons | <b>Edges:</b> 72 | <b>Vertices:</b> 48 | <b>Dihedral angles:</b> 144.74°, 125.19° and 135°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
  <hr>
 <h4>24. Möbius Hexakis Octahedron</h4>
