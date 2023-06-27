@@ -332,12 +332,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>25. Icosaedro Hexakis de Möbius</h4>
  <a href="../vr/mobius120a.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/116A.png" class="foto"></a><img src="../ar/116.png" class="qr">
- <br>O Icosaedro Hexakis é um deltaedro de Möbius com 120 faces derivado do icosaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada borda em um plano de simetria.
+ <br>O Icosaedro Hexakis é um deltaedro de Möbius com 120 faces derivado do icosaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada aresta em um plano de simetria.
 <br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 282.71°, 206.75° e 85.47°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>26. Dodecaedro 10-akis de Möbius</h4>
  <a href="../vr/mobius120b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/115A.png" class="foto"></a><img src="../ar/115.png" class="qr">
- <br>O Dodecaedro 10-akis é um deltaedro de Möbius com 120 faces derivado do dodecaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada borda em um plano de simetria.
+ <br>O Dodecaedro 10-akis é um deltaedro de Möbius com 120 faces derivado do dodecaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada aresta em um plano de simetria.
 <br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 332.16°, 132.64° e 82.51°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 </details>
@@ -1092,7 +1092,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>26. Girobifastigium</h4>
 <a href="../vr/j26_gyrobifastigium.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto"></a><img src="../ar/24.png" class="qr">
- <br><span class="titulo">J<sub>26</sub></span> O girobifastigium, ou gybef, é um dos sólidos de Johnson. Ele pode ser construído anexando dois prismas triangulares, vistos como cúpulas digonais, em uma de suas faces quadradas, de modo que suas bordas opostas sejam perpendiculares. Como tal, poderia ser considerado uma girobicúpula digonal.
+ <br><span class="titulo">J<sub>26</sub></span> O girobifastigium, ou gybef, é um dos sólidos de Johnson. Ele pode ser construído anexando dois prismas triangulares, vistos como cúpulas digonais, em uma de suas faces quadradas, de modo que suas arestas opostas sejam perpendiculares. Como tal, poderia ser considerado uma girobicúpula digonal.
 <br><br><b>Faces:</b> 4 triângulos e 4 quadrados | <b>Arestas:</b> 14 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 150°, 90° e 60°. <a href="https://polytope.miraheze.org/wiki/Gyrobifastigium" target="_blank">Mais sobre...</a>
 <hr>
 <h4>27. Ortobicúpula triangular</h4>
