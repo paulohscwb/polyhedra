@@ -322,7 +322,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>23. Dual do Hexaedro Octakis de Möbius</h4>
  <a href="../vr/mobius48a_dual.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/112A.png" class="foto"></a><img src="../ar/112.png" class="qr">
- <br>É uma versão do octaedro truncado. O dual do hexaedro octakis de Möbius foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do hexaedro octakis de Möbius.
+ <br>Trata-se de um octaedro truncado, determinando faces hexagonais, octogonais e retangulares. O dual do hexaedro octakis de Möbius foi modelado pelo autor desta página (Paulo Henrique Siqueira) utilizando as coordenadas dos vértices e as respectivas arestas do hexaedro octakis de Möbius.
 <br><br><b>Faces:</b> 6 octógonos, 8 hexágonos e 12 retângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 48 | <b>Ângulos diédricos:</b> 144.74°, 125.19° e 135°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a>
  <hr>
 <h4>24. Octaedro Hexakis de Möbius</h4>
