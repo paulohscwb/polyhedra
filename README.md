@@ -1238,6 +1238,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>52</sub></span> The augmented pentagonal prism, or aupip, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the pentagonal prism. It consists of 4 triangles, 4 squares and 2 pentagons.     
 <br><br><b>Faces:</b> 4 triangles, 4 squares and 2 pentagons | <b>Edges:</b> 19 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">More...</a>
 <p class="topop"><a href="#p12" class="topo">back to top</a></p>
+<hr>
+<h4>21. Biaugmented pentagonal prism</h4>
+<a href="vr/j53_biaugmented_pentagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/205A.png" class="foto"></a><img src="ar/205.png" class="qr">
+ <br><span class="titulo">J<sub>53</sub></span> The biaugmented pentagonal prism, or baupip, is one of the Johnson solids. It can be constructed by attaching square pyramids to two non-adjacent square faces of the pentagonal prism: the solid obtained by attaching pyramids to adjacent equatorial faces is not convex, and thus not a Johnson solid. 
+<br><br><b>Faces:</b> 8 triangles, 3 squares and 2 pentagons | <b>Edges:</b> 23 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_pentagonal_prism" target="_blank">More...</a>
+<hr>
+<h4>22. Augmented hexagonal prism</h4>
+<a href="vr/j54_augmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/206A.png" class="foto"></a><img src="ar/206.png" class="qr">
+ <br><span class="titulo">J<sub>54</sub></span> The augmented hexagonal prism, or auhip, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the hexagonal prism. When two or three such pyramids are attached, the result may be a parabiaugmented hexagonal prism J<sub>55</sub>, a metabiaugmented hexagonal prism J<sub>56</sub>, or a triaugmented hexagonal prism J<sub>57</sub>.
+<br><br><b>Faces:</b> 4 triangles, 5 squares and 2 hexagons | <b>Edges:</b> 22 | <b>Vertices:</b> 13 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_hexagonal_prism" target="_blank">More...</a>
+<hr>
+<h4>23. Parabiaugmented hexagonal prism</h4>
+<a href="vr/j55_parabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/207A.png" class="foto"></a><img src="ar/207.png" class="qr">
+ <br><span class="titulo">J<sub>55</sub></span> The parabiaugmented hexagonal prism, or pabauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to two opposite square faces of the hexagonal prism. Attaching the pyramids to nonadjacent, nonparallel equatorial faces yields a metabiaugmented hexagonal prism J<sub>56</sub>: the solid obtained by attaching pyramids to adjacent equatorial faces is not convex, and thus not a Johnson solid. 
+<br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 25 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_hexagonal_prism" target="_blank">More...</a>
+<hr>
+<h4>24. Metabiaugmented hexagonal prism</h4>
+<a href="vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/208A.png" class="foto"></a><img src="ar/208.png" class="qr">
+ <br><span class="titulo">J<sub>56</sub></span> The metabiaugmented hexagonal prism, or mabauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to two non-opposite, non-adjacent square faces of the hexagonal prism. Attaching the pyramids to opposite equatorial faces yields a parabiaugmented hexagonal prism: the solid obtained by attaching pyramids to adjacent equatorial faces is not convex, and thus not a Johnson solid.
+<br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 25 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_hexagonal_prism" target="_blank">More...</a>
+<hr>
+<h4>25. Triaugmented hexagonal prism</h4>
+<a href="vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/209A.png" class="foto"></a><img src="ar/209.png" class="qr">
+ <br><span class="titulo">J<sub>57</sub></span> The triaugmented hexagonal prism, or tauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to three mutually non-adjacent square faces of the hexagonal prism. It consists of 12 triangles, 3 squares, and 2 hexagons.
+<br><br><b>Faces:</b> 12 triangles, 3 squares, and 2 hexagons | <b>Edges:</b> 30 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 174.74°, 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_hexagonal_prism" target="_blank">More...</a>
+<p class="topop"><a href="#p12" class="topo">back to top</a></p>
 </details>
 
 

@@ -1235,7 +1235,33 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>20. Prisma pentagonal aumentado</h4>
 <a href="../vr/j52_augmented_pentagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/204A.png" class="foto"></a><img src="../ar/204.png" class="qr">
  <br><span class="titulo">J<sub>52</sub></span> O prisma pentagonal aumentado, ou aupip, é um dos sólidos de Johnson. Pode ser construído anexando uma pirâmide quadrada a uma das faces quadradas do prisma pentagonal. É composto por 4 triângulos, 4 quadrados e 2 pentágonos.
-<br><br><b>Faces:</b> 4 triângulos, 4 quadrados e 2 pentágonos | <b>Arestas:</b> 19 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 4 triângulos, 4 quadrados e 2 pentágonos | <b>Arestas:</b> 19 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
+<hr>
+<h4>21. Prisma pentagonal biaumentado</h4>
+<a href="../vr/j53_biaugmented_pentagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/205A.png" class="foto"></a><img src="../ar/205.png" class="qr">
+ <br><span class="titulo">J<sub>53</sub></span> O prisma pentagonal biaumentado, ou baupip, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a duas faces quadradas não adjacentes do prisma pentagonal: o sólido obtido anexando pirâmides a faces equatoriais adjacentes não é convexo e, portanto, não é um sólido de Johnson.
+<br><br><b>Faces:</b> 8 triângulos, 3 quadrados e 2 pentágonos | <b>Arestas:</b> 23 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_pentagonal_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>22. Prisma hexagonal aumentado</h4>
+<a href="../vr/j54_augmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/206A.png" class="foto"></a><img src="../ar/206.png" class="qr">
+ <br><span class="titulo">J<sub>54</sub></span> O prisma hexagonal aumentado, ou auhip, é um dos sólidos de Johnson. Pode ser construído anexando uma pirâmide quadrada a uma das faces quadradas do prisma hexagonal. Quando duas ou três dessas pirâmides são anexadas, o resultado pode ser um prisma hexagonal parabiaumentado J<sub>55</sub>, um prisma hexagonal metabiaumentado J<sub>56</sub> ou um prisma hexagonal triaumentado J<sub> 57</sub>.
+<br><br><b>Faces:</b> 4 triângulos, 5 quadrados e 2 hexágonos | <b>Arestas:</b> 22 | <b>Vértices:</b> 13 | <b>Ângulos diédricos:</b> 174.74°, 144.74°, 120°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_hexagonal_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>23. Prisma hexagonal parabiaumentado</h4>
+<a href="../vr/j55_parabiaugmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/207A.png" class="foto"></a><img src="../ar/207.png" class="qr">
+ <br><span class="titulo">J<sub>55</sub></span> O prisma hexagonal parabiaumentado, ou pabauhip, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a duas faces quadradas opostas do prisma hexagonal. Anexar as pirâmides a faces equatoriais não adjacentes e não paralelas produz um prisma hexagonal metabiaumentado J<sub>56</sub>: o sólido obtido anexando pirâmides a faces equatoriais adjacentes não é convexo e, portanto, não é um sólido de Johnson.
+<br><br><b>Faces:</b> 8 triângulos, 4 quadrados e 2 hexágonos | <b>Arestas:</b> 26 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 174.74°, 144.74°, 120°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_hexagonal_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>24. Prisma hexagonal metabiaumentado</h4>
+<a href="../vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/208A.png" class="foto"></a><img src="../ar/208.png" class="qr">
+ <br><span class="titulo">J<sub>56</sub></span> O prisma hexagonal metabiaumentado, ou mabauhip, é um dos sólidos de Johnson. Ele pode ser construído anexando pirâmides quadradas a duas faces quadradas não opostas e não adjacentes do prisma hexagonal. Anexar as pirâmides a faces equatoriais opostas produz um prisma hexagonal parabiaumentado: o sólido obtido anexando pirâmides a faces equatoriais adjacentes não é convexo e, portanto, não é um sólido de Johnson.
+<br><br><b>Faces:</b> 8 triângulos, 4 quadrados e 2 hexágonos | <b>Arestas:</b> 26 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 174.74°, 144.74°, 120°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_hexagonal_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>25. Prisma hexagonal metabiaumentado</h4>
+<a href="../vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/209A.png" class="foto"></a><img src="../ar/209.png" class="qr">
+ <br><span class="titulo">J<sub>57</sub></span> O prisma hexagonal triaumentado, ou tauhip, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a três faces quadradas mutuamente não adjacentes do prisma hexagonal. É composto por 12 triângulos, 3 quadrados e 2 hexágonos.
+<br><br><b>Faces:</b> 12 triângulos, 3 quadrados e 2 hexágonos | <b>Arestas:</b> 30 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 174.74°, 144.74°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_hexagonal_prism" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
 
