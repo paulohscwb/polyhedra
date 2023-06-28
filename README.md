@@ -1187,6 +1187,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>42</sub></span> The elongated pentagonal orthobirotunda, or epobro, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the pentagonal orthobirotunda. By rotating one of the pentagonal rotundae J<sub>6</sub> through 36° before inserting the prism, we obtain the elongated pentagonal gyrobirotunda J<sub>43</sub>.
 <br><br><b>Faces:</b> 20 triangles, 10 squares and 12 pentagons | <b>Edges:</b> 80 | <b>Vertices:</b> 40 | <b>Dihedral angles:</b> 169.19°, 153.43°, 144° and 142.62°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobirotunda" target="_blank">More...</a>
 <p class="topop"><a href="#p12" class="topo">back to top</a></p>
+<hr>
+<h4>11. Elongated pentagonal gyrobirotunda</h4>
+<a href="vr/j43_elongated_pentagonal_gyrobirotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7bA.png" class="foto"></a><img src="ar/7b.png" class="qr">
+ <br><span class="titulo">J<sub>43</sub></span> The elongated pentagonal gyrobirotunda, or epgybro, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the icosidodecahedron, seen as a pentagonal gyrobirotunda. By rotating one of the pentagonal rotundae J<sub>6</sub> through 36° before inserting the prism yields an elongated pentagonal orthobirotunda J<sub>42</sub>. 
+<br><br><b>Faces:</b> 20 triangles, 10 squares and 12 pentagons | <b>Edges:</b> 80 | <b>Vertices:</b> 40 | <b>Dihedral angles:</b> 169.19°, 153.43°, 144° and 142.62°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrobirotunda" target="_blank">More...</a>
+<hr>
+<h4>12. Gyroelongated triangular bicupola</h4>
+<a href="vr/j44_gyroelongated_triangular_bicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6bA.png" class="foto"></a><img src="ar/6b.png" class="qr">
+ <br><span class="titulo">J<sub>44</sub></span> The gyroelongated triangular bicupola, or gyetibcu, is one of the Johnson solids. It can be constructed by attaching triangular cupolas to the bases of the hexagonal antiprism. The gyroelongated triangular bicupola is one of five Johnson solids which are chiral, meaning that they have a "left-handed" and a "right-handed" form. 
+<br><br><b>Faces:</b> 20 triangles and 6 squares | <b>Edges:</b> 42 | <b>Vertices:</b> 18 | <b>Dihedral angles:</b> 169.43°, 153.64°, 145.22° and 125.26°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_bicupola" target="_blank">More...</a>
+<hr>
+<h4>13. Gyroelongated square bicupola</h4>
+<a href="vr/j45_gyroelongated_square_bicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/5bA.png" class="foto"></a><img src="ar/5b.png" class="qr">
+ <br><span class="titulo">J<sub>45</sub></span> The gyroelongated square bicupola, or gyesquibcu, is one of the Johnson solids. It can be constructed by attaching square cupolas to the bases of the octagonal antiprism. It is one of the five chiral Johnson solids.  
+<br><br><b>Faces:</b> 24 triangles and 10 squares | <b>Edges:</b> 56 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 153.96°, 151.33°, 144.74°, 135° and 141.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bicupola" target="_blank">More...</a>
+<hr>
+<h4>14. Gyroelongated pentagonal bicupola</h4>
+<a href="vr/j46_gyroelongated_pentagonal_bicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/4bA.png" class="foto"></a><img src="ar/4b.png" class="qr">
+ <br><span class="titulo">J<sub>46</sub></span> The gyroelongated pentagonal bicupola, or gyepibcu, is one of the Johnson solids. It can be constructed by attaching pentagonal cupolas to the bases of the decagonal antiprism. It is one of the five chiral Johnson solids.   
+<br><br><b>Faces:</b> 30 triangles, 10 squares and 2 pentagons | <b>Edges:</b> 70 | <b>Vertices:</b> 30 | <b>Dihedral angles:</b> 159.19°, 159.09°, 148.28°, 132.62° and 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_bicupola" target="_blank">More...</a>
+<hr>
+<h4>15. Gyroelongated pentagonal cupolarotunda</h4>
+<a href="vr/j47_gyroelongated_pentagonal_cupolarotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/3bA.png" class="foto"></a><img src="ar/3b.png" class="qr">
+ <br><span class="titulo">J<sub>47</sub></span> The gyroelongated pentagonal cupolarotunda, or gyepcuro, is one of the Johnson solids. It can be constructed by attaching a pentagonal cupola and a pentagonal rotunda to opposite bases of the decagonal antiprism. It is one of five chiral Johnson solids.    
+<br><br><b>Faces:</b> 35 triangles, 5 squares and 7 pentagons | <b>Edges:</b> 80 | <b>Vertices:</b> 35 | <b>Dihedral angles:</b> 174.43°, 159.19°, 159.09°, 158.68°, 148.28°, 142.62°, 132.62° and 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupolarotunda" target="_blank">More...</a>
+<p class="topop"><a href="#p12" class="topo">back to top</a></p>
 </details>
 
 
