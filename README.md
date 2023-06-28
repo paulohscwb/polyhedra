@@ -1161,6 +1161,31 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/j37_elongated_square_gyrobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/13bA.png" class="foto"></a><img src="ar/13b.png" class="qr">
  <br><span class="titulo">J<sub>37</sub></span> The elongated square gyrobicupola, or esquigybcu, is one of the Johnson solids. It can be constructed by inserting an octagonal prism between the two halves of the square gyrobicupola. It can also be constructed from the small rhombicuboctahedron by rotating one of its square cupola segments 45°, and could be called the gyrate rhombicuboctahedron.   
 <br><br><b>Faces:</b> 8 triangles and 18 squares | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 144.74° and 135°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_gyrobicupola" target="_blank">More...</a>
+<hr>
+<h4>6. Elongated pentagonal orthobicupola</h4>
+<a href="vr/j38_elongated_pentagonal_orthobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12bA.png" class="foto"></a><img src="ar/12b.png" class="qr">
+ <br><span class="titulo">J<sub>38</sub></span> The elongated pentagonal orthobicupola, or epobcu, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the pentagonal orthobicupola. By rotating one of the domes by 36° before inserting the prism, we obtain an elongated pentagonal gyrobidome J<sub>39</sub>.   
+<br><br><b>Faces:</b> 10 triangles, 20 squares and 2 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angles:</b> 159.09°, 148.28°, 144°, 127.38° and 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobicupola" target="_blank">More...</a>
+<hr>
+<h4>7. Elongated pentagonal gyrobicupola</h4>
+<a href="vr/j39_elongated_pentagonal_gyrobicupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/11bA.png" class="foto"></a><img src="ar/11b.png" class="qr">
+ <br><span class="titulo">J<sub>39</sub></span> The elongated pentagonal gyrobicupola, or epigybcu, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the pentagonal gyrobicupola. By rotating one of the pentagonal cupolae J<sub>5</sub> through 36° before inserting the prism, we obtain an elongated pentagonal orthobicupola J<sub>38</sub>.
+<br><br><b>Faces:</b> 10 triangles, 20 squares and 2 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 30 | <b>Dihedral angles:</b> 159.09°, 148.28°, 144°, 127.38° and 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrobicupola" target="_blank">More...</a>
+<hr>
+<h4>8. Elongated pentagonal orthocupolarotunda</h4>
+<a href="vr/j40_elongated_pentagonal_orthocupolarotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/10bA.png" class="foto"></a><img src="ar/10b.png" class="qr">
+ <br><span class="titulo">J<sub>40</sub></span> The elongated pentagonal orthocupolarotunda, or epocuro, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the pentagonal orthocupolarotunda. By rotating either the cupola or the rotunda through 36° before inserting the prism, we obtain an elongated pentagonal gyrocupolarotunda J<sub>41</sub>.
+<br><br><b>Faces:</b> 15 triangles, 15 squares and 7 pentagons | <b>Edges:</b> 70 | <b>Vertices:</b> 35 | <b>Dihedral angles:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° and 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthocupolarotunda" target="_blank">More...</a>
+<hr>
+<h4>9. Elongated pentagonal gyrocupolarotunda</h4>
+<a href="vr/j41_elongated_pentagonal_gyrocupolarotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/9bA.png" class="foto"></a><img src="ar/9b.png" class="qr">
+ <br><span class="titulo">J<sub>41</sub></span> The elongated pentagonal gyrocupolarotunda, or epgycuro, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the pentagonal gyrocupolarotunda. By rotating either the pentagonal cupola J<sub>5</sub> or the pentagonal rotunda J<sub>5</sub> through 36° before inserting the prism, we obtain an elongated pentagonal orthocupolarotunda J<sub>40</sub>.
+<br><br><b>Faces:</b> 15 triangles, 15 squares and 7 pentagons | <b>Edges:</b> 70 | <b>Vertices:</b> 35 | <b>Dihedral angles:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° and 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrocupolarotunda" target="_blank">More...</a>
+<hr>
+<h4>10. Elongated pentagonal orthobirotunda</h4>
+<a href="vr/j42_elongated_pentagonal_orthobirotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/8bA.png" class="foto"></a><img src="ar/8b.png" class="qr">
+ <br><span class="titulo">J<sub>42</sub></span> The elongated pentagonal orthobirotunda, or epobro, is one of the Johnson solids. It can be constructed by inserting a decagonal prism between the two halves of the pentagonal orthobirotunda. By rotating one of the pentagonal rotundae J<sub>6</sub> through 36° before inserting the prism, we obtain the elongated pentagonal gyrobirotunda J<sub>43</sub>.
+<br><br><b>Faces:</b> 20 triangles, 10 squares and 12 pentagons | <b>Edges:</b> 80 | <b>Vertices:</b> 40 | <b>Dihedral angles:</b> 169.19°, 153.43°, 144° and 142.62°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobirotunda" target="_blank">More...</a>
 <p class="topop"><a href="#p12" class="topo">back to top</a></p>
 </details>
 
