@@ -1131,7 +1131,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <details id="p12" style="border-bottom: 1px solid #a2dec0;">
   <summary>Sólidos de Johnson: J<sub>33</sub> - J<sub>62</sub></summary>
   Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Nesta segunda parte, temos mais 30 sólidos de Johnson. Para visualizar os poliedros de Johnson em RA, visite a página:
-<p align="center"><a href="../johnson1.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2.html</a></p> 
+<p align="center"><a href="../johnson2.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>

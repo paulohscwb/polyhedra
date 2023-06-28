@@ -1132,7 +1132,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <details id="p12" style="border-bottom: 1px solid #a2dec0;">
   <summary>Johnson solids: J<sub>33</sub> - J<sub>62</sub></summary>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In this second part, we have more 30 Johnson solids. To view Johnson solids in AR, simply visit:
-<p align="center"><a href="johnson1.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2.html</a></p> 
+<p align="center"><a href="johnson2.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
