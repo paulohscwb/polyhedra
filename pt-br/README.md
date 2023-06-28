@@ -1211,6 +1211,31 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/j47_gyroelongated_pentagonal_cupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3bA.png" class="foto"></a><img src="../ar/3b.png" class="qr">
  <br><span class="titulo">J<sub>47</sub></span> A cupolarotunda pentagonal giroalongada, ou gyepcuro, é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal a bases opostas do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
 <br><br><b>Faces:</b> 35 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 80 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 159.09°, 158.68°, 148.28°, 142.62°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupolarotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>16. Birotunda pentagonal girolongada</h4>
+<a href="../vr/j48_gyroelongated_pentagonal_birotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2bA.png" class="foto"></a><img src="../ar/2b.png" class="qr">
+ <br><span class="titulo">J<sub>48</sub></span> A birotunda pentagonal girolongada, ou gyepabro, é um dos sólidos de Johnson. Pode ser construída anexando rotundas pentagonais às bases do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
+<br><br><b>Faces:</b> 40 triângulos e 12 pentágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 40 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 158.68° e 142.62°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_birotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>17. Prisma triangular aumentado</h4>
+<a href="../vr/j49_augmented_triangular_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1bA.png" class="foto"></a><img src="../ar/1b.png" class="qr">
+ <br><span class="titulo">J<sub>49</sub></span> O prisma triangular aumentado, ou autip, é um dos sólidos de Johnson. Pode ser construído anexando uma pirâmide quadrada a uma das faces quadradas do prisma triangular. O sólido resultante tem uma semelhança superficial com o girobifastígio J<sub>26</sub>, com a diferença de que este último é construído anexando um segundo prisma triangular, em vez de uma pirâmide quadrada.
+<br><br><b>Faces:</b> 6 triângulos e 2 quadrados | <b>Arestas:</b> 13 | <b>Vértices:</b> 7 | <b>Ângulos diédricos:</b> 144.74°, 114.74°, 109.47°, 90° e 60°. <a href="https://polytope.miraheze.org/wiki/Augmented_triangular_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>18. Prisma triangular biaumentado</h4>
+<a href="../vr/j50_biaugmented_triangular_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/0bA.png" class="foto"></a><img src="../ar/0b.png" class="qr">
+ <br><span class="titulo">J<sub>50</sub></span> O prisma triangular biaumentado, ou bautip, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a duas das faces quadradas do prisma triangular. Está relacionado com o prisma triangular aumentado J<sub>49</sub> e o prisma triangular triaumentado J<sub>51</sub>.
+<br><br><b>Faces:</b> 10 triângulos e 1 quadrado | <b>Arestas:</b> 17 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 169.47°, 144.74°, 114.74°, 109.47° e 90°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_triangular_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>19. Prisma triangular triaumentado</h4>
+<a href="../vr/j51_triaugmented_triangular_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/202A.png" class="foto"></a><img src="../ar/202.png" class="qr">
+ <br><span class="titulo">J<sub>51</sub></span> O prisma triangular triaumentado, ou tautip, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a todas as três faces quadradas do prisma triangular. A mesma forma também é chamada de prisma triangular tetrakis, prisma trigonal tricapado, tetracaidecadeltahedron ou tetrakaidecadeltahedron.
+<br><br><b>Faces:</b> 14 triângulos | <b>Arestas:</b> 21 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 169.47°, 144.74° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_triangular_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>20. Prisma pentagonal aumentado</h4>
+<a href="../vr/j52_augmented_pentagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/204A.png" class="foto"></a><img src="../ar/204.png" class="qr">
+ <br><span class="titulo">J<sub>52</sub></span> O prisma pentagonal aumentado, ou aupip, é um dos sólidos de Johnson. Pode ser construído anexando uma pirâmide quadrada a uma das faces quadradas do prisma pentagonal. É composto por 4 triângulos, 4 quadrados e 2 pentágonos.
+<br><br><b>Faces:</b> 4 triângulos, 4 quadrados e 2 pentágonos | <b>Arestas:</b> 19 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
 
