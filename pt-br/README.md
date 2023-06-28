@@ -1156,7 +1156,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>36</sub></span> A girobicúpula triangular alongada, ou etigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma hexagonal entre as duas metades do cuboctaedro, visto como uma girobicúpula triangular. A rotação de uma das cúpulas em 60° antes do alongamento produz a ortobicúpula triangular J<sub>35</sub>.
 <br><br><b>Faces:</b> 8 triângulos e 12 quadrados | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_gyrobicupola" target="_blank">Mais sobre...</a>
 <hr>
-<h4>5. Ortobicúpula triangular alongada</h4>
+<h4>5. Girobicúpula quadrada alongada</h4>
 <a href="../vr/j37_elongated_square_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13bA.png" class="foto"></a><img src="../ar/13b.png" class="qr">
  <br><span class="titulo">J<sub>37</sub></span> A girobicúpula quadrada alongada, ou esquigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma octogonal entre as duas metades da girobicúpula quadrada. Também pode ser construída a partir do pequeno rombicuboctaedro girando um de seus segmentos quadrados de cúpula em 45°, e poderia ser chamada de rombicuboctaedro girado.
 <br><br><b>Faces:</b> 8 triângulos e 18 quadrados | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 144.74° e 135°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_gyrobicupola" target="_blank">Mais sobre...</a>
