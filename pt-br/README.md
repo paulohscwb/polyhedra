@@ -1160,6 +1160,31 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/j37_elongated_square_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13bA.png" class="foto"></a><img src="../ar/13b.png" class="qr">
  <br><span class="titulo">J<sub>37</sub></span> A girobicúpula quadrada alongada, ou esquigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma octogonal entre as duas metades da girobicúpula quadrada. Também pode ser construída a partir do pequeno rombicuboctaedro girando um de seus segmentos quadrados de cúpula em 45°, e poderia ser chamada de rombicuboctaedro girado.
 <br><br><b>Faces:</b> 8 triângulos e 18 quadrados | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 144.74° e 135°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_gyrobicupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Ortobicúpula pentagonal alongada</h4>
+<a href="../vr/j38_elongated_pentagonal_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12bA.png" class="foto"></a><img src="../ar/12b.png" class="qr">
+ <br><span class="titulo">J<sub>38</sub></span> A ortobicúpula pentagonal alongada, ou epobcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da ortobicúpula pentagonal. Ao rotacionar uma das cúpulas em 36° antes de inserir o prisma, obtemos uma girobicúpula pentagonal alongada J<sub>39</sub>.
+<br><br><b>Faces:</b> 10 triângulos, 20 quadrados e 2 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobicupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>7. Girobicúpula pentagonal alongada</h4>
+<a href="../vr/j39_elongated_pentagonal_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11bA.png" class="foto"></a><img src="../ar/11b.png" class="qr">
+ <br><span class="titulo">J<sub>39</sub></span> A girobicúpula pentagonal alongada, ou epigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da girobicúpula pentagonal. Ao rotacionar uma das cúpulas pentagonais J<sub>5</sub> em 36° antes de inserir o prisma, obtemos uma ortobicúpula pentagonal alongada J<sub>38</sub>.
+<br><br><b>Faces:</b> 10 triângulos, 20 quadrados e 2 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrobicupola" target="_blank">Mais sobre...</a>
+<hr>
+<h4>8. Ortocupolarotunda pentagonal alongada</h4>
+<a href="../vr/j40_elongated_pentagonal_orthocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10bA.png" class="foto"></a><img src="../ar/10b.png" class="qr">
+ <br><span class="titulo">J<sub>40</sub></span> A ortocupolarotunda pentagonal alongada, ou epocuro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da ortocupolarotunda pentagonal. Ao rotacionar a cúpula ou a rotunda em 36° antes de inserir o prisma, obtemos uma girocupolarotunda pentagonal alongada J<sub>41</sub>.
+<br><br><b>Faces:</b> 15 triângulos, 15 quadrados e 7 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthocupolarotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>9. Girocupolarotunda pentagonal alongada</h4>
+<a href="../vr/j41_elongated_pentagonal_gyrocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9bA.png" class="foto"></a><img src="../ar/9b.png" class="qr">
+ <br><span class="titulo">J<sub>41</sub></span> A girocupolarotunda pentagonal alongada, ou epgycuro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da girocupolarotunda pentagonal. Ao rotacionar a cúpula pentagonal J<sub>5</sub> ou a rotunda pentagonal J<sub>5</sub> em 36° antes de inserir o prisma, obtemos uma ortocupolarotunda pentagonal alongada J<sub>40</sub>.
+<br><br><b>Faces:</b> 15 triângulos, 15 quadrados e 7 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrocupolarotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>10. Girocupolarotunda pentagonal alongada</h4>
+<a href="../vr/j42_elongated_pentagonal_orthobirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8bA.png" class="foto"></a><img src="../ar/8b.png" class="qr">
+ <br><span class="titulo">J<sub>42</sub></span> A orthobirotunda pentagonal alongada, ou epobro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da ortobirotunda pentagonal. Ao rotacionar uma das rotundas pentagonais J<sub>6</sub> a 36° antes de inserir o prisma, obtemos a girobirotunda pentagonal alongada J<sub>43</sub>.
+<br><br><b>Faces:</b> 20 triângulos, 10 quadrados e 12 pentágonos | <b>Arestas:</b> 80 | <b>Vértices:</b> 40 | <b>Ângulos diédricos:</b> 169.19°, 153.43°, 144° e 142.62°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobirotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
 
