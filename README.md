@@ -1260,9 +1260,34 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 25 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_hexagonal_prism" target="_blank">More...</a>
 <hr>
 <h4>25. Triaugmented hexagonal prism</h4>
-<a href="vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/209A.png" class="foto"></a><img src="ar/209.png" class="qr">
- <br><span class="titulo">J<sub>57</sub></span> The triaugmented hexagonal prism, or tauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to three mutually non-adjacent square faces of the hexagonal prism. It consists of 12 triangles, 3 squares, and 2 hexagons.
-<br><br><b>Faces:</b> 12 triangles, 3 squares, and 2 hexagons | <b>Edges:</b> 30 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 174.74°, 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_hexagonal_prism" target="_blank">More...</a>
+<a href="vr/j57_triaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/209A.png" class="foto"></a><img src="ar/209.png" class="qr">
+ <br><span class="titulo">J<sub>57</sub></span> The triaugmented hexagonal prism, or tauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to three mutually non-adjacent square faces of the hexagonal prism. It consists of 12 triangles, 3 squares and 2 hexagons.
+<br><br><b>Faces:</b> 12 triangles, 3 squares and 2 hexagons | <b>Edges:</b> 30 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 174.74°, 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_hexagonal_prism" target="_blank">More...</a>
+<hr>
+<h4>26. Augmented dodecahedron</h4>
+<a href="vr/j58_augmented_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/210A.png" class="foto"></a><img src="ar/210.png" class="qr">
+ <br><span class="titulo">J<sub>58</sub></span> The augmented dodecahedron, or aud, is one of the Johnson solids. It can be constructed by attaching a pentagonal pyramid to one of the faces of the regular dodecahedron. When two or three such pyramids are attached, the result may be a parabiaugmented dodecahedron J<sub>59</sub>, a metabiaugmented dodecahedron J<sub>60</sub>, or a triaugmented dodecahedron J<sub>61</sub>.
+<br><br><b>Faces:</b> 5 triangles and 11 pentagons | <b>Edges:</b> 35 | <b>Vertices:</b> 21 | <b>Dihedral angles:</b> 153.94°, 138.19° and 116.56°. <a href="https://polytope.miraheze.org/wiki/Augmented_dodecahedron_(Johnson_solid)" target="_blank">More...</a>
+<hr>
+<h4>27. Parabiaugmented dodecahedron</h4>
+<a href="vr/j59_parabiaugmented_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/211A.png" class="foto"></a><img src="ar/211.png" class="qr">
+ <br><span class="titulo">J<sub>59</sub></span> The parabiaugmented dodecahedron, or pabaud, is one of the Johnson solids. It can be constructed by attaching pentagonal pyramids to two opposite faces of the regular dodecahedron. When pyramids are attached to a dodecahedron in other ways, they may result in an augmented dodecahedron J<sub>58</sub>, a metabiaugmented dodecahedron J<sub>60</sub>, a triaugmented dodecahedron J<sub>61</sub>, or even a pentakis dodecahedron if the faces are made to be irregular.
+<br><br><b>Faces:</b> 10 triangles and 10 pentagons | <b>Edges:</b> 40 | <b>Vertices:</b> 22 | <b>Dihedral angles:</b> 153.94°, 138.19° and 116.56°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>28. Metabiaugmented dodecahedron</h4>
+<a href="vr/j60_metabiaugmented_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/212A.png" class="foto"></a><img src="ar/212.png" class="qr">
+ <br><span class="titulo">J<sub>60</sub></span> The metabiaugmented dodecahedron, or mabaud, is one of the Johnson solids. It can be constructed by attaching pentagonal pyramids to two non-opposite, non-adjacent faces of the regular dodecahedron. When pyramids are attached to a dodecahedron in other ways, they may result in an augmented dodecahedron J<sub>58</sub>, a parabiaugmented dodecahedron J<sub>59</sub>, a triaugmented dodecahedron J<sub>61</sub>, or even a pentakis dodecahedron if the faces are made to be irregular. 
+<br><br><b>Faces:</b> 10 triangles and 10 pentagons | <b>Edges:</b> 40 | <b>Vertices:</b> 22 | <b>Dihedral angles:</b> 153.94°, 138.19° and 116.56°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>29. Triaugmented dodecahedron</h4>
+<a href="vr/j61_triaugmented_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/213A.png" class="foto"></a><img src="ar/213.png" class="qr">
+ <br><span class="titulo">J<sub>61</sub></span> The triaugmented dodecahedron, or taud, is one of the Johnson solids. It can be constructed by attaching pentagonal pyramids to three mutually non-adjacent faces of the regular dodecahedron. When pyramids are attached to a dodecahedron in other ways, they may result in an augmented dodecahedron J<sub>58</sub>, a parabiaugmented dodecahedron J<sub>59</sub>, a metabiaugmented dodecahedron J<sub>60</sub>, or even a pentakis dodecahedron if the faces are made to be irregular.  
+<br><br><b>Faces:</b> 15 triangles and 9 pentagons | <b>Edges:</b> 45 | <b>Vertices:</b> 23 | <b>Dihedral angles:</b> 153.94°, 138.19° and 116.56°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>30. Metabidiminished icosahedron</h4>
+<a href="vr/j62_metabidiminished_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/214A.png" class="foto"></a><img src="ar/214.png" class="qr">
+ <br><span class="titulo">J<sub>62</sub></span> The metabidiminished icosahedron, or mibdi, is one of the Johnson solids. It can be constructed by removing two non-opposite, non-adjacent vertices from a regular icosahedron. If two pentagonal pyramids are removed to form nonadjacent pentagonal faces, the result is instead the pentagonal antiprism. 
+<br><br><b>Faces:</b> 10 triangles and 2 pentagons | <b>Edges:</b> 20 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 100.81°, 138.19° and 43.43°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_icosahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p12" class="topo">back to top</a></p>
 </details>
 

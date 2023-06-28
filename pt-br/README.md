@@ -1258,10 +1258,35 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>56</sub></span> O prisma hexagonal metabiaumentado, ou mabauhip, é um dos sólidos de Johnson. Ele pode ser construído anexando pirâmides quadradas a duas faces quadradas não opostas e não adjacentes do prisma hexagonal. Anexar as pirâmides a faces equatoriais opostas produz um prisma hexagonal parabiaumentado: o sólido obtido anexando pirâmides a faces equatoriais adjacentes não é convexo e, portanto, não é um sólido de Johnson.
 <br><br><b>Faces:</b> 8 triângulos, 4 quadrados e 2 hexágonos | <b>Arestas:</b> 26 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 174.74°, 144.74°, 120°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_hexagonal_prism" target="_blank">Mais sobre...</a>
 <hr>
-<h4>25. Prisma hexagonal metabiaumentado</h4>
-<a href="../vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/209A.png" class="foto"></a><img src="../ar/209.png" class="qr">
+<h4>25. Prisma hexagonal triaumentado</h4>
+<a href="../vr/j57_triaugmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/209A.png" class="foto"></a><img src="../ar/209.png" class="qr">
  <br><span class="titulo">J<sub>57</sub></span> O prisma hexagonal triaumentado, ou tauhip, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a três faces quadradas mutuamente não adjacentes do prisma hexagonal. É composto por 12 triângulos, 3 quadrados e 2 hexágonos.
 <br><br><b>Faces:</b> 12 triângulos, 3 quadrados e 2 hexágonos | <b>Arestas:</b> 30 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 174.74°, 144.74°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_hexagonal_prism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>26. Dodecaedro aumentado</h4>
+<a href="../vr/j58_augmented_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/210A.png" class="foto"></a><img src="../ar/210.png" class="qr">
+ <br><span class="titulo">J<sub>58</sub></span> O dodecaedro aumentado, ou aud, é um dos sólidos de Johnson. Pode ser construído anexando uma pirâmide pentagonal a uma das faces do dodecaedro regular. Quando duas ou três dessas pirâmides são anexadas, o resultado pode ser um dodecaedro parabia-aumentado J<sub>59</sub>, um dodecaedro metabia-aumentado J<sub>60</sub> ou um dodecaedro triaumentado J<sub>61</sub>.
+<br><br><b>Faces:</b> 5 triângulos e 11 pentágonos | <b>Arestas:</b> 35 | <b>Vértices:</b> 21 | <b>Ângulos diédricos:</b> 153.94°, 138.19° e 116.56°. <a href="https://polytope.miraheze.org/wiki/Augmented_dodecahedron_(Johnson_solid)" target="_blank">Mais sobre...</a>
+<hr>
+<h4>27. Dodecaedro parabiaumentado</h4>
+<a href="../vr/j59_parabiaugmented_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/211A.png" class="foto"></a><img src="../ar/211.png" class="qr">
+ <br><span class="titulo">J<sub>59</sub></span> O dodecaedro parabiaumentado, ou pabaud, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides pentagonais a duas faces opostas do dodecaedro regular. Quando as pirâmides são anexadas a um dodecaedro de outras maneiras, elas podem resultar em um dodecaedro aumentado J<sub>58</sub>, um dodecaedro metabiaumentado J<sub>60</sub>, um dodecaedro triaumentado J<sub>61< /sub>, ou mesmo um dodecaedro pentakis se as faces forem irregulares.
+<br><br><b>Faces:</b> 10 triângulos e 10 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 22 | <b>Ângulos diédricos:</b> 153.94°, 138.19° e 116.56°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>28. Dodecaedro metabiaumentado</h4>
+<a href="../vr/j60_metabiaugmented_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/212A.png" class="foto"></a><img src="../ar/212.png" class="qr">
+ <br><span class="titulo">J<sub>60</sub></span> O dodecaedro metabiaumentado, ou mabaud, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides pentagonais a duas faces não opostas e não adjacentes do dodecaedro regular. Quando as pirâmides são ligadas a um dodecaedro de outras maneiras, elas podem resultar em um dodecaedro aumentado J<sub>58</sub>, um dodecaedro parabiaumentado J<sub>59</sub>, um dodecaedro triaumentado J<sub>61< /sub>, ou mesmo um dodecaedro pentakis se as faces forem irregulares.
+<br><br><b>Faces:</b> 10 triângulos e 10 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 22 | <b>Ângulos diédricos:</b> 153.94°, 138.19° e 116.56°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>29. Dodecaedro triaumentado</h4>
+<a href="../vr/j61_triaugmented_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/213A.png" class="foto"></a><img src="../ar/213.png" class="qr">
+ <br><span class="titulo">J<sub>61</sub></span> O dodecaedro triaumentado, ou taud, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides pentagonais a três faces mutuamente não adjacentes do dodecaedro regular. Quando as pirâmides são anexadas a um dodecaedro de outras maneiras, elas podem resultar em um dodecaedro aumentado J<sub>58</sub>, um dodecaedro parabiaumentado J<sub>59</sub>, um dodecaedro metabiaumentado J<sub>60</sub>, ou mesmo um dodecaedro pentakis se as faces forem irregulares.
+<br><br><b>Faces:</b> 15 triângulos e 9 pentágonos | <b>Arestas:</b> 45 | <b>Vértices:</b> 23 | <b>Ângulos diédricos:</b> 153.94°, 138.19° e 116.56°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>30. Icosaedro metabidimentado</h4>
+<a href="../vr/j62_metabidiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/214A.png" class="foto"></a><img src="../ar/214.png" class="qr">
+ <br><span class="titulo">J<sub>62</sub></span> O icosaedro metabidimentado, ou mibdi, é um dos sólidos de Johnson. Ele pode ser construído removendo dois vértices não opostos e não adjacentes de um icosaedro regular. Se duas pirâmides pentagonais forem removidas para formar faces pentagonais não adjacentes, o resultado será o antiprisma pentagonal.
+<br><br><b>Faces:</b> 10 triângulos e 2 pentágonos | <b>Arestas:</b> 20 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 100.81°, 138.19° e 43.43°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_icosahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
 
