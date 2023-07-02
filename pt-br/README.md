@@ -259,7 +259,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 20 triângulos equiláteros | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 41.81°. <a href="https://mathworld.wolfram.com/GreatIcosahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 <hr>
-<h4>11. Pequeno dodecahemicosacron</h4>
+<h4>11. Pequeno dodecahemicosaedro</h4>
  <a href="../vr/small_dodecahemicosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/190A.png" class="foto"></a><img src="../ar/190.png" class="qr">
  <br><span class="titulo">U<sub>62</sub></span> O poliedro uniforme cujo poliedro dual é o pequeno dodecahemicosacron. É uma versão facetada do icosidodecaedro. É um hemipoliedro com dez faces hexagonais passando pelo centro do modelo.
 <br><br><b>Faces:</b> 12 pentagramas regulares e 10 hexágonos regulares | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallDodecahemicosahedron.html" target="_blank">Mais sobre...</a>
