@@ -1128,7 +1128,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
-<details id="p12" style="border-bottom: 1px solid #a2dec0;">
+<details id="p12">
   <summary>Sólidos de Johnson: J<sub>33</sub> - J<sub>62</sub></summary>
   Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Nesta segunda parte, temos mais 30 sólidos de Johnson. Para visualizar os poliedros de Johnson em RA, visite a página:
 <p align="center"><a href="../johnson2.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2.html</a></p> 
@@ -1289,6 +1289,42 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 10 triângulos e 2 pentágonos | <b>Arestas:</b> 20 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 100.81°, 138.19° e 43.43°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_icosahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
+
+<details id="p13">
+  <summary>Sólidos de Johnson: J<sub>63</sub> - J<sub>92</sub></summary>
+  Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Nesta segunda parte, temos mais 30 sólidos de Johnson. Para visualizar os poliedros de Johnson em RA, visite a página:
+<p align="center"><a href="../johnson3.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson3.html</a></p> 
+com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
+<hr>
+<h4>1. Icosaedro tridiminuto</h4>
+<a href="../vr/j63_tridiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/215A.png" class="foto"></a><img src="../ar/215.png" class="qr">
+ <br><span class="titulo">J<sub>63</sub></span> O icosaedro tridiminuto, ou teddi, é um dos 92 sólidos de Johnson. Pode ser construído removendo 3 vértices mutuamente não adjacentes de um icosaedro regular. O nome refere-se a uma maneira de construí-lo, removendo três pirâmides pentagonais J<sub>2</sub> de um icosaedro regular, que substitui três conjuntos de cinco faces triangulares do icosaedro por três faces pentagonais mutuamente adjacentes.
+<br><br><b>Faces:</b> 5 triângulos e 3 pentágonos | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 138.19°, 100.81° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Tridiminished_icosahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>2. Icosaedro tridiminuto aumentado</h4>
+<a href="../vr/j64_augmented_tridiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/216A.png" class="foto"></a><img src="../ar/216.png" class="qr">
+ <br><span class="titulo">J<sub>64</sub></span> O icosaedro tridiminuto aumentado, ou auteddi, é um dos sólidos de Johnson. Ele pode ser construído anexando um tetraedro, visto como uma pirâmide triangular, à face triangular do icosaedro tridiminuto que está conectado apenas aos pentágonos. É o único sólido de Johnson que é construído usando diminuição e aumento, assumindo que nenhuma diminuição e aumento se anulam.
+<br><br><b>Faces:</b> 7 triângulos e 3 pentágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 171.34°, 138.19°, 100.81°, 70.53° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Augmented_tridiminished_icosahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>3. Tetraedro truncado aumentado</h4>
+<a href="../vr/j65_augmented_truncated_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/217A.png" class="foto"></a><img src="../ar/217.png" class="qr">
+ <br><span class="titulo">J<sub>65</sub></span> O tetraedro truncado aumentado, ou autut, é um dos sólidos de Johnson. Pode ser construído anexando uma cúpula triangular J<sub>3</sub> a uma das faces hexagonais do tetraedro truncado.
+<br><br><b>Faces:</b> 8 triângulos, 3 quadrados e 3 hexágonos | <b>Arestas:</b> 27 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 164.21°, 141.06°, 125.26°, 109.47° e 70.53°. <a href="https://polytope.miraheze.org/wiki/Augmented_truncated_tetrahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>4. Cubo truncado aumentado</h4>
+<a href="../vr/j66_augmented_truncated_cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/218A.png" class="foto"></a><img src="../ar/218.png" class="qr">
+ <br><span class="titulo">J<sub>66</sub></span> O cubo truncado aumentado, ou autic, é um dos sólidos de Johnson. Pode ser construído anexando uma cúpula quadrada J<sub>4</sub> a uma das faces octogonais do cubo truncado.
+<br><br><b>Faces:</b> 12 triângulos, 5 quadrados e 5 octógonos | <b>Arestas:</b> 48 | <b>Vértices:</b> 28 | <b>Ângulos diédricos:</b> 170.26°, 144.74°, 135°, 125.26° e 90°. <a href="https://polytope.miraheze.org/wiki/Augmented_truncated_cube" target="_blank">Mais sobre...</a>
+<hr>
+<h4>5. Cubo truncado biaumentado</h4>
+<a href="../vr/j67_biaugmented_truncated_cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/219A.png" class="foto"></a><img src="../ar/219.png" class="qr">
+ <br><span class="titulo">J<sub>67</sub></span> O cubo truncado biaumentado, ou bautic, é um dos sólidos de Johnson. Ele pode ser construído anexando cúpulas quadradas J<sub>4</sub> a duas faces octogonais opostas do cubo truncado.
+<br><br><b>Faces:</b> 16 triângulos, 10 quadrados e 4 octógonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulos diédricos:</b> 170.26°, 144.74°, 135°, 125.26° e 90°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_truncated_cube" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
+</details>
+
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
