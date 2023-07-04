@@ -1129,7 +1129,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
 </details>
 
-<details id="p12" style="border-bottom: 1px solid #a2dec0;">
+<details id="p12">
   <summary>Johnson solids: J<sub>33</sub> - J<sub>62</sub></summary>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In this second part, we have more 30 Johnson solids. To view Johnson solids in AR, simply visit:
 <p align="center"><a href="johnson2.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2.html</a></p> 
@@ -1289,6 +1289,41 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>62</sub></span> The metabidiminished icosahedron, or mibdi, is one of the Johnson solids. It can be constructed by removing two non-opposite, non-adjacent vertices from a regular icosahedron. If two pentagonal pyramids are removed to form nonadjacent pentagonal faces, the result is instead the pentagonal antiprism. 
 <br><br><b>Faces:</b> 10 triangles and 2 pentagons | <b>Edges:</b> 20 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 100.81°, 138.19° and 43.43°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_icosahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p12" class="topo">back to top</a></p>
+</details>
+
+<details id="p13" style="border-bottom: 1px solid #a2dec0;">
+  <summary>Johnson solids: J<sub>63</sub> - J<sub>92</sub></summary>
+  A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In this second part, we have more 30 Johnson solids. To view Johnson solids in AR, simply visit:
+<p align="center"><a href="johnson3.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson3.html</a></p> 
+with any browser with a webcam device (smartphone, tablet or notebook). 
+<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
+<hr>
+<h4>1. Tridiminished icosahedron</h4>
+<a href="vr/j63_tridiminished_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/215A.png" class="foto"></a><img src="ar/215.png" class="qr">
+ <br><span class="titulo">J<sub>63</sub></span> The tridiminished icosahedron, or teddi, is one of the 92 Johnson solids. It can be constructed by removing 3 mutually non-adjacent vertices from a regular icosahedron. The name refers to one way of constructing it, by removing three pentagonal pyramids J<sub>2</sub> from a regular icosahedron, which replaces three sets of five triangular faces from the icosahedron with three mutually adjacent pentagonal faces. 
+<br><br><b>Faces:</b> 5 triangles and 3 pentagons | <b>Edges:</b> 15 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 138.19°, 100.81° and 63.43°. <a href="https://polytope.miraheze.org/wiki/Tridiminished_icosahedron" target="_blank">More...</a>
+<hr>
+<h4>2. Augmented tridiminished icosahedron</h4>
+<a href="vr/j64_augmented_tridiminished_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/216A.png" class="foto"></a><img src="ar/216.png" class="qr">
+ <br><span class="titulo">J<sub>64</sub></span> The augmented tridiminished icosahedron, or auteddi, is one of the Johnson solids. It can be constructed by attaching a tetrahedron, seen as a triangular pyramid, to the triangular face of the tridiminished icosahedron that is connected only to pentagons. It is the only Johnson solid that is constructed using both diminishing and augmenting, assuming that no diminishing and augmenting cancel each other out.  
+<br><br><b>Faces:</b> 7 triangles and 3 pentagons | <b>Edges:</b> 18 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 171.34°, 138.19°, 100.81°, 70.53° and 63.43°. <a href="https://polytope.miraheze.org/wiki/Augmented_tridiminished_icosahedron" target="_blank">More...</a>
+<hr>
+<h4>3. Augmented truncated tetrahedron</h4>
+<a href="vr/j65_augmented_truncated_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/217A.png" class="foto"></a><img src="ar/217.png" class="qr">
+ <br><span class="titulo">J<sub>65</sub></span> The augmented truncated tetrahedron, or autut, is one of the Johnson solids. It can be constructed by attaching a triangular cupola J<sub>3</sub> to one of the hexagonal faces of the truncated tetrahedron.  
+<br><br><b>Faces:</b> 8 triangles, 3 squares and 3 hexagons | <b>Edges:</b> 27 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 164.21°, 141.06°, 125.26°, 109.47° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Augmented_truncated_tetrahedron" target="_blank">More...</a>
+<hr>
+<h4>4. Augmented truncated cube</h4>
+<a href="vr/j66_augmented_truncated_cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/218A.png" class="foto"></a><img src="ar/218.png" class="qr">
+ <br><span class="titulo">J<sub>66</sub></span> The augmented truncated cube, or autic, is one of the Johnson solids. It can be constructed by attaching a square cupola J<sub>4</sub> to one of the octagonal faces of the truncated cube.
+<br><br><b>Faces:</b> 12 triangles, 5 squares and 5 octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 28 | <b>Dihedral angles:</b> 170.26°, 144.74°, 135°, 125.26° and 90°. <a href="https://polytope.miraheze.org/wiki/Augmented_truncated_cube" target="_blank">More...</a>
+<hr>
+<h4>5. Biaugmented truncated cube</h4>
+<a href="vr/j67_biaugmented_truncated_cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/219A.png" class="foto"></a><img src="ar/219.png" class="qr">
+ <br><span class="titulo">J<sub>67</sub></span> The biaugmented truncated cube, or bautic, is one of the Johnson solids. It can be constructed by attaching square cupolas J<sub>4</sub> to two opposite octagonal faces of the truncated cube.
+<br><br><b>Faces:</b> 16 triangles, 10 squares and 4 octagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Dihedral angles:</b> 170.26°, 144.74°, 135°, 125.26° and 90°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_truncated_cube" target="_blank">More...</a>
+<p class="topop"><a href="#p13" class="topo">back to top</a></p>
 </details>
 
 
