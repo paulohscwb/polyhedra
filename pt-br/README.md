@@ -1399,6 +1399,32 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>82</sub></span> O rombicosidodecaedro bidiminuto girado, ou gybadrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais não opostas do pequeno rombicosidodecaedro e girando uma terceira cúpula em 36°.
 <br><br><b>Faces:</b> 10 triângulos, 20 quadrados, 10 pentágonos e 2 decágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 50 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_bidiminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
+<hr>
+<h4>21. Rombicosidodecaedro tridiminuto</h4>
+<a href="../vr/j83_tridiminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/235A.png" class="foto"></a><img src="../ar/235.png" class="qr">
+ <br><span class="titulo">J<sub>83</sub></span> O rombicosidodecaedro tridiminuto, ou tedrid, é um dos sólidos de Johnson. Pode ser construído removendo três cúpulas pentagonais do pequeno rombicosidodecaedro.
+<br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 9 pentágonos e 3 decágonos | <b>Arestas:</b> 75 | <b>Vértices:</b> 45 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Tridiminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>22. Disfenóide snub</h4>
+<a href="../vr/j84_snub_disphenoid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/236A.png" class="foto"></a><img src="../ar/236.png" class="qr">
+ <br><span class="titulo">J<sub>84</sub></span> O disfenóide snub, ou snadow, é um dos sólidos de Johnson. Pode ser construído a partir de um tetraedro, visto como um antiprisma digonal ou disfenóide, expandindo as duas metades para fora e inserindo um conjunto de 8 triângulos entre as metades.
+<br><br><b>Faces:</b> 12 triângulos | <b>Arestas:</b> 18 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 96.2°, 121.74° e 166.44°. <a href="https://polytope.miraheze.org/wiki/Snub_disphenoid" target="_blank">Mais sobre...</a>
+<hr>
+<h4>23. Antiprisma quadrado snub</h4>
+<a href="../vr/j85_snub_square_antiprism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/237A.png" class="foto"></a><img src="../ar/237.png" class="qr">
+ <br><span class="titulo">J<sub>85</sub></span> O antiprisma quadrado snub, ou snisquap, é um dos sólidos de Johnson. Ele pode ser construído a partir de um antiprisma quadrado expandindo as duas metades para fora e inserindo um conjunto de 16 triângulos entre as metades.
+<br><br><b>Faces:</b> 24 triângulos e 2 quadrados | <b>Arestas:</b> 40 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Snub_square_antiprism" target="_blank">Mais sobre...</a>
+<hr>
+<h4>24. Esfenocorona</h4>
+<a href="../vr/j86_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/238A.png" class="foto"></a><img src="../ar/238.png" class="qr">
+ <br><span class="titulo">J<sub>86</sub></span> A esfenocorona, ou waco, é um dos sólidos de Johnson. É um dos vários poliedros próximos ao final da lista de sólidos de Johnson sem alguma relação óbvia com um dos poliedros uniformes. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos) e "corona" denotando uma estrutura em forma de coroa composta por 8 triângulos.
+<br><br><b>Faces:</b> 12 triângulos e 2 quadrados | <b>Arestas:</b> 22 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">Mais sobre...</a>
+<hr>
+<h4>25. Esfenocorona aumentada</h4>
+<a href="../vr/j87_augmented_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/239A.png" class="foto"></a><img src="../ar/239.png" class="qr">
+ <br><span class="titulo">J<sub>87</sub></span> A esfenocorona aumentada, ou auwaco, é um dos sólidos de Johnson. Pode ser construída anexando uma pirâmide quadrada a uma das faces quadradas da esfenocorona J<sub>86</sub>.
+<br><br><b>Faces:</b> 16 triângulos e 1 quadrado | <b>Arestas:</b> 26 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 </details>
 
 
