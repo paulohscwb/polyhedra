@@ -97,7 +97,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>1. Icosaedro</h4>
  <a href="../vr/icosahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto"></a><img src="../ar/9.png" class="qr">
- <br><span class="titulo">U<sub>22</sub></span> O icosaedro tem cinco faces triangulares reunidas em cada vértice. Um icosaedro regular é uma pirâmide dupla pentagonal girolongada e um antiprisma pentagonal em qualquer das seis orientações. As 12 arestas de um octaedro regular podem ser subdivididas na proporção áurea de modo que os vértices resultantes definem um icosaedro regular.
+ <br><span class="titulo">U<sub>22</sub></span> O icosaedro tem cinco faces triangulares reunidas em cada vértice. Um icosaedro regular é uma pirâmide dupla pentagonal giralongada e um antiprisma pentagonal em qualquer das seis orientações. As 12 arestas de um octaedro regular podem ser subdivididas na proporção áurea de modo que os vértices resultantes definem um icosaedro regular.
 <br><br><b>Faces:</b> 20 triângulos | <b>Arestas:</b> 30 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.939 | <b>Ângulo diédrico:</b> 138.19°. <a href="http://mathworld.wolfram.com/RegularIcosahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>2. Dodecaedro</h4>
@@ -974,19 +974,19 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 5 triângulos (faces laterais) e 1 pentágono (base) | <b>Arestas:</b> 10 | <b>Vértices:</b> 6 | <b>Ângulos diédricos:</b> 138.19° e 37.38°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_pyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Cúpula triangular</h4>
-<a href="../vr/j3_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto"></a><img src="../ar/47.png" class="qr">
+<a href="../vr/j3_triangular_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto"></a><img src="../ar/47.png" class="qr">
  <br><span class="titulo">J<sub>3</sub></span> A cúpula triangular, ou tricu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no triângulo equilátero e é uma das três cúpulas sólidas de Johnson, sendo as outras duas a cúpula quadrada e a cúpula pentagonal.
-<br><br><b>Faces:</b> 4 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 125.26°, 70.53° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 4 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 125.26°, 70.53° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>4. Cúpula quadrada</h4>
-<a href="../vr/j4_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto"></a><img src="../ar/46.png" class="qr">
+<a href="../vr/j4_square_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto"></a><img src="../ar/46.png" class="qr">
  <br><span class="titulo">J<sub>4</sub></span> A cúpula quadrada, ou squacu, é um dos sólidos de Johnson. É uma cúpula baseada no quadrado e é uma das três cúpulas sólidas de Johnson. Pode ser obtida como um segmento do pequeno rombicuboctaedro, quando considerado como uma ortobicúpula quadrada alongada.
-<br><br><b>Faces:</b> 4 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 20 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 144.74°, 135°, 45° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 4 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 20 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 144.74°, 135°, 45° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Cúpula pentagonal</h4>
-<a href="../vr/j5_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
+<a href="../vr/j5_pentagonal_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
  <br><span class="titulo">J<sub>5</sub></span> A cúpula pentagonal, ou pecu, é um dos sólidos de Johnson. É uma cúpula baseada no pentágono e é uma das três cúpulas sólidas de Johnson. Pode ser obtido como um segmento do pequeno rombicosidodecaedro.
-<br><br><b>Faces:</b> 5 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 37.38° e 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 5 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 37.38° e 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>6. Rotunda pentagonal</h4>
 <a href="../vr/j6_pentagonal_rotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/44A.png" class="foto"></a><img src="../ar/44.png" class="qr">
@@ -1008,15 +1008,15 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>9</sub></span> A pirâmide pentagonal alongada, ou epeppy, é um dos sólidos de Johnson. Pode ser construída anexando um prisma pentagonal à base da pirâmide pentagonal. Se uma segunda pirâmide estiver ligada à outra base do prisma pentagonal, o resultado é a bipirâmide pentagonal alongada.
 <br><br><b>Faces:</b> 5 triângulos, 5 quadrados e 1 pentágono | <b>Arestas:</b> 20 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 138.19°, 90°, 108° e 127.38°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_pyramid" target="_blank">Mais sobre...</a>
 <hr>
-<h4>10. Pirâmide quadrada girolongada</h4>
+<h4>10. Pirâmide quadrada giralongada</h4>
 <a href="../vr/j10_gyroelongated_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/40A.png" class="foto"></a><img src="../ar/40.png" class="qr">
- <br><span class="titulo">J<sub>10</sub></span> A pirâmide quadrada girolongada, ou gyesp, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma quadrado à base da pirâmide quadrada. Se uma segunda pirâmide estiver ligada à outra base do antiprisma quadrado, o resultado é a bipirâmide quadrada girolongada.
+ <br><span class="titulo">J<sub>10</sub></span> A pirâmide quadrada giralongada, ou gyesp, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma quadrado à base da pirâmide quadrada. Se uma segunda pirâmide estiver ligada à outra base do antiprisma quadrado, o resultado é a bipirâmide quadrada giralongada.
 <br><br><b>Faces:</b> 12 triângulos e 1 quadrado | <b>Arestas:</b> 20 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 158.57°, 127.55°, 109.47° e 103.84°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_pyramid" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 <hr>
-<h4>11. Pirâmide pentagonal girolongada</h4>
+<h4>11. Pirâmide pentagonal giralongada</h4>
 <a href="../vr/j11_gyroelongated_pentagonal_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/39A.png" class="foto"></a><img src="../ar/39.png" class="qr">
- <br><span class="titulo">J<sub>11</sub></span> A pirâmide pentagonal girolongada, ou gyepic, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma pentagonal à base da pirâmide pentagonal. Alternativamente, pode ser construída diminuindo um vértice do icosaedro regular, razão pela qual esse poliedro também pode ser chamado de icosaedro diminuído.
+ <br><span class="titulo">J<sub>11</sub></span> A pirâmide pentagonal giralongada, ou gyepic, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma pentagonal à base da pirâmide pentagonal. Alternativamente, pode ser construída diminuindo um vértice do icosaedro regular, razão pela qual esse poliedro também pode ser chamado de icosaedro diminuído.
 <br><br><b>Faces:</b> 15 triângulos e 1 pentágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 138.19° e 100.81°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_pyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>12. Dipirâmide triangular</h4>
@@ -1044,25 +1044,25 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>16</sub></span> A dipirâmide pentagonal alongada, também chamada de bipirâmide pentagonal alongada ou epedpy, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma pentagonal entre as metades da dipirâmide pentagonal.
 <br><br><b>Faces:</b> 10 triângulos e 5 quadrados | <b>Arestas:</b> 25 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 138.19°, 108° e 127.38°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_bipyramid" target="_blank">Mais sobre...</a>
 <hr>
-<h4>17. Dipirâmide quadrada girolongada</h4>
+<h4>17. Dipirâmide quadrada giralongada</h4>
 <a href="../vr/j17_gyroelongated_square_dipyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/33A.png" class="foto"></a><img src="../ar/33.png" class="qr">
- <br><span class="titulo">J<sub>17</sub></span> A dipirâmide quadrada girolongada, também chamada de bipirâmide quadrada girolongada ou gyesqidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um antiprisma quadrado entre as duas metades piramidais do octaedro regular, visto como uma dipirâmide quadrada.
+ <br><span class="titulo">J<sub>17</sub></span> A dipirâmide quadrada giralongada, também chamada de bipirâmide quadrada giralongada ou gyesqidpy, é um dos sólidos de Johnson. Pode ser construída inserindo um antiprisma quadrado entre as duas metades piramidais do octaedro regular, visto como uma dipirâmide quadrada.
 <br><br><b>Faces:</b> 16 triângulos | <b>Arestas:</b> 24 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 158.57°, 127.55° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bipyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>18. Cúpula triangular alongada</h4>
-<a href="../vr/j18_elongated_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto"></a><img src="../ar/32.png" class="qr">
+<a href="../vr/j18_elongated_triangular_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto"></a><img src="../ar/32.png" class="qr">
  <br><span class="titulo">J<sub>18</sub></span> A cúpula triangular alongada, também chamada de etcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do prisma na mesma orientação, o resultado é a ortobicúpula triangular alongada.
-<br><br><b>Faces:</b> 4 triângulos, 9 quadrados e 1 hexágono | <b>Arestas:</b> 27 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120°, 60° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_cupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 4 triângulos, 9 quadrados e 1 hexágono | <b>Arestas:</b> 27 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120°, 60° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>19. Cúpula quadrada alongada</h4>
-<a href="../vr/j19_elongated_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto"></a><img src="../ar/31.png" class="qr">
+<a href="../vr/j19_elongated_square_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto"></a><img src="../ar/31.png" class="qr">
  <br><span class="titulo">J<sub>19</sub></span> A cúpula quadrada alongada, ou escu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma octogonal à base octogonal da cúpula quadrada. Também pode ser vista como um pequeno rombicuboctaedro diminuído, formado cortando um de seus segmentos quadrados de cúpula.
-<br><br><b>Faces:</b> 4 triângulos, 13 quadrados e 1 octógono | <b>Arestas:</b> 36 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 144.74°, 135° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 4 triângulos, 13 quadrados e 1 octógono | <b>Arestas:</b> 36 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 144.74°, 135° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>20. Cúpula pentagonal alongada</h4>
-<a href="../vr/j20_elongated_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto"></a><img src="../ar/30.png" class="qr">
+<a href="../vr/j20_elongated_pentagonal_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto"></a><img src="../ar/30.png" class="qr">
  <br><span class="titulo">J<sub>20</sub></span> A cúpula pentagonal alongada, ou epcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do prisma na mesma orientação, o resultado é a ortobicúpula pentagonal alongada.
-<br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 45 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38°, 121.72° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_cupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 45 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38°, 121.72° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_cúpula" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>21. Rotunda pentagonal alongada</h4>
@@ -1070,61 +1070,61 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>21</sub></span> A rotunda pentagonal alongada, ou epro, é um dos sólidos de Johnson. Pode ser construída anexando um prisma decagonal à base decagonal da rotunda pentagonal. Se uma segunda rotunda for anexada à outra base decagonal do prisma na mesma orientação, o resultado é a ortobirotunda pentagonal alongada.
 <br><br><b>Faces:</b> 10 triângulos, 10 quadrados, 6 pentágonos e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 169.19°, 153.43°, 144°, 142.62° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_rotunda" target="_blank">Mais sobre...</a>
 <hr>
-<h4>22. Cúpula triangular girolongada</h4>
-<a href="../vr/j22_gyroelongated_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto"></a><img src="../ar/28.png" class="qr">
- <br><span class="titulo">J<sub>22</sub></span> A cúpula triangular girolongada, ou gyetcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do antiprisma, o resultado é a bicúpula triangular girolongada.
-<br><br><b>Faces:</b> 16 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 33 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22°, 125.26° e 98.9°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_cupola" target="_blank">Mais sobre...</a>
+<h4>22. Cúpula triangular giralongada</h4>
+<a href="../vr/j22_gyroelongated_triangular_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto"></a><img src="../ar/28.png" class="qr">
+ <br><span class="titulo">J<sub>22</sub></span> A cúpula triangular giralongada, ou gyetcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do antiprisma, o resultado é a bicúpula triangular giralongada.
+<br><br><b>Faces:</b> 16 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 33 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22°, 125.26° e 98.9°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_cúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>23. Cúpula quadrada girolongada</h4>
-<a href="../vr/j23_gyroelongated_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto"></a><img src="../ar/27.png" class="qr">
- <br><span class="titulo">J<sub>23</sub></span> A cúpula quadrada girolongada, ou gyescu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma octogonal à base octogonal da cúpula quadrada. Se uma segunda cúpula for anexada à outra base octogonal do antiprisma, o resultado é a bicúpula quadrada girolongada.
-<br><br><b>Faces:</b> 20 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 44 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 141.59°, 135° e 96.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_cupola" target="_blank">Mais sobre...</a>
+<h4>23. Cúpula quadrada giralongada</h4>
+<a href="../vr/j23_gyroelongated_square_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto"></a><img src="../ar/27.png" class="qr">
+ <br><span class="titulo">J<sub>23</sub></span> A cúpula quadrada giralongada, ou gyescu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma octogonal à base octogonal da cúpula quadrada. Se uma segunda cúpula for anexada à outra base octogonal do antiprisma, o resultado é a bicúpula quadrada giralongada.
+<br><br><b>Faces:</b> 20 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 44 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 141.59°, 135° e 96.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_cúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>24. Cúpula pentagonal girolongada</h4>
-<a href="../vr/j24_gyroelongated_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto"></a><img src="../ar/26.png" class="qr">
- <br><span class="titulo">J<sub>24</sub></span> A cúpula pentagonal girolongada, ou gyepcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do antiprisma, o resultado é a bicúpula pentagonal girolongada.
-<br><br><b>Faces:</b> 25 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62°, 126.96° e 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupola" target="_blank">Mais sobre...</a>
+<h4>24. Cúpula pentagonal giralongada</h4>
+<a href="../vr/j24_gyroelongated_pentagonal_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto"></a><img src="../ar/26.png" class="qr">
+ <br><span class="titulo">J<sub>24</sub></span> A cúpula pentagonal giralongada, ou gyepcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do antiprisma, o resultado é a bicúpula pentagonal giralongada.
+<br><br><b>Faces:</b> 25 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62°, 126.96° e 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>25. Rotunda pentagonal girolongada</h4>
+<h4>25. Rotunda pentagonal giralongada</h4>
 <a href="../vr/j25_gyroelongated_pentagonal_rotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/25A.png" class="foto"></a><img src="../ar/25.png" class="qr">
- <br><span class="titulo">J<sub>25</sub></span> A rotunda pentagonal girolongada, ou gyepro, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da rotunda pentagonal. Se uma segunda rotunda for anexada à outra base decagonal do antiprisma, o resultado é a birotunda pentagonal girolongada.
+ <br><span class="titulo">J<sub>25</sub></span> A rotunda pentagonal giralongada, ou gyepro, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da rotunda pentagonal. Se uma segunda rotunda for anexada à outra base decagonal do antiprisma, o resultado é a birotunda pentagonal giralongada.
 <br><br><b>Faces:</b> 30 triângulos, 6 pentágonos e 1 decágono | <b>Arestas:</b> 65 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 158.68°, 142.62° e 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_rotunda" target="_blank">Mais sobre...</a>
 <hr>
-<h4>26. Girobifastigium</h4>
+<h4>26. Girobiprisma</h4>
 <a href="../vr/j26_gyrobifastigium.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/24A.png" class="foto"></a><img src="../ar/24.png" class="qr">
- <br><span class="titulo">J<sub>26</sub></span> O girobifastigium, ou gybef, é um dos sólidos de Johnson. Ele pode ser construído anexando dois prismas triangulares, vistos como cúpulas digonais, em uma de suas faces quadradas, de modo que suas arestas opostas sejam perpendiculares. Como tal, poderia ser considerado uma girobicúpula digonal.
+ <br><span class="titulo">J<sub>26</sub></span> O Girobiprisma, ou gybef, é um dos sólidos de Johnson. Ele pode ser construído anexando dois prismas triangulares, vistos como cúpulas digonais, em uma de suas faces quadradas, de modo que suas arestas opostas sejam perpendiculares. Como tal, poderia ser considerado uma girobicúpula digonal.
 <br><br><b>Faces:</b> 4 triângulos e 4 quadrados | <b>Arestas:</b> 14 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 150°, 90° e 60°. <a href="https://polytope.miraheze.org/wiki/Gyrobifastigium" target="_blank">Mais sobre...</a>
 <hr>
 <h4>27. Ortobicúpula triangular</h4>
-<a href="../vr/j27_triangular_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto"></a><img src="../ar/23.png" class="qr">
+<a href="../vr/j27_triangular_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto"></a><img src="../ar/23.png" class="qr">
  <br><span class="titulo">J<sub>27</sub></span> A ortobicúpula triangular, ou tobcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas triangulares em suas bases hexagonais, de modo que as duas bases triangulares estejam na mesma orientação. Se as cúpulas forem unidas de modo que as bases sejam giradas 60°, o resultado é a girobicúpula triangular, mais conhecida como cuboctaedro uniforme.
-<br><br><b>Faces:</b> 8 triângulos e 6 quadrados | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 141.06°, 125.26° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triangular_orthobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 8 triângulos e 6 quadrados | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 141.06°, 125.26° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triangular_orthobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>28. Ortobicúpula quadrada</h4>
-<a href="../vr/j28_square_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto"></a><img src="../ar/22.png" class="qr">
+<a href="../vr/j28_square_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto"></a><img src="../ar/22.png" class="qr">
  <br><span class="titulo">J<sub>28</sub></span> A ortobicúpula quadrada, ou squobcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas quadradas em suas bases octogonais, de modo que as duas bases quadradas estejam na mesma orientação. Se as cúpulas forem unidas de modo que as bases sejam giradas 45°, o resultado é a girobicúpula quadrada.
-<br><br><b>Faces:</b> 8 triângulos e 10 quadrados | <b>Arestas:</b> 32 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 144.74°, 135°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Square_orthobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 8 triângulos e 10 quadrados | <b>Arestas:</b> 32 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 144.74°, 135°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Square_orthobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>29. Girobicúpula quadrada</h4>
-<a href="../vr/j29_square_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto"></a><img src="../ar/21.png" class="qr">
+<a href="../vr/j29_square_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto"></a><img src="../ar/21.png" class="qr">
  <br><span class="titulo">J<sub>29</sub></span> A girobicúpula quadrada, ou squigybcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas quadradas em suas bases octogonais, de modo que as duas bases quadradas sejam giradas 45° uma da outra. É topologicamente equivalente ao antiprisma quadrado retificado.
-<br><br><b>Faces:</b> 8 triângulos e 10 quadrados | <b>Arestas:</b> 32 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 144.74°, 135° e 99.74°. <a href="https://polytope.miraheze.org/wiki/Square_gyrobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 8 triângulos e 10 quadrados | <b>Arestas:</b> 32 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 144.74°, 135° e 99.74°. <a href="https://polytope.miraheze.org/wiki/Square_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>30. Ortobicúpula pentagonal</h4>
-<a href="../vr/j30_pentagonal_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20bA.png" class="foto"></a><img src="../ar/20b.png" class="qr">
+<a href="../vr/j30_pentagonal_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20bA.png" class="foto"></a><img src="../ar/20b.png" class="qr">
  <br><span class="titulo">J<sub>30</sub></span> A ortobicúpula pentagonal, ou pobcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas pentagonais em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se as cúpulas forem unidas de modo que as bases sejam giradas 36°, o resultado é a girobicúpula pentagonal.
-<br><br><b>Faces:</b> 10 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 74.75° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 10 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 74.75° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthobicúpula" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>31. Girobicúpula pentagonal</h4>
-<a href="../vr/j31_pentagonal_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19bA.png" class="foto"></a><img src="../ar/19b.png" class="qr">
+<a href="../vr/j31_pentagonal_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19bA.png" class="foto"></a><img src="../ar/19b.png" class="qr">
  <br><span class="titulo">J<sub>31</sub></span> A girobicúpula pentagonal, ou pegybcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas pentagonais em suas bases decagonais, de modo que as duas bases pentagonais sejam giradas 36° uma em relação à outra. É topologicamente equivalente ao antiprisma pentagonal retificado.
-<br><br><b>Faces:</b> 10 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 159.09°, 148.28° e 69.09°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_gyrobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 10 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 159.09°, 148.28° e 69.09°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>32. Ortocupolarotunda pentagonal</h4>
-<a href="../vr/j32_pentagonal_orthocupolarontunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18bA.png" class="foto"></a><img src="../ar/18b.png" class="qr">
- <br><span class="titulo">J<sub>31</sub></span> A ortocupolarotunda pentagonal, ou pocuro, é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se a cúpula e a rotunda forem unidas de modo que as bases sejam giradas 36°, o resultado é a girocupolarotunda pentagonal.
-<br><br><b>Faces:</b> 15 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 50 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 142.62°, 110.95° e 100.81°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthocupolarotunda" target="_blank">Mais sobre...</a>
+<h4>32. Ortocúpula rotunda pentagonal</h4>
+<a href="../vr/j32_pentagonal_orthocúpularontunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18bA.png" class="foto"></a><img src="../ar/18b.png" class="qr">
+ <br><span class="titulo">J<sub>31</sub></span> A ortocúpula rotunda pentagonal, ou pocuro, é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se a cúpula e a rotunda forem unidas de modo que as bases sejam giradas 36°, o resultado é a girocúpula rotunda pentagonal.
+<br><br><b>Faces:</b> 15 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 50 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 142.62°, 110.95° e 100.81°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthocúpularotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1136,10 +1136,10 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
 <hr>
-<h4>1. Girocupolarotunda pentagonal</h4>
-<a href="../vr/j33_pentagonal_gyrocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17bA.png" class="foto"></a><img src="../ar/17b.png" class="qr">
- <br><span class="titulo">J<sub>33</sub></span> A girocupolarotunda pentagonal, ou pegycuro, é um dos 92 sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais sejam giradas 36° uma em relação à outra. Se a cúpula e a rotunda forem unidas de forma que as bases estejam na mesma orientação, o resultado é a ortocupolarotunda pentagonal.
-<br><br><b>Faces:</b> 15 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 50 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 142.62°, 116.57° e 95.15°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_gyrocupolarotunda" target="_blank">Mais sobre...</a>
+<h4>1. Girocúpula rotunda pentagonal</h4>
+<a href="../vr/j33_pentagonal_gyrocúpularotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17bA.png" class="foto"></a><img src="../ar/17b.png" class="qr">
+ <br><span class="titulo">J<sub>33</sub></span> A girocúpula rotunda pentagonal, ou pegycuro, é um dos 92 sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais sejam giradas 36° uma em relação à outra. Se a cúpula e a rotunda forem unidas de forma que as bases estejam na mesma orientação, o resultado é a ortocúpula rotunda pentagonal.
+<br><br><b>Faces:</b> 15 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 50 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 142.62°, 116.57° e 95.15°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_gyrocúpularotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>2. Ortobirotunda pentagonal</h4>
 <a href="../vr/j34_pentagonal_orthobirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/16bA.png" class="foto"></a><img src="../ar/16b.png" class="qr">
@@ -1147,39 +1147,39 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 20 triângulos e 12 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 158.38°, 142.62° e 126.87°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthobirotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Ortobicúpula triangular alongada</h4>
-<a href="../vr/j35_elongated_triangular_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15bA.png" class="foto"></a><img src="../ar/15b.png" class="qr">
+<a href="../vr/j35_elongated_triangular_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/15bA.png" class="foto"></a><img src="../ar/15b.png" class="qr">
  <br><span class="titulo">J<sub>35</sub></span> A ortobicúpula triangular alongada, ou etobcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma hexagonal entre as duas metades da ortobicúpula triangular. O sólido resultante é superficialmente semelhante ao rombicuboctaedro, com a diferença de que possui simetria rotacional tripla em torno de seu eixo, em vez de simetria quádrupla.
-<br><br><b>Faces:</b> 8 triângulos e 12 quadrados | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_orthobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 8 triângulos e 12 quadrados | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_orthobicúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>4. Ortobicúpula triangular alongada</h4>
-<a href="../vr/j36_elongated_triangular_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14bA.png" class="foto"></a><img src="../ar/14b.png" class="qr">
+<h4>4. Girobicúpula triangular alongada</h4>
+<a href="../vr/j36_elongated_triangular_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/14bA.png" class="foto"></a><img src="../ar/14b.png" class="qr">
  <br><span class="titulo">J<sub>36</sub></span> A girobicúpula triangular alongada, ou etigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma hexagonal entre as duas metades do cuboctaedro, visto como uma girobicúpula triangular. A rotação de uma das cúpulas em 60° antes do alongamento produz a ortobicúpula triangular J<sub>35</sub>.
-<br><br><b>Faces:</b> 8 triângulos e 12 quadrados | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_gyrobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 8 triângulos e 12 quadrados | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Girobicúpula quadrada alongada</h4>
-<a href="../vr/j37_elongated_square_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13bA.png" class="foto"></a><img src="../ar/13b.png" class="qr">
+<a href="../vr/j37_elongated_square_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/13bA.png" class="foto"></a><img src="../ar/13b.png" class="qr">
  <br><span class="titulo">J<sub>37</sub></span> A girobicúpula quadrada alongada, ou esquigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma octogonal entre as duas metades da girobicúpula quadrada. Também pode ser construída a partir do pequeno rombicuboctaedro girando um de seus segmentos quadrados de cúpula em 45°, e poderia ser chamada de rombicuboctaedro girado.
-<br><br><b>Faces:</b> 8 triângulos e 18 quadrados | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 144.74° e 135°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_gyrobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 8 triângulos e 18 quadrados | <b>Arestas:</b> 48 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 144.74° e 135°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>6. Ortobicúpula pentagonal alongada</h4>
-<a href="../vr/j38_elongated_pentagonal_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12bA.png" class="foto"></a><img src="../ar/12b.png" class="qr">
+<a href="../vr/j38_elongated_pentagonal_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12bA.png" class="foto"></a><img src="../ar/12b.png" class="qr">
  <br><span class="titulo">J<sub>38</sub></span> A ortobicúpula pentagonal alongada, ou epobcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da ortobicúpula pentagonal. Ao rotacionar uma das cúpulas em 36° antes de inserir o prisma, obtemos uma girobicúpula pentagonal alongada J<sub>39</sub>.
-<br><br><b>Faces:</b> 10 triângulos, 20 quadrados e 2 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 10 triângulos, 20 quadrados e 2 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>7. Girobicúpula pentagonal alongada</h4>
-<a href="../vr/j39_elongated_pentagonal_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11bA.png" class="foto"></a><img src="../ar/11b.png" class="qr">
+<a href="../vr/j39_elongated_pentagonal_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/11bA.png" class="foto"></a><img src="../ar/11b.png" class="qr">
  <br><span class="titulo">J<sub>39</sub></span> A girobicúpula pentagonal alongada, ou epigybcu, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da girobicúpula pentagonal. Ao rotacionar uma das cúpulas pentagonais J<sub>5</sub> em 36° antes de inserir o prisma, obtemos uma ortobicúpula pentagonal alongada J<sub>38</sub>.
-<br><br><b>Faces:</b> 10 triângulos, 20 quadrados e 2 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrobicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 10 triângulos, 20 quadrados e 2 pentágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>8. Ortocupolarotunda pentagonal alongada</h4>
-<a href="../vr/j40_elongated_pentagonal_orthocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10bA.png" class="foto"></a><img src="../ar/10b.png" class="qr">
- <br><span class="titulo">J<sub>40</sub></span> A ortocupolarotunda pentagonal alongada, ou epocuro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da ortocupolarotunda pentagonal. Ao rotacionar a cúpula ou a rotunda em 36° antes de inserir o prisma, obtemos uma girocupolarotunda pentagonal alongada J<sub>41</sub>.
-<br><br><b>Faces:</b> 15 triângulos, 15 quadrados e 7 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthocupolarotunda" target="_blank">Mais sobre...</a>
+<h4>8. Ortocúpula rotunda pentagonal alongada</h4>
+<a href="../vr/j40_elongated_pentagonal_orthocúpularotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10bA.png" class="foto"></a><img src="../ar/10b.png" class="qr">
+ <br><span class="titulo">J<sub>40</sub></span> A ortocúpula rotunda pentagonal alongada, ou epocuro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da ortocúpula rotunda pentagonal. Ao rotacionar a cúpula ou a rotunda em 36° antes de inserir o prisma, obtemos uma girocúpula rotunda pentagonal alongada J<sub>41</sub>.
+<br><br><b>Faces:</b> 15 triângulos, 15 quadrados e 7 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_orthocúpularotunda" target="_blank">Mais sobre...</a>
 <hr>
-<h4>9. Girocupolarotunda pentagonal alongada</h4>
-<a href="../vr/j41_elongated_pentagonal_gyrocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9bA.png" class="foto"></a><img src="../ar/9b.png" class="qr">
- <br><span class="titulo">J<sub>41</sub></span> A girocupolarotunda pentagonal alongada, ou epgycuro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da girocupolarotunda pentagonal. Ao rotacionar a cúpula pentagonal J<sub>5</sub> ou a rotunda pentagonal J<sub>5</sub> em 36° antes de inserir o prisma, obtemos uma ortocupolarotunda pentagonal alongada J<sub>40</sub>.
-<br><br><b>Faces:</b> 15 triângulos, 15 quadrados e 7 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrocupolarotunda" target="_blank">Mais sobre...</a>
+<h4>9. Girocúpula rotunda pentagonal alongada</h4>
+<a href="../vr/j41_elongated_pentagonal_gyrocúpularotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9bA.png" class="foto"></a><img src="../ar/9b.png" class="qr">
+ <br><span class="titulo">J<sub>41</sub></span> A girocúpula rotunda pentagonal alongada, ou epgycuro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades da girocúpula rotunda pentagonal. Ao rotacionar a cúpula pentagonal J<sub>5</sub> ou a rotunda pentagonal J<sub>5</sub> em 36° antes de inserir o prisma, obtemos uma ortocúpula rotunda pentagonal alongada J<sub>40</sub>.
+<br><br><b>Faces:</b> 15 triângulos, 15 quadrados e 7 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 169.19°, 159.09°, 153.43°, 148.28°, 144°, 142.62°, 127.38° e 121.72°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrocúpularotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>10. Ortobirotunda pentagonal alongada</h4>
 <a href="../vr/j42_elongated_pentagonal_orthobirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/8bA.png" class="foto"></a><img src="../ar/8b.png" class="qr">
@@ -1192,29 +1192,29 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>43</sub></span> A girobirotunda pentagonal alongada, ou epgybro, é um dos sólidos de Johnson. Pode ser construída inserindo um prisma decagonal entre as duas metades do icosidodecaedro, visto como um girobirotunda pentagonal. Ao rotacionar uma das rotundas pentagonais J<sub>6</sub> a 36° antes de inserir o prisma, obtemos uma ortobirotunda pentagonal alongada J<sub>42</sub>.
 <br><br><b>Faces:</b> 20 triângulos, 10 quadrados e 12 pentágonos | <b>Arestas:</b> 80 | <b>Vértices:</b> 40 | <b>Ângulos diédricos:</b> 169.19°, 153.43°, 144° e 142.62°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_gyrobirotunda" target="_blank">Mais sobre...</a>
 <hr>
-<h4>12. Bicúpula triangular girolongada</h4>
-<a href="../vr/j44_gyroelongated_triangular_bicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6bA.png" class="foto"></a><img src="../ar/6b.png" class="qr">
- <br><span class="titulo">J<sub>44</sub></span> A bicúpula triangular girolongada, ou gyetibcu, é um dos sólidos de Johnson. Pode ser construída anexando cúpulas triangulares às bases do antiprisma hexagonal. A bicúpula triangular girolongada é um dos cinco sólidos de Johnson que são quirais, o que significa que eles têm uma forma "esquerda" e uma "direita".
-<br><br><b>Faces:</b> 20 triângulos e 6 quadrados | <b>Arestas:</b> 42 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_bicupola" target="_blank">Mais sobre...</a>
+<h4>12. Bicúpula triangular giralongada</h4>
+<a href="../vr/j44_gyroelongated_triangular_bicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6bA.png" class="foto"></a><img src="../ar/6b.png" class="qr">
+ <br><span class="titulo">J<sub>44</sub></span> A bicúpula triangular giralongada, ou gyetibcu, é um dos sólidos de Johnson. Pode ser construída anexando cúpulas triangulares às bases do antiprisma hexagonal. A bicúpula triangular giralongada é um dos cinco sólidos de Johnson que são quirais, o que significa que eles têm uma forma "esquerda" e uma "direita".
+<br><br><b>Faces:</b> 20 triângulos e 6 quadrados | <b>Arestas:</b> 42 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_bicúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>13. Bicúpula triangular girolongada</h4>
-<a href="../vr/j45_gyroelongated_square_bicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5bA.png" class="foto"></a><img src="../ar/5b.png" class="qr">
- <br><span class="titulo">J<sub>45</sub></span> A bicúpula quadrada girolongada, ou gyesquibcu, é um dos sólidos de Johnson. Pode ser construído anexando cúpulas quadradas às bases do antiprisma octogonal. É um dos cinco sólidos quirais de Johnson.
-<br><br><b>Faces:</b> 24 triângulos e 10 quadrados | <b>Arestas:</b> 56 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 135° e 141.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bicupola" target="_blank">Mais sobre...</a>
+<h4>13. Bicúpula triangular giralongada</h4>
+<a href="../vr/j45_gyroelongated_square_bicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5bA.png" class="foto"></a><img src="../ar/5b.png" class="qr">
+ <br><span class="titulo">J<sub>45</sub></span> A bicúpula quadrada giralongada, ou gyesquibcu, é um dos sólidos de Johnson. Pode ser construído anexando cúpulas quadradas às bases do antiprisma octogonal. É um dos cinco sólidos quirais de Johnson.
+<br><br><b>Faces:</b> 24 triângulos e 10 quadrados | <b>Arestas:</b> 56 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 135° e 141.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>14. Bicúpula pentagonal giroalongada</h4>
-<a href="../vr/j46_gyroelongated_pentagonal_bicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4bA.png" class="foto"></a><img src="../ar/4b.png" class="qr">
+<a href="../vr/j46_gyroelongated_pentagonal_bicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4bA.png" class="foto"></a><img src="../ar/4b.png" class="qr">
  <br><span class="titulo">J<sub>46</sub></span> A bicúpula pentagonal giroalongada, ou gyepibcu, é um dos sólidos de Johnson. Pode ser construída unindo cúpulas pentagonais às bases do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
-<br><br><b>Faces:</b> 30 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_bicupola" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 30 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_bicúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>15. Cupolarotunda pentagonal giroalongada</h4>
-<a href="../vr/j47_gyroelongated_pentagonal_cupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3bA.png" class="foto"></a><img src="../ar/3b.png" class="qr">
- <br><span class="titulo">J<sub>47</sub></span> A cupolarotunda pentagonal giroalongada, ou gyepcuro, é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal a bases opostas do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
-<br><br><b>Faces:</b> 35 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 80 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 159.09°, 158.68°, 148.28°, 142.62°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupolarotunda" target="_blank">Mais sobre...</a>
+<h4>15. Cúpula rotunda pentagonal giroalongada</h4>
+<a href="../vr/j47_gyroelongated_pentagonal_cúpularotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3bA.png" class="foto"></a><img src="../ar/3b.png" class="qr">
+ <br><span class="titulo">J<sub>47</sub></span> A cúpula rotunda pentagonal giroalongada, ou gyepcuro, é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal a bases opostas do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
+<br><br><b>Faces:</b> 35 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 80 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 159.09°, 158.68°, 148.28°, 142.62°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cúpularotunda" target="_blank">Mais sobre...</a>
 <hr>
-<h4>16. Birotunda pentagonal girolongada</h4>
+<h4>16. Birotunda pentagonal giralongada</h4>
 <a href="../vr/j48_gyroelongated_pentagonal_birotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2bA.png" class="foto"></a><img src="../ar/2b.png" class="qr">
- <br><span class="titulo">J<sub>48</sub></span> A birotunda pentagonal girolongada, ou gyepabro, é um dos sólidos de Johnson. Pode ser construída anexando rotundas pentagonais às bases do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
+ <br><span class="titulo">J<sub>48</sub></span> A birotunda pentagonal giralongada, ou gyepabro, é um dos sólidos de Johnson. Pode ser construída anexando rotundas pentagonais às bases do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
 <br><br><b>Faces:</b> 40 triângulos e 12 pentágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 40 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 158.68° e 142.62°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_birotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>17. Prisma triangular aumentado</h4>
@@ -1283,9 +1283,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>61</sub></span> O dodecaedro triaumentado, ou taud, é um dos sólidos de Johnson. Pode ser construído anexando pirâmides pentagonais a três faces mutuamente não adjacentes do dodecaedro regular. Quando as pirâmides são anexadas a um dodecaedro de outras maneiras, elas podem resultar em um dodecaedro aumentado J<sub>58</sub>, um dodecaedro parabiaumentado J<sub>59</sub>, um dodecaedro metabiaumentado J<sub>60</sub>, ou mesmo um dodecaedro pentakis se as faces forem irregulares.
 <br><br><b>Faces:</b> 15 triângulos e 9 pentágonos | <b>Arestas:</b> 45 | <b>Vértices:</b> 23 | <b>Ângulos diédricos:</b> 153.94°, 138.19° e 116.56°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>30. Icosaedro metabidimentado</h4>
+<h4>30. Icosaedro metabidiminuído</h4>
 <a href="../vr/j62_metabidiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/214A.png" class="foto"></a><img src="../ar/214.png" class="qr">
- <br><span class="titulo">J<sub>62</sub></span> O icosaedro metabidimentado, ou mibdi, é um dos sólidos de Johnson. Ele pode ser construído removendo dois vértices não opostos e não adjacentes de um icosaedro regular. Se duas pirâmides pentagonais forem removidas para formar faces pentagonais não adjacentes, o resultado será o antiprisma pentagonal.
+ <br><span class="titulo">J<sub>62</sub></span> O icosaedro metabidiminuído, ou mibdi, é um dos sólidos de Johnson. Ele pode ser construído removendo dois vértices não opostos e não adjacentes de um icosaedro regular. Se duas pirâmides pentagonais forem removidas para formar faces pentagonais não adjacentes, o resultado será o antiprisma pentagonal.
 <br><br><b>Faces:</b> 10 triângulos e 2 pentágonos | <b>Arestas:</b> 20 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 100.81°, 138.19° e 43.43°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_icosahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
@@ -1298,14 +1298,14 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
 <hr>
-<h4>1. Icosaedro tridiminuto</h4>
+<h4>1. Icosaedro tridiminuído</h4>
 <a href="../vr/j63_tridiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/215A.png" class="foto"></a><img src="../ar/215.png" class="qr">
- <br><span class="titulo">J<sub>63</sub></span> O icosaedro tridiminuto, ou teddi, é um dos 92 sólidos de Johnson. Pode ser construído removendo 3 vértices mutuamente não adjacentes de um icosaedro regular. O nome refere-se a uma maneira de construí-lo, removendo três pirâmides pentagonais J<sub>2</sub> de um icosaedro regular, que substitui três conjuntos de cinco faces triangulares do icosaedro por três faces pentagonais mutuamente adjacentes.
+ <br><span class="titulo">J<sub>63</sub></span> O icosaedro tridiminuído, ou teddi, é um dos 92 sólidos de Johnson. Pode ser construído removendo 3 vértices mutuamente não adjacentes de um icosaedro regular. O nome refere-se a uma maneira de construí-lo, removendo três pirâmides pentagonais J<sub>2</sub> de um icosaedro regular, que substitui três conjuntos de cinco faces triangulares do icosaedro por três faces pentagonais mutuamente adjacentes.
 <br><br><b>Faces:</b> 5 triângulos e 3 pentágonos | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 138.19°, 100.81° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Tridiminished_icosahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>2. Icosaedro tridiminuto aumentado</h4>
+<h4>2. Icosaedro tridiminuído aumentado</h4>
 <a href="../vr/j64_augmented_tridiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/216A.png" class="foto"></a><img src="../ar/216.png" class="qr">
- <br><span class="titulo">J<sub>64</sub></span> O icosaedro tridiminuto aumentado, ou auteddi, é um dos sólidos de Johnson. Ele pode ser construído anexando um tetraedro, visto como uma pirâmide triangular, à face triangular do icosaedro tridiminuto que está conectado apenas aos pentágonos. É o único sólido de Johnson que é construído usando diminuição e aumento, assumindo que nenhuma diminuição e aumento se anulam.
+ <br><span class="titulo">J<sub>64</sub></span> O icosaedro tridiminuído aumentado, ou auteddi, é um dos sólidos de Johnson. Ele pode ser construído anexando um tetraedro, visto como uma pirâmide triangular, à face triangular do icosaedro tridiminuído que está conectado apenas aos pentágonos. É o único sólido de Johnson que é construído usando diminuição e aumento, assumindo que nenhuma diminuição e aumento se anulam.
 <br><br><b>Faces:</b> 7 triângulos e 3 pentágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 171.34°, 138.19°, 100.81°, 70.53° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Augmented_tridiminished_icosahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Tetraedro truncado aumentado</h4>
@@ -1364,45 +1364,45 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>75</sub></span> O rombicosidodecaedro trigirado, ou tagyrid, é um dos sólidos de Johnson. Ele pode ser construído girando três cúpulas pentagonais mutuamente não adjacentes do pequeno rombicosidodecaedro em 36°.
 <br><br><b>Faces:</b> 20 triângulos, 30 quadrados e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 159.09°, 153.94°, 153.43° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Trigyrate_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>14. Rombicosidodecaedro diminuto</h4>
+<h4>14. Rombicosidodecaedro diminuído</h4>
 <a href="../vr/j76_diminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/228A.png" class="foto"></a><img src="../ar/228.png" class="qr">
- <br><span class="titulo">J<sub>76</sub></span> O rombicosidodecaedro diminuto, ou dirid, é um dos sólidos de Johnson. Pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>76</sub></span> O rombicosidodecaedro diminuído, ou dirid, é um dos sólidos de Johnson. Pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 15 triângulos, 25 quadrados, 11 pentágonos e 1 decágono | <b>Arestas:</b> 105 | <b>Vértices:</b> 55 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Diminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>15. Rombicosidodecaedro diminuto paragirado</h4>
+<h4>15. Rombicosidodecaedro diminuído paragirado</h4>
 <a href="../vr/j77_paragyrate_diminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/229A.png" class="foto"></a><img src="../ar/229.png" class="qr">
- <br><span class="titulo">J<sub>77</sub></span> O rombicosidodecaedro diminuto paragirado, ou pagydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando a cúpula oposta em 36°.
+ <br><span class="titulo">J<sub>77</sub></span> O rombicosidodecaedro diminuído paragirado, ou pagydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando a cúpula oposta em 36°.
 <br><br><b>Faces:</b> 15 triângulos, 25 quadrados, 11 pentágonos e 1 decágono | <b>Arestas:</b> 105 | <b>Vértices:</b> 55 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Paragyrate_diminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>16. Rombicosidodecaedro diminuto metagirado</h4>
+<h4>16. Rombicosidodecaedro diminuído metagirado</h4>
 <a href="../vr/j78_metagyrate_diminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/230A.png" class="foto"></a><img src="../ar/230.png" class="qr">
- <br><span class="titulo">J<sub>78</sub></span> O rombicosidodecaedro diminuto metagirado, ou magydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando outra cúpula não oposta em 36°.
+ <br><span class="titulo">J<sub>78</sub></span> O rombicosidodecaedro diminuído metagirado, ou magydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando outra cúpula não oposta em 36°.
 <br><br><b>Faces:</b> 15 triângulos, 25 quadrados, 11 pentágonos e 1 decágono | <b>Arestas:</b> 105 | <b>Vértices:</b> 55 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Metagyrate_diminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>17. Rombicosidodecaedro diminuto bigirado</h4>
+<h4>17. Rombicosidodecaedro diminuído bigirado</h4>
 <a href="../vr/j79_bigyrate_diminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/231A.png" class="foto"></a><img src="../ar/231.png" class="qr">
- <br><span class="titulo">J<sub>79</sub></span> O rombicosidodecaedro diminuto bigirado, ou bagydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando mais duas cúpulas não opostas em 36°.
+ <br><span class="titulo">J<sub>79</sub></span> O rombicosidodecaedro diminuído bigirado, ou bagydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando mais duas cúpulas não opostas em 36°.
 <br><br><b>Faces:</b> 15 triângulos, 25 quadrados, 11 pentágonos e 1 decágono | <b>Arestas:</b> 105 | <b>Vértices:</b> 55 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Bigyrate_diminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>18. Rombicosidodecaedro parabidiminuto</h4>
+<h4>18. Rombicosidodecaedro parabidiminuído</h4>
 <a href="../vr/j80_parabidiminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/232A.png" class="foto"></a><img src="../ar/232.png" class="qr">
- <br><span class="titulo">J<sub>80</sub></span> O rombicosidodecaedro parabidiminuto, ou pabidrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais opostas do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>80</sub></span> O rombicosidodecaedro parabidiminuído, ou pabidrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais opostas do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 10 triângulos, 20 quadrados, 10 pentágonos e 2 decágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 50 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 116.57° e 148.28°. <a href="https://en.wikipedia.org/wiki/Parabidiminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>19. Rombicosidodecaedro metabidiminuto</h4>
+<h4>19. Rombicosidodecaedro metabidiminuído</h4>
 <a href="../vr/j81_metabidiminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/233A.png" class="foto"></a><img src="../ar/233.png" class="qr">
- <br><span class="titulo">J<sub>81</sub></span> O rombicosidodecaedro metabidiminuto, ou mabidrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais não opostas do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>81</sub></span> O rombicosidodecaedro metabidiminuído, ou mabidrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais não opostas do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 10 triângulos, 20 quadrados, 10 pentágonos e 2 decágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 50 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>20. Rombicosidodecaedro bidiminuto girado</h4>
+<h4>20. Rombicosidodecaedro bidiminuído girado</h4>
 <a href="../vr/j82_gyrate_bidiminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/234A.png" class="foto"></a><img src="../ar/234.png" class="qr">
- <br><span class="titulo">J<sub>82</sub></span> O rombicosidodecaedro bidiminuto girado, ou gybadrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais não opostas do pequeno rombicosidodecaedro e girando uma terceira cúpula em 36°.
+ <br><span class="titulo">J<sub>82</sub></span> O rombicosidodecaedro bidiminuído girado, ou gybadrid, é um dos sólidos de Johnson. Ele pode ser construído removendo-se duas cúpulas pentagonais não opostas do pequeno rombicosidodecaedro e girando uma terceira cúpula em 36°.
 <br><br><b>Faces:</b> 10 triângulos, 20 quadrados, 10 pentágonos e 2 decágonos | <b>Arestas:</b> 90 | <b>Vértices:</b> 50 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_bidiminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 <hr>
-<h4>21. Rombicosidodecaedro tridiminuto</h4>
+<h4>21. Rombicosidodecaedro tridiminuído</h4>
 <a href="../vr/j83_tridiminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/235A.png" class="foto"></a><img src="../ar/235.png" class="qr">
- <br><span class="titulo">J<sub>83</sub></span> O rombicosidodecaedro tridiminuto, ou tedrid, é um dos sólidos de Johnson. Pode ser construído removendo três cúpulas pentagonais do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>83</sub></span> O rombicosidodecaedro tridiminuído, ou tedrid, é um dos sólidos de Johnson. Pode ser construído removendo três cúpulas pentagonais do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 9 pentágonos e 3 decágonos | <b>Arestas:</b> 75 | <b>Vértices:</b> 45 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Tridiminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>22. Disfenóide snub</h4>
@@ -1440,14 +1440,14 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>90</sub></span> O disphenocingulum, ou dawci, é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significando dois desses complexos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
 <br><br><b>Faces:</b> 20 triângulos e 4 quadrados | <b>Arestas:</b> 38 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 124.7°, 148.43°, 133.59°, 166.81°, 154.42°, 134.34° e 100.19°. <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">Mais sobre...</a>
 <hr>
-<h4>29. Bilunabirotunda</h4>
+<h4>29. Birotunda bilunar</h4>
 <a href="../vr/j91_bilunabirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/243A.png" class="foto"></a><img src="../ar/243.png" class="qr">
- <br><span class="titulo">J<sub>91</sub></span> A bilunabirotunda, ou bilbiro, é um dos sólidos de Johnson. A "birotunda" no nome significa essas duas áreas, enquanto a "biluna" se refere às duas luas (seções com um quadrado conectando-se a dois triângulos). Se as partes "rotunda" de dois bilunabirotundae estiverem alinhadas com as partes correspondentes opostas de um icosidodecaedro, elas se tocam no centro do icosidodecaedro porque a altura de cada bilunabirotunda nessa direção é exatamente a metade da altura do icosidodecaedro.
+ <br><span class="titulo">J<sub>91</sub></span> A birotunda bilunar, ou bilbiro, é um dos sólidos de Johnson. A "birotunda" no nome significa essas duas áreas, enquanto a "bilunar" se refere às duas luas (seções com um quadrado conectando-se a dois triângulos). Se as partes "rotunda" de dois bilunabirotundae estiverem alinhadas com as partes correspondentes opostas de um icosidodecaedro, elas se tocam no centro do icosidodecaedro porque a altura de cada bilunabirotunda nessa direção é exatamente a metade da altura do icosidodecaedro.
 <br><br><b>Faces:</b> 8 triângulos, 2 quadrados e 4 pentágonos | <b>Arestas:</b> 26 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 159.09°, 142.62°, 110.95°, 100.81° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Bilunabirotunda" target="_blank">Mais sobre...</a>
 <hr>
-<h4>30. Hebesphenorotunda triangular</h4>
+<h4>30. Hebesfenorotunda triangular</h4>
 <a href="../vr/j92_triangular_hebesphenorotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/244A.png" class="foto"></a><img src="../ar/244.png" class="qr">
- <br><span class="titulo">J<sub>92</sub></span> A hebesphenorotunda triangular, ou thawro, é um dos sólidos de Johnson. A hebesfenorotunda triangular também tem uma conexão com o pequeno rombicosidodecaedro. Os triângulos e quadrados que formam a porção "lunar" da forma são congruentes com os triângulos e quadrados correspondentes do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>92</sub></span> A hebesfenorotunda triangular, ou thawro, é um dos sólidos de Johnson. A hebesfenorotunda triangular também tem uma conexão com o pequeno rombicosidodecaedro. Os triângulos e quadrados que formam a porção "lunar" da forma são congruentes com os triângulos e quadrados correspondentes do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 13 triângulos, 3 quadrados, 3 pentágonos e 1 hexágono | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 159.09°, 142.62°, 138.19°, 110.95° e 100.81°.. <a href="https://polytope.miraheze.org/wiki/Triangular_hebesphenorotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 </details>
