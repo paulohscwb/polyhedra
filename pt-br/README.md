@@ -1197,7 +1197,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>44</sub></span> A bicúpula triangular giralongada, ou gyetibcu, é um dos sólidos de Johnson. Pode ser construída anexando cúpulas triangulares às bases do antiprisma hexagonal. A bicúpula triangular giralongada é um dos cinco sólidos de Johnson que são quirais, o que significa que eles têm uma forma "esquerda" e uma "direita".
 <br><br><b>Faces:</b> 20 triângulos e 6 quadrados | <b>Arestas:</b> 42 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_bicúpula" target="_blank">Mais sobre...</a>
 <hr>
-<h4>13. Bicúpula triangular giralongada</h4>
+<h4>13. Bicúpula quadrada giralongada</h4>
 <a href="../vr/j45_gyroelongated_square_bicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5bA.png" class="foto"></a><img src="../ar/5b.png" class="qr">
  <br><span class="titulo">J<sub>45</sub></span> A bicúpula quadrada giralongada, ou gyesquibcu, é um dos sólidos de Johnson. Pode ser construído anexando cúpulas quadradas às bases do antiprisma octogonal. É um dos cinco sólidos quirais de Johnson.
 <br><br><b>Faces:</b> 24 triângulos e 10 quadrados | <b>Arestas:</b> 56 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 135° e 141.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bicúpula" target="_blank">Mais sobre...</a>
