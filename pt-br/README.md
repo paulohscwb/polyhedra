@@ -1424,6 +1424,31 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/j87_augmented_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/239A.png" class="foto"></a><img src="../ar/239.png" class="qr">
  <br><span class="titulo">J<sub>87</sub></span> A esfenocorona aumentada, ou auwaco, é um dos sólidos de Johnson. Pode ser construída anexando uma pirâmide quadrada a uma das faces quadradas da esfenocorona J<sub>86</sub>.
 <br><br><b>Faces:</b> 16 triângulos e 1 quadrado | <b>Arestas:</b> 26 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">Mais sobre...</a>
+<hr>
+<h4>26. Esfenomegacorona</h4>
+<a href="../vr/j88_sphenomegacorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/240A.png" class="foto"></a><img src="../ar/240.png" class="qr">
+ <br><span class="titulo">J<sub>88</sub></span> A esfenomegacorona, ou wamco, é um dos sólidos de Johnson. O nome é derivado de "spheno", que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos, e "megacorona", denotando uma grande estrutura em forma de coroa composta por 12 triângulos, oposta à menor "coroa" de 8 triângulos encontrados na esfenocorona.
+<br><br><b>Faces:</b> 16 triângulos e 2 quadrados | <b>Arestas:</b> 28 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 86.72°, 117.36°, 129.44°, 137.24°, 143.74°, 154.72°, 161.48° e 171.65°. <a href="https://polytope.miraheze.org/wiki/Sphenomegacorona" target="_blank">Mais sobre...</a>
+<hr>
+<h4>27. Hebesfenomegacorona</h4>
+<a href="../vr/j89_hebesphenomegacorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/241A.png" class="foto"></a><img src="../ar/241.png" class="qr">
+ <br><span class="titulo">J<sub>89</sub></span> A hebesfenomegacorona, ou hawmco, é um dos sólidos de Johnson. O nome é derivado de "hebespheno" (que significa um arranjo em forma de cunha de três "luas", onde cada lua consiste em um quadrado ligado a dois triângulos) e "megacorona" denotando uma estrutura em forma de coroa composta por 12 triângulos (em oposição à menor "coroa" de 8 triângulos encontrados na esfenocorona). Tem uma distante relação com o icosaedro: se o quadrado do meio for contraído até uma aresta de modo que os quadrados vizinhos se tornem triângulos e os triângulos vizinhos se toquem, o resultado é um icosaedro.
+<br><br><b>Faces:</b> 18 triângulos e 3 quadrados | <b>Arestas:</b> 33 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">Mais sobre...</a>
+<hr>
+<h4>28. Disphenocingulum</h4>
+<a href="../vr/j90_disphenocingulum.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/242A.png" class="foto"></a><img src="../ar/242.png" class="qr">
+ <br><span class="titulo">J<sub>90</sub></span> O disphenocingulum, ou dawci, é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significando dois desses complexos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
+<br><br><b>Faces:</b> 20 triângulos e 4 quadrados | <b>Arestas:</b> 38 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">Mais sobre...</a>
+<hr>
+<h4>29. Bilunabirotunda</h4>
+<a href="../vr/j91_bilunabirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/243A.png" class="foto"></a><img src="../ar/243.png" class="qr">
+ <br><span class="titulo">J<sub>91</sub></span> A bilunabirotunda, ou bilbiro, é um dos sólidos de Johnson. A "birotunda" no nome significa essas duas áreas, enquanto a "biluna" se refere às duas luas (seções com um quadrado conectando-se a dois triângulos). Se as partes "rotunda" de dois bilunabirotundae estiverem alinhadas com as partes correspondentes opostas de um icosidodecaedro, elas se tocam no centro do icosidodecaedro porque a altura de cada bilunabirotunda nessa direção é exatamente a metade da altura do icosidodecaedro.
+<br><br><b>Faces:</b> 8 triângulos, 2 quadrados e 4 pentágonos | <b>Arestas:</b> 26 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 159.09°, 142.62°, 110.95°, 100.81° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Bilunabirotunda" target="_blank">Mais sobre...</a>
+<hr>
+<h4>30. Hebesphenorotunda triangular</h4>
+<a href="../vr/j92_triangular_hebesphenorotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/244A.png" class="foto"></a><img src="../ar/244.png" class="qr">
+ <br><span class="titulo">J<sub>92</sub></span> A hebesphenorotunda triangular, ou thawro, é um dos sólidos de Johnson. A hebesfenorotunda triangular também tem uma conexão com o pequeno rombicosidodecaedro. Os triângulos e quadrados que formam a porção "lunar" da forma são congruentes com os triângulos e quadrados correspondentes do pequeno rombicosidodecaedro.
+<br><br><b>Faces:</b> 13 triângulos, 3 quadrados, 3 pentágonos e 1 hexágono | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 159.09°, 142.62°, 138.19°, 110.95° e 100.81°.. <a href="https://polytope.miraheze.org/wiki/Triangular_hebesphenorotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 </details>
 

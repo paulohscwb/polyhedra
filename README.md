@@ -1425,6 +1425,31 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/j87_augmented_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/239A.png" class="foto"></a><img src="ar/239.png" class="qr">
  <br><span class="titulo">J<sub>87</sub></span> The augmented sphenocorona, or auwaco, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the sphenocorona J<sub>86</sub>. 
 <br><br><b>Faces:</b> 16 triangles and 1 square | <b>Edges:</b> 26 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">More...</a>
+<hr>
+<h4>26. Sphenomegacorona </h4>
+<a href="vr/j88_sphenomegacorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/240A.png" class="foto"></a><img src="ar/240.png" class="qr">
+ <br><span class="titulo">J<sub>88</sub></span> The sphenomegacorona, or wamco, is one of the Johnson solids. The name is derived from "spheno", meaning a wedge-like arrangement of two "lunes", where each lune consists of a square attached to two triangles, and "megacorona", denoting a large crown-like structure composed of 12 triangles, as opposed to the smaller "corona" of 8 triangles found in the sphenocorona. 
+<br><br><b>Faces:</b> 16 triangles and 2 squares | <b>Edges:</b> 28 | <b>Vertices:</b> 12 | <b>Dihedral angles:</b> 86.72°, 117.36°, 129.44°, 137.24°, 143.74°, 154.72°, 161.48° and 171.65°. <a href="https://polytope.miraheze.org/wiki/Sphenomegacorona" target="_blank">More...</a>
+<hr>
+<h4>27. Hebesphenomegacorona</h4>
+<a href="vr/j89_hebesphenomegacorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/241A.png" class="foto"></a><img src="ar/241.png" class="qr">
+ <br><span class="titulo">J<sub>89</sub></span> The hebesphenomegacorona, or hawmco, is one of the Johnson solids. The name is derived from "hebespheno" (meaning a wedge-like arrangement of three "lunes", where each lune consists of a square attached to two triangles) and "megacorona" denoting a crown-like structure composed of 12 triangles (as opposed to the smaller "corona" of 8 triangles found in the sphenocorona). It has a weak relation to the icosahedron: if the middle square is contracted to an edge such that the neighboring squares become triangles and the neighboring triangles touch, the result is an icosahedron.  
+<br><br><b>Faces:</b> 18 triangles and 3 squares | <b>Edges:</b> 33 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">More...</a>
+<hr>
+<h4>28. Disphenocingulum</h4>
+<a href="vr/j90_disphenocingulum.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/242A.png" class="foto"></a><img src="ar/242.png" class="qr">
+ <br><span class="titulo">J<sub>90</sub></span> The disphenocingulum, or dawci, is one of the Johnson solids. The name is derived from "spheno" (meaning a wedge-like arrangement of two "lunes", where each lune consists of a square attached to two triangles - "di" signifying two such complexes) and "cingulum" denoting a crown-like belt of 12 triangles.  
+<br><br><b>Faces:</b> 20 triangles and 4 squares | <b>Edges:</b> 38 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">More...</a>
+<hr>
+<h4>29. Bilunabirotunda</h4>
+<a href="vr/j91_bilunabirotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/243A.png" class="foto"></a><img src="ar/243.png" class="qr">
+ <br><span class="titulo">J<sub>91</sub></span> The bilunabirotunda, or bilbiro, is one of the Johnson solids. The "birotunda" in the name signifies these two areas, while the "biluna" refers to the two lunes (sections with a square connecting to two triangles). If the "rotunda" parts of two bilunabirotundae are aligned with opposite corresponding parts of an icosidodecahedron, they touch at the center of the icosidodecahedron because each bilunabirotunda's height in this direction is exactly half that of the icosidodecahedron height.  
+<br><br><b>Faces:</b> 8 triangles, 2 squares and 4 pentagons | <b>Edges:</b> 26 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 159.09°, 142.62°, 110.95°, 100.81° and 63.43°. <a href="https://polytope.miraheze.org/wiki/Bilunabirotunda" target="_blank">More...</a>
+<hr>
+<h4>30. Triangular hebesphenorotunda</h4>
+<a href="vr/j92_triangular_hebesphenorotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/244A.png" class="foto"></a><img src="ar/244.png" class="qr">
+ <br><span class="titulo">J<sub>92</sub></span> The triangular hebesphenorotunda, or thawro, is one of the Johnson solids. The triangular hebesphenorotunda has a minor connection with the small rhombicosidodecahedron. The triangles and squares forming the "lune" portion of the shape are congruent with corresponding triangles and squares of the small rhombicosidodecahedron.  
+<br><br><b>Faces:</b> 13 triangles, 3 squares, 3 pentagons and 1 hexagon | <b>Edges:</b> 36 | <b>Vertices:</b> 18 | <b>Dihedral angles:</b> 159.09°, 142.62°, 138.19°, 110.95° and 100.81°. <a href="https://polytope.miraheze.org/wiki/Triangular_hebesphenorotunda" target="_blank">More...</a>
 <p class="topop"><a href="#p13" class="topo">back to top</a></p>
 </details>
 
