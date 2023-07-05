@@ -1290,7 +1290,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 </details>
 
-<details id="p13">
+<details id="p13" style="border-bottom: 1px solid #a2dec0;">
   <summary>Sólidos de Johnson: J<sub>63</sub> - J<sub>92</sub></summary>
   Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Nesta segunda parte, temos mais 30 sólidos de Johnson. Para visualizar os poliedros de Johnson em RA, visite a página:
 <p align="center"><a href="../johnson3.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson3.html</a></p> 
@@ -1322,6 +1322,31 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/j67_biaugmented_truncated_cube.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/219A.png" class="foto"></a><img src="../ar/219.png" class="qr">
  <br><span class="titulo">J<sub>67</sub></span> O cubo truncado biaumentado, ou bautic, é um dos sólidos de Johnson. Ele pode ser construído anexando cúpulas quadradas J<sub>4</sub> a duas faces octogonais opostas do cubo truncado.
 <br><br><b>Faces:</b> 16 triângulos, 10 quadrados e 4 octógonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 32 | <b>Ângulos diédricos:</b> 170.26°, 144.74°, 135°, 125.26° e 90°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_truncated_cube" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Dodecaedro truncado aumentado</h4>
+<a href="../vr/j68_augmented_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/220A.png" class="foto"></a><img src="../ar/220.png" class="qr">
+ <br><span class="titulo">J<sub>68</sub></span> O dodecaedro truncado aumentado, ou autid, é um dos sólidos de Johnson. Pode ser construído anexando uma cúpula pentagonal J<sub>5</sub> a uma das faces decagonais do dodecaedro truncado.
+<br><br><b>Faces:</b> 25 triângulos, 5 quadrados, 1 pentágono e 11 decágonos | <b>Arestas:</b> 105 | <b>Vértices:</b> 65 | <b>Ângulos diédricos:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° e 116.57°. <a href="https://polytope.miraheze.org/wiki/Augmented_truncated_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>7. Dodecaedro truncado parabiaumentado</h4>
+<a href="../vr/j69_parabiaugmented_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/221A.png" class="foto"></a><img src="../ar/221.png" class="qr">
+ <br><span class="titulo">J<sub>69</sub></span> O dodecaedro truncado parabiaumentado, ou pabautid, é um dos sólidos de Johnson. Ele pode ser construído anexando duas cúpulas pentagonais J<sub>5</sub> a duas faces decagonais opostas do dodecaedro truncado.
+<br><br><b>Faces:</b> 30 triângulos, 10 quadrados, 2 pentágonos e 10 decágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 70 | <b>Ângulos diédricos:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° e 116.57°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_truncated_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>8. Dodecaedro truncado metabiaumentado</h4>
+<a href="../vr/j70_metabiaugmented_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/222A.png" class="foto"></a><img src="../ar/222.png" class="qr">
+ <br><span class="titulo">J<sub>70</sub></span> O dodecaedro truncado metabiaumentado, ou mabautid, é um dos sólidos de Johnson. Ele pode ser construído anexando duas cúpulas pentagonais J<sub>5</sub> a duas faces decagonais não opostas e não adjacentes do dodecaedro truncado.
+<br><br><b>Faces:</b> 30 triângulos, 10 quadrados, 2 pentágonos e 10 decágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 70 | <b>Ângulos diédricos:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° e 116.57°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_truncated_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>9. Dodecaedro truncado triaumentado</h4>
+<a href="../vr/j71_triaugmented_truncated_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/223A.png" class="foto"></a><img src="../ar/223.png" class="qr">
+ <br><span class="titulo">J<sub>71</sub></span> O dodecaedro truncado triaumentado, ou tautid, é um dos sólidos de Johnson. Ele pode ser construído anexando cúpulas pentagonais J<sub>5</sub> a três faces decagonais mutuamente não adjacentes do dodecaedro truncado.
+<br><br><b>Faces:</b> 35 triângulos, 15 quadrados, 3 pentágonos e 9 decágonos | <b>Arestas:</b> 135 | <b>Vértices:</b> 75 | <b>Ângulos diédricos:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° e 116.57°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_truncated_dodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>10. Dodecaedro truncado triaumentado</h4>
+<a href="../vr/j72_gyrate_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/224A.png" class="foto"></a><img src="../ar/224.png" class="qr">
+ <br><span class="titulo">J<sub>72</sub></span> O rombicosidodecaedro girado, ou gyrid, é um dos sólidos de Johnson. Ele pode ser construído girando uma das cúpulas pentagonais do pequeno rombicosidodecaedro em 36°.
+<br><br><b>Faces:</b> 20 triângulos, 30 quadrados e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 159.09°, 153.94°, 153.43° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 </details>
 

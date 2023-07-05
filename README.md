@@ -1323,6 +1323,31 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/j67_biaugmented_truncated_cube.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/219A.png" class="foto"></a><img src="ar/219.png" class="qr">
  <br><span class="titulo">J<sub>67</sub></span> The biaugmented truncated cube, or bautic, is one of the Johnson solids. It can be constructed by attaching square cupolas J<sub>4</sub> to two opposite octagonal faces of the truncated cube.
 <br><br><b>Faces:</b> 16 triangles, 10 squares and 4 octagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Dihedral angles:</b> 170.26°, 144.74°, 135°, 125.26° and 90°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_truncated_cube" target="_blank">More...</a>
+<hr>
+<h4>6. Augmented truncated dodecahedron</h4>
+<a href="vr/j68_augmented_truncated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/220A.png" class="foto"></a><img src="ar/220.png" class="qr">
+ <br><span class="titulo">J<sub>68</sub></span> The augmented truncated dodecahedron, or autid, is one of the Johnson solids. It can be constructed by attaching a pentagonal cupola J<sub>5</sub> to one of the decagonal faces of the truncated dodecahedron.
+<br><br><b>Faces:</b> 25 triangles, 5 squares, 1 pentagon and 11 decagons | <b>Edges:</b> 105 | <b>Vertices:</b> 65 | <b>Dihedral angles:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° and 116.57°. <a href="https://polytope.miraheze.org/wiki/Augmented_truncated_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>7. Parabiaugmented truncated dodecahedron</h4>
+<a href="vr/j69_parabiaugmented_truncated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/221A.png" class="foto"></a><img src="ar/221.png" class="qr">
+ <br><span class="titulo">J<sub>69</sub></span> The parabiaugmented truncated dodecahedron, or pabautid, is one of the Johnson solids. It can be constructed by attaching two pentagonal cupolas J<sub>5</sub> to two opposite decagonal faces of the truncated dodecahedron.
+<br><br><b>Faces:</b> 30 triangles, 10 squares, 2 pentagons and 10 decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 70 | <b>Dihedral angles:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° and 116.57°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_truncated_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>8. Metabiaugmented truncated dodecahedron</h4>
+<a href="vr/j70_metabiaugmented_truncated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/222A.png" class="foto"></a><img src="ar/222.png" class="qr">
+ <br><span class="titulo">J<sub>70</sub></span> The metabiaugmented truncated dodecahedron, or mabautid, is one of the Johnson solids. It can be constructed by attaching two pentagonal cupolas J<sub>5</sub> to two non-opposite, non-adjacent decagonal faces of the truncated dodecahedron.
+<br><br><b>Faces:</b> 30 triangles, 10 squares, 2 pentagons and 10 decagons | <b>Edges:</b> 120 | <b>Vertices:</b> 70 | <b>Dihedral angles:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° and 116.57°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_truncated_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>9. Triaugmented truncated dodecahedron</h4>
+<a href="vr/j71_triaugmented_truncated_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/223A.png" class="foto"></a><img src="ar/223.png" class="qr">
+ <br><span class="titulo">J<sub>71</sub></span> The triaugmented truncated dodecahedron, or tautid, is one of the Johnson solids. It can be constructed by attaching pentagonal cupolas J<sub>5</sub> to three mutually non-adjacent decagonal faces of the truncated dodecahedron.
+<br><br><b>Faces:</b> 35 triangles, 10 squares, 3 pentagons and 9 decagons | <b>Edges:</b> 135 | <b>Vertices:</b> 75 | <b>Dihedral angles:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° and 116.57°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_truncated_dodecahedron" target="_blank">More...</a>
+<hr>
+<h4>10. Gyrate rhombicosidodecahedron</h4>
+<a href="vr/j72_gyrate_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/224A.png" class="foto"></a><img src="ar/224.png" class="qr">
+ <br><span class="titulo">J<sub>72</sub></span> The gyrate rhombicosidodecahedron, or gyrid, is one of the Johnson solids. It can be constructed by rotating one of the pentagonal cupolaic caps of the small rhombicosidodecahedron by 36°.
+<br><br><b>Faces:</b> 20 triangles, 30 squares and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 159.09°, 153.94°, 153.43° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_rhombicosidodecahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p13" class="topo">back to top</a></p>
 </details>
 
