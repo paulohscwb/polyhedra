@@ -1414,17 +1414,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>23. Snub square antiprism</h4>
 <a href="vr/j85_snub_square_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/237A.png" class="foto"></a><img src="ar/237.png" class="qr">
  <br><span class="titulo">J<sub>85</sub></span> The snub square antiprism, or snisquap, is one of the Johnson solids. It can be constructed from a square antiprism by expanding the two halves outward and inserting a set of 16 triangles in between the halves. 
-<br><br><b>Faces:</b> 24 triangles and 2 squares | <b>Edges:</b> 40 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Snub_square_antiprism" target="_blank">More...</a>
+<br><br><b>Faces:</b> 24 triangles and 2 squares | <b>Edges:</b> 40 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> 144.14°, 119.11°, 164.26°, 145.44° and 114.65°. <a href="https://polytope.miraheze.org/wiki/Snub_square_antiprism" target="_blank">More...</a>
 <hr>
 <h4>24. Sphenocorona </h4>
 <a href="vr/j86_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/238A.png" class="foto"></a><img src="ar/238.png" class="qr">
  <br><span class="titulo">J<sub>86</sub></span> The sphenocorona, or waco, is one of the Johnson solids. It is one of several polyhedra near the end of the list of Johnson solids with no obvious relation to any of the uniform polyhedra. The name is derived from "spheno" (meaning a wedge-like arrangement of two "lunes", where each lune consists of a square attached to two triangles) and "corona" denoting a crown-like structure composed of 8 triangles. 
-<br><br><b>Faces:</b> 12 triangles and 2 squares | <b>Edges:</b> 22 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 triangles and 2 squares | <b>Edges:</b> 22 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° and 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">More...</a>
 <hr>
 <h4>25. Augmented sphenocorona </h4>
 <a href="vr/j87_augmented_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/239A.png" class="foto"></a><img src="ar/239.png" class="qr">
  <br><span class="titulo">J<sub>87</sub></span> The augmented sphenocorona, or auwaco, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the sphenocorona J<sub>86</sub>. 
-<br><br><b>Faces:</b> 16 triangles and 1 square | <b>Edges:</b> 26 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">More...</a>
+<br><br><b>Faces:</b> 16 triangles and 1 square | <b>Edges:</b> 26 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75°, and 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">More...</a>
 <hr>
 <h4>26. Sphenomegacorona </h4>
 <a href="vr/j88_sphenomegacorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/240A.png" class="foto"></a><img src="ar/240.png" class="qr">
