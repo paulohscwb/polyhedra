@@ -1418,12 +1418,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>24. Esfenocorona</h4>
 <a href="../vr/j86_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/238A.png" class="foto"></a><img src="../ar/238.png" class="qr">
  <br><span class="titulo">J<sub>86</sub></span> A esfenocorona, ou waco, é um dos sólidos de Johnson. É um dos vários poliedros próximos ao final da lista de sólidos de Johnson sem alguma relação óbvia com um dos poliedros uniformes. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos) e "corona" denotando uma estrutura em forma de coroa composta por 8 triângulos.
-<br><br><b>Faces:</b> 12 triângulos e 2 quadrados | <b>Arestas:</b> 22 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° and 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 12 triângulos e 2 quadrados | <b>Arestas:</b> 22 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° e 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">Mais sobre...</a>
 <hr>
 <h4>25. Esfenocorona aumentada</h4>
 <a href="../vr/j87_augmented_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/239A.png" class="foto"></a><img src="../ar/239.png" class="qr">
  <br><span class="titulo">J<sub>87</sub></span> A esfenocorona aumentada, ou auwaco, é um dos sólidos de Johnson. Pode ser construída anexando uma pirâmide quadrada a uma das faces quadradas da esfenocorona J<sub>86</sub>.
-<br><br><b>Faces:</b> 16 triângulos e 1 quadrado | <b>Arestas:</b> 26 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75°, and 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 16 triângulos e 1 quadrado | <b>Arestas:</b> 26 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75°, e 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">Mais sobre...</a>
 <hr>
 <h4>26. Esfenomegacorona</h4>
 <a href="../vr/j88_sphenomegacorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/240A.png" class="foto"></a><img src="../ar/240.png" class="qr">
@@ -1433,12 +1433,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>27. Hebesfenomegacorona</h4>
 <a href="../vr/j89_hebesphenomegacorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/241A.png" class="foto"></a><img src="../ar/241.png" class="qr">
  <br><span class="titulo">J<sub>89</sub></span> A hebesfenomegacorona, ou hawmco, é um dos sólidos de Johnson. O nome é derivado de "hebespheno" (que significa um arranjo em forma de cunha de três "luas", onde cada lua consiste em um quadrado ligado a dois triângulos) e "megacorona" denotando uma estrutura em forma de coroa composta por 12 triângulos (em oposição à menor "coroa" de 8 triângulos encontrados na esfenocorona). Tem uma distante relação com o icosaedro: se o quadrado do meio for contraído até uma aresta de modo que os quadrados vizinhos se tornem triângulos e os triângulos vizinhos se toquem, o resultado é um icosaedro.
-<br><br><b>Faces:</b> 18 triângulos e 3 quadrados | <b>Arestas:</b> 33 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 18 triângulos e 3 quadrados | <b>Arestas:</b> 33 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 157.15°, 141.34°, 128.5°, 111.73°, 149.56°, 101.29°, 152.98°, 102.52° e 133.97°. <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">Mais sobre...</a>
 <hr>
 <h4>28. Disphenocingulum</h4>
 <a href="../vr/j90_disphenocingulum.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/242A.png" class="foto"></a><img src="../ar/242.png" class="qr">
  <br><span class="titulo">J<sub>90</sub></span> O disphenocingulum, ou dawci, é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significando dois desses complexos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
-<br><br><b>Faces:</b> 20 triângulos e 4 quadrados | <b>Arestas:</b> 38 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> . <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 20 triângulos e 4 quadrados | <b>Arestas:</b> 38 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 124.7°, 148.43°, 133.59°, 166.81°, 154.42°, 134.34° e 100.19°. <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">Mais sobre...</a>
 <hr>
 <h4>29. Bilunabirotunda</h4>
 <a href="../vr/j91_bilunabirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/243A.png" class="foto"></a><img src="../ar/243.png" class="qr">

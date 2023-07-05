@@ -1434,12 +1434,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>27. Hebesphenomegacorona</h4>
 <a href="vr/j89_hebesphenomegacorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/241A.png" class="foto"></a><img src="ar/241.png" class="qr">
  <br><span class="titulo">J<sub>89</sub></span> The hebesphenomegacorona, or hawmco, is one of the Johnson solids. The name is derived from "hebespheno" (meaning a wedge-like arrangement of three "lunes", where each lune consists of a square attached to two triangles) and "megacorona" denoting a crown-like structure composed of 12 triangles (as opposed to the smaller "corona" of 8 triangles found in the sphenocorona). It has a weak relation to the icosahedron: if the middle square is contracted to an edge such that the neighboring squares become triangles and the neighboring triangles touch, the result is an icosahedron.  
-<br><br><b>Faces:</b> 18 triangles and 3 squares | <b>Edges:</b> 33 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">More...</a>
+<br><br><b>Faces:</b> 18 triangles and 3 squares | <b>Edges:</b> 33 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 157.15°, 141.34°, 128.5°, 111.73°, 149.56°, 101.29°, 152.98°, 102.52° and 133.97°. <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">More...</a>
 <hr>
 <h4>28. Disphenocingulum</h4>
 <a href="vr/j90_disphenocingulum.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/242A.png" class="foto"></a><img src="ar/242.png" class="qr">
  <br><span class="titulo">J<sub>90</sub></span> The disphenocingulum, or dawci, is one of the Johnson solids. The name is derived from "spheno" (meaning a wedge-like arrangement of two "lunes", where each lune consists of a square attached to two triangles - "di" signifying two such complexes) and "cingulum" denoting a crown-like belt of 12 triangles.  
-<br><br><b>Faces:</b> 20 triangles and 4 squares | <b>Edges:</b> 38 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 triangles and 4 squares | <b>Edges:</b> 38 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> 124.7°, 148.43°, 133.59°, 166.81°, 154.42°, 134.34° and 100.19°. <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">More...</a>
 <hr>
 <h4>29. Bilunabirotunda</h4>
 <a href="vr/j91_bilunabirotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/243A.png" class="foto"></a><img src="ar/243.png" class="qr">
