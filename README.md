@@ -1400,6 +1400,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>82</sub></span> The gyrate bidiminished rhombicosidodecahedron, or gybadrid, is one of the Johnson solids. It can be constructed by removing two non-opposite pentagonal cupolaic caps of the small rhombicosidodecahedron, and rotating a third cap by 36°. 
 <br><br><b>Faces:</b> 10 triangles, 20 squares, 10 pentagons and 2 decagons | <b>Edges:</b> 90 | <b>Vertices:</b> 50 | <b>Dihedral angles:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_bidiminished_rhombicosidodecahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p13" class="topo">back to top</a></p>
+<hr>
+<h4>21. Tridiminished rhombicosidodecahedron</h4>
+<a href="vr/j83_tridiminished_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/235A.png" class="foto"></a><img src="ar/235.png" class="qr">
+ <br><span class="titulo">J<sub>83</sub></span> The tridiminished rhombicosidodecahedron, or tedrid, is one of the Johnson solids. It can be constructed by removing three pentagonal cupolaic caps of the small rhombicosidodecahedron. 
+<br><br><b>Faces:</b> 5 triangles, 15 squares, 9 pentagons and 3 decagons | <b>Edges:</b> 75 | <b>Vertices:</b> 45 | <b>Dihedral angles:</b> 159.09°, 121.72°, 116.57° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Tridiminished_rhombicosidodecahedron" target="_blank">More...</a>
+<hr>
+<h4>22. Snub disphenoid</h4>
+<a href="vr/j84_snub_disphenoid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/236A.png" class="foto"></a><img src="ar/236.png" class="qr">
+ <br><span class="titulo">J<sub>84</sub></span> The snub disphenoid, or snadow, is one of the Johnson solids. It can be constructed from a tetrahedron, seen as a digonal antiprism or disphenoid, by expanding the two halves outward and inserting a set of 8 triangles in between the halves.
+<br><br><b>Faces:</b> 12 triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 96.2°, 121.74° and 166.44°. <a href="https://polytope.miraheze.org/wiki/Snub_disphenoid" target="_blank">More...</a>
+<hr>
+<h4>23. Snub square antiprism</h4>
+<a href="vr/j85_snub_square_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/237A.png" class="foto"></a><img src="ar/237.png" class="qr">
+ <br><span class="titulo">J<sub>85</sub></span> The snub square antiprism, or snisquap, is one of the Johnson solids. It can be constructed from a square antiprism by expanding the two halves outward and inserting a set of 16 triangles in between the halves. 
+<br><br><b>Faces:</b> 24 triangles and 2 squares | <b>Edges:</b> 40 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Snub_square_antiprism" target="_blank">More...</a>
+<hr>
+<h4>24. Sphenocorona </h4>
+<a href="vr/j86_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/238A.png" class="foto"></a><img src="ar/238.png" class="qr">
+ <br><span class="titulo">J<sub>86</sub></span> The sphenocorona, or waco, is one of the Johnson solids. It is one of several polyhedra near the end of the list of Johnson solids with no obvious relation to any of the uniform polyhedra. The name is derived from "spheno" (meaning a wedge-like arrangement of two "lunes", where each lune consists of a square attached to two triangles) and "corona" denoting a crown-like structure composed of 8 triangles. 
+<br><br><b>Faces:</b> 12 triangles and 2 squares | <b>Edges:</b> 22 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">More...</a>
+<hr>
+<h4>25. Augmented sphenocorona </h4>
+<a href="vr/j87_augmented_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/239A.png" class="foto"></a><img src="ar/239.png" class="qr">
+ <br><span class="titulo">J<sub>87</sub></span> The augmented sphenocorona, or auwaco, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the sphenocorona J<sub>86</sub>. 
+<br><br><b>Faces:</b> 16 triangles and 1 square | <b>Edges:</b> 26 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> . <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">More...</a>
+<p class="topop"><a href="#p13" class="topo">back to top</a></p>
 </details>
 
 
