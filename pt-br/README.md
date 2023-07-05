@@ -1343,10 +1343,36 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>71</sub></span> O dodecaedro truncado triaumentado, ou tautid, é um dos sólidos de Johnson. Ele pode ser construído anexando cúpulas pentagonais J<sub>5</sub> a três faces decagonais mutuamente não adjacentes do dodecaedro truncado.
 <br><br><b>Faces:</b> 35 triângulos, 15 quadrados, 3 pentágonos e 9 decágonos | <b>Arestas:</b> 135 | <b>Vértices:</b> 75 | <b>Ângulos diédricos:</b> 174.34°, 159.09°, 153.94°, 148.28°, 142.62° e 116.57°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_truncated_dodecahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>10. Dodecaedro truncado triaumentado</h4>
+<h4>10. Rombicosidodecaedro girado</h4>
 <a href="../vr/j72_gyrate_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/224A.png" class="foto"></a><img src="../ar/224.png" class="qr">
  <br><span class="titulo">J<sub>72</sub></span> O rombicosidodecaedro girado, ou gyrid, é um dos sólidos de Johnson. Ele pode ser construído girando uma das cúpulas pentagonais do pequeno rombicosidodecaedro em 36°.
 <br><br><b>Faces:</b> 20 triângulos, 30 quadrados e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 159.09°, 153.94°, 153.43° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
+<p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
+<hr>
+<h4>11. Rombicosidodecaedro parabigirado</h4>
+<a href="../vr/j73_parabigyrate_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/225A.png" class="foto"></a><img src="../ar/225.png" class="qr">
+ <br><span class="titulo">J<sub>73</sub></span> O rombicosidodecaedro parabigirado, ou pabgyrid, é um dos sólidos de Johnson. Ele pode ser construído girando duas cúpulas pentagonais opostas do pequeno rombicosidodecaedro em 36°.
+<br><br><b>Faces:</b> 20 triângulos, 30 quadrados e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 159.09°, 153.94°, 153.43° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Parabigyrate_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>12. Rombicosidodecaedro metabigirado</h4>
+<a href="../vr/j74_metabigyrate_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/226A.png" class="foto"></a><img src="../ar/226.png" class="qr">
+ <br><span class="titulo">J<sub>74</sub></span> O rombicosidodecaedro metabigirato, ou mabgyrid, é um dos sólidos de Johnson. Ele pode ser construído girando duas cúpulas pentagonais não opostas do pequeno rombicosidodecaedro em 36°.
+<br><br><b>Faces:</b> 20 triângulos, 30 quadrados e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 159.09°, 153.94°, 153.43° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Metabigyrate_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>13. Rombicosidodecaedro trigirado</h4>
+<a href="../vr/j75_trigyrate_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/227A.png" class="foto"></a><img src="../ar/227.png" class="qr">
+ <br><span class="titulo">J<sub>75</sub></span> O rombicosidodecaedro trigirado, ou tagyrid, é um dos sólidos de Johnson. Ele pode ser construído girando três cúpulas pentagonais mutuamente não adjacentes do pequeno rombicosidodecaedro em 36°.
+<br><br><b>Faces:</b> 20 triângulos, 30 quadrados e 12 pentágonos | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 159.09°, 153.94°, 153.43° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Trigyrate_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>14. Rombicosidodecaedro diminuto</h4>
+<a href="../vr/j76_diminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/228A.png" class="foto"></a><img src="../ar/228.png" class="qr">
+ <br><span class="titulo">J<sub>76</sub></span> O rombicosidodecaedro diminuto, ou dirid, é um dos sólidos de Johnson. Pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro.
+<br><br><b>Faces:</b> 15 triângulos, 25 quadrados, 11 pentágonos e 1 decágono | <b>Arestas:</b> 105 | <b>Vértices:</b> 55 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Diminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>15. Rombicosidodecaedro diminuto paragirado</h4>
+<a href="../vr/j77_paragyrate_diminished_rhombicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/229A.png" class="foto"></a><img src="../ar/229.png" class="qr">
+ <br><span class="titulo">J<sub>77</sub></span> O rombicosidodecaedro diminuto paragirado, ou pagydrid, é um dos sólidos de Johnson. Ele pode ser construído removendo uma das cúpulas pentagonais do pequeno rombicosidodecaedro e girando a cúpula oposta em 36°.
+<br><br><b>Faces:</b> 15 triângulos, 25 quadrados, 11 pentágonos e 1 decágono | <b>Arestas:</b> 105 | <b>Vértices:</b> 55 | <b>Ângulos diédricos:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° e 148.28°. <a href="https://polytope.miraheze.org/wiki/Paragyrate_diminished_rhombicosidodecahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 </details>
 

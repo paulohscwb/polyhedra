@@ -1349,6 +1349,32 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>72</sub></span> The gyrate rhombicosidodecahedron, or gyrid, is one of the Johnson solids. It can be constructed by rotating one of the pentagonal cupolaic caps of the small rhombicosidodecahedron by 36°.
 <br><br><b>Faces:</b> 20 triangles, 30 squares and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 159.09°, 153.94°, 153.43° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Gyrate_rhombicosidodecahedron" target="_blank">More...</a>
 <p class="topop"><a href="#p13" class="topo">back to top</a></p>
+<hr>
+<h4>11. Parabigyrate rhombicosidodecahedron</h4>
+<a href="vr/j73_parabigyrate_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/225A.png" class="foto"></a><img src="ar/225.png" class="qr">
+ <br><span class="titulo">J<sub>73</sub></span> The parabigyrate rhombicosidodecahedron, or pabgyrid, is one of the Johnson solids. It can be constructed by rotating two opposite pentagonal cupolaic caps of the small rhombicosidodecahedron by 36°.
+<br><br><b>Faces:</b> 20 triangles, 30 squares and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 159.09°, 153.94°, 153.43° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Parabigyrate_rhombicosidodecahedron" target="_blank">More...</a>
+<hr>
+<h4>12. Metabigyrate rhombicosidodecahedron</h4>
+<a href="vr/j74_metabigyrate_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/226A.png" class="foto"></a><img src="ar/226.png" class="qr">
+ <br><span class="titulo">J<sub>74</sub></span> The metabigyrate rhombicosidodecahedron, or mabgyrid, is one of the Johnson solids. It can be constructed by rotating two non-opposite pentagonal cupolaic caps of the small rhombicosidodecahedron by 36°.
+<br><br><b>Faces:</b> 20 triangles, 30 squares and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 159.09°, 153.94°, 153.43° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Metabigyrate_rhombicosidodecahedron" target="_blank">More...</a>
+<hr>
+<h4>13. Trigyrate rhombicosidodecahedron</h4>
+<a href="vr/j75_trigyrate_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/227A.png" class="foto"></a><img src="ar/227.png" class="qr">
+ <br><span class="titulo">J<sub>75</sub></span> The trigyrate rhombicosidodecahedron, or tagyrid, is one of the Johnson solids. It can be constructed by rotating three mutually non-adjacent pentagonal cupolaic caps of the small rhombicosidodecahedron by 36°. 
+<br><br><b>Faces:</b> 20 triangles, 30 squares and 12 pentagons | <b>Edges:</b> 120 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 159.09°, 153.94°, 153.43° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Trigyrate_rhombicosidodecahedron" target="_blank">More...</a>
+<hr>
+<h4>14. Diminished rhombicosidodecahedron</h4>
+<a href="vr/j76_diminished_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/228A.png" class="foto"></a><img src="ar/228.png" class="qr">
+ <br><span class="titulo">J<sub>76</sub></span> The diminished rhombicosidodecahedron, or dirid, is one of the Johnson solids. It can be constructed by removing one of the pentagonal cupolaic caps of the small rhombicosidodecahedron. 
+<br><br><b>Faces:</b> 15 triangles, 25 squares, 11 pentagons and 1 decagon | <b>Edges:</b> 105 | <b>Vertices:</b> 55 | <b>Dihedral angles:</b> 159.09°, 121.72°, 116.57° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Diminished_rhombicosidodecahedron" target="_blank">More...</a>
+<hr>
+<h4>15. Paragyrate diminished rhombicosidodecahedron</h4>
+<a href="vr/j77_paragyrate_diminished_rhombicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/229A.png" class="foto"></a><img src="ar/229.png" class="qr">
+ <br><span class="titulo">J<sub>77</sub></span> The paragyrate diminished rhombicosidodecahedron, or pagydrid, is one of the Johnson solids. It can be constructed by removing one of the pentagonal cupolaic caps of the small rhombicosidodecahedron, and rotating the opposite cap by 36°. 
+<br><br><b>Faces:</b> 15 triangles, 25 squares, 11 pentagons and 1 decagon | <b>Edges:</b> 105 | <b>Vertices:</b> 55 | <b>Dihedral angles:</b> 159.09°, 121.72°, 153.43°, 153.94°, 116.57° and 148.28°. <a href="https://polytope.miraheze.org/wiki/Paragyrate_diminished_rhombicosidodecahedron" target="_blank">More...</a>
+<p class="topop"><a href="#p13" class="topo">back to top</a></p>
 </details>
 
 
