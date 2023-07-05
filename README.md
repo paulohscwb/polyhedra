@@ -1035,7 +1035,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">J<sub>14</sub></span> The elongated triangular dipyramid, also called a elongated triangular bipyramid or etidpy, is one of the Johnson solids. It can be constructed by inserting a triangular prism between the two halves of the triangular dipyramid. 
 <br><br><b>Faces:</b> 6 triangles and 3 squares | <b>Edges:</b> 15 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 160.53°, 60° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_bipyramid" target="_blank">More...</a>
 <hr>
-<h4>15. Elongated triangular dipyramid</h4>
+<h4>15. Elongated square dipyramid</h4>
 <a href="vr/j15_elongated_square_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto"></a><img src="ar/35.png" class="qr">
  <br><span class="titulo">J<sub>15</sub></span> The elongated square dipyramid, also called a elongated square bipyramid or esquidpy, is one of the Johnson solids. It can be constructed by inserting a cube, seen as a square prism, between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
 <br><br><b>Faces:</b> 8 triangles and 4 squares | <b>Edges:</b> 20 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_bipyramid" target="_blank">More...</a>
