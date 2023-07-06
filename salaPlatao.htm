@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Poliedros de Platão</title>
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/super-hands/dist/super-hands.min.js"></script>
+    <script src="https://rawgit.com/donmccurdy/aframe-physics-system/v4.0.0/dist/aframe-physics-system.min.js"></script>
+    <script src="https://unpkg.com/aframe-event-set-component@^4.1.1/dist/aframe-event-set-component.min.js"></script>
+    <script src="https://unpkg.com/aframe-physics-extras/dist/aframe-physics-extras.min.js"></script>
+    <script> AFRAME.registerComponent('phase-shift', {
+      init: function () {
+        var el = this.el
+        el.addEventListener('gripdown', function () {
+           el.setAttribute('collision-filter', {collisionForces: true})
+        })
+        el.addEventListener('gripup', function () {
+           el.setAttribute('collision-filter', {collisionForces: false})
+        })
+      }
+    });
+    </script>
+  </head>
+  <body>
+    <a-scene physics shadow="type: pcfsoft">
+        <a-assets>
+           <a-mixin id="poli" geometry="width: 0.5; height: 0.5; depth: 0.5;" shadow 
+             hoverable grabbable stretchable draggable droppable event-set__hoveron="_event: hover-start;
+             material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; 
+             material.opacity: 1; transparent: false" dynamic-body="linearDamping:0.1; 
+             angularDamping:0.8; mass:0.5;"></a-mixin>
+           <a-mixin id="piso" geometry="width: 10; height: 0.3; depth: 10;" static-body shadow></a-mixin>
+		   <a-mixin id="suporte" geometry="width: 0.35; height: 0.3; depth: 0.35;" static-body shadow></a-mixin>
+	   <a-mixin id="mfisicas" physics-collider phase-shift  collision-filter="collisionForces: false" 
+	     static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; 
+	     colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
+        </a-assets>
+        <a-entity id="cameraRig">
+           <a-camera id="head" look-controls wasd-controls position="0 1.7 2" 
+             cursor="rayOrigin:mouse" static-body="shape: sphere; sphereRadius: 0.001" 
+             super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els;
+             colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-camera>
+           <a-entity id="lhand" mixin="mfisicas" hand-controls="hand: left"></a-entity>
+		   <a-entity id="rhand" mixin="mfisicas" hand-controls="hand: right"></a-entity>
+        </a-entity>
+        <a-box mixin="piso" class="piso" position="0 -0.1 0" material="color: rgb(100,180,100)"></a-box>
+        <a-gltf-model class="poli" src="vr/salas/estantePlatao.glb" mixin="poli" position="0 0 0" shadow></a-gltf-model>
+        <a-gltf-model class="poli" src="vr/salas/cube.glb" mixin="poli" position="-0.16 1.12 0" shadow></a-gltf-model>
+		<a-box mixin="suporte" class="suporte" position="-0.16 1.1 0" material="color: rgb(100,180,100)"></a-box>
+        <a-gltf-model class="poli" src="vr/salas/dodecahedron.glb" mixin="poli" position="0.16 0.87 0.16" shadow></a-gltf-model>
+		<a-box mixin="suporte" class="suporte" position="0.16 0.85 0.16" material="color: rgb(100,180,100)"></a-box>
+        <a-gltf-model class="poli" src="vr/salas/icosahedron.glb" mixin="poli" position="0.16 1.37 0.16" shadow></a-gltf-model>
+		<a-box mixin="suporte" class="suporte" position="0.16 1.35 0.16" material="color: rgb(100,180,100)"></a-box>
+        <a-gltf-model class="poli" src="vr/salas/octahedron.glb" mixin="poli" position="0.16 0.37 0.16" shadow></a-gltf-model>
+		<a-box mixin="suporte" class="suporte" position="0.16 0.35 0.16" material="color: rgb(100,180,100)"></a-box>
+        <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="-0.16 0.62 0.16" shadow></a-gltf-model>
+		<a-box mixin="suporte" class="suporte" position="-0.16 0.6 0.16" material="color: rgb(100,180,100)"></a-box>
+		<a-plane src="https://www.youtube.com/watch?v=D0MzHlIAsbQ&list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" position="0 1.5 2.08" height="1.5" width="2.5"></a-plane>
+		
+        <a-light type="spot" intensity="0.8" color="white" position="1 3 0" angle="60"  
+          rotation="-90 0 0" penumbra="0.5" light="castShadow:true;"></a-light>
+        <a-light type="ambient" intensity="0.5" color="white"></a-light>
+    </a-scene>
+  </body>
+</html>
