@@ -29,7 +29,7 @@
              material.opacity: 1; transparent: false" dynamic-body="linearDamping:0.1; 
              angularDamping:0.8; mass:0.5;"></a-mixin>
            <a-mixin id="piso" geometry="width: 10; height: 0.3; depth: 10;" static-body shadow></a-mixin>
-		   <a-mixin id="suporte" geometry="width: 0.35; height: 0.3; depth: 0.35;" static-body shadow></a-mixin>
+		   <a-mixin id="suporte" geometry="width: 0.35; height: 0.01; depth: 0.35;" static-body shadow></a-mixin>
 	   <a-mixin id="mfisicas" physics-collider phase-shift  collision-filter="collisionForces: false" 
 	     static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; 
 	     colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
@@ -54,7 +54,7 @@
 		<a-box mixin="suporte" class="suporte" position="0.16 0.35 0.16" material="color: rgb(100,180,100)"></a-box>
         <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="-0.16 0.62 0.16" scale="0.07 0.07 0.07" shadow></a-gltf-model>
 		<a-box mixin="suporte" class="suporte" position="-0.16 0.6 0.16" material="color: rgb(100,180,100)"></a-box>
-		<a-plane src="https://www.youtube.com/watch?v=D0MzHlIAsbQ&list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" position="0 1.5 2.08" height="1.5" width="2.5"></a-plane>
+		<a-plane src="https://www.youtube.com/watch?v=D0MzHlIAsbQ&list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" position="2.08 1 1.16" rotation="0 270 0" height="1.3" width="2.2"></a-plane>
 		
         <a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
