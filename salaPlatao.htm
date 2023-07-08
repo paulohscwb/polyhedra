@@ -38,6 +38,7 @@
 			 super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els;  
 			 colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
+			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
         </a-assets>
         <a-entity id="cameraRig">
            <a-camera id="head" look-controls wasd-controls-enabled="false" position="0 1.7 0.6" 
@@ -50,7 +51,11 @@
         <a-box mixin="piso" class="piso" visible="false" position="0 -0.1 0" material="color: rgb(100,180,100)"></a-box>
         <a-gltf-model static-body src="vr/salas/mesa_Platao.glb" position="0 0 0" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/cube.glb" mixin="poli" position="0 0.98 -0.75" scale="0.05 0.05 0.05" shadow></a-gltf-model>
-		<a-gltf-model class="poli" src="vr/salas/dodecahedron.glb" mixin="poli" position="-0.75 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>
+		<a-entity>
+		<!--<a-gltf-model class="poli" src="vr/salas/dodecahedron.glb" mixin="poli" position="-0.75 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>-->
+			<a-gltf-model class="poli" src="vr/salas/dodecahedron.glb" mixin="poli"position="-0.75 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>
+			<a-obj-model scale="0.15 0.15 0.15" rotation="0 -18 -58.28255" src="vr/outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
+		</a-entity>
         <a-gltf-model class="poli" src="vr/salas/icosahedron.glb" mixin="poli" position="-0.75 0.98 -0.5" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/octahedron.glb" mixin="poli" position="0 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="0.75 0.98 -0.5" scale="0.05 0.05 0.05" shadow></a-gltf-model>
@@ -60,8 +65,8 @@
 		<a-gltf-model src="vr/salas/platonic.glb" position="0.35 0.8 0"></a-gltf-model>
 		
         <a-light type="ambient" color="white" intensity="0.5"></a-light>
-		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
-		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+		<a-light type="directional" color="white" light="castShadow:true;" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" light="castShadow:true;" intensity="0.8" position="3 -2 1"></a-light>
 		<a-sky src="vr/salas/imagens/toyA.jpg"></a-sky>
     </a-scene>
   </body>
