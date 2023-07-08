@@ -40,7 +40,7 @@
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
         </a-assets>
         <a-entity id="cameraRig">
-           <a-camera id="head" look-controls-enabled="false" wasd-controls-enabled="false" position="0 1.7 0.6" 
+           <a-camera id="head" look-controls="false" wasd-controls="false" position="0 1.7 0.6" 
              cursor="rayOrigin:mouse" static-body="shape: sphere; sphereRadius: 0.001" 
              super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els;
              colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-camera>
