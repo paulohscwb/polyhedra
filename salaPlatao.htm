@@ -8,18 +8,6 @@
     <script src="https://rawgit.com/donmccurdy/aframe-physics-system/v4.0.0/dist/aframe-physics-system.min.js"></script>
     <script src="https://unpkg.com/aframe-event-set-component@^4.1.1/dist/aframe-event-set-component.min.js"></script>
     <script src="https://unpkg.com/aframe-physics-extras/dist/aframe-physics-extras.min.js"></script>
-    <script> AFRAME.registerComponent('phase-shift', {
-      init: function () {
-        var el = this.el
-        el.addEventListener('gripdown', function () {
-           el.setAttribute('collision-filter', {collisionForces: true})
-        })
-        el.addEventListener('gripup', function () {
-           el.setAttribute('collision-filter', {collisionForces: false})
-        })
-      }
-    });
-    </script>
   </head>
   <body>
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true;"> <!--logarithmicDepthBuffer: true-->
@@ -27,8 +15,8 @@
            <a-mixin id="poli" shadow 
              hoverable grabbable stretchable draggable droppable event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false" dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:2; shape: hull"></a-mixin>
            <a-mixin id="piso" geometry="width: 10; height: 0.1; depth: 10;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
-			<a-mixin id="mfisicas" physics-collider phase-shift collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
-			 <a-mixin id="pointer" phase-shift raycaster="showLine: true; objects: .cubo, a-box" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
+			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
+			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli, a-box" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
         </a-assets>
