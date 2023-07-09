@@ -48,10 +48,10 @@
            <a-entity id="lhand" mixin="mfisicas" hand-controls="hand: left"></a-entity>
 		   <a-entity id="rhand" mixin="controle" hand-controls="hand: right"></a-entity>
         </a-entity>
-        <a-box mixin="piso" class="piso" visible="false" position="0 -0.1 0" material="color: rgb(100,180,100)"></a-box>
+        <a-box mixin="piso" class="piso" visible="false" position="0 -0.1 0" material="color: rgb(100,180,100)" shadow></a-box>
         <a-gltf-model static-body src="vr/salas/mesa_Platao.glb" position="0 0 0" shadow></a-gltf-model>
-        <a-gltf-model class="poli" src="vr/salas/cube.glb" mixin="poli" position="0 0.98 -0.75" scale="0.05 0.05 0.05" shadow></a-gltf-model>
-		<a-entity position="-0.75 0.98 -0.25" class="poli" mixin="poli">
+        <a-gltf-model class="poli" src="vr/salas/cube.glb" mixin="poli" position="0 0.9 -0.75" scale="0.05 0.05 0.05" shadow></a-gltf-model>
+		<a-entity position="-0.75 0.98 -0.15" class="poli" mixin="poli">
 		<!--<a-gltf-model class="poli" src="vr/salas/dodecahedron.glb" mixin="poli" position="-0.75 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>-->
 			<a-gltf-model src="vr/salas/dodecahedron.glb" scale="0.05 0.05 0.05" shadow></a-gltf-model>
 			<a-obj-model scale="0.15 0.15 0.15" rotation="0 -18 -58.28255" src="vr/outros/Dodecahedron.obj" mtl="#material" shadow></a-obj-model>
