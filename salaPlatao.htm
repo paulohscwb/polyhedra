@@ -14,7 +14,7 @@
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
            <a-mixin id="poli" shadow 
-             hoverable grabbable stretchable draggable droppable event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false" dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:2; shape: box; offset: 0 0 0; halfExtents: 0.02 0.02 0.02;"></a-mixin>
+             hoverable grabbable stretchable draggable droppable event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false" dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:2; shape: box; offset: 0 0 0; halfExtents: 0 0 0;"></a-mixin>
            <a-mixin id="piso" geometry="width: 10; height: 0.1; depth: 10;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
 			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
@@ -38,8 +38,8 @@
 		<a-video src="vr/salas/videos/icosahedron_dual_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
 		<a-box position="2.08 1 1.16" rotation="0 270 0" depth="0.03" height="1.8" width="2.9" color="#89CFF0" static-body></a-box>
 		<a-gltf-model src="vr/salas/platonic.glb" position="0.35 0.765 0"></a-gltf-model>
-		<a-link href="vr/cube.html" title="Poliedros de Arquimedes" link="highlighted:true; backgroundColor:LightGray" position="2.06 1.5 -0.7" rotation="0 270 0" scale="0.25 0.25 0.25"></a-link>
-		<a-link href="vr/anti_heptagonal_iris_toroid.htm" title="Poliedros de Catalan" link="highlighted:true; backgroundColor:LightGray" position="2.06 0.7 -0.7" rotation="0 270 0" scale="0.25 0.25 0.25"></a-link>
+		<a-link href="vr/cube.html" title="Poliedros de Arquimedes" link="highlighted:true; backgroundColor:LightGray; visualAspectEnabled: false;" position="2.06 1.5 -0.7" rotation="0 270 0" scale="0.25 0.25 0.25"></a-link>
+		<a-link href="vr/anti_heptagonal_iris_toroid.htm" title="Poliedros de Catalan" link="highlighted:true; backgroundColor:LightGray; visualAspectEnabled: false;" position="2.06 0.7 -0.7" rotation="0 270 0" scale="0.25 0.25 0.25"></a-link>
 		<a-text value="Youtube: @paulohscwb" position="2.06 0.18 1.5" width="2" rotation="0 270 0"></a-text>
 
         <a-light type="ambient" color="white" intensity="0.5"></a-light>
