@@ -20,6 +20,38 @@
 			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.1;"></a-mixin>
+			<a-mixin id="mtl1" material="color: black; "></a-mixin>
+			<a-mixin id="mtl2" material="color: white; "></a-mixin>
+	     
+   			<a-mixin id="mtl8" material="color: #87CEFA; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
+			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
+			<a-mixin id="texto" text="width:9; side:double; color: #404040"></a-mixin>
+			<a-mixin id="s1_1" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
+			<a-mixin id="s1_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
+			<a-mixin id="s1_3" position="0 2.2674 0"></a-mixin> <!--apotema do solido-->
+			<a-mixin id="s1_4" position="0 -2.2674 0"></a-mixin>
+	     
+	      	 	<a-mixin id="s2_1" position="0 0 2.0645"></a-mixin> <!--apotema do pentagono-->
+			<a-mixin id="s2_2" position="0 -1.5 2.0645"></a-mixin> <!--apotema do pentagono + metade da aresta -->
+			<a-mixin id="s2_3" position="0 3.3405 0"></a-mixin> <!--apotema do dodecaedro-->
+	     
+	     		<a-mixin id="s3_1" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
+			<a-mixin id="s3_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
+			<a-mixin id="s3_3" position="0 1.2246 0"></a-mixin> <!--apotema do solido-->
+	     		
+	     		<a-mixin id="s4_1" position="0 0 1.5"></a-mixin> <!--apotema do quadrado-->
+			<a-mixin id="s4_2" position="0 -1.5 1.5"></a-mixin> <!--apotema do quadrado + metade da aresta -->
+			<a-mixin id="s4_3" position="0 1.5 0"></a-mixin> <!--apotema do solido-->
+	     
+	     		<a-mixin id="s5_1" position="0 0 0.866"></a-mixin> <!--apotema do triangulo-->
+			<a-mixin id="s5_2" position="0 -1.5 0.866"></a-mixin> <!--apotema do triangulo + metade da aresta -->
+			<a-mixin id="s5_3" position="0 0.6123 0"></a-mixin> <!--apotema do solido-->
+	     
+			<a-mixin id="esfera" geometry="radius: 0.15;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
         </a-assets>
         <a-entity id="cameraRig">
            <a-camera id="head" look-controls wasd-controls-enabled="false" position="0 1.7 0.6" 
@@ -34,7 +66,62 @@
 		<a-gltf-model class="poli" mixin="poli" src="vr/salas/dodecahedron.glb" position="-0.75 0.98 -0.2" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/icosahedron.glb" mixin="poli" position="-0.75 0.98 -0.7" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/octahedron.glb" mixin="poli" position="0 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>
-        <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="0.75 0.98 -0.65" scale="0.05 0.05 0.05" shadow></a-gltf-model>
+        <!--<a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="0.75 0.98 -0.65" scale="0.05 0.05 0.05" shadow></a-gltf-model>-->
+		<a-entity mixin="poli" position="0.75 0.98 -0.65" scale="0.05 0.05 0.05" shadow>
+			<a-entity id="baixo">
+					<a-entity rotation="0 0 90">
+						<a-cylinder mixin="arestas mtl8 s5_1" ></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+					</a-entity>
+					<a-entity rotation="0 120 90">
+						<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+					</a-entity>
+					<a-entity rotation="0 240 90">
+						<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
+						<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+					</a-entity>
+					<a-obj-model rotation="180 0 90" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+					<a-entity mixin="s5_3"> <!--joga para o centro do dodecaedro-->
+						<a-entity rotation="70.3288 0 0"> <!--angulo entre as faces-->
+							<a-entity mixin="s5_3"> <!--joga na lateral a partir do centro-->
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3">
+						<a-entity rotation="70.3288 120 0"> <!--angulo entre as faces + lateral -->
+							<a-entity mixin="s5_3">
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+					<a-entity mixin="s5_3">
+						<a-entity rotation="70.3288 240 0">
+							<a-entity mixin="s5_3">
+								<a-entity rotation="0 120 90">
+									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+									<a-obj-model rotation="60 0 0" src="vr/outros/triangulo.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+								</a-entity>
+								<a-entity rotation="0 240 90">
+									<a-cylinder mixin="arestas mtl8 s5_1"></a-cylinder>
+									<a-sphere mixin="esfera mtl9 s5_2"></a-sphere>
+								</a-entity>
+							</a-entity>
+						</a-entity>
+					</a-entity>
+				</a-entity>
+		</a-entity>
+		
 		<a-video src="vr/salas/videos/icosahedron_dual_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
 		<a-box position="2.08 1 1.16" rotation="0 270 0" depth="0.03" height="1.8" width="2.9" color="#89CFF0" static-body></a-box>
 		<a-gltf-model src="vr/salas/platonic.glb" position="0.35 0.765 0"></a-gltf-model>
