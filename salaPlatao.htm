@@ -31,7 +31,10 @@
         <a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
         <a-gltf-model static-body src="vr/salas/mesa_Platao.glb" position="0 0 0" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/cube.glb" mixin="poli" position="0 1 -0.75" scale="0.05 0.05 0.05" shadow></a-gltf-model>
-		<a-gltf-model class="poli" mixin="poli" src="vr/salas/dodecahedron.glb" position="-0.75 0.98 -0.2" scale="0.05 0.05 0.05" shadow></a-gltf-model>
+		<a-entity position="-0.75 0.98 -0.2" scale="0.05 0.05 0.05">
+			<a-box class="poli" mixin="poli" visible="false" scale="1 1 1"></a-box>
+			<a-gltf-model src="vr/salas/dodecahedron.glb" shadow></a-gltf-model>
+		</a-entity>
         <a-gltf-model class="poli" src="vr/salas/icosahedron.glb" mixin="poli" position="-0.75 0.98 -0.7" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/octahedron.glb" mixin="poli" position="0 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="0.75 0.98 -0.65" scale="0.05 0.05 0.05" shadow></a-gltf-model>
