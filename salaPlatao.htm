@@ -15,8 +15,6 @@
         <a-assets>
            <a-mixin id="poli" shadow 
              hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:2; shape: cylinder; height: 0.005; radiusTop: 0.005; radiusBottom: 0.005; cilynderAxis: y"></a-mixin>
-			<a-mixin id="poliz" shadow 
-             hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:2; shape: hull"></a-mixin>
            <a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
 			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
@@ -36,7 +34,7 @@
 		<a-gltf-model class="poli" mixin="poli" src="vr/salas/dodecahedron.glb" position="-0.75 0.98 -0.2" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/icosahedron.glb" mixin="poli" position="-0.75 0.98 -0.7" scale="0.05 0.05 0.05" shadow></a-gltf-model>
         <a-gltf-model class="poli" src="vr/salas/octahedron.glb" mixin="poli" position="0 0.98 -0.25" scale="0.05 0.05 0.05" shadow></a-gltf-model>
-        <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poliz" position="0.75 0.98 -0.65" scale="0.05 0.05 0.05" shadow></a-gltf-model>
+        <a-gltf-model class="poli" src="vr/salas/tetrahedron.glb" mixin="poli" position="0.75 0.98 -0.65" scale="0.05 0.05 0.05" shadow></a-gltf-model>
 		<a-video src="vr/salas/videos/icosahedron_dual_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
 		<a-box position="2.08 1 1.16" rotation="0 270 0" depth="0.03" height="1.8" width="2.9" color="#89CFF0" static-body></a-box>
 		<a-gltf-model src="vr/salas/platonic.glb" position="0.35 0.765 0"></a-gltf-model>
