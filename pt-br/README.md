@@ -12,6 +12,8 @@
 <details id="p1">
   <summary>Poliedros de Arquimedes</summary>
 Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
+<h4>Sala imersiva</h4>
+  <div class="embed-container"><iframe width="100%" src="../salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
 <br>Para ver os poliedros arquimedeanos em RA, visite a página:
 <p align="center"> <a href="../archimedes.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -88,6 +90,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <details id="p2">
   <summary>Poliedros de Platão</summary>
 Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
+<h4>Sala imersiva</h4>
+  <div class="embed-container"><iframe width="100%" src="../salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
  <br>Para ver o poliedro platônico em AR, visite
 <p align="center"> <a href="../platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -122,9 +126,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p2" class="topo">voltar ao topo</a></p>
 </details>
 
-<details id ="p3">
+<details id="p3">
   <summary>Poliedros de Catalan</summary>
   Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomeados em homenagem ao matemático belga Eugene Catalan (1814-1894) que descreveu pela primeira vez o conjunto completo em 1865. O Dodecaedro Rômbico e o Triacontaedro Rômbico foram descritos em 1611 por Johannes Kepler. Cada sólido de Catalan tem um tipo de face e um ângulo diedro constante, e possui a mesma simetria que seu respectivo dual de Arquimedes.
+  <h4>Sala imersiva</h4>
+  <div class="embed-container"><iframe width="100%" src="salaCatalan.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
  <br>Para visualizar os poliedros de Catalan em RA, visite a página:
 <p align="center"><a href="../catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
