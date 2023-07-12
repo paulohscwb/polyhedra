@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Poliedros de Arquimedes</title>
+    <title>Poliedros de Catalan</title>
 	<meta name="apple-mobile-web-app-capable" content="yes">
-    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
     <script src="https://unpkg.com/super-hands/dist/super-hands.min.js"></script>
     <script src="https://rawgit.com/donmccurdy/aframe-physics-system/v4.0.1/dist/aframe-physics-system.min.js"></script>
     <script src="https://unpkg.com/aframe-event-set-component@^4.1.1/dist/aframe-event-set-component.min.js"></script>
@@ -39,7 +39,7 @@
         <a-gltf-model static-body src="vr/salas/mesa_Catalan1.glb" position="0 0 0" shadow></a-gltf-model>
 		<a-gltf-model static-body src="vr/salas/mesa_Catalan2.glb" position="0 0 0" shadow></a-gltf-model>
 		
-		<a-entity class="poli" mixin="poli" position="-1.11 0.81 -0.7" scale="0.11 0.11 0.11" shadow>
+		<a-entity class="poli" mixin="poli" position="-1.11 0.81 -0.7" scale="0.125 0.125 0.125" shadow>
 			<a-obj-model src="vr/catalan/TriakisTetrahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/TriakisTetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esferaG mtl9" position="1.06066 -1.06066 -1.06066"></a-sphere>
@@ -52,7 +52,7 @@
 			<a-sphere mixin="esferaG mtl9" position="1.06066 1.06066 1.06066"></a-sphere>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-1.11 0.81 -0.2" scale="0.18 0.18 0.18" shadow>
+		<a-entity class="poli" mixin="poli" position="-1.11 0.81 -0.2" scale="0.19 0.19 0.19" shadow>
 			<a-obj-model src="vr/catalan/RhombicDodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/RhombicDodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esferaP mtl9" position="0.0 0.0 -1.06066"></a-sphere>
@@ -326,7 +326,7 @@
 				<a-sphere mixin="esferaG mtl9" position="1.80902 0.0  2.92705"></a-sphere>
 			</a-entity>
 			
-			<a-entity class="poli" mixin="poli" position="0 0.81 1.7" scale="0.1 0.1 0.1" shadow>
+			<a-entity class="poli" mixin="poli" position="0 0.81 1.7" scale="0.09 0.09 0.09" shadow>
 				<a-obj-model src="vr/catalan/PentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="vr/catalan/PentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 				<a-sphere mixin="esfera mtl9" position="0.19289  -0.21848 -2.09705"></a-sphere>
@@ -423,7 +423,7 @@
 				<a-sphere mixin="esfera mtl9" position="0.19289   0.21848  2.09705"></a-sphere>
 			</a-entity>
 			
-			<a-entity class="poli" mixin="poli" position="-0.75 0.81 2.2" scale="0.09 0.09 0.09" shadow>
+			<a-entity class="poli" mixin="poli" position="-0.75 0.81 2.2" scale="0.08 0.08 0.08" shadow>
 				<a-obj-model src="vr/catalan/DeltoidalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="vr/catalan/DeltoidalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 				<a-sphere mixin="esferaG mtl9" position="0.0 0.0 -2.23607"></a-sphere>
