@@ -12,6 +12,8 @@
 <details id="p1">
   <summary>Archimedean polyhedra</summary>
   An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
+  <h4>Immersive room</h4>
+  <div class="embed-container"><iframe width="100%" src="salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
 <br>To view Archimedean polyhedra in AR, simply visit 
 <p align="center"><a href="archimedes.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -90,6 +92,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <details id="p2">
   <summary>Platonic polyhedra</summary>
   An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
+  <h4>Immersive room</h4>
+  <div class="embed-container"><iframe width="100%" src="salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
  <br>To view Platonic polyhedra in AR, simply visit 
 <p align="center"><a href="platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -127,6 +131,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <details id="p3">
   <summary>Catalan polyhedra</summary>
 The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
+<h4>Immersive room</h4>
+  <div class="embed-container"><iframe width="100%" src="salaCatalan.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
  <br>To view Catalan polyhedra in AR, simply visit:
 <p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
