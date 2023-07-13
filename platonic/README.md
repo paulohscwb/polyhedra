@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p2"></p>
-  <h2 align="center">Platonic polyhedra</h2>
+  <h2 align="center"><img src="ar/9A.png" style="margin-bottom:-10px" width="45"> Platonic polyhedra</h2>
   An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
   <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
