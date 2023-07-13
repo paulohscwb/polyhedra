@@ -9,18 +9,18 @@
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>
 
-<h3><a href="../archimedes/pt-br/"><img src="../archimedes/ar/18A.png" width="15"> Poliedros de Arquimedes</a></h3>
-<h3><a href="../platonic/pt-br/"><img src="../platonic/ar/9A.png" width="15"> Poliedros de Platão</a></h3>
-<h3><a href="../catalan/pt-br/"><img src="../catalan/ar/168A.png" width="15"> Poliedros de Catalan</a></h3>
-<h3><a href="../nonconvex/pt-br/"><img src="../nonconvex/ar/188A.png" width="15"> Poliedros não convexos</a></h3>
-<h3><a href="../selfintersect/pt-br/"><img src="../selfintersect/ar/149A.png" width="15"> Poliedros de auto-interseção</a></h3>
-<h3><a href="../quasiregular/pt-br/"><img src="../quasiregular/ar/121A.png" width="15"> Poliedros quase regulares</a></h3>
-<h3><a href="../selfintersecttruncated/pt-br/"><img src="../selfintersecttruncated/ar/97A.png" width="15"> Poliedros truncados de auto-interseção</a></h3>
-<h3><a href="../selfintersectsnub/pt-br/"><img src="../selfintersectsnub/ar/51A.png" width="15"> Poliedros truncados snubficados</a></h3>
-<h3><a href="../polyhedron/pt-br/"><img src="../polyhedron/ar/103A.png" width="15"> Pirâmides, tetraedros, prismas e antiprismas</a></h3>
-<h3><a href="../johnson1/pt-br/"><img src="../johnson1/ar/25A.png" width="15"> Sólidos de Johnson 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
-<h3><a href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" width="15"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
-<h3><a href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" width="15"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
+<h3 style="margin-bottom:10px"><a href="../archimedes/pt-br/"><img src="../archimedes/ar/18A.png" width="23"> Poliedros de Arquimedes</a></h3>
+<h3 style="margin-bottom:10px"><a href="../platonic/pt-br/"><img src="../platonic/ar/9A.png" width="23"> Poliedros de Platão</a></h3>
+<h3 style="margin-bottom:10px"><a href="../catalan/pt-br/"><img src="../catalan/ar/168A.png" width="23"> Poliedros de Catalan</a></h3>
+<h3 style="margin-bottom:10px"><a href="../nonconvex/pt-br/"><img src="../nonconvex/ar/188A.png" width="23"> Poliedros não convexos</a></h3>
+<h3 style="margin-bottom:10px"><a href="../selfintersect/pt-br/"><img src="../selfintersect/ar/149A.png" width="23"> Poliedros de auto-interseção</a></h3>
+<h3 style="margin-bottom:10px"><a href="../quasiregular/pt-br/"><img src="../quasiregular/ar/121A.png" width="23"> Poliedros quase regulares</a></h3>
+<h3 style="margin-bottom:10px"><a href="../selfintersecttruncated/pt-br/"><img src="../selfintersecttruncated/ar/97A.png" width="23"> Poliedros truncados de auto-interseção</a></h3>
+<h3 style="margin-bottom:10px"><a href="../selfintersectsnub/pt-br/"><img src="../selfintersectsnub/ar/51A.png" width="23"> Poliedros truncados snubficados</a></h3>
+<h3 style="margin-bottom:10px"><a href="../polyhedron/pt-br/"><img src="../polyhedron/ar/103A.png" width="23"> Pirâmides, tetraedros, prismas e antiprismas</a></h3>
+<h3 style="margin-bottom:10px"><a href="../johnson1/pt-br/"><img src="../johnson1/ar/25A.png" width="23"> Sólidos de Johnson 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
+<h3 style="margin-bottom:10px"><a href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" width="23"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
+<h3 style="margin-bottom:10px"><a href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" width="23"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
