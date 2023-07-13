@@ -1,0 +1,59 @@
+<html>
+  <head>
+    <title>Polyhedra</title>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
+	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+  </head>
+  <body>
+<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
+    <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
+		<a-assets>
+			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
+			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
+			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.031;" material="metalness:0.4; roughness:0.5;">
+			<a-asset-item id="material" src="johnson/solidos.mtl"></a-asset-item>
+		</a-assets>
+				
+		<a-entity position="0 0 0" rotation="245.63 0 0.91" scale="4.5 4.5 4.5">
+			<a-obj-model src="johnson/j24_gyroelongated_pentagonal_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="johnson/j24_gyroelongated_pentagonal_cupolaL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera mtl9' position='-0.995648 -0.249677 0.045090'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.928425 0.319026 0.303212'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.878881 -0.297121 -0.570283'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.751014 0.784617 -0.079308'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.682946 -0.746755 -0.177844'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.534412 -0.144902 0.458433'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.506952 0.742130 0.497926'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.413141 -0.682306 -0.741423'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.221709 -0.641980 0.235499'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.206248 1.067984 0.052991'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.112939 0.278202 0.653148'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.109759 -0.982341 -0.280438'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.107781 0.858022 0.554860'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.211385 -0.745233 -0.765428'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.393024 -0.526088 0.292433'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.418278 1.005057 0.028986'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.460247 0.042616 0.550554'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.504974 -0.866449 -0.223504'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.680968 0.622436 0.452266'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.756151 -0.461866 -0.633128'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.884017 0.619872 -0.142153'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.926446 -0.443346 -0.028789'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.993670 0.125358 0.229332'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='1.013073 0.059558 -0.395059'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-1.007937 0.263193 -0.317378'></a-sphere>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 50 150 700; maxDistance: 1500;"></a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.5"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.8" position="3 -2 1"></a-light>
+
+		<a-sky color="aliceblue"></a-sky>
+    </a-scene>
+  </body>
+</html>
