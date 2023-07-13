@@ -3,20 +3,20 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/platonic/">english version</a>
-<form align="right">
-<select id="url" onchange="urlHandler(this.value)">
-    <option disabled selected value>Mais poliedros:</option>
-    <option value="../archimedes/">Arquimedes</option>
-    <option value="../catalan/">Catalan</option>
-    <option value="../johnson/">Johnson</option>
-    <option value="../nonconvex/">Não convexos</option>
-	<option disabled value="../platonic/">Platão</option>
-    <option value="../polyhedron/">Prismas e antiprismas</option>
-    <option value="../quasiregular/">Quase regulares</option>
-    <option value="../selfintersect/">Auto-interseção</option>
-	<option value="../selfintersectsnub/">Auto-interseção snub</option>
-	<option value="../selfintersecttruncated/">Auto-interseção truncados</option>
-</select>
+<form style="margin: 0 auto;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue">
+		<option disabled selected value>Mais poliedros:</option>
+		<option value="../archimedes/">Arquimedes</option>
+		<option value="../catalan/">Catalan</option>
+		<option value="../johnson/">Johnson</option>
+		<option value="../nonconvex/">Não convexos</option>
+		<option disabled value="../platonic/">Platão</option>
+		<option value="../polyhedron/">Prismas e antiprismas</option>
+		<option value="../quasiregular/">Quase regulares</option>
+		<option value="../selfintersect/">Auto-interseção</option>
+		<option value="../selfintersectsnub/">Auto-interseção snub</option>
+		<option value="../selfintersecttruncated/">Auto-interseção truncados</option>
+	</select>
 </form>
 <script>
 function urlHandler(value) {                               
