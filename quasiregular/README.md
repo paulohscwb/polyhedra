@@ -8,7 +8,6 @@
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
-		<option value="../johnson/">Johnson</option>
 		<option value="../nonconvex/">Non convex</option>
 		<option value="../platonic/">Platonic</option>
 		<option value="../polyhedron/">Prisms and antiprisms</option>
@@ -16,6 +15,9 @@
 		<option value="../selfintersect/">Self-intersecting</option>
 		<option value="../selfintersectsnub/">Self-intersecting snub</option>
 		<option value="../selfintersecttruncated/">Self intersecting truncated</option>
+		<option value="../johnson1/">Johnson: 1-32</option>
+		<option value="../johnson2/">Johnson: 33-62</option>
+		<option value="../johnson3/">Johnson: 63-92</option>
 	</select>
 </form>
 <script>

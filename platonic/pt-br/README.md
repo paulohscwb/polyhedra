@@ -8,7 +8,6 @@
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
-		<option value="../../johnson/pt-br/">Johnson</option>
 		<option value="../../nonconvex/pt-br/">Não convexos</option>
 		<option disabled value="../../platonic/pt-br/">Platão</option>
 		<option value="../../polyhedron/pt-br/">Prismas e antiprismas</option>
@@ -16,6 +15,9 @@
 		<option value="../../selfintersect/pt-br/">Auto-interseção</option>
 		<option value="../../selfintersectsnub/pt-br/">Auto-interseção snub</option>
 		<option value="../../selfintersecttruncated/pt-br/">Auto-interseção truncados</option>
+		<option value="../../johnson1/pt-br/">Johnson: 1-32</option>
+		<option value="../../johnson2/pt-br/">Johnson: 33-62</option>
+		<option value="../../johnson3/pt-br/">Johnson: 63-92</option>
 	</select>
 </form>
 <script>
