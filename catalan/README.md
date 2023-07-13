@@ -30,7 +30,7 @@ The Catalan solids are the duals of the Archimedean solids. They are named after
 <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaCatalan.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
  <br>To view Catalan polyhedra in AR, simply visit:
-<p align="center"><a href="catalan.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan.html</a></p> 
+<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example2.jpg" width="85%"></p>
