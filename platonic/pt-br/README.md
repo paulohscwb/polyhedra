@@ -3,19 +3,19 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/platonic/">english version</a>
-<form style="margin: 0 auto; float:right; width:100%; margin-bottom:15px;">
+<form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
-		<option value="../archimedes/">Arquimedes</option>
-		<option value="../catalan/">Catalan</option>
-		<option value="../johnson/">Johnson</option>
-		<option value="../nonconvex/">Não convexos</option>
-		<option disabled value="../platonic/">Platão</option>
-		<option value="../polyhedron/">Prismas e antiprismas</option>
-		<option value="../quasiregular/">Quase regulares</option>
-		<option value="../selfintersect/">Auto-interseção</option>
-		<option value="../selfintersectsnub/">Auto-interseção snub</option>
-		<option value="../selfintersecttruncated/">Auto-interseção truncados</option>
+		<option value="../../../archimedes/pt-br/">Arquimedes</option>
+		<option value="../../../catalan/pt-br/">Catalan</option>
+		<option value="../../../johnson/pt-br/">Johnson</option>
+		<option value="../../../nonconvex/pt-br/">Não convexos</option>
+		<option disabled value="../../../platonic/pt-br/">Platão</option>
+		<option value="../../../polyhedron/pt-br/">Prismas e antiprismas</option>
+		<option value="../../../quasiregular/pt-br/">Quase regulares</option>
+		<option value="../../../selfintersect/pt-br/">Auto-interseção</option>
+		<option value="../../../selfintersectsnub/pt-br/">Auto-interseção snub</option>
+		<option value="../../../selfintersecttruncated/pt-br/">Auto-interseção truncados</option>
 	</select>
 </form>
 <script>
@@ -63,10 +63,10 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p class="topop"><a href="#p2" class="topo">voltar ao topo</a></p>
 
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Platonic</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/platonic/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
 <h4>Como citar este trabalho:</h4> 
-<p>Siqueira, P.H., "Polyhedra". Disponível em: <https://paulohscwb.github.io/polyhedra/>, Setembro de 2019.</p>
+<p>Siqueira, P.H., "Polyhedra: Platonic". Disponível em: <https://paulohscwb.github.io/polyhedra/platonic/>, Setembro de 2019.</p>
 
 <br><b>Referências:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
