@@ -3,7 +3,7 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/platonic/pt-br/">versão em português</a>
-<form style="margin: 0 auto;" align="right">
+<form style="margin: 0 auto; float:right">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
