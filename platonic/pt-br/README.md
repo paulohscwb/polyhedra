@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
  
 <p id="p2"></p>
-  <h2 align="center"><img src="ar/9A.png" style="margin-bottom:-10px" width="45"> Poliedros de Platão</h2>
+  <h2 align="center"><img src="../ar/9A.png" style="margin-bottom:-10px" width="45"> Poliedros de Platão</h2>
 Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
 <h4>Sala imersiva</h4>
   <div class="embed-container"><iframe width="100%" src="../salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
