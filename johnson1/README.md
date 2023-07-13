@@ -10,12 +10,12 @@
 		<option value="../catalan/">Catalan</option>
 		<option value="../nonconvex/">Non convex</option>
 		<option value="../platonic/">Platonic</option>
-		<option disabled value="../polyhedron/">Prisms and antiprisms</option>
+		<option value="../polyhedron/">Prisms and antiprisms</option>
 		<option value="../quasiregular/">Quasi regular</option>
 		<option value="../selfintersect/">Self-intersecting</option>
 		<option value="../selfintersectsnub/">Self-intersecting snub</option>
 		<option value="../selfintersecttruncated/">Self intersecting truncated</option>
-		<option value="../johnson1/">Johnson: 1-32</option>
+		<option disabled value="../johnson1/">Johnson: 1-32</option>
 		<option value="../johnson2/">Johnson: 33-62</option>
 		<option value="../johnson3/">Johnson: 63-92</option>
 	</select>
@@ -199,10 +199,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p class="topop"><a href="#p11" class="topo">back to top</a></p>
 
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Johnson solids part 1</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/johnson1/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Johnson solids - part 1</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/johnson1/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
 <h4>How to cite this work:</h4> 
-<p>Siqueira, P.H., "Polyhedra: Johnson solids part 1". Available in: <https://paulohscwb.github.io/polyhedra/johnson1/>, July 2023.</p>
+<p>Siqueira, P.H., "Polyhedra: Johnson solids - part 1". Available in: <https://paulohscwb.github.io/polyhedra/johnson1/>, July 2023.</p>
 
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
