@@ -25,7 +25,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p6"></p>
-  <h2 align="center">Quasi regular polyhedra</summary>
+  <h2 align="center">Quasi regular polyhedra</h2>
 A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. To view quasi regular polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
