@@ -9,18 +9,18 @@
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
 <br>
 
-<h3 style="margin-top:3px"><a target="_blank" href="../archimedes/pt-br/"><img src="../archimedes/ar/18A.png" width="30"> Poliedros de Arquimedes</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../platonic/pt-br/"><img src="../platonic/ar/9A.png" width="30"> Poliedros de Platão</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../catalan/pt-br/"><img src="../catalan/ar/168A.png" width="30"> Poliedros de Catalan</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../nonconvex/pt-br/"><img src="../nonconvex/ar/188A.png" width="30"> Poliedros não convexos</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../selfintersect/pt-br/"><img src="../selfintersect/ar/149A.png" width="30"> Poliedros de auto-interseção</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../quasiregular/pt-br/"><img src="../quasiregular/ar/121A.png" width="30"> Poliedros quase regulares</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../selfintersecttruncated/pt-br/"><img src="../selfintersecttruncated/ar/97A.png" width="30"> Poliedros truncados de auto-interseção</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../selfintersectsnub/pt-br/"><img src="../selfintersectsnub/ar/51A.png" width="30"> Poliedros truncados snubficados</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../polyhedron/pt-br/"><img src="../polyhedron/ar/103A.png" width="30"> Pirâmides, tetraedros, prismas e antiprismas</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../johnson1/pt-br/"><img src="../johnson1/ar/25A.png" width="30"> Sólidos de Johnson 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" width="30"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" width="30"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../archimedes/pt-br/"><img src="../archimedes/ar/18A.png" width="40"> Poliedros de Arquimedes</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../platonic/pt-br/"><img src="../platonic/ar/9A.png" width="40"> Poliedros de Platão</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../catalan/pt-br/"><img src="../catalan/ar/168A.png" width="40"> Poliedros de Catalan</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../nonconvex/pt-br/"><img src="../nonconvex/ar/188A.png" width="40"> Poliedros não convexos</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../selfintersect/pt-br/"><img src="../selfintersect/ar/149A.png" width="40"> Poliedros de auto-interseção</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../quasiregular/pt-br/"><img src="../quasiregular/ar/121A.png" width="40"> Poliedros quase regulares</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../selfintersecttruncated/pt-br/"><img src="../selfintersecttruncated/ar/97A.png" width="40"> Poliedros truncados de auto-interseção</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../selfintersectsnub/pt-br/"><img src="../selfintersectsnub/ar/51A.png" width="40"> Poliedros truncados snubficados</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../polyhedron/pt-br/"><img src="../polyhedron/ar/103A.png" width="40"> Pirâmides, tetraedros, prismas e antiprismas</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../johnson1/pt-br/"><img src="../johnson1/ar/25A.png" width="40"> Sólidos de Johnson 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" width="40"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" width="40"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
