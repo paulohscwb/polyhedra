@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center">Archimedean polyhedra</h2>
+  <h2 align="center"><img src="../ar/18A.png" style="margin-bottom:-10px" width="45"> Archimedean polyhedra</h2>
   An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
   <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
