@@ -30,7 +30,7 @@ Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por
 <h4>Sala imersiva</h4>
   <div class="embed-container"><iframe width="100%" src="../salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
 <br>Para ver os poliedros arquimedeanos em RA, visite a página:
-<p align="center"> <a href="../archimedes.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes.html</a></p>
+<p align="center"> <a href="../ra.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br><br><center><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></center>
