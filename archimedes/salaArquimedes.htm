@@ -11,6 +11,9 @@
 	<script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.misc.min.js"></script>
   </head>
   <body>
+	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
+		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
+	</div>
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
            <a-mixin id="poli" shadow 
