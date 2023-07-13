@@ -3,15 +3,32 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/platonic/">english version</a>
-
+<select id="url" onchange="urlHandler(this.value)">
+    <option disabled selected value>More polyhedra:</option>
+    <option value="../archimedes/">Archimedes</option>
+    <option value="../catalan/">Catalan</option>
+    <option value="../johnson/">Johnson</option>
+    <option value="../nonconvex/">Non convex</option>
+	<option disabled value="../platonic/">Platonic</option>
+    <option value="../polyhedron/">Prisms and antiprisms</option>
+    <option value="../quasiregular/">Quasi regular</option>
+    <option value="../selfintersect/">Self intersect</option>
+	<option value="../selfintersectsnub/">Self intersect snub</option>
+	<option value="../selfintersecttruncated/">Self intersect truncated</option>
+</select>
+<script>
+function urlHandler(value) {                               
+    window.location.assign(`${value}`);
+}
+</script>
  
 <p id="p2"></p>
-  <h3>Poliedros de Platão</h3>
+  <h2 align="center">Poliedros de Platão</h2>
 Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
 <h4>Sala imersiva</h4>
   <div class="embed-container"><iframe width="100%" src="../salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
  <br>Para ver o poliedro platônico em AR, visite
-<p align="center"> <a href="../platonic.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic.html </a></p>
+<p align="center"> <a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic/ra.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <br><center><img style="border-radius:7px;" src="../ar/example1.jpg" width="85%"></center>
