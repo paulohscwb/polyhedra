@@ -3,19 +3,19 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
-<form style="margin: 0 auto; float:right; width:100%; margin-bottom:15px;">
+<form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
-		<option disabled value="../../archimedes/pt-br/">Arquimedes</option>
-		<option value="../../catalan/pt-br/">Catalan</option>
-		<option value="../../johnson/pt-br/">Johnson</option>
-		<option value="../../nonconvex/pt-br/">Não convexos</option>
-		<option value="../../platonic/pt-br/">Platão</option>
-		<option value="../../polyhedron/pt-br/">Prismas e antiprismas</option>
-		<option value="../../quasiregular/pt-br/">Quase regulares</option>
-		<option value="../../selfintersect/pt-br/">Auto-interseção</option>
-		<option value="../../selfintersectsnub/pt-br/">Auto-interseção snub</option>
-		<option value="../../selfintersecttruncated/pt-br/">Auto-interseção truncados</option>
+		<option disabled value="../../../archimedes/pt-br/">Arquimedes</option>
+		<option value="../../../catalan/pt-br/">Catalan</option>
+		<option value="../../../johnson/pt-br/">Johnson</option>
+		<option value="../../../nonconvex/pt-br/">Não convexos</option>
+		<option value="../../../platonic/pt-br/">Platão</option>
+		<option value="../../../polyhedron/pt-br/">Prismas e antiprismas</option>
+		<option value="../../../quasiregular/pt-br/">Quase regulares</option>
+		<option value="../../../selfintersect/pt-br/">Auto-interseção</option>
+		<option value="../../../selfintersectsnub/pt-br/">Auto-interseção snub</option>
+		<option value="../../../selfintersecttruncated/pt-br/">Auto-interseção truncados</option>
 	</select>
 </form>
 <script>
