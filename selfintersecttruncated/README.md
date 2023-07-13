@@ -28,7 +28,7 @@ function urlHandler(value) {
   <h2 align="center">Self-intersecting truncated polyhedra</h2>
   A polyhedron is truncated regular if it is vertex-transitive with isosceles triangular vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. A vertex figure is the polygon produced by connecting the midpoints of the edges meeting at the vertex in the same order that the edges appear around the vertex.
   To view self-intersecting truncated polyhedra in AR, simply visit:
-<p align="center"><a href="selfintersecttruncated.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated.html</a></p> 
+<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example7.jpg" width="85%"></p>
