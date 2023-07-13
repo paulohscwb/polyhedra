@@ -45,17 +45,17 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 5 triângulos (faces laterais) e 1 pentágono (base) | <b>Arestas:</b> 10 | <b>Vértices:</b> 6 | <b>Ângulos diédricos:</b> 138.19° e 37.38°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_pyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Cúpula triangular</h4>
-<a href="../vr/j3_triangular_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto"></a><img src="../ar/47.png" class="qr">
+<a href="../vr/j3_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto"></a><img src="../ar/47.png" class="qr">
  <br><span class="titulo">J<sub>3</sub></span> A cúpula triangular, ou tricu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no triângulo equilátero e é uma das três cúpulas sólidas de Johnson, sendo as outras duas a cúpula quadrada e a cúpula pentagonal.
 <br><br><b>Faces:</b> 4 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 125.26°, 70.53° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>4. Cúpula quadrada</h4>
-<a href="../vr/j4_square_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto"></a><img src="../ar/46.png" class="qr">
+<a href="../vr/j4_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto"></a><img src="../ar/46.png" class="qr">
  <br><span class="titulo">J<sub>4</sub></span> A cúpula quadrada, ou squacu, é um dos sólidos de Johnson. É uma cúpula baseada no quadrado e é uma das três cúpulas sólidas de Johnson. Pode ser obtida como um segmento do pequeno rombicuboctaedro, quando considerado como uma ortobicúpula quadrada alongada.
 <br><br><b>Faces:</b> 4 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 20 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 144.74°, 135°, 45° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Cúpula pentagonal</h4>
-<a href="../vr/j5_pentagonal_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
+<a href="../vr/j5_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
  <br><span class="titulo">J<sub>5</sub></span> A cúpula pentagonal, ou pecu, é um dos sólidos de Johnson. É uma cúpula baseada no pentágono e é uma das três cúpulas sólidas de Johnson. Pode ser obtido como um segmento do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 5 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 37.38° e 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cúpula" target="_blank">Mais sobre...</a>
 <hr>
@@ -121,17 +121,17 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 16 triângulos | <b>Arestas:</b> 24 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 158.57°, 127.55° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bipyramid" target="_blank">Mais sobre...</a>
 <hr>
 <h4>18. Cúpula triangular alongada</h4>
-<a href="../vr/j18_elongated_triangular_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto"></a><img src="../ar/32.png" class="qr">
+<a href="../vr/j18_elongated_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/32A.png" class="foto"></a><img src="../ar/32.png" class="qr">
  <br><span class="titulo">J<sub>18</sub></span> A cúpula triangular alongada, também chamada de etcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do prisma na mesma orientação, o resultado é a ortobicúpula triangular alongada.
 <br><br><b>Faces:</b> 4 triângulos, 9 quadrados e 1 hexágono | <b>Arestas:</b> 27 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 160.53°, 144.74°, 120°, 60° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>19. Cúpula quadrada alongada</h4>
-<a href="../vr/j19_elongated_square_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto"></a><img src="../ar/31.png" class="qr">
+<a href="../vr/j19_elongated_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/31A.png" class="foto"></a><img src="../ar/31.png" class="qr">
  <br><span class="titulo">J<sub>19</sub></span> A cúpula quadrada alongada, ou escu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma octogonal à base octogonal da cúpula quadrada. Também pode ser vista como um pequeno rombicuboctaedro diminuído, formado cortando um de seus segmentos quadrados de cúpula.
 <br><br><b>Faces:</b> 4 triângulos, 13 quadrados e 1 octógono | <b>Arestas:</b> 36 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 144.74°, 135° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>20. Cúpula pentagonal alongada</h4>
-<a href="../vr/j20_elongated_pentagonal_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto"></a><img src="../ar/30.png" class="qr">
+<a href="../vr/j20_elongated_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto"></a><img src="../ar/30.png" class="qr">
  <br><span class="titulo">J<sub>20</sub></span> A cúpula pentagonal alongada, ou epcu, é um dos sólidos de Johnson. Pode ser construída anexando um prisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do prisma na mesma orientação, o resultado é a ortobicúpula pentagonal alongada.
 <br><br><b>Faces:</b> 5 triângulos, 15 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 45 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 144°, 127.38°, 121.72° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_cúpula" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
@@ -142,17 +142,17 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 10 triângulos, 10 quadrados, 6 pentágonos e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 169.19°, 153.43°, 144°, 142.62° e 90°. <a href="https://polytope.miraheze.org/wiki/Elongated_pentagonal_rotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>22. Cúpula triangular giralongada</h4>
-<a href="../vr/j22_gyroelongated_triangular_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto"></a><img src="../ar/28.png" class="qr">
+<a href="../vr/j22_gyroelongated_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/28A.png" class="foto"></a><img src="../ar/28.png" class="qr">
  <br><span class="titulo">J<sub>22</sub></span> A cúpula triangular giralongada, ou gyetcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma hexagonal à base hexagonal da cúpula triangular. Se uma segunda cúpula for anexada à outra base hexagonal do antiprisma, o resultado é a bicúpula triangular giralongada.
 <br><br><b>Faces:</b> 16 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 33 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22°, 125.26° e 98.9°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>23. Cúpula quadrada giralongada</h4>
-<a href="../vr/j23_gyroelongated_square_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto"></a><img src="../ar/27.png" class="qr">
+<a href="../vr/j23_gyroelongated_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto"></a><img src="../ar/27.png" class="qr">
  <br><span class="titulo">J<sub>23</sub></span> A cúpula quadrada giralongada, ou gyescu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma octogonal à base octogonal da cúpula quadrada. Se uma segunda cúpula for anexada à outra base octogonal do antiprisma, o resultado é a bicúpula quadrada giralongada.
 <br><br><b>Faces:</b> 20 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 44 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 141.59°, 135° e 96.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_cúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>24. Cúpula pentagonal giralongada</h4>
-<a href="../vr/j24_gyroelongated_pentagonal_cúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto"></a><img src="../ar/26.png" class="qr">
+<a href="../vr/j24_gyroelongated_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto"></a><img src="../ar/26.png" class="qr">
  <br><span class="titulo">J<sub>24</sub></span> A cúpula pentagonal giralongada, ou gyepcu, é um dos sólidos de Johnson. Pode ser construída anexando um antiprisma decagonal à base decagonal da cúpula pentagonal. Se uma segunda cúpula for anexada à outra base decagonal do antiprisma, o resultado é a bicúpula pentagonal giralongada.
 <br><br><b>Faces:</b> 25 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 55 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62°, 126.96° e 95.25°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cúpula" target="_blank">Mais sobre...</a>
 <hr>
@@ -167,33 +167,33 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 4 triângulos e 4 quadrados | <b>Arestas:</b> 14 | <b>Vértices:</b> 8 | <b>Ângulos diédricos:</b> 150°, 90° e 60°. <a href="https://polytope.miraheze.org/wiki/Gyrobifastigium" target="_blank">Mais sobre...</a>
 <hr>
 <h4>27. Ortobicúpula triangular</h4>
-<a href="../vr/j27_triangular_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto"></a><img src="../ar/23.png" class="qr">
+<a href="../vr/j27_triangular_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/23A.png" class="foto"></a><img src="../ar/23.png" class="qr">
  <br><span class="titulo">J<sub>27</sub></span> A ortobicúpula triangular, ou tobcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas triangulares em suas bases hexagonais, de modo que as duas bases triangulares estejam na mesma orientação. Se as cúpulas forem unidas de modo que as bases sejam giradas 60°, o resultado é a girobicúpula triangular, mais conhecida como cuboctaedro uniforme.
 <br><br><b>Faces:</b> 8 triângulos e 6 quadrados | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 141.06°, 125.26° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triangular_orthobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>28. Ortobicúpula quadrada</h4>
-<a href="../vr/j28_square_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto"></a><img src="../ar/22.png" class="qr">
+<a href="../vr/j28_square_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/22A.png" class="foto"></a><img src="../ar/22.png" class="qr">
  <br><span class="titulo">J<sub>28</sub></span> A ortobicúpula quadrada, ou squobcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas quadradas em suas bases octogonais, de modo que as duas bases quadradas estejam na mesma orientação. Se as cúpulas forem unidas de modo que as bases sejam giradas 45°, o resultado é a girobicúpula quadrada.
 <br><br><b>Faces:</b> 8 triângulos e 10 quadrados | <b>Arestas:</b> 32 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 144.74°, 135°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Square_orthobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>29. Girobicúpula quadrada</h4>
-<a href="../vr/j29_square_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto"></a><img src="../ar/21.png" class="qr">
+<a href="../vr/j29_square_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/21A.png" class="foto"></a><img src="../ar/21.png" class="qr">
  <br><span class="titulo">J<sub>29</sub></span> A girobicúpula quadrada, ou squigybcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas quadradas em suas bases octogonais, de modo que as duas bases quadradas sejam giradas 45° uma da outra. É topologicamente equivalente ao antiprisma quadrado retificado.
 <br><br><b>Faces:</b> 8 triângulos e 10 quadrados | <b>Arestas:</b> 32 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 144.74°, 135° e 99.74°. <a href="https://polytope.miraheze.org/wiki/Square_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>30. Ortobicúpula pentagonal</h4>
-<a href="../vr/j30_pentagonal_orthobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20bA.png" class="foto"></a><img src="../ar/20b.png" class="qr">
+<a href="../vr/j30_pentagonal_orthobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/20bA.png" class="foto"></a><img src="../ar/20b.png" class="qr">
  <br><span class="titulo">J<sub>30</sub></span> A ortobicúpula pentagonal, ou pobcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas pentagonais em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se as cúpulas forem unidas de modo que as bases sejam giradas 36°, o resultado é a girobicúpula pentagonal.
 <br><br><b>Faces:</b> 10 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 74.75° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthobicúpula" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>31. Girobicúpula pentagonal</h4>
-<a href="../vr/j31_pentagonal_gyrobicúpula.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19bA.png" class="foto"></a><img src="../ar/19b.png" class="qr">
+<a href="../vr/j31_pentagonal_gyrobicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/19bA.png" class="foto"></a><img src="../ar/19b.png" class="qr">
  <br><span class="titulo">J<sub>31</sub></span> A girobicúpula pentagonal, ou pegybcu, é um dos sólidos de Johnson. Pode ser construída anexando duas cúpulas pentagonais em suas bases decagonais, de modo que as duas bases pentagonais sejam giradas 36° uma em relação à outra. É topologicamente equivalente ao antiprisma pentagonal retificado.
 <br><br><b>Faces:</b> 10 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 40 | <b>Vértices:</b> 20 | <b>Ângulos diédricos:</b> 159.09°, 148.28° e 69.09°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_gyrobicúpula" target="_blank">Mais sobre...</a>
 <hr>
 <h4>32. Ortocúpula rotunda pentagonal</h4>
-<a href="../vr/j32_pentagonal_orthocúpularontunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18bA.png" class="foto"></a><img src="../ar/18b.png" class="qr">
+<a href="../vr/j32_pentagonal_orthocupolarontunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18bA.png" class="foto"></a><img src="../ar/18b.png" class="qr">
  <br><span class="titulo">J<sub>31</sub></span> A ortocúpula rotunda pentagonal, ou pocuro, é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se a cúpula e a rotunda forem unidas de modo que as bases sejam giradas 36°, o resultado é a girocúpula rotunda pentagonal.
 <br><br><b>Faces:</b> 15 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 50 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 142.62°, 110.95° e 100.81°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthocúpularotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
