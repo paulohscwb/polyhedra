@@ -24,13 +24,13 @@ function urlHandler(value) {
 }
 </script>
 
-<p id="p2"></p>
+<p id="p1"></p>
   <h2 align="center">Archimedean polyhedra</h2>
   An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
   <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
 <br>To view Archimedean polyhedra in AR, simply visit 
-<p align="center"><a href="archimedes.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes.html</a></p> 
+<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example.jpg" width="85%"></p>
@@ -104,10 +104,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 
-<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
+<br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Archimedes</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/archimedes/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
 <h4>How to cite this work:</h4> 
-<p>Siqueira, P.H., "Polyhedra". Available in: <https://paulohscwb.github.io/polyhedra/>, September 2019.</p>
+<p>Siqueira, P.H., "Polyhedra". Available in: <https://paulohscwb.github.io/polyhedra/archimedes/>, September 2019.</p>
 
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
