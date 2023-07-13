@@ -13,9 +13,9 @@
 		<option value="../platonic/">Platonic</option>
 		<option value="../polyhedron/">Prisms and antiprisms</option>
 		<option value="../quasiregular/">Quasi regular</option>
-		<option value="../selfintersect/">Self intersect</option>
-		<option value="../selfintersectsnub/">Self intersect snub</option>
-		<option value="../selfintersecttruncated/">Self intersect truncated</option>
+		<option value="../selfintersect/">Self-intersecting</option>
+		<option value="../selfintersectsnub/">Self-intersecting snub</option>
+		<option value="../selfintersecttruncated/">Self-intersecting truncated</option>
 	</select>
 </form>
 <script>
@@ -24,7 +24,7 @@ function urlHandler(value) {
 }
 </script>
 
-<p id="p1"></p>
+<p id="p4"></p>
   <h2 align="center">Nonconvex polyhedra</h2>
 A polyhedron is nonconvex if at least one of its diagonals is outside the region bounded by its faces. To view nonconvex polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
