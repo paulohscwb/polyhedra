@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p12"></p>
-  <h2 align="center">Johnson solids - part 2: J<sub>33</sub> - J<sub>62</sub></h2>
+  <h2 align="center"><img src="ar/17bA.png" style="margin-bottom:-10px" width="45"> Johnson solids - part 2: J<sub>33</sub> - J<sub>62</sub></h2>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In second part, we have more 30 Johnson solids. To view Johnson solids in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
