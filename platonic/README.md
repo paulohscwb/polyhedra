@@ -3,19 +3,21 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/platonic/pt-br/">versão em português</a>
-<select id="url" onchange="urlHandler(this.value)">
-    <option disabled selected value>Mais poliedros:</option>
-    <option value="../archimedes/">Arquimedes</option>
-    <option value="../catalan/">Catalan</option>
-    <option value="../johnson/">Johnson</option>
-    <option value="../nonconvex/">Não convexos</option>
-	<option disabled value="../platonic/">Platão</option>
-    <option value="../polyhedron/">Prismas e antiprismas</option>
-    <option value="../quasiregular/">Quase regulares</option>
-    <option value="../selfintersect/">Auto-interseção</option>
-	<option value="../selfintersectsnub/">Auto-interseção snub</option>
-	<option value="../selfintersecttruncated/">Auto-interseção truncados</option>
-</select>
+<form align="right">
+	<select id="url" onchange="urlHandler(this.value)">
+		<option disabled selected value>More polyhedra:</option>
+		<option value="../archimedes/">Archimedes</option>
+		<option value="../catalan/">Catalan</option>
+		<option value="../johnson/">Johnson</option>
+		<option value="../nonconvex/">Non convex</option>
+		<option disabled value="../platonic/">Platonic</option>
+		<option value="../polyhedron/">Prisms and antiprisms</option>
+		<option value="../quasiregular/">Quasi regular</option>
+		<option value="../selfintersect/">Self intersect</option>
+		<option value="../selfintersectsnub/">Self intersect snub</option>
+		<option value="../selfintersecttruncated/">Self intersect truncated</option>
+	</select>
+</form>
 <script>
 function urlHandler(value) {                               
     window.location.assign(`${value}`);
@@ -23,7 +25,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p2"></p>
-  <h3 align="center">Platonic polyhedra</h3>
+  <h2 align="center">Platonic polyhedra</h2>
   An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
   <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
