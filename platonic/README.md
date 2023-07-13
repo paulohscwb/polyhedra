@@ -13,9 +13,9 @@
 		<option disabled value="../platonic/">Platonic</option>
 		<option value="../polyhedron/">Prisms and antiprisms</option>
 		<option value="../quasiregular/">Quasi regular</option>
-		<option value="../selfintersect/">Self intersect</option>
-		<option value="../selfintersectsnub/">Self intersect snub</option>
-		<option value="../selfintersecttruncated/">Self intersect truncated</option>
+		<option value="../selfintersect/">Self-intersecting</option>
+		<option value="../selfintersectsnub/">Self-intersecting snub</option>
+		<option value="../selfintersecttruncated/">Self-intersecting truncated</option>
 	</select>
 </form>
 <script>
