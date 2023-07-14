@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p7"></p>
-  <h2 align="center">Pirâmides, tetraedros, prismas e antiprismas</h2>
+  <h2 align="center"><img src="../ar/103A.png" style="margin-bottom:-10px" width="45"> Pirâmides, tetraedros, prismas e antiprismas</h2>
   Para visualizar os poliedros em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).

@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p5"></p>
-  <h2 align="center">Poliedros de auto-interseção</h2>
+  <h2 align="center"><img src="../ar/149A.png" style="margin-bottom:-10px" width="45"> Poliedros de auto-interseção</h2>
   Os poliedros de auto-interseção podem ter faces auto-interseccionadas ou figuras de vértices auto-interseccionados. Para visualizar os poliedros de auto-interseção em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).

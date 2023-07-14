@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p7"></p>
-  <h2 align="center">Pyramids, tetrahedrons, prisms and antiprisms</h2>
+  <h2 align="center"><img src="ar/103A.png" style="margin-bottom:-10px" width="45"> Pyramids, tetrahedrons, prisms and antiprisms</h2>
   To view polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 

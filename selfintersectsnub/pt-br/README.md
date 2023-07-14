@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p9"></p>
-  <h2 align="center">Poliedros truncados snubficados</h2>
+  <h2 align="center"><img src="../ar/51A.png" style="margin-bottom:-10px" width="45"> Poliedros truncados snubficados</h2>
   Um poliedro é quase regular snubficado se for transitivo de vértice com figuras irregulares de vértice pentagonal, hexagonal ou octogonal. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. A snubificação de um poliedro é uma operação que permite obter outro poliedro. Esta operação consiste em afastar todas as faces do poliedro, rotacionar as mesmas um certo ângulo e preencher os espaços vazios resultantes com polígonos (por exemplo, triângulos, retângulos ou pentágonos).
   Para visualizar os poliedros truncados snubficados em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub/ra.html</a></p> 

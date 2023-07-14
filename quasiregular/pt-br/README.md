@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p6"></p>
-  <h2 align="center">Poliedros quase regulares</h2>
+  <h2 align="center"><img src="../ar/121A.png" style="margin-bottom:-10px" width="45"> Poliedros quase regulares</h2>
   Um poliedro quase regular é um poliedro uniforme que tem exatamente dois tipos de faces regulares, que se alternam em torno de cada vértice. Para visualizar os poliedros quase regulares em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
