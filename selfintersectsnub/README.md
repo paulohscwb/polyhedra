@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p9"></p>
-  <h2 align="center">Self-intersecting snub polyhedra</h2>
+  <h2 align="center"><img src="ar/51A.png" style="margin-bottom:-10px" width="45"> Self-intersecting snub polyhedra</h2>
   A polyhedron is snub quasi-regular if it is vertex-transitive with irregular pentagonal, hexagonal, or octagonal vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. The snubification of a polyhedron is an operation that allows to obtain another polyhedron. This operation consists of moving all faces of the polyhedron apart, rotating them by a certain angle and filling the resulting empty spaces with polygons (examples: triangles, rectangles or pentagons).
   To view self-intersecting snub polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub/ra.html</a></p> 

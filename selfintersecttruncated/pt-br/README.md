@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p8"></p>
-  <h2 align="center">Poliedros truncados de auto-interseção</h2>
+  <h2 align="center"><img src="../ar/97A.png" style="margin-bottom:-10px" width="45"> Poliedros truncados de auto-interseção</h2>
   Um poliedro é regular truncado se for transitivo de vértice com figuras de vértice triangulares isósceles. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. Uma figura de vértice é o polígono produzido pela conexão dos pontos médios das arestas que se encontram no vértice na mesma ordem em que as arestas aparecem ao redor do vértice.
   Para visualizar os poliedros truncados de auto-interseção em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated/ra.html</a></p> 
