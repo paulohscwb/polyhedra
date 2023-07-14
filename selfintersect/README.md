@@ -27,7 +27,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p5"></p>
-  <h2 align="center"><img src="../ar/149A.png" style="margin-bottom:-10px" width="45"> Self-intersecting polyhedra</h2>
+  <h2 align="center"><img src="ar/149A.png" style="margin-bottom:-10px" width="45"> Self-intersecting polyhedra</h2>
 The self-intersecting polyhedra may either have self-intersecting faces, or self-intersecting vertex figures. To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
