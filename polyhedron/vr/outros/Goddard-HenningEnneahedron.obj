@@ -13,19 +13,11 @@ usemtl Cor7
 f 1 2 3 8
 usemtl Cor6
 f 1 2 5
-f 5 2 1
 f 8 1 9
-f 9 1 8
 f 3 7 8
-f 8 7 3
 f 3 2 6
-f 6 2 3
 usemtl Cor8
 f 1 5 4 9
-f 9 4 5 1
 f 6 2 5 4
-f 4 5 2 6
 f 7 3 6 4
-f 4 6 3 7
 f 4 9 8 7
-f 7 8 9 4
