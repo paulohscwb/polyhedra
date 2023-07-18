@@ -152,6 +152,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/rhombic_enneacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/246A.png" class="foto"></a><img src="../ar/246.png" class="qr">
  <br>O eneacontaedro rômbico é um poliedro composto de 90 faces rômbicas com três, cinco ou seis losangos em cada vértice. Tem 60 losangos largos e 30 estreitos e é um zonoedro construído a partir dos 10 diâmetros do dodecaedro com uma semelhança superficial com o triacontaedro rômbico.
 <br><br><b>Faces:</b> 90 losangos | <b>Arestas:</b> 180 | <b>Vértices:</b> 92. <a href="https://mathworld.wolfram.com/RhombicEnneacontahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>24. Eneaedro de Goddard-Henning</h4>
+<a href="../vr/goddard_henning_enneahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/247A.png" class="foto"></a><img src="../ar/247.png" class="qr">
+ <br>O eneaedro de Goddard-Henning é o poliedro canônico obtido do grafo de Goddard-Henning. É um poliedro autodual com a face inferior quadrada. As quatro faces que compartilham uma aresta com a parte inferior são triângulos isósceles, e as quatro faces restantes que se encontram no ápice são "pipas".
+<br><br><b>Faces:</b> 4 "pipas", 1 quadrado e 4 triângulos isósceles | <b>Arestas:</b> 16 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 101.53°, 120° e 104.51°. <a href="https://mathworld.wolfram.com/Goddard-HenningEnneahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 
  
