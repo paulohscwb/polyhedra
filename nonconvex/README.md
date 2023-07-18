@@ -4,7 +4,8 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/nonconvex/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -166,6 +167,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/mobius120b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/115A.png" class="foto"></a><img src="ar/115.png" class="qr">
  <br>The 10-akis Dodecahedron is a 120-faced Möbius deltahedron derived from the dodecahedron and the great rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
 <br><br><b>Faces:</b> 120 equilateral triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angles:</b> 332.16°, 132.64° and 82.51°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a>
+<hr>
+<h4>27. Echidnahedron</h4>
+ <a href="vr/echidnahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/245A.png" class="foto"></a><img src="ar/245.png" class="qr">
+ <br>The echidnahedron is the term for the spiky fourth icosahedron stellation, apparently first used in the Netlib polyhedron database. 
+<br><br><b>Faces:</b> 120 equilateral triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angles:</b> 332.16°, 132.64° and 82.51°. <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Nonconvex</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/nonconvex/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

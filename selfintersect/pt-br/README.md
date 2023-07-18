@@ -4,7 +4,8 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/selfintersect/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../../pt-br/">Página Inicial</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -207,6 +208,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/great_deltoidal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/134A.png" class="foto"></a><img src="../ar/134.png" class="qr">
  <br>O grande hexecontaedro deltoidal (ou grande ditriacontaedro sagital) é o dual do grande rombicosidodecaedro uniforme. É visualmente idêntico ao grande rombidodecacron e parte de cada dardo está dentro do sólido, portanto é invisível em modelos sólidos. Também é chamado de grande hexecontaedro estrombico.
 <br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_deltoidal_hexecontahedron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>35. Equidnaedro</h4>
+ <a href="../vr/echidnahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/245A.png" class="foto"></a><img src="../ar/245.png" class="qr">
+ <br>O equidnaedro é o termo usado para a quarta estrela pontiaguda do icosaedro, aparentemente usado pela primeira vez no banco de dados de poliedros Netlib. O equidnaedro é um poliedro nobre que consiste em 20 eneagramas irregulares, mas triangulares simétricos. Aparece como a célula do dual do heptacosiicosachron pentagonal-prismático.
+<br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 332.16°, 132.64° e 82.51°. <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 
  
