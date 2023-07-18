@@ -4,7 +4,8 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/polyhedron/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -146,6 +147,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/anti_heptagonal_iris_toroid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/80A.png" class="foto"></a><img src="ar/80.png" class="qr">
  <br>When we consider the triangular lateral faces on a toroid, we have a polyhedron called an antitoroid. The example shown is a regular heptagonal base, with equilateral triangles on the side faces.
 <br><br><b>Faces:</b> 2n equilateral triangles and 2n obtuse triangles | <b>Edges:</b> 6n | <b>Vertices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalNonRegular.html" target="_blank">More...</a>
+<hr>
+<h4>23. Rhombic enneacontahedron</h4>
+<a href="vr/rhombic_enneacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/246A.png" class="foto"></a><img src="ar/246.png" class="qr">
+ <br>The rhombic enneacontahedron is a polyhedron composed of 90 rhombic faces with three, five, or six rhombi meeting at each vertex. It has 60 broad rhombi and 30 slim and is a zonohedron constructed from the 10 diameters of the dodecahedron with a superficial resemblance to the rhombic triacontahedron.
+<br><br><b>Faces:</b> 90 rhombi | <b>Edges:</b> 180 | <b>Vertices:</b> 92. <a href="https://mathworld.wolfram.com/RhombicEnneacontahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 
 
