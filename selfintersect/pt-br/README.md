@@ -212,7 +212,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>35. Equidnaedro</h4>
  <a href="../vr/echidnahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/245A.png" class="foto"></a><img src="../ar/245.png" class="qr">
  <br>O equidnaedro é o termo usado para a quarta estrela pontiaguda do icosaedro, aparentemente usado pela primeira vez no banco de dados de poliedros Netlib. O equidnaedro é um poliedro nobre que consiste em 20 eneagramas irregulares, mas triangulares simétricos. Aparece como a célula do dual do heptacosiicosachron pentagonal-prismático.
-<br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 332.16°, 132.64° e 82.51°. <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 20 eneagramas triangulares simétricos | <b>Arestas:</b> 270 | <b>Vértices:</b> 92 . <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">Mais sobre...</a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 
  
