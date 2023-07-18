@@ -4,7 +4,8 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/polyhedron/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../../pt-br/">Página Inicial</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -145,6 +146,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>22. Antitoróide de íris</h4>
 <a href="../vr/anti_heptagonal_iris_toroid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/80A.png" class="foto"></a><img src="../ar/80.png" class="qr">
  <br>Quando considerarmos as faces laterais triangulares em um toróide, teremos um poliedro chamado antitoróide. O exemplo mostrado é uma base heptagonal regular, com triângulos equiláteros nas faces laterais.
+<br><br><b>Faces:</b> 2n triângulos equiláteros e 2n triângulos obtusângulos | <b>Arestas:</b> 6n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalRegularTriangular.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>23. Eneacontaedro rômbico</h4>
+<a href="../vr/rhombic_enneacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/246A.png" class="foto"></a><img src="../ar/246.png" class="qr">
+ <br>O eneacontaedro rômbico é um poliedro composto de 90 faces rômbicas com três, cinco ou seis losangos em cada vértice. Tem 60 losangos largos e 30 estreitos e é um zonoedro construído a partir dos 10 diâmetros do dodecaedro com uma semelhança superficial com o triacontaedro rômbico.
 <br><br><b>Faces:</b> 2n triângulos equiláteros e 2n triângulos obtusângulos | <b>Arestas:</b> 6n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalRegularTriangular.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 
