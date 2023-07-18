@@ -19,7 +19,7 @@
 		<option value="../../johnson2/pt-br/">Johnson: 33-62</option>
 		<option value="../../johnson3/pt-br/">Johnson: 63-92</option>
 	</select>
-	<a href="../../pt-br/">Página Inicial</a>
+	<br><a href="../../pt-br/">Página Inicial</a>
 </form>
 <script>
 function urlHandler(value) {                               
