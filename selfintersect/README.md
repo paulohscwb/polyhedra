@@ -212,7 +212,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>35. Echidnahedron</h4>
  <a href="vr/echidnahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/245A.png" class="foto"></a><img src="ar/245.png" class="qr">
  <br>The echidnahedron is the term used for the spiky fourth icosahedron stellation, apparently first used in the Netlib polyhedron database. The echidnahedron is a noble polyhedron that consists of 20 irregular, but triangular-symmetric enneagrams. It appears as the cell of the dual of the pentagonal-prismatic heptacosiicosachoron. 
-<br><br><b>Faces:</b> 20 triangular-symmetric enneagrams | <b>Edges:</b> 270 | <b>Vertices:</b> 92 . <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 triangular-symmetric enneagrams | <b>Edges:</b> 270 | <b>Vertices:</b> 92. <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 
 
