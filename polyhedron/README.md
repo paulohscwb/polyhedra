@@ -152,6 +152,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/rhombic_enneacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/246A.png" class="foto"></a><img src="ar/246.png" class="qr">
  <br>The rhombic enneacontahedron is a polyhedron composed of 90 rhombic faces with three, five, or six rhombi meeting at each vertex. It has 60 broad rhombi and 30 slim and is a zonohedron constructed from the 10 diameters of the dodecahedron with a superficial resemblance to the rhombic triacontahedron.
 <br><br><b>Faces:</b> 90 rhombi | <b>Edges:</b> 180 | <b>Vertices:</b> 92. <a href="https://mathworld.wolfram.com/RhombicEnneacontahedron.html" target="_blank">More...</a>
+<hr>
+<h4>24. Goddard-Henning enneahedron</h4>
+<a href="vr/goddard_henning_enneahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/247A.png" class="foto"></a><img src="ar/247.png" class="qr">
+ <br>The Goddard-Henning enneahedron is the canonical polyhedron obtained from the Goddard-Henning graph. It is a self-dual polyhedron and the bottom face is a square. The four faces sharing an edge with the bottom are isosceles triangles, and the remaining four faces that meet at the apex are "kites".
+<br><br><b>Faces:</b> 4 "kites", 1 square and 4 isosceles triangles | <b>Edges:</b> 16 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 101.53°, 120° and 104.51°. <a href="https://mathworld.wolfram.com/Goddard-HenningEnneahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 
 
