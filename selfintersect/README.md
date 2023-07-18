@@ -4,7 +4,8 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/selfintersect/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -207,6 +208,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/great_deltoidal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/134A.png" class="foto"></a><img src="ar/134.png" class="qr">
  <br>The great deltoidal hexecontahedron (or great sagittal ditriacontahedron) is the dual of the uniform great rhombicosidodecahedron. It is visually identical to the great rhombidodecacron and part of each dart lies inside the solid, hence is invisible in solid models. It is also called a great strombic hexecontahedron. 
 <br><br><b>Faces:</b> 60 darts | <b>Edges:</b> 120 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 91.55°. <a href="https://en.wikipedia.org/wiki/Great_deltoidal_hexecontahedron" target="_blank">More...</a>
+<hr>
+<h4>35. Echidnahedron</h4>
+ <a href="vr/echidnahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/245A.png" class="foto"></a><img src="ar/245.png" class="qr">
+ <br>The echidnahedron is the term used for the spiky fourth icosahedron stellation, apparently first used in the Netlib polyhedron database. The echidnahedron is a noble polyhedron that consists of 20 irregular, but triangular-symmetric enneagrams. It appears as the cell of the dual of the pentagonal-prismatic heptacosiicosachoron. 
+<br><br><b>Faces:</b> 20 triangular-symmetric enneagrams | <b>Edges:</b> 270 | <b>Vertices:</b> 92 . <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">More...</a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 
 
