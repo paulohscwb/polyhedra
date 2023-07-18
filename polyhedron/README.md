@@ -159,7 +159,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 4 "kites", 1 square and 4 isosceles triangles | <b>Edges:</b> 16 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 101.53°, 120° and 104.51°. <a href="https://mathworld.wolfram.com/Goddard-HenningEnneahedron.html" target="_blank">More...</a>
 <hr>
 <h4>25. Herschel enneahedron</h4>
-<a href="vr/goddard_henning_enneahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/248A.png" class="foto"></a><img src="ar/248.png" class="qr">
+<a href="vr/herschel_enneahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/248A.png" class="foto"></a><img src="ar/248.png" class="qr">
  <br>The Herschel enneahedron is the canonical polyhedron whose skeleton is the Herschel graph. The dual polyhedron is a rectified triangular prism, which can be formed as the convex hull of the midpoints of the edges of a triangular prism.
 <br><br><b>Faces:</b> 6 "kites" and 3 rhombi | <b>Edges:</b> 18 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 107.01° and 119.11°. <a href="https://mathworld.wolfram.com/HerschelEnneahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
