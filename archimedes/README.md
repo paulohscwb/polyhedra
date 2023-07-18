@@ -4,7 +4,8 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/archimedes/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option disabled value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -19,7 +20,6 @@
 		<option value="../johnson2/">Johnson: 33-62</option>
 		<option value="../johnson3/">Johnson: 63-92</option>
 	</select>
-	<br><a href="../">Home</a>
 </form>
 <script>
 function urlHandler(value) {                               
