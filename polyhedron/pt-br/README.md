@@ -162,6 +162,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/herschel_enneahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/248A.png" class="foto"></a><img src="../ar/248.png" class="qr">
  <br>O eneaedro de Herschel é o poliedro canônico cujo esqueleto é o grafo de Herschel. O poliedro dual é um prisma triangular retificado, que pode ser formado como a casca convexa dos pontos médios das arestas de um prisma triangular.
 <br><br><b>Faces:</b> 6 "pipas" e 3 losangos | <b>Arestas:</b> 18 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 107.01° e 119.11°. <a href="https://mathworld.wolfram.com/HerschelEnneahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>26. Paralelepípedo</h4>
+<a href="../vr/parallelepiped.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/249A.png" class="foto"></a><img src="../ar/249.png" class="qr">
+ <br>O paralelepípedo é um prisma cujas faces são todos paralelogramos. O termo rombóide também é usado às vezes com o significado de paralelepípedo. O paralelepípedo retangular (seis faces retangulares), o cubo (seis faces quadradas) e o romboedro (seis losangos) são casos específicos de paralelepípedos.
+<br><br><b>Faces:</b> 6 paralelogramos, losangos, quadrados ou retângulos | <b>Arestas:</b> 12 | <b>Vértices:</b> 8. <a href="https://mathworld.wolfram.com/Parallelepiped.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 
  
