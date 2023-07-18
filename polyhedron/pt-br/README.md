@@ -151,7 +151,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>23. Eneacontaedro rômbico</h4>
 <a href="../vr/rhombic_enneacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/246A.png" class="foto"></a><img src="../ar/246.png" class="qr">
  <br>O eneacontaedro rômbico é um poliedro composto de 90 faces rômbicas com três, cinco ou seis losangos em cada vértice. Tem 60 losangos largos e 30 estreitos e é um zonoedro construído a partir dos 10 diâmetros do dodecaedro com uma semelhança superficial com o triacontaedro rômbico.
-<br><br><b>Faces:</b> 2n triângulos equiláteros e 2n triângulos obtusângulos | <b>Arestas:</b> 6n | <b>Vértices:</b> 2n. <a href="http://dmccooey.com/polyhedra/ToroidalRegularTriangular.html" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 90 losangos | <b>Arestas:</b> 180 | <b>Vértices:</b> 92. <a href="https://mathworld.wolfram.com/RhombicEnneacontahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 
  
