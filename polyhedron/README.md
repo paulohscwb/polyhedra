@@ -163,7 +163,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The Herschel enneahedron is the canonical polyhedron whose skeleton is the Herschel graph. The dual polyhedron is a rectified triangular prism, which can be formed as the convex hull of the midpoints of the edges of a triangular prism.
 <br><br><b>Faces:</b> 6 "kites" and 3 rhombi | <b>Edges:</b> 18 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 107.01° and 119.11°. <a href="https://mathworld.wolfram.com/HerschelEnneahedron.html" target="_blank">More...</a>
 <hr>
-<h4>25. Parallelepiped</h4>
+<h4>26. Parallelepiped</h4>
 <a href="vr/parallelepiped.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/249A.png" class="foto"></a><img src="ar/249.png" class="qr">
  <br>The parallelepiped is a prism whose faces are all parallelograms. The term rhomboid is also sometimes used with meaning parallelepiped. The rectangular cuboid (six rectangular faces), cube (six square faces) and the rhombohedron (six rhombus faces) are all specific cases of parallelepiped.
 <br><br><b>Faces:</b> 6 parallelograms, squares, rectangles or rhombi | <b>Edges:</b> 12 | <b>Vertices:</b> 8. <a href="https://mathworld.wolfram.com/Parallelepiped.html" target="_blank">More...</a>
