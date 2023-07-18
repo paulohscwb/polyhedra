@@ -157,6 +157,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/goddard_henning_enneahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/247A.png" class="foto"></a><img src="../ar/247.png" class="qr">
  <br>O eneaedro de Goddard-Henning é o poliedro canônico obtido do grafo de Goddard-Henning. É um poliedro autodual com a face inferior quadrada. As quatro faces que compartilham uma aresta com a parte inferior são triângulos isósceles, e as quatro faces restantes que se encontram no ápice são "pipas".
 <br><br><b>Faces:</b> 4 "pipas", 1 quadrado e 4 triângulos isósceles | <b>Arestas:</b> 16 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 101.53°, 120° e 104.51°. <a href="https://mathworld.wolfram.com/Goddard-HenningEnneahedron.html" target="_blank">Mais sobre...</a>
+<hr>
+<h4>25. Eneaedro de Herschel</h4>
+<a href="../vr/goddard_henning_enneahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/248A.png" class="foto"></a><img src="../ar/248.png" class="qr">
+ <br>O eneaedro de Herschel é o poliedro canônico cujo esqueleto é o grafo de Herschel. O poliedro dual é um prisma triangular retificado, que pode ser formado como a casca convexa dos pontos médios das arestas de um prisma triangular.
+<br><br><b>Faces:</b> 6 "pipas" e 3 losangos | <b>Arestas:</b> 18 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 107.01° e 119.11°. <a href="https://mathworld.wolfram.com/HerschelEnneahedron.html" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 
  
