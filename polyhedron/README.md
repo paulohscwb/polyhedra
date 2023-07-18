@@ -157,8 +157,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/goddard_henning_enneahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/247A.png" class="foto"></a><img src="ar/247.png" class="qr">
  <br>The Goddard-Henning enneahedron is the canonical polyhedron obtained from the Goddard-Henning graph. It is a self-dual polyhedron and the bottom face is a square. The four faces sharing an edge with the bottom are isosceles triangles, and the remaining four faces that meet at the apex are "kites".
 <br><br><b>Faces:</b> 4 "kites", 1 square and 4 isosceles triangles | <b>Edges:</b> 16 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 101.53°, 120° and 104.51°. <a href="https://mathworld.wolfram.com/Goddard-HenningEnneahedron.html" target="_blank">More...</a>
+<hr>
+<h4>25. Herschel enneahedron</h4>
+<a href="vr/goddard_henning_enneahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/248A.png" class="foto"></a><img src="ar/248.png" class="qr">
+ <br>The Herschel enneahedron is the canonical polyhedron whose skeleton is the Herschel graph. The dual polyhedron is a rectified triangular prism, which can be formed as the convex hull of the midpoints of the edges of a triangular prism.
+<br><br><b>Faces:</b> 6 "kites" and 3 rhombi | <b>Edges:</b> 18 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 107.01° and 119.11°. <a href="https://mathworld.wolfram.com/HerschelEnneahedron.html" target="_blank">More...</a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
-
+Herschel nonahedron is a canonical polyhedron whose skeleton is the Herschel graph
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Pyramids, tetrahedrons, prisms and antiprisms</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/polyhedron/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
