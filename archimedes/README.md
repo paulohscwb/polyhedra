@@ -35,7 +35,7 @@ function urlHandler(value) {
   <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
   <a href="salaArquimedes.htm" target="_blank">&#x1f517; immersive room link</a>
-<hr><br>To view Archimedean polyhedra in AR, simply visit 
+<hr>To view Archimedean polyhedra in AR, simply visit 
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.

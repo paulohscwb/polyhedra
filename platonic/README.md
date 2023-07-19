@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/x-icon" href="vr/salas/imagens/icone.ico">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/platonic/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -29,9 +31,11 @@ function urlHandler(value) {
 <p id="p2"></p>
   <h2 align="center"><img src="ar/9A.png" style="margin-bottom:-10px" width="45"> Platonic polyhedra</h2>
   An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
+  <hr>
   <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaPlatao.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
- <br>To view Platonic polyhedra in AR, simply visit 
+  <a href="salaPlatao.htm" target="_blank">&#x1f517; immersive room link</a>
+ <hr>To view Platonic polyhedra in AR, simply visit 
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
