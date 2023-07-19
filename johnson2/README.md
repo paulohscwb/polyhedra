@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/johnson2/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -27,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p12"></p>
-  <h2 align="center"><img src="ar/17bA.png" style="margin-bottom:-10px" width="45"> Johnson solids - part 2: J<sub>33</sub> - J<sub>62</sub></h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Johnson solids - part 2: J<sub>33</sub> - J<sub>62</sub></h2>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In second part, we have more 30 Johnson solids. To view Johnson solids in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
