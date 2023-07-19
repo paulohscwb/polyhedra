@@ -30,7 +30,8 @@ function urlHandler(value) {
 
 <p id="p4"></p>
   <h2 align="center"><img src="../ar/188A.png" style="margin-bottom:-10px" width="45"> Poliedros não convexos</h2>
-  Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces. Para visualizar os poliedros não convexos em RA, visite a página:
+  Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces. 
+  <hr>Para visualizar os poliedros não convexos em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
