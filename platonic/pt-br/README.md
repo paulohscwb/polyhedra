@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
-<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
+<link rel="icon" type="image/png" href="../vr/salas/imagens/icone.png">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
  
 <p id="p2"></p>
-  <h2 align="center"><img src="../ar/9A.png" style="margin-bottom:-10px" width="45"> Poliedros de Platão</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros de Platão</h2>
 Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
 <hr>
 <h4>Sala imersiva</h4>
