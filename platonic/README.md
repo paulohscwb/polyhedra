@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="scripts/style.css">
-<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png?">
+<link rel="icon" type="image/png" href="vr/salas/imagens/iconep.png?">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
