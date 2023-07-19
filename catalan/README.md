@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="scripts/style.css">
-<link rel="icon" type="image/x-icon" href="vr/salas/imagens/icone.ico">
+<link rel="icon" type="image/png" href="https://paulohscwb.github.io/polyhedra/catalan/vr/salas/imagens/icone.png">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="ar/168A.png" style="margin-bottom:-10px" width="45"> Catalan polyhedra</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Catalan polyhedra</h2>
 The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
 <hr>
 <h4>Immersive room</h4>
