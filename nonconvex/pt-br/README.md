@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
-<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
+<link rel="icon" type="image/png" href="../vr/salas/imagens/icone.png?">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p4"></p>
-  <h2 align="center"><img src="../ar/188A.png" style="margin-bottom:-10px" width="45"> Poliedros não convexos</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros não convexos</h2>
   Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces. 
   <hr>Para visualizar os poliedros não convexos em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
