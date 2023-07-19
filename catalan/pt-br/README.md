@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="../scripts/style.css">
+<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/catalan/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../../pt-br/">Página Inicial</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option disabled value="../../catalan/pt-br/">Catalan</option>
@@ -29,9 +31,11 @@ function urlHandler(value) {
 <p id="p3"></p>
   <h2 align="center"><img src="../ar/168A.png" style="margin-bottom:-10px" width="45"> Poliedros de Catalan</h2>
   Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomeados em homenagem ao matemático belga Eugene Catalan (1814-1894) que descreveu pela primeira vez o conjunto completo em 1865. O Dodecaedro Rômbico e o Triacontaedro Rômbico foram descritos em 1611 por Johannes Kepler. Cada sólido de Catalan tem um tipo de face e um ângulo diedro constante, e possui a mesma simetria que seu respectivo dual de Arquimedes.
+  <hr>
   <h4>Sala imersiva</h4>
   <div class="embed-container"><iframe width="100%" src="../salaCatalan.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
- <br>Para visualizar os poliedros de Catalan em RA, visite a página:
+ <a href="../salaCatalan.htm" target="_blank">&#x1f517; link da sala imersiva</a>
+ <hr>Para visualizar os poliedros de Catalan em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.

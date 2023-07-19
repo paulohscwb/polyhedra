@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/x-icon" href="vr/salas/imagens/icone.ico">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/catalan/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option disabled value="../catalan/">Catalan</option>
@@ -29,9 +31,11 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="ar/168A.png" style="margin-bottom:-10px" width="45"> Catalan polyhedra</h2>
 The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
+<hr>
 <h4>Immersive room</h4>
   <div class="embed-container"><iframe width="100%" src="salaCatalan.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
- <br>To view Catalan polyhedra in AR, simply visit:
+ <a href="salaCatalan.htm" target="_blank">&#x1f517; immersive room link</a>
+ <hr>To view Catalan polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
