@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/selfintersectsnub/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -27,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p9"></p>
-  <h2 align="center"><img src="ar/51A.png" style="margin-bottom:-10px" width="45"> Self-intersecting snub polyhedra</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Self-intersecting snub polyhedra</h2>
   A polyhedron is snub quasi-regular if it is vertex-transitive with irregular pentagonal, hexagonal, or octagonal vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. The snubification of a polyhedron is an operation that allows to obtain another polyhedron. This operation consists of moving all faces of the polyhedron apart, rotating them by a certain angle and filling the resulting empty spaces with polygons (examples: triangles, rectangles or pentagons).
   To view self-intersecting snub polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub/ra.html</a></p> 

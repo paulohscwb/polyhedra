@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="../scripts/style.css">
+<link rel="icon" type="image/png" href="../vr/salas/imagens/icone.png">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/selfintersectsnub/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../../pt-br/">Página Inicial</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -27,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p9"></p>
-  <h2 align="center"><img src="../ar/51A.png" style="margin-bottom:-10px" width="45"> Poliedros truncados snubficados</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros truncados snubficados</h2>
   Um poliedro é quase regular snubficado se for transitivo de vértice com figuras irregulares de vértice pentagonal, hexagonal ou octogonal. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. A snubificação de um poliedro é uma operação que permite obter outro poliedro. Esta operação consiste em afastar todas as faces do poliedro, rotacionar as mesmas um certo ângulo e preencher os espaços vazios resultantes com polígonos (por exemplo, triângulos, retângulos ou pentágonos).
   Para visualizar os poliedros truncados snubficados em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub/ra.html</a></p> 
