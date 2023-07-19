@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
+<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
@@ -29,7 +30,9 @@ function urlHandler(value) {
 
 <p id="p5"></p>
   <h2 align="center"><img src="../ar/149A.png" style="margin-bottom:-10px" width="45"> Poliedros de auto-interseção</h2>
-  Os poliedros de auto-interseção podem ter faces auto-interseccionadas ou figuras de vértices auto-interseccionados. Para visualizar os poliedros de auto-interseção em RA, visite a página:
+  Os poliedros de auto-interseção podem ter faces auto-interseccionadas ou figuras de vértices auto-interseccionados. 
+  <hr>
+  Para visualizar os poliedros de auto-interseção em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
