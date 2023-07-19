@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="scripts/style.css">
-<link rel="icon" type="image/x-icon" href="vr/salas/imagens/icone.ico">
+<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p5"></p>
-  <h2 align="center"><img src="ar/149A.png" style="margin-bottom:-10px" width="45"> Self-intersecting polyhedra</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Self-intersecting polyhedra</h2>
 The self-intersecting polyhedra may either have self-intersecting faces, or self-intersecting vertex figures. 
 <hr>
 To view self-intersecting polyhedra in AR, simply visit:
