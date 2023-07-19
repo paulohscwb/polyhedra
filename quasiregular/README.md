@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/x-icon" href="/vr/salas/imagens/icone.ico">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/quasiregular/pt-br/">versão em português</a>
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<a href="../">Home</a>
+	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -28,7 +30,9 @@ function urlHandler(value) {
 
 <p id="p6"></p>
   <h2 align="center"><img src="ar/121A.png" style="margin-bottom:-10px" width="45"> Quasi regular polyhedra</h2>
-A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. To view quasi regular polyhedra in AR, simply visit:
+A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. 
+<hr>
+To view quasi regular polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
