@@ -30,7 +30,8 @@ function urlHandler(value) {
 
 <p id="p4"></p>
   <h2 align="center"><img src="ar/188A.png" style="margin-bottom:-10px" width="45"> Nonconvex polyhedra</h2>
-A polyhedron is nonconvex if at least one of its diagonals is outside the region bounded by its faces. To view nonconvex polyhedra in AR, simply visit:
+A polyhedron is nonconvex if at least one of its diagonals is outside the region bounded by its faces. 
+<hr>To view nonconvex polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
