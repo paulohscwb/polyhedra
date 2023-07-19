@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
+<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
@@ -32,6 +33,7 @@ function urlHandler(value) {
 Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
 <h4>Sala imersiva</h4>
   <div class="embed-container"><iframe width="100%" src="../salaArquimedes.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
+  <a href="../salaArquimedes.htm" target="_blank">&#x1f517; LINK</a>
 <br>Para ver os poliedros arquimedeanos em RA, visite a página:
 <p align="center"> <a href="../ra.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
