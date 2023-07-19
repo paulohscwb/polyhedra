@@ -39,9 +39,7 @@
 			<a-asset-item id="material" src="vr/catalan/solidos.mtl"></a-asset-item>
         </a-assets>
         <a-entity id="cameraRig">
-           <a-camera id="head" look-controls wasd-controls-enabled="false" position="0 1.7 1.2" 
-             cursor="rayOrigin:mouse" static-body="shape: sphere; sphereRadius: 0.001" 
-             super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-camera>
+           <a-camera id="head" look-controls wasd-controls-enabled="false" position="0 1.7 1" cursor="rayOrigin:mouse" static-body="shape: sphere; sphereRadius: 0.001" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-camera>
            <a-entity id="lhand" mixin="mfisicas" hand-controls="hand: left"></a-entity>
 		   <a-entity id="rhand" mixin="controle" hand-controls="hand: right"></a-entity>
         </a-entity>
