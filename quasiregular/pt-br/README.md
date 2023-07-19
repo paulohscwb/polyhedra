@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
-<link rel="icon" type="image/png" href="./../vr/salas/imagens/icone.png">
+<link rel="shortcut icon" type="image/png" href="./../vr/salas/imagens/icone.png">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p6"></p>
-  <h2 align="center"><img src="../ar/121A.png" style="margin-bottom:-10px" width="45"> Poliedros quase regulares</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros quase regulares</h2>
   Um poliedro quase regular é um poliedro uniforme que tem exatamente dois tipos de faces regulares, que se alternam em torno de cada vértice. 
   <hr>
   Para visualizar os poliedros quase regulares em RA, visite a página:

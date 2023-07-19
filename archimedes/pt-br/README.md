@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
  
 <p id="p1"></p>
-  <h2 align="center"><img src="../ar/18A.png" style="margin-bottom:-10px" width="45"> Poliedros de Arquimedes</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros de Arquimedes</h2>
 Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
 <hr>
 <h4>Sala imersiva</h4>
