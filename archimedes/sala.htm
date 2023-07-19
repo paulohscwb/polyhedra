@@ -28,7 +28,7 @@
            <a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
 			 <a-mixin id="pointer" raycaster="showLine: true;" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
-			<a-mixin id="controle" mixin="pointer"></a-mixin>
+			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 			
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
