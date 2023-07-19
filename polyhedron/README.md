@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 <h2>Visualization of polyhedra with Augmented Reality (AR) and Virtual Reality (VR) in A-frame</h2>
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
@@ -28,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p7"></p>
-  <h2 align="center"><img src="ar/103A.png" style="margin-bottom:-10px" width="45"> Pyramids, tetrahedrons, prisms and antiprisms</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Pyramids, tetrahedrons, prisms and antiprisms</h2>
   To view polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
