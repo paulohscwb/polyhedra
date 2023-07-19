@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
-<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
+<link rel="icon" type="image/png" href="https://paulohscwb.github.io/polyhedra/catalan/vr/salas/imagens/icone.png">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
@@ -29,7 +29,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p3"></p>
-  <h2 align="center"><img src="../ar/168A.png" style="margin-bottom:-10px" width="45"> Poliedros de Catalan</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros de Catalan</h2>
   Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomeados em homenagem ao matemático belga Eugene Catalan (1814-1894) que descreveu pela primeira vez o conjunto completo em 1865. O Dodecaedro Rômbico e o Triacontaedro Rômbico foram descritos em 1611 por Johannes Kepler. Cada sólido de Catalan tem um tipo de face e um ângulo diedro constante, e possui a mesma simetria que seu respectivo dual de Arquimedes.
   <hr>
   <h4>Sala imersiva</h4>
