@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="../scripts/style.css">
-<link rel="icon" type="image/x-icon" href="/../vr/salas/imagens/icone.ico">
+<link rel="icon" type="image/x-icon" href="../vr/salas/imagens/icone.ico">
 <h2>Visualização de poliedros com Realidade Aumentada (RA) e Realidade Virtual (RV) em A-frame</h2>
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
