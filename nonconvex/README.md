@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/nonconvex/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -31,10 +30,10 @@ function urlHandler(value) {
 <p id="p4"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Nonconvex polyhedra</h2>
 A polyhedron is nonconvex if at least one of its diagonals is outside the region bounded by its faces.
-<p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a></p>
+<p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
   <h4>Immersive rooms</h4>
-  <center><img src="vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></center>
+  <p align="center"><img src="vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
   <a href="sala1.htm" target="_blank">&#x1f517; immersive room link 1</a>
   <br><a href="sala2.htm" target="_blank">&#x1f517; immersive room link 2</a>   
@@ -45,9 +44,9 @@ A polyhedron is nonconvex if at least one of its diagonals is outside the region
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/playlist?list=PLy0I_lGW8HxWJpy766Me-L4lhuQGfqR9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4 id="m3d">3D models</h4>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/playlist?list=PLy0I_lGW8HxWJpy766Me-L4lhuQGfqR9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Escher's Solid</h4>
  <a href="vr/escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/181A.png" class="foto"></a><img src="ar/181.png" class="qr">
  <br>Escher's solid is illustrated on the right pedestal in M. C. Escher's "Waterfall" woodcut. It is obtained by augmenting a rhombic dodecahedron until incident edges become parallel, corresponding to augmentation of height for a rhombic dodecahedron. It is the first rhombic dodecahedron stellation and is a space-filling polyhedron. Its convex hull is a cuboctahedron. Its isosceles triangles faces have vertex angles of 70.53° (once) and 54.73° (twice).

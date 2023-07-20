@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/nonconvex/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -31,10 +30,10 @@ function urlHandler(value) {
 <p id="p4"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros não convexos</h2>
   Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces.
-  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a></p>
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
 <h4>Salas imersivas</h4>
-  <center><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="width: 46%; border-radius:5px" loading="lazy"/></center>
+  <p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
  <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a> 
  <br><a href="../sala2.htm" target="_blank">&#x1f517; link da sala imersiva 2</a>

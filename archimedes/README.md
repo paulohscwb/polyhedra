@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/archimedes/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option disabled value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -31,17 +30,23 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Archimedean polyhedra</h2>
   An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
+  
   <hr>
   <h4>Immersive room</h4>
+  <p align="center"><img src="vr/salas/videos/arquimedes.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
   <a href="sala.htm" target="_blank">&#x1f517; immersive room link</a>
-<hr>To view Archimedean polyhedra in AR, simply visit 
+<hr>
+  <h4 id="ra">Augmented Reality</h4>
+  To view Archimedean polyhedra in AR, simply visit 
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example.jpg" width="85%"></p>
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX-LnHasjCL1lJnvpiYh7ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
+<h4 id="m3d">3D models</h4>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX-LnHasjCL1lJnvpiYh7ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h4>1. Truncated octahedron</h4>
  <a href="vr/truncated_octahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/hiroA.png" class="foto" alt="Truncated octahedron"></a><img src="ar/hiro.png" class="qr">
  <!--<div class="embed-container"><iframe src="vr/truncated_octahedron.html" width="100%" title="truncated_octahedron" loading="lazy"></iframe></div>-->
