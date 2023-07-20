@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/archimedes/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option disabled value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -31,17 +30,23 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros de Arquimedes</h2>
 Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por Arquimedes. Eles são os poliedros convexos semi-regulares compostos de polígonos regulares reunidos em vértices idênticos, excluindo os 5 sólidos platônicos, os prismas e antiprismas.
+<p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
 <h4>Sala imersiva</h4>
+  <p align="center"><img src="../vr/salas/videos/arquimedes.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
   <a href="../sala.htm" target="_blank">&#x1f517; immersive room link</a>
-<hr>Para ver os poliedros arquimedeanos em RA, visite a página:
+  <hr>
+  <h4 id="ra">Realidade Aumentada</h4>
+  Para ver os poliedros arquimedeanos em RA, visite a página:
 <p align="center"> <a href="../ra.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></center>
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX-LnHasjCL1lJnvpiYh7ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br><p align="center"><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></p>
 <hr>
+<h4 id="m3d">Modelos 3D</h4>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX-LnHasjCL1lJnvpiYh7ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h4>1. Octaedro truncado</h4>
  <a href="../vr/truncated_octahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/hiroA.png" class="foto" alt="Octaedro truncado"></a><img src="../ar/hiro.png" class="qr">
  <br><span class="titulo">U<sub>8</sub></span> O octaedro truncado é construído a partir de um octaedro regular com comprimento de lado <b>3a</b> pela remoção de seis pirâmides retas de bases quadradas, uma de cada ponto. Estas pirâmides têm tanto o comprimento do lado da base como o lado do lado lateral <b>e </b> de <b>a</b>, para formar triângulos equiláteros. O octaedro truncado pode ser dissecado em um octaedro central, circundado por 8 cúpulas triangulares em cada face e 6 pirâmides quadradas acima dos vértices. O octaedro truncado existe na estrutura dos cristais de faujasite.
