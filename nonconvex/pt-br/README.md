@@ -33,7 +33,7 @@ function urlHandler(value) {
   Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces.
 <hr>
 <h4>Salas imersivas</h4>
-  <center><img src="../vr/salas/videos/nonconvex1.gif" style="width: 46%; border-radius:5px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="width: 46%; border-radius:5px" loading="lazy"/></center>
+  <center><img src="../vr/salas/videos/nonconvex1.gif" style="width: 46%; border-radius:5px; margin-right:5px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="width: 46%; border-radius:5px" loading="lazy"/></center>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
  <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a> 
  <br><a href="../sala2.htm" target="_blank">&#x1f517; link da sala imersiva 2</a>  
