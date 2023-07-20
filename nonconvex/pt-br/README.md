@@ -33,10 +33,9 @@ function urlHandler(value) {
   <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
 <h4>Salas imersivas</h4>
-  <p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
+  <img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
- <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a> 
- <br><a href="../sala2.htm" target="_blank">&#x1f517; link da sala imersiva 2</a>
+ <a href="../sala1.htm" target="_blank">&#x1f517; sala imersiva 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala imersiva 2</a>
   <hr>
   <h4 id="ra">Realidade Aumentada</h4>
   Para visualizar os poliedros não convexos em RA, visite a página:

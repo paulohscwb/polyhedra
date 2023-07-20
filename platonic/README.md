@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/platonic/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -31,15 +30,21 @@ function urlHandler(value) {
 <p id="p2"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Platonic polyhedra</h2>
   An Platonic solid is a regular and convex polyhedron. It is constructed by congruent and regular polygonal faces with the same number of faces meeting at each vertex. They are named by the ancient Greek philosopher Plato who classified that the classical elements were made from these regular solids.
+  <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
   <hr>
   <h4>Immersive room</h4>
+  <img src="vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
-  <a href="sala.htm" target="_blank">&#x1f517; immersive room link</a>
- <hr>To view Platonic polyhedra in AR, simply visit 
+  <a href="sala.htm" target="_blank">&#x1f517; immersive room</a>
+ <hr>
+  <h4 id="ra">Augmented Reality</h4>
+  To view Platonic polyhedra in AR, simply visit 
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example1.jpg" width="85%"></p>
+<hr>
+<h4 id="m3d">3D models</h4>
  <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
 <h4>1. Icosahedron</h4>
