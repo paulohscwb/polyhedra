@@ -34,7 +34,8 @@ function urlHandler(value) {
 <hr>
 <h4>Salas imersivas</h4>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
- <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a>  
+ <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a> 
+ <br><a href="../sala2.htm" target="_blank">&#x1f517; link da sala imersiva 2</a>  
   <hr>Para visualizar os poliedros não convexos em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -123,9 +124,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>49</sub></span> O pequeno icosihemidodecaedro é um poliedro uniforme não convexo cujo poliedro dual é o pequeno icosihemidodecacron. É uma versão facetada do icosidodecaedro.
 <br><br><b>Faces:</b> 20 triângulos equiláteros e 6 decágonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 30 | <b>Ângulo diédrico:</b> 79.19°. <a href="https://mathworld.wolfram.com/SmallIcosihemidodecahedron.html" target="_blank">Mais sobre...</a>
  <hr>
-<h4>17. Octatetraedro</h4>
+<h4>17. Octahemioctaedro</h4>
  <a href="../vr/octahemioctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/196A.png" class="foto"></a><img src="../ar/196.png" class="qr">
- <br><span class="titulo">U<sub>3</sub></span> O octatetraedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
+ <br><span class="titulo">U<sub>3</sub></span> O octahemioctaedro é um poliedro uniforme não convexo cujo poliedro dual é o octahemioctacron. É um cuboctaedro facetado. Seu raio circunscrito para o comprimento unitário de aresta é R=1.
 <br><br><b>Faces:</b> 8 triângulos equiláteros e 4 hexágonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 | <b>Ângulo diédrico:</b> 70.53°. <a href="https://mathworld.wolfram.com/Octahemioctahedron.html" target="_blank">Mais sobre...</a>
  <hr>
 <h4>18. Tetrahemihexaedro</h4>

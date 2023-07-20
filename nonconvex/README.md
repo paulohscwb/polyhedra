@@ -34,7 +34,8 @@ A polyhedron is nonconvex if at least one of its diagonals is outside the region
 <hr>
   <h4>Immersive rooms</h4>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
-  <a href="sala1.htm" target="_blank">&#x1f517; immersive room link 1</a> 
+  <a href="sala1.htm" target="_blank">&#x1f517; immersive room link 1</a>
+  <br><a href="sala2.htm" target="_blank">&#x1f517; immersive room link 2</a>   
 <hr>To view nonconvex polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
