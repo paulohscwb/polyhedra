@@ -33,10 +33,9 @@ A polyhedron is nonconvex if at least one of its diagonals is outside the region
 <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
   <h4>Immersive rooms</h4>
-  <p align="center"><img src="vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
+  <img src="vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
-  <a href="sala1.htm" target="_blank">&#x1f517; immersive room link 1</a>
-  <br><a href="sala2.htm" target="_blank">&#x1f517; immersive room link 2</a>   
+  <a href="sala1.htm" target="_blank">&#x1f517; immersive room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; immersive room 2</a>   
 <hr>
   <h4 id="ra">Augmented Reality</h4>
   To view nonconvex polyhedra in AR, simply visit:
