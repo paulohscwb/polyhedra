@@ -31,7 +31,7 @@ function urlHandler(value) {
 <p id="p4"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros não convexos</h2>
   Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces.
-  <br><a href="#ra">Realidade Aumentada  |  </a><a href="#m3d">Modelos 3D</a>
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a></p>
 <hr>
 <h4>Salas imersivas</h4>
   <center><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="width: 46%; border-radius:5px" loading="lazy"/></center>
@@ -39,14 +39,14 @@ function urlHandler(value) {
  <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a> 
  <br><a href="../sala2.htm" target="_blank">&#x1f517; link da sala imersiva 2</a>
   <hr>
-  <h4 id="#ra">Realidade Aumentada</h4>
+  <h4 id="ra">Realidade Aumentada</h4>
   Para visualizar os poliedros não convexos em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example3.jpg" width="85%"></p>
 <hr>
-<h4 id="#m3d">Modelos 3D</h4>
+<h4 id="m3d">Modelos 3D</h4>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/playlist?list=PLy0I_lGW8HxWJpy766Me-L4lhuQGfqR9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Sólido de Escher</h4>
  <a href="../vr/escher.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/181A.png" class="foto"></a><img src="../ar/181.png" class="qr">
