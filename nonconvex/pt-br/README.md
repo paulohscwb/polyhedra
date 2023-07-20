@@ -30,7 +30,11 @@ function urlHandler(value) {
 
 <p id="p4"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros não convexos</h2>
-  Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces. 
+  Um poliedro é não convexo se pelo menos uma de suas diagonais está fora da região delimitada por suas faces.
+<hr>
+<h4>Salas imersivas</h4>
+  <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
+ <a href="../sala1.htm" target="_blank">&#x1f517; link da sala imersiva 1</a>  
   <hr>Para visualizar os poliedros não convexos em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
