@@ -33,9 +33,8 @@ The Catalan solids are the duals of the Archimedean solids. They are named after
   <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
 <h4>Immersive room</h4>
-  <img src="vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/>
+  <p align="center"><img valign="middle" src="vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="sala.htm" target="_blank">&#x1f517; immersive room</a></p>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
- <a href="sala.htm" target="_blank">&#x1f517; immersive room</a>
  <hr>
   <h4 id="ra">Augmented Reality</h4>
   To view Catalan polyhedra in AR, simply visit:
@@ -46,7 +45,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4 id="m3d">3D models</h4>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<hr>
+
 <h4>1. Triakis Tetrahedron</h4>
  <a href="vr/triakis_tetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/180A.png" class="foto"></a><img src="ar/180.png" class="qr">
  <br>The triakis tetrahedron is a non-regular dodecahedron that can be constructed as an augmentation of a regular tetrahedron: a triangular pyramid added to each face. The triakis tetrahedron is the dual polyhedron of the truncated tetrahedron. Its isosceles triangles faces have vertex angles of 112.89° (once) and 33.56° (twice).

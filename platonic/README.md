@@ -46,7 +46,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4 id="m3d">3D models</h4>
  <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<hr>
+
 <h4>1. Icosahedron</h4>
  <a href="vr/icosahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto"></a><img src="ar/9.png" class="qr">
  <br><span class="titulo">U<sub>22</sub></span> The icosahedron has five equilateral triangular faces meeting at each vertex. A regular icosahedron is a gyroelongated pentagonal bipyramid and a biaugmented pentagonal antiprism in any of six orientations. The 12 edges of a regular octahedron can be subdivided in the golden ratio so that the resulting vertices define a regular icosahedron. 
