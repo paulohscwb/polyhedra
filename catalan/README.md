@@ -33,7 +33,7 @@ The Catalan solids are the duals of the Archimedean solids. They are named after
   <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
 <h4>Immersive room</h4>
-  <p align="center"><img valign="middle" src="vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="sala.htm" target="_blank">&#x1f517; immersive room</a></p>
+  <p align="center"><img valign="middle" src="vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
  <hr>
   <h4 id="ra">Augmented Reality</h4>

@@ -33,7 +33,7 @@ function urlHandler(value) {
   <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
   <h4>Sala imersiva</h4>
-  <p align="center"><img valign="middle" src="../vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; sala imersiva</a></p>
+  <p align="center"><img align="middle" src="../vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; link da sala</a></p>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
  <hr>
   <h4 id="ra">Augmented Reality</h4>
@@ -45,7 +45,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4 id="m3d">3D models</h4>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWEW5GUh83TNyIm0O2TXWEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<hr>
+
 <h4>1. Tetraedro triakis</h4>
  <a href="../vr/triakis_tetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/180A.png" class="foto"></a><img src="../ar/180.png" class="qr">
  <br>O tetraedro triakis é um dodecaedro não regular que pode ser construído como um aumento positivo de um tetraedro regular: uma pirâmide triangular adicionada a cada face. O tetraedro triakis é o poliedro dual do tetraedro truncado. Suas faces de triângulos isósceles têm ângulos dos vértices com medidas de 112.86° (uma vez) e 33.56° (duas vezes).
