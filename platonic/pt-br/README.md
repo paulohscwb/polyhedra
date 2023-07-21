@@ -33,9 +33,8 @@ Um sólido platônico é um poliedro regular e convexo. É construído por faces
 <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
 <h4>Sala imersiva</h4>
-  <img src="../vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/>
+  <p align="center"><img align="middle" src="../vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; link da sala</a></p>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
- <a href="../sala.htm" target="_blank">&#x1f517; sala imersiva</a>
 <hr>
   <h4 id="ra">Realidade Aumentada</h4>
   Para ver o poliedro platônico em AR, visite
