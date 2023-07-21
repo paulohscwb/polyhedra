@@ -32,18 +32,18 @@ function urlHandler(value) {
 Um sólido platônico é um poliedro regular e convexo. É construído por faces poligonais regulares e congruentes com o mesmo número de faces reunidas em cada vértice. Eles foram nomeados pelo antigo filósofo grego Platão, o qual classificou que os elementos clássicos foram feitos a partir desses sólidos regulares.
 <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
-<h4>Sala imersiva</h4>
-  <p align="center"><img align="middle" src="../vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; link da sala</a></p>
+<h4 align="center">Sala imersiva</h4>
+  <p align="center"><img align="middle" src="../vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; link da sala</a></p>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
 <hr>
-  <h4 id="ra">Realidade Aumentada</h4>
+  <h4 id="ra" align="center">Realidade Aumentada</h4>
   Para ver o poliedro platônico em AR, visite
 <p align="center"> <a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/platonic/ra.html </a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example1.jpg" width="85%"></p>
 <hr>
-<h4 id="m3d">Modelos 3D</h4>
+<h4 id="m3d" align="center">Modelos 3D</h4>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUG41tIyqLd8vvNxt-5G97s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h4>1. Icosaedro</h4>

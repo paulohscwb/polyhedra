@@ -32,19 +32,19 @@ function urlHandler(value) {
 A polyhedron is nonconvex if at least one of its diagonals is outside the region bounded by its faces.
 <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
-  <h4>Immersive rooms</h4>
+  <h4 align="center">Immersive rooms</h4>
   <p align="center"><img src="vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; immersive room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; immersive room 2</a></p>   
 <hr>
-  <h4 id="ra">Augmented Reality</h4>
+  <h4 id="ra" align="center">Augmented Reality</h4>
   To view nonconvex polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
 <hr>
-<h4 id="m3d">3D models</h4>
+<h4 id="m3d" align="center">3D models</h4>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/playlist?list=PLy0I_lGW8HxWJpy766Me-L4lhuQGfqR9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Escher's Solid</h4>
  <a href="vr/escher.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/181A.png" class="foto"></a><img src="ar/181.png" class="qr">
