@@ -41,7 +41,7 @@ A polyhedron is nonconvex if at least one of its diagonals is outside the region
   To view nonconvex polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/nonconvex/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
-<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<br>Access to 3D models pages is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example3.jpg" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>

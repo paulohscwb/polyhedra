@@ -40,7 +40,7 @@ Um poliedro de Arquimedes é um dos 13 sólidos enumerados pela primeira vez por
   Para ver os poliedros arquimedeanos em RA, visite a página:
 <p align="center"> <a href="../ra.html" target="_blank"> https://paulohscwb.github.io/polyhedra/archimedes/ra.html</a></p>
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima dos marcadores.
+<br>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima dos marcadores.
 <p align="center"><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>

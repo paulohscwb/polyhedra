@@ -40,7 +40,7 @@ function urlHandler(value) {
   Para visualizar os poliedros de Catalan em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/catalan/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<br>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example2.jpg" width="85%"></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
