@@ -11,11 +11,11 @@
 <h3 style="margin-top:3px"><a target="_blank" href="platonic/"><img src="platonic/ar/9A.png" style="margin-bottom:-10px" width="40"> Platonic polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="catalan/"><img src="catalan/ar/168A.png" style="margin-bottom:-10px" width="40"> Catalan polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="nonconvex/"><img src="nonconvex/ar/188A.png" style="margin-bottom:-10px" width="40"> Nonconvex polyhedra</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="polyhedron/"><img src="polyhedron/ar/103A.png" style="margin-bottom:-10px" width="40"> Pyramids, tetrahedrons, prisms and antiprisms</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="selfintersect/"><img src="selfintersect/ar/149A.png" style="margin-bottom:-10px" width="40"> Self-intersecting polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="quasiregular/"><img src="quasiregular/ar/121A.png" style="margin-bottom:-10px" width="40"> Quasi regular polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="selfintersecttruncated/"><img src="selfintersecttruncated/ar/97A.png" style="margin-bottom:-10px" width="40"> Self-intersecting truncated polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="selfintersectsnub/"><img src="selfintersectsnub/ar/51A.png" style="margin-bottom:-10px" width="40"> Self-intersecting snub polyhedra</a></h3>
-<h3 style="margin-top:3px"><a target="_blank" href="polyhedron/"><img src="polyhedron/ar/103A.png" style="margin-bottom:-10px" width="40"> Pyramids, tetrahedrons, prisms and antiprisms</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="johnson1/"><img src="johnson1/ar/25A.png" style="margin-bottom:-10px" width="40"> Johnson solids 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="johnson2/"><img src="johnson2/ar/17bA.png" style="margin-bottom:-10px" width="40"> Johnson solids 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="johnson3/"><img src="johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Johnson solids 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
