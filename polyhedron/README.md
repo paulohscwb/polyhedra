@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/polyhedron/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -30,13 +29,23 @@ function urlHandler(value) {
 
 <p id="p7"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Pyramids, tetrahedrons, prisms and antiprisms</h2>
+  <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+<hr>
+  <h3 align="center">Immersive rooms</h3>
+  <!--<p align="center"><img src="vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>-->
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a></p>   
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
   To view polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
-<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<br>Access to 3D models pages is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example5.jpg" width="85%"></p>
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV8nBnE8o_krXqahDtI9O4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV8nBnE8o_krXqahDtI9O4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h4>1. Prism</h4>
 <a href="vr/heptagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/110A.png" class="foto"></a><img src="ar/110.png" class="qr">
  <br><span class="titulo">U<sub>76</sub></span> A general prism is a polyhedron possessing two congruent polygonal faces and with all remaining faces parallelograms. A right prism is a prism in which the top and bottom polygons lie on top of each other so that the vertical polygons connecting their sides are not only parallelograms, but rectangles. The regular right prisms have particularly simple nets, given by two oppositely-oriented n-gonal bases connected by a set of n squares. The example shown on this page is a regular right heptagonal prism. 

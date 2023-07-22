@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/polyhedron/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -30,13 +29,23 @@ function urlHandler(value) {
 
 <p id="p7"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Pirâmides, tetraedros, prismas e antiprismas</h2>
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
+  <hr>
+<h3 align="center">Salas imersivas</h3>
+  <!--<p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>-->
+  <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
+<hr>
+  <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/polyhedron/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<br>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example5.jpg" width="85%"></p>
+<hr>
+<h3 id="m3d" align="center">Modelos 3D</h3>
   <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxV8nBnE8o_krXqahDtI9O4q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- <hr>
+
 <h4>1. Prisma</h4>
 <a href="../vr/heptagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/110A.png" class="foto"></a><img src="../ar/110.png" class="qr">
  <br><span class="titulo">U<sub>76</sub></span> Um prisma geral é um poliedro que possui duas faces poligonais congruentes e com todas as faces restantes paralelogramos. Um prisma reto é um prisma no qual os polígonos superior e inferior ficam um sobre o outro, de modo que os polígonos verticais que conectam seus lados não são apenas paralelogramos, mas retângulos. Os prismas regulares retos têm redes particularmente simples, dadas por duas bases n-gonais de orientação oposta conectadas por um conjunto de n quadrados. O exemplo mostrado nesta página é de um prisma reto regular heptagonal.
