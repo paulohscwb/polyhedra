@@ -55,7 +55,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>4. Small Triambic Icosahedron</h4>
  <a href="vr/small_triambic_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/164A.png" class="foto"></a><img src="ar/164.png" class="qr">
- <br>The small triambic icosahedron is the dual polyhedron of the small ditrigonal icosidodecahedron. It can be constructed by augmentation of a unit edge-length icosahedron by a pyramid. The convex hull of the small ditrigonal icosidodecahedron is a regular dodecahedron whose dual is the icosahedron, so the dual of the small ditrigonal icosidodecahedron (i.e., the small triambic icosahedron) is one of the icosahedron stellations.
+ <br>The small triambic icosahedron is the dual polyhedron of the small ditrigonal icosidodecahedron. It can be constructed by augmentation of a unit edge-length icosahedron by pyramids. The convex hull of the small ditrigonal icosidodecahedron is a regular dodecahedron whose dual is the icosahedron, so the dual of the small ditrigonal icosidodecahedron (i.e., the small triambic icosahedron) is one of the icosahedron stellations.
 <br><br><b>Faces:</b> 20 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/SmallTriambicIcosahedron.html" target="_blank">More...</a>
  <hr>
 <h4>5. Great Ditrigonal Icosidodecahedron</h4>
@@ -96,7 +96,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
 <h4>12. Small Hexacronic Icositetrahedron</h4>
  <a href="vr/small_hexacronic_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/156A.png" class="foto"></a><img src="ar/156.png" class="qr">
- <br>The small hexacronic icositetrahedron is the uniform polyhedron dual of the small cubicuboctahedron. It appears the same as the small rhombihexacron. A part of each dart lies inside the solid, hence is invisible in solid models.
+ <br>The small hexacronic icositetrahedron is the dual of uniform polyhedron small cubicuboctahedron. It appears the same as the small rhombihexacron. A part of each dart lies inside the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 24 darts | <b>Edges:</b> 48 | <b>Vertices:</b> 20 | <b>Dihedral angle:</b> 138.12°. <a href="https://en.wikipedia.org/wiki/Small_hexacronic_icositetrahedron" target="_blank">More...</a>
  <hr>
  <h4>13. Great Cubicuboctahedron</h4>

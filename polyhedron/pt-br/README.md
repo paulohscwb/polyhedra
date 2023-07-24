@@ -32,7 +32,7 @@ function urlHandler(value) {
   <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
 <h3 align="center">Salas imersivas</h3>
-  <!--<p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>-->
+  <p align="center"><img src="../vr/salas/videos/polyhedron1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="../vr/salas/videos/polyhedron2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
 <hr>
