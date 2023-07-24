@@ -33,8 +33,8 @@ function urlHandler(value) {
   <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
   <hr>
   <h3 align="center">Immersive room</h3>
-  <p align="center"><img align="middle" src="vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Platão" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><img align="middle" src="vr/salas/videos/platao.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
  <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
   To view Platonic polyhedra in AR, simply visit 
