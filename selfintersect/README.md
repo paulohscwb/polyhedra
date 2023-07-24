@@ -35,9 +35,10 @@ The self-intersecting polyhedra may either have self-intersecting faces, or self
 To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
-<br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
+<br>Access to 3D models pages is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
 <hr>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Ditrigonal dodecahedron</h4>
  <a href="vr/ditrigonal_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/199A.png" class="foto"></a><img src="ar/199.png" class="qr">
  <br><span class="titulo">U<sub>41</sub></span> The ditrigonal dodecahedron (or ditrigonary dodecadodecahedron) is a nonconvex uniform polyhedron whose dual is the medial triambic icosahedron. It is a faceted version of the small ditrigonal icosidodecahedron. 
