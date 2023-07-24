@@ -35,9 +35,10 @@ function urlHandler(value) {
   Para visualizar os poliedros de auto-interseção em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
+<br>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example4.jpg" width="85%"></p>
  <hr>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Dodecaedro ditrigonal</h4>
  <a href="../vr/ditrigonal_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/199A.png" class="foto"></a><img src="../ar/199.png" class="qr">
  <br><span class="titulo">U<sub>41</sub></span> O dodecaedro ditrigonal (ou dodecadodecaedro ditrigonário) é um poliedro uniforme não convexo cujo dual é o icosaedro triâmbico medial. É uma versão facetada do pequeno icosidodecaedro ditrigonal.
