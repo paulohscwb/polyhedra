@@ -34,7 +34,7 @@ function urlHandler(value) {
   <hr>
 <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros de auto-interseção" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala1.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala1.htm" target="_blank">&#x1f517; sala 3</a></p>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 3</a></p>
   <!--<p align="center"><img src="../vr/salas/videos/polyhedron1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="../vr/salas/videos/polyhedron2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>-->
 <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
@@ -137,9 +137,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O pequeno hexecontaedro dodecacrônico é o poliedro dual do pequeno dodecicosidodecaedro. É visualmente idêntico ao pequeno rhombidodecacron. Suas faces são dardos, e uma parte de cada dardo fica dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><br><b>Faces:</b> 60 dardos | <b>Arestas:</b> 120 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 154.12°. <a href="https://polytope.miraheze.org/wiki/Small_dodecacronic_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>19. Grande hexecontaedro dodecacrônico</h4>
+<h4>19. Grande dodecicosidodecaedro</h4>
  <a href="../vr/great_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/149A.png" class="foto"></a><img src="../ar/149.png" class="qr">
- <br><span class="titulo">U<sub>61</sub></span> O Grande Dodecicosidodecaedro (ou grande dodekicosidodecaedro) é o poliedro uniforme cujo dual é o grande hexecontaedro dodecacrônico. Ele compartilha seu arranjo de vértice com o grande dodecaedro truncado e os sólidos compostos uniformes de 6 ou 12 prismas pentagonais.
+ <br><span class="titulo">U<sub>61</sub></span> O Grande dodecicosidodecaedro (ou grande dodekicosidodecaedro) é o poliedro uniforme cujo dual é o grande hexecontaedro dodecacrônico. Ele compartilha seu arranjo de vértice com o grande dodecaedro truncado e os sólidos compostos uniformes de 6 ou 12 prismas pentagonais.
 <br><br><b>Faces:</b> 20 triângulos equiláteros, 12 pentagramas regulares e 12 decagramas regulares | <b>Arestas:</b> 120 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 100.81° e 116.57°. <a href="https://mathworld.wolfram.com/GreatDodecicosidodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>20. Grande hexecontaedro dodecacrônico</h4>
