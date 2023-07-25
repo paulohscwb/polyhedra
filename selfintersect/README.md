@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/selfintersect/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -31,13 +30,21 @@ function urlHandler(value) {
 <p id="p5"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Self-intersecting polyhedra</h2>
 The self-intersecting polyhedra may either have self-intersecting faces, or self-intersecting vertex figures. 
+<p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
+  <h3 align="center">Immersive rooms</h3>
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros de auto-interseção" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#" target="_blank">&#x1f517; room 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#" target="_blank">&#x1f517; room 3</a></p>
+  <!--<p align="center"><img src="vr/salas/videos/polyhedron1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="vr/salas/videos/polyhedron2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>-->
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
 To view self-intersecting polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersect/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to 3D models pages is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example4.jpg" width="85%"></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Ditrigonal dodecahedron</h4>
  <a href="vr/ditrigonal_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/199A.png" class="foto"></a><img src="ar/199.png" class="qr">
