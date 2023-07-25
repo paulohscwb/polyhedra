@@ -4,7 +4,7 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
-<br><br>Os poliedros de Arquimedes, Platão, Catalan, Johnson, não convexos, de auto-interseção e quase regulares podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, cada poliedro pode ser visto em RV.
+<br><br>Os poliedros de Arquimedes, Platão, Catalan, Johnson, não convexos, de auto-interseção e quase regulares podem ser vistos em Realidade Aumentada (RA) com os marcadores indicados, e por meio dos links criados nos marcadores, o modelo 3D de cada poliedro pode ser visto em Realidade Virtual (RV).
 <br>Um <b>poliedro uniforme</b> possui polígonos regulares como faces e é isogonal, ou seja, possui uma isometria que permite que o conjunto de seus vértices correspondam entre si por meio de relações de simetria. A notação usada para o <b>n-ésimo</b> poliedro uniforme é <b>U<sub>n</sub></b>.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../archimedes/pt-br/"><img src="../archimedes/ar/18A.png" style="margin-bottom:-10px" width="40"> Poliedros de Arquimedes</a></h3>
@@ -19,6 +19,11 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson1/pt-br/"><img src="../johnson1/ar/25A.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
+<hr>
+<h3 align="center">Salas imersivas</h3>
+<p align="center"><img src="../catalan/vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img align="middle" src="../nonconvex/vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; loading="lazy"/></p>
+<h3 align="center">Realidade Aumentada e modelos 3D</h3>
+<p align="center"><img src="../johnson1/ar/johnson1.gif" style="max-width: 85%; border-radius:5px; loading="lazy"/></p>
 <hr>
 <br>Os ambientes de Realidade Aumentada foram criados com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js" target="_blank"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de Realidade Virtual dos modelos 3D: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.

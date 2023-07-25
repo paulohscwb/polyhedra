@@ -4,7 +4,7 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
- <br><br>The Archimedean, Plato, Catalan, Johnson, non convex, self-intersecting and quasi regular polyhedra can be viewed in AR with the indicated markers, and through the links created on the markers, the polyhedra can be seen in VR.
+ <br><br> Archimedes, Plato, Catalan, Johnson, non-convex, self-intersecting and quasi- regular polyhedra can be seen in Augmented Reality (AR) with the indicated markers, and through the links created in the markers, the 3D model of each polyhedron can be seen in Virtual Reality (VR).
  <br>A <b>uniform polyhedron</b> has regular polygons as faces and is isogonal, that is, it has an isometry that allows the set of its vertices to correspond to each other through symmetry relations. The notation used for the <b>n<sup>th</sup></b> uniform polyhedron is <b>U<sub>n</sub></b>.
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="archimedes/"><img src="archimedes/ar/18A.png" style="margin-bottom:-10px" style="margin-bottom:-10px" width="40"> Archimedean polyhedra</a></h3>
@@ -19,6 +19,11 @@
 <h3 style="margin-top:3px"><a target="_blank" href="johnson1/"><img src="johnson1/ar/25A.png" style="margin-bottom:-10px" width="40"> Johnson solids 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="johnson2/"><img src="johnson2/ar/17bA.png" style="margin-bottom:-10px" width="40"> Johnson solids 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="johnson3/"><img src="johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Johnson solids 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
+<hr>
+<h3 align="center">Immersive rooms</h3>
+<p align="center"><img src="catalan/vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img align="middle" src="nonconvex/vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; loading="lazy"/></p>
+<h3 align="center">Augmented Reality and 3D models</h3>
+<p align="center"><img src="johnson1/ar/johnson1.gif" style="max-width: 85%; border-radius:5px; loading="lazy"/></p>
 <hr>
 <br>The Augmented Reality environments were created with the <b>Jerome Etienne</b> scripts: <a href="https://github.com/jeromeetienne/AR.js" target="_blank">AR.js - Augmented Reality for the Web</a>.
 <br>The orbit scripts developed by <b>Kevin Ngo</b> were used in the Virtual Reality pages of the 3D models: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> Orbit controls for A-Frame</a>.
