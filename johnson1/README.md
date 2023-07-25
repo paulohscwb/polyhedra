@@ -37,7 +37,7 @@ function urlHandler(value) {
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
-<p align="center"><img src="ar/johnson1.gif" style="max-width: 85%; border-radius:5px; loading="lazy"/></p>
+<p align="center"><img src="ar/johnson1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <h4>1. Square pyramid</h4>
 <a href="vr/j1_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto"></a><img src="ar/49.png" class="qr">
