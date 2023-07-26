@@ -77,11 +77,19 @@
 		</a-assets>
 
     <a-entity camera></a-entity>
-    
+	
+	<a-marker type="barcode" value="0">
+	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
+	</a-marker>
+		
 	<a-light type="ambient" color="white" intensity="0.7"></a-light>
 	<a-light type="directional" color="white" intensity="0.9" position="-3 2 1"></a-light>
 	<a-light type="directional" color="white" intensity="0.9" position="3 -2 1"></a-light>
-		
+	
+	<a-marker preset="hiro">
+	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
+	</a-marker>
+	
 	<a-marker preset="hiro" smooth="smooth:true; smoothCount:1">
 	   <a-link mixin="lnk" class="lnk" href="vr/truncated_octahedron.html"></a-link>
 	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.16 0.16 0.16">
