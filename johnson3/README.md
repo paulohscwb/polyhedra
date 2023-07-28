@@ -37,6 +37,7 @@ function urlHandler(value) {
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
+<p align="center"><img src="ar/johnson3.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <h4>1. Tridiminished icosahedron</h4>
 <a href="vr/j63_tridiminished_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/215A.png" class="foto"></a><img src="ar/215.png" class="qr">

@@ -37,6 +37,7 @@ To view quasi regular polyhedra in AR, simply visit:
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example6.jpg" width="85%"></p>
+<p align="center"><img src="ar/quasiregular.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <h4>1. Small rhombihexahedron</h4>
 <a href="vr/small_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto"></a><img src="ar/133.png" class="qr">
