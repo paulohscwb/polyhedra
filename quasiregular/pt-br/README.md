@@ -37,6 +37,7 @@ function urlHandler(value) {
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example6.jpg" width="85%"></p>
+<p align="center"><img src="../ar/quasiregular.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
  <hr>
 <h4>1. Pequeno rombihexaedro</h4>
 <a href="../vr/small_rhombihexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto"></a><img src="../ar/133.png" class="qr">
