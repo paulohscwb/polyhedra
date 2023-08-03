@@ -45,6 +45,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O tetrahemihexacron é o dual do tetrahemihexaedro. Como o tetrahemihexaedro tem três faces passando pelo centro, três dos vértices do tetrahemihexacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por três prismas que se estendem por uma distância arbitrariamente longa.
 <br><br><b>Faces:</b> 6 polígonos | <b>Arestas:</b> 12 | <b>Vértices:</b> 7 (3 no infinito) | <b>Ângulo diédrico:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Tetrahemihexacron" target="_blank">Mais sobre...</a>
 <hr>
+<h4>2. Octahemioctacron</h4>
+<a href="../vr/octahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/165A.png" class="foto"></a><img src="../ar/165.png" class="qr">
+ <br>O octahemioctacron é o dual do octahemioctaedro. Como o octahemioctaedro tem quatro faces passando pelo meio, quatro dos vértices do octahemioctacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. Parece o mesmo que o hexahemioctacron.
+<br><br><b>Faces:</b> 12 polígonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 (4 no infinito) | <b>Ângulo diédrico:</b> 70.53°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p14" class="topo">voltar ao topo</a></p>
  
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stellation to infinity polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/infinity/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

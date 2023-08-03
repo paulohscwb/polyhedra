@@ -45,6 +45,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The tetrahemihexacron is the dual of the tetrahemihexahedron. Because the tetrahemihexahedron has three faces going through its middle, three of the tetrahemihexacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by three prisms extending an arbitrarily long distance.
 <br><br><b>Faces:</b> 6 polygons | <b>Edges:</b> 12 | <b>Vertices:</b> 7 (3 at infinity)  | <b>Dihedral angle:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Tetrahemihexacron" target="_blank">More...</a>
 <hr>
+<h4>2. Octahemioctacron</h4>
+<a href="vr/octahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/165A.png" class="foto"></a><img src="ar/165.png" class="qr">
+ <br>The octahemioctacron is the dual of the octahemioctahedron. Because the latter polyhedron has four faces going through its middle, four of the octahemioctacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the hexahemioctacron. 
+<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 (4 at infinity)  | <b>Dihedral angle:</b> 70.53°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p14" class="topo">back to top</a></p>
 
 
