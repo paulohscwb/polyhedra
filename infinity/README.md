@@ -48,7 +48,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>2. Octahemioctacron</h4>
 <a href="vr/octahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/165A.png" class="foto"></a><img src="ar/165.png" class="qr">
  <br>The octahemioctacron is the dual of the octahemioctahedron. Because the latter polyhedron has four faces going through its middle, four of the octahemioctacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the hexahemioctacron. 
-<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 (4 at infinity)  | <b>Dihedral angle:</b> 70.53°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">More...</a>
+<hr>
+<h4>3. Hexahemioctacron</h4>
+<a href="vr/hexahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/166A.png" class="foto"></a><img src="ar/166.png" class="qr">
+ <br>The hexahemioctacron is the dual of the cubohemioctahedron. Because the cubohemioctahedron has four faces going through its middle, four of the hexahemioctacron's vertices are at infinity on the real projective plane. This is usually represented in images and models by prisms extending an arbitrarily long distance. This model appears the same as the the analygous model for the octahemioctacron. 
+<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 10 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Hexahemioctacron" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p14" class="topo">back to top</a></p>
 
