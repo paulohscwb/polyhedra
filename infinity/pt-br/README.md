@@ -48,7 +48,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>2. Octahemioctacron</h4>
 <a href="../vr/octahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/165A.png" class="foto"></a><img src="../ar/165.png" class="qr">
  <br>O octahemioctacron é o dual do octahemioctaedro. Como o octahemioctaedro tem quatro faces passando pelo meio, quatro dos vértices do octahemioctacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. Parece o mesmo que o hexahemioctacron.
-<br><br><b>Faces:</b> 12 polígonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 (4 no infinito) | <b>Ângulo diédrico:</b> 70.53°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 12 polígonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 12 (4 no infinito) | <b>Ângulo diédrico:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>3. Hexahemioctacron</h4>
+<a href="../vr/hexahemioctacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/166A.png" class="foto"></a><img src="../ar/166.png" class="qr">
+ <br>O hexahemioctacron é o dual do cubohemioctaedro. Como o cubohemioctaedro tem quatro faces passando pelo meio, quatro dos vértices do hexahemioctacron estão no infinito no plano projetivo real. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. Este modelo parece o mesmo que o modelo análogo para o octahemioctacron.
+<br><br><b>Faces:</b> 12 polígonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 10 (4 no infinito) | <b>Ângulo diédrico:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Hexahemioctacron" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p14" class="topo">voltar ao topo</a></p>
  
