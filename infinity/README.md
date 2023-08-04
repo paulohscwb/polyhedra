@@ -34,11 +34,11 @@ function urlHandler(value) {
 Since the hemipolyhedra have faces passing through the center, the dual figures have corresponding vertices at infinity. This polyhedra are represented with intersecting prisms, each extending in both directions to the same vertex at infinity, in order to maintain symmetry. 
 <hr>
 To view quasi regular polyhedra in AR, simply visit:
-<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular/ra.html</a></p> 
+<p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/infinity/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
 <br>Access to the VR sites is done by clicking on the blue circle that appears on top of the marker.
 <p align="center"><img style="border-radius:7px;" src="ar/example6.jpg" width="85%"></p>
-<p align="center"><img src="ar/quasiregular.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="ar/infinity.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <h4>1. Tetrahemihexacron</h4>
 <a href="vr/tetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/250A.png" class="foto"></a><img src="ar/250.png" class="qr">
