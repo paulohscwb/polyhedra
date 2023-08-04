@@ -55,6 +55,16 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O hexahemioctacron é o dual do cubohemioctaedro. Como o cubohemioctaedro tem quatro faces passando pelo meio, quatro dos vértices do hexahemioctacron estão no infinito no plano projetivo real. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. Este modelo parece o mesmo que o modelo análogo para o octahemioctacron.
 <br><br><b>Faces:</b> 12 polígonos | <b>Arestas:</b> 24 | <b>Vértices:</b> 10 (4 no infinito) | <b>Ângulo diédrico:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Hexahemioctacron" target="_blank">Mais sobre...</a>
 <hr>
+<h4>4. Grande dodecahemicosacron</h4>
+<a href="../vr/great_dodecahemicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/167A.png" class="foto"></a><img src="../ar/167.png" class="qr">
+ <br>O grande dodecahemicosacron é o dual do grande dodecahemicosaedro. Como o grande dodecahemicosaedro tem dez faces passando pelo meio, dez dos vértices do grande dodecahemicosacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno dodecahemicosacron.
+<br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 22 (10 no infinito) | <b>Ângulo diédrico:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemicosacron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>5. Pequeno dodecahemicosacron</h4>
+<a href="../vr/small_dodecahemicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/168A.png" class="foto"></a><img src="../ar/168.png" class="qr">
+ <br>O pequeno dodecahemicosacron é o dual do pequeno dodecahemicosaedro. Como o pequeno dodecahemicosaedro tem dez faces passando pelo meio, dez dos vértices do pequeno dodecahemicosacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno dodecahemicosacron.
+<br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 22 (10 no infinito) | <b>Ângulo diédrico:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">Mais sobre...</a>
+<hr>
 <p class="topop"><a href="#p14" class="topo">voltar ao topo</a></p>
  
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stellation to infinity polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/infinity/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
