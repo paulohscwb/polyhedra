@@ -55,6 +55,16 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The hexahemioctacron is the dual of the cubohemioctahedron. Because the cubohemioctahedron has four faces going through its middle, four of the hexahemioctacron's vertices are at infinity on the real projective plane. This is usually represented in images and models by prisms extending an arbitrarily long distance. This model appears the same as the the analygous model for the octahemioctacron. 
 <br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 10 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Hexahemioctacron" target="_blank">More...</a>
 <hr>
+<h4>4. Great dodecahemicosacron</h4>
+<a href="vr/great_dodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/167A.png" class="foto"></a><img src="ar/167.png" class="qr">
+ <br>The great dodecahemicosacron is the dual of the great dodecahemicosahedron. Because the great dodecahemicosahedron has ten faces going through its middle, ten of the great dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin (in projective space). This is usually represented in images and models by prisms extending an arbitrarily long distance.  
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemicosacron" target="_blank">More...</a>
+<hr>
+<h4>5. Small dodecahemicosacron</h4>
+<a href="vr/small_dodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/168A.png" class="foto"></a><img src="ar/168.png" class="qr">
+ <br>The small dodecahemicosacron is the dual of the small dodecahemicosahedron. Because the small dodecahemicosahedron has ten faces going through its middle, ten of the small dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance.  
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">More...</a>
+<hr>
 <p class="topop"><a href="#p14" class="topo">back to top</a></p>
 
 
