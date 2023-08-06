@@ -62,8 +62,18 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>5. Pequeno dodecahemicosacron</h4>
 <a href="../vr/small_dodecahemicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/168A.png" class="foto"></a><img src="../ar/168.png" class="qr">
- <br>O pequeno dodecahemicosacron é o dual do pequeno dodecahemicosaedro. Como o pequeno dodecahemicosaedro tem dez faces passando pelo meio, dez dos vértices do pequeno dodecahemicosacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno dodecahemicosacron.
+ <br>O pequeno dodecahemicosacron é o dual do pequeno dodecahemicosaedro. Como o pequeno dodecahemicosaedro tem dez faces passando pelo meio, dez dos vértices do pequeno dodecahemicosacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o grande dodecahemicosacron.
 <br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 22 (10 no infinito) | <b>Ângulo diédrico:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>6. Pequeno icosihemidodecacron</h4>
+<a href="../vr/small_icosihemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/168A.png" class="foto"></a><img src="../ar/168.png" class="qr">
+ <br>O pequeno icosihemidodecacron é o dual do pequeno icosihemidodecaedro. Como o pequeno icosihemidodecaedro tem seis faces passando pelo meio, seis dos vértices do pequeno icosihemidodecacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno dodecahemidodecacron.
+<br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 26 (6 no infinito) | <b>Ângulo diédrico:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_icosihemidodecacron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>7. Pequeno dodecahemidodecacron</h4>
+<a href="../vr/small_dodecahemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/172A.png" class="foto"></a><img src="../ar/172.png" class="qr">
+ <br>O pequeno dodecahemidodecacron é o dual do pequeno dodecahemidodecaedro. Como o pequeno dodecahemidodecaedro tem seis faces passando pelo meio, seis dos vértices do pequeno dodecahemidodecacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno icosihemidodecacron.
+<br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 18 (6 no infinito) | <b>Ângulo diédrico:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemidodecacron" target="_blank">Mais sobre...</a>
 <hr>
 <p class="topop"><a href="#p14" class="topo">voltar ao topo</a></p>
  

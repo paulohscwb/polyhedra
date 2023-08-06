@@ -57,13 +57,23 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>4. Great dodecahemicosacron</h4>
 <a href="vr/great_dodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/167A.png" class="foto"></a><img src="ar/167.png" class="qr">
- <br>The great dodecahemicosacron is the dual of the great dodecahemicosahedron. Because the great dodecahemicosahedron has ten faces going through its middle, ten of the great dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin (in projective space). This is usually represented in images and models by prisms extending an arbitrarily long distance.  
+ <br>The great dodecahemicosacron is the dual of the great dodecahemicosahedron. Because the great dodecahemicosahedron has ten faces going through its middle, ten of the great dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the small dodecahemicosacron. 
 <br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemicosacron" target="_blank">More...</a>
 <hr>
 <h4>5. Small dodecahemicosacron</h4>
 <a href="vr/small_dodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/168A.png" class="foto"></a><img src="ar/168.png" class="qr">
- <br>The small dodecahemicosacron is the dual of the small dodecahemicosahedron. Because the small dodecahemicosahedron has ten faces going through its middle, ten of the small dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance.  
+ <br>The small dodecahemicosacron is the dual of the small dodecahemicosahedron. Because the small dodecahemicosahedron has ten faces going through its middle, ten of the small dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the great dodecahemicosacron.  
 <br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">More...</a>
+<hr>
+<h4>6. Small icosihemidodecacron</h4>
+<a href="vr/small_icosihemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/170A.png" class="foto"></a><img src="ar/170.png" class="qr">
+ <br>The small icosihemidodecacron is the dual of the small  icosihemidodecahedron. Because the small icosihemidodecahedron has six faces going through its middle, six of the small icosihemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the small dodecahemidodecacron.   
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 26 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_icosihemidodecacron" target="_blank">More...</a>
+<hr>
+<h4>7. Small dodecahemidodecacron</h4>
+<a href="vr/small_dodecahemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/172A.png" class="foto"></a><img src="ar/172.png" class="qr">
+ <br>The small dodecahemidodecacron is the dual of the small dodecahemidodecahedron. Because the small dodecahemidodecahedron has six faces going through its middle, six of the small dodecahemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the small icosihemidodecacron.  
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 18 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemidodecacron" target="_blank">More...</a>
 <hr>
 <p class="topop"><a href="#p14" class="topo">back to top</a></p>
 
