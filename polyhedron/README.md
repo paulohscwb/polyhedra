@@ -35,7 +35,7 @@ function urlHandler(value) {
   <h3 align="center">Immersive rooms</h3>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a></p>
-  <p align="center"><img src="vr/salas/videos/polyhedron1.gif" style="max-width: 47%; border-radius:5px; margin-right:15px" loading="lazy"/><img src="vr/salas/videos/polyhedron2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
+  <p align="center"><img src="vr/salas/videos/polyhedron1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy"/><img src="vr/salas/videos/polyhedron2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
 <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
   To view polyhedra in AR, simply visit:
