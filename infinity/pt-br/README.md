@@ -66,7 +66,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 22 (10 no infinito) | <b>Ângulo diédrico:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>6. Pequeno icosihemidodecacron</h4>
-<a href="../vr/small_icosihemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/168A.png" class="foto"></a><img src="../ar/168.png" class="qr">
+<a href="../vr/small_icosihemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/170A.png" class="foto"></a><img src="../ar/170.png" class="qr">
  <br>O pequeno icosihemidodecacron é o dual do pequeno icosihemidodecaedro. Como o pequeno icosihemidodecaedro tem seis faces passando pelo meio, seis dos vértices do pequeno icosihemidodecacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno dodecahemidodecacron.
 <br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 26 (6 no infinito) | <b>Ângulo diédrico:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_icosihemidodecacron" target="_blank">Mais sobre...</a>
 <hr>
@@ -75,6 +75,15 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O pequeno dodecahemidodecacron é o dual do pequeno dodecahemidodecaedro. Como o pequeno dodecahemidodecaedro tem seis faces passando pelo meio, seis dos vértices do pequeno dodecahemidodecacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o pequeno icosihemidodecacron.
 <br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 18 (6 no infinito) | <b>Ângulo diédrico:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemidodecacron" target="_blank">Mais sobre...</a>
 <hr>
+<h4>8. Grande icosihemidodecacron</h4>
+<a href="../vr/great_icosihemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/174A.png" class="foto"></a><img src="../ar/174.png" class="qr">
+ <br>O grande icosihemidodecacron é o dual do grande icosihemidodecaedro. Como o grande icosihemidodecaedro tem seis faces passando pelo meio, seis dos vértices do grande icosihemidodecacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o grande dodecahemidodecacron.
+<br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 26 (6 no infinito) | <b>Ângulo diédrico:</b> 63.43°. <a href="hhttps://polytope.miraheze.org/wiki/Great_icosihemidodecacron" target="_blank">Mais sobre...</a>
+<hr>
+<h4>9. Grande dodecahemidodecacron</h4>
+<a href="../vr/great_dodecahemidodecacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/175A.png" class="foto"></a><img src="../ar/175.png" class="qr">
+ <br>O grande dodecahemidodecacron é o dual do grande dodecahemidodecaedro. Como o grande dodecahemidodecaedro tem seis faces passando pelo meio, seis dos vértices do grande dodecahemidodecacron estão em pontos ideais infinitamente distantes da origem no espaço projetivo. Isso geralmente é representado em imagens e modelos por prismas que se estendem por uma distância arbitrariamente longa. É parecido com o grande icosihemidodecacron.
+<br><br><b>Faces:</b> 30 polígonos | <b>Arestas:</b> 60 | <b>Vértices:</b> 18 (6 no infinito) | <b>Ângulo diédrico:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemidodecacron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p14" class="topo">voltar ao topo</a></p>
  
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stellation to infinity polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/infinity/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
