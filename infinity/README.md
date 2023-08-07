@@ -40,6 +40,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example.jpg" width="85%"></p>
 <p align="center"><img src="ar/infinity.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU-mneUmSsccpRAAwbErHFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetrahemihexacron</h4>
 <a href="vr/tetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/250A.png" class="foto"></a><img src="ar/250.png" class="qr">
  <br>The tetrahemihexacron is the dual of the tetrahemihexahedron. Because the tetrahemihexahedron has three faces going through its middle, three of the tetrahemihexacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by three prisms extending an arbitrarily long distance.
