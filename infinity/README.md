@@ -13,14 +13,14 @@
 		<option value="../nonconvex/">Non convex</option>
 		<option value="../platonic/">Platonic</option>
 		<option value="../polyhedron/">Prisms and antiprisms</option>
-		<option disabled value="../quasiregular/">Quasi regular</option>
+		<option value="../quasiregular/">Quasi regular</option>
 		<option value="../selfintersect/">Self-intersecting</option>
 		<option value="../selfintersectsnub/">Self-intersecting snub</option>
 		<option value="../selfintersecttruncated/">Self intersecting truncated</option>
 		<option value="../johnson1/">Johnson: 1-32</option>
 		<option value="../johnson2/">Johnson: 33-62</option>
 		<option value="../johnson3/">Johnson: 63-92</option>
-		<option value="../infinity/">Stellation to infinity</option>
+		<option disabled value="../infinity/">Stellation to infinity</option>
 	</select>
 </form>
 <script>

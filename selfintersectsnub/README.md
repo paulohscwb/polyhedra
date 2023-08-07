@@ -20,6 +20,7 @@
 		<option value="../johnson1/">Johnson: 1-32</option>
 		<option value="../johnson2/">Johnson: 33-62</option>
 		<option value="../johnson3/">Johnson: 63-92</option>
+		<option value="../../infinity/pt-br/">Estrelação ao infinito</option>
 	</select>
 </form>
 <script>

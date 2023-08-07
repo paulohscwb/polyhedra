@@ -19,6 +19,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson1/pt-br/"><img src="../johnson1/ar/25A.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 1: J<sub>1</sub> - J<sub>32</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../infinity/pt-br/"><img src="../infinity/ar/165A.png" style="margin-bottom:-10px" width="40"> Poliedros de estrelação ao infinito</a></h3>
 <hr>
 <h3 align="center">Salas imersivas</h3>
 <p align="center"><img src="../catalan/vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="../nonconvex/vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
