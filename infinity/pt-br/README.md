@@ -33,11 +33,11 @@ function urlHandler(value) {
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros de estrelação ao infinito</h2>
   Como os hemipoliedros têm faces passando pelo centro, as figuras duais têm vértices correspondentes no infinito. Esses poliedros são representados com prismas que se cruzam, cada um estendendo-se em ambas as direções para o mesmo vértice no infinito, a fim de manter a simetria.
   <hr>
-  Para visualizar os poliedros quase regulares em RA, visite a página:
+  Para visualizar os poliedros de estrelação ao infinito em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/infinity/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:7px;" src="../ar/example6.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></p>
 <p align="center"><img src="../ar/infinity.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
  <hr>
 <h4>1. Tetrahemihexacron</h4>
