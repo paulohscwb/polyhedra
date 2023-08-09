@@ -85,6 +85,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_dodecahemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/175A.png" class="foto"></a><img src="ar/175.png" class="qr">
  <br>The great dodecahemidodecacron is the dual of the great dodecahemidodecahedron. Because the great dodecahemidodecahedron has six faces going through its middle, six of the great dodecahemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the great icosihemidodecacron.  
 <br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 18 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemidodecacron" target="_blank">More...</a>
+<hr>
+<h4>10. Great dirhombicosidodecacron</h4>
+<a href="vr/great_dirhombicosidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/176A.png" class="foto"></a><img src="ar/176.png" class="qr">
+ <br>The great dirhombicosidodecacron is the dual of the great dirhombicosidodecahedron. Because the great dirhombicosidodecahedron has 60 faces going through its middle, 60 of the great dirhombicosidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance.  
+<br><br><b>Faces:</b> 60 polygons | <b>Edges:</b> 240 | <b>Vertices:</b> 124 (60 at infinity)  | <b>Dihedral angle:</b> 54.73°. <a href="https://polytope.miraheze.org/wiki/Great_dirhombicosidodecacron" target="_blank">More...</a>
 <p class="topop"><a href="#p14" class="topo">back to top</a></p>
 
 
