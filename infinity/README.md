@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/infinity/pt-br/">versão em português</a>
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,6 +31,13 @@ function urlHandler(value) {
 <p id="p14"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Stellation to infinity polyhedra</h2>
 Since the hemipolyhedra have faces passing through the center, the dual figures have corresponding vertices at infinity. This polyhedra are represented with intersecting prisms, each extending in both directions to the same vertex at infinity, in order to maintain symmetry. 
+<p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+  <hr>
+  <h3 align="center">Immersive room</h3>
+  <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><img align="middle" src="../../geometria-descritiva/videos/infinity.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
+ <hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
 <hr>
 To view stellation to infinity polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/infinity/ra.html</a></p> 
@@ -40,6 +46,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example.jpg" width="85%"></p>
 <p align="center"><img src="ar/infinity.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU-mneUmSsccpRAAwbErHFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetrahemihexacron</h4>
 <a href="vr/tetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/250A.png" class="foto"></a><img src="ar/250.png" class="qr">

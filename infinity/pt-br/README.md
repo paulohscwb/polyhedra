@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/infinity/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -32,14 +31,21 @@ function urlHandler(value) {
 <p id="p14"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros de estrelação ao infinito</h2>
   Como os hemipoliedros têm faces passando pelo centro, as figuras duais têm vértices correspondentes no infinito. Esses poliedros são representados com prismas que se cruzam, cada um estendendo-se em ambas as direções para o mesmo vértice no infinito, a fim de manter a simetria.
+ <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
+  <h3 align="center">Sala imersiva</h3>
+  <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><img align="middle" src="../../../geometria-descritiva/videos/infinity.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; link da sala</a></p>
+<hr>
+  <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros de estrelação ao infinito em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/infinity/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example.jpg" width="85%"></p>
 <p align="center"><img src="../ar/infinity.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
- <hr>
+<hr>
+<h3 id="m3d" align="center">Modelos 3D</h3>
  <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxU-mneUmSsccpRAAwbErHFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetrahemihexacron</h4>
 <a href="../vr/tetrahemihexacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/250A.png" class="foto"></a><img src="../ar/250.png" class="qr">
