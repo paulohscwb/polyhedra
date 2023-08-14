@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/quasiregular/pt-br/">versão em português</a>
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,7 +31,13 @@ function urlHandler(value) {
 <p id="p6"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Quasi regular polyhedra</h2>
 A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. 
-<hr>
+<p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+  <hr>
+  <h3 align="center">Immersive room</h3>
+  <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><img align="middle" src="../../geometria-descritiva/videos/infinity.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to quasi regulare polyhedra"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
+ <hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
 To view quasi regular polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -40,6 +45,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" alt="Augmented Reality to Quasi Regular polyhedra" src="ar/example6.jpg" width="85%"></p>
 <p align="center"><img src="ar/quasiregular.gif" style="max-width: 92%; border-radius:5px;" loading="lazy" alt="Augmented Reality to Quasi Regular polyhedra"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxW457nHgbcZQFHrFH88l_Ar" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Small rhombihexahedron</h4>
 <a href="vr/small_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto" alt="Small rhombihexahedron"></a><img src="ar/133.png" class="qr">
  <br><span class="titulo">U<sub>18</sub></span> The small rhombihexahedron (or small rhombicube) is the uniform polyhedron whose dual is the small rhombihexacron. It is a faceted version of the small rhombicuboctahedron. The convex hull of the small rhombihexahedron is the Archimedean small rhombicuboctahedron, whose dual is the deltoidal icositetrahedron, so the dual of the small rhombihexahedron (small rhombihexacron) is one of the stellations of the deltoidal icositetrahedron.
