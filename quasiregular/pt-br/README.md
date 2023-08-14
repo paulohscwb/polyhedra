@@ -42,7 +42,7 @@ function urlHandler(value) {
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/quasiregular/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
-<p align="center"><img style="border-radius:7px;" alt="Realidade Aumentada para Poliedros Quase Regulares src="../ar/example6.jpg" width="85%"></p>
+<p align="center"><img style="border-radius:7px;" alt="Realidade Aumentada para Poliedros Quase Regulares" src="../ar/example6.jpg" width="85%"></p>
 <p align="center"><img src="../ar/quasiregular.gif" style="max-width: 92%; border-radius:5px;" loading="lazy" alt="Realidade Aumentada para Poliedros Quase Regulares"/></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
