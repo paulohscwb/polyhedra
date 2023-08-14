@@ -43,7 +43,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>1. Small rhombihexahedron</h4>
 <a href="vr/small_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto" alt="Small rhombihexahedron"></a><img src="ar/133.png" class="qr">
  <br><span class="titulo">U<sub>18</sub></span> The small rhombihexahedron (or small rhombicube) is the uniform polyhedron whose dual is the small rhombihexacron. It is a faceted version of the small rhombicuboctahedron. The convex hull of the small rhombihexahedron is the Archimedean small rhombicuboctahedron, whose dual is the deltoidal icositetrahedron, so the dual of the small rhombihexahedron (small rhombihexacron) is one of the stellations of the deltoidal icositetrahedron.
-<br><br><b>Faces:</b> 12 squares and 12 regular octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 45° and 90°. <a href="https://mathworld.wolfram.com/SmallRhombihexahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 squares and 6 regular octagons | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 45° and 90°. <a href="https://mathworld.wolfram.com/SmallRhombihexahedron.html" target="_blank">More...</a>
 <hr>
 <h4>2. Small rhombihexacron</h4>
  <a href="vr/small_rhombihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/132A.png" class="foto" alt="Small rhombihexacron"></a><img src="ar/132.png" class="qr">
@@ -53,7 +53,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>3. Great Rhombihexahedron</h4>
 <a href="vr/great_rhombihexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/131A.png" class="foto" alt="Great Rhombihexahedron"></a><img src="ar/131.png" class="qr">
  <br><span class="titulo">U<sub>21</sub></span> The great rhombihexahedron (or great rhombicube) is the uniform polyhedron whose dual is the great rhombihexacron. The convex hull of the great rhombihexahedron is the Archimedean truncated cube, whose dual is the small triakis octahedron, so the dual of the great rhombihexahedron (great rhombihexacron) is one of the stellations of the small triakis octahedron.
-<br><br><b>Faces:</b> 12 squares and 12 regular octagrams | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 45° and 90°. <a href="https://mathworld.wolfram.com/GreatRhombihexahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 squares and 6 regular octagrams | <b>Edges:</b> 48 | <b>Vertices:</b> 24 | <b>Dihedral angles:</b> 45° and 90°. <a href="https://mathworld.wolfram.com/GreatRhombihexahedron.html" target="_blank">More...</a>
 <hr>
 <h4>4. Great Rhombihexacron</h4>
  <a href="vr/great_rhombihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/130A.png" class="foto" alt="Great Rhombihexacron"></a><img src="ar/130.png" class="qr">
