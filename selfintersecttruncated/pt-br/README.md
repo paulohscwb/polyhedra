@@ -121,7 +121,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O icosaedro tridyakis é o poliedro cujo dual é o uniforme dodecadodecaedro icositruncado. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 44 | <b>Ângulo diédrico:</b> 151.04°. <a href="https://en.wikipedia.org/wiki/Tridyakis_icosahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>17. Dodecadodecaedro icositruncado</h4>
+<h4>17. Dodecadodecaedro truncado</h4>
 <a href="../vr/truncated_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/73A.png" class="foto"></a><img src="../ar/73.png" class="qr">
  <br><span class="titulo">U<sub>59</sub></span> O dodecadodecaedro truncado (ou dodecadodecaedro quase truncado ou dodecadodecaedro stellatruncated) é o poliedro uniforme cujo dual é o disdyakis triacontahedron medial. A região central do poliedro está ligada ao exterior através de 20 pequenos orifícios triangulares.
 <br><br><b>Faces:</b> 30 quadrados, 12 decágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 120 | <b>Ângulos diédricos:</b> 58.28°, 63.43° e 148.28°. <a href="https://en.wikipedia.org/wiki/Truncated_dodecadodecahedron" target="_blank">Mais sobre...</a>
@@ -131,7 +131,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O triacontaedro disdyakis medial é o poliedro cujo dual é o uniforme dodecadodecaedro truncado. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 54 | <b>Ângulos diédricos:</b> 144.9° e 215.09°. <a href="https://en.wikipedia.org/wiki/Medial_disdyakis_triacontahedron" target="_blank">Mais sobre...</a>
 <hr>
-<h4>19. Great Truncated Icosidodecahedron</h4>
+<h4>19. Grande icosidodecaedro truncado</h4>
 <a href="../vr/great_truncated_icosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/71A.png" class="foto"></a><img src="../ar/71.png" class="qr">
  <br><span class="titulo">U<sub>68</sub></span> O grande icosidodecaedro truncado (ou grande icosidodecaedro quase truncado ou icosidodecaedro estrelado truncado) é o poliedro uniforme cujo dual é o grande triacontaedro disdyakis. Ele pode ser alternado no grande icosidodecaedro snub invertido após igualar os comprimentos das arestas.
 <br><br><b>Faces:</b> 30 quadrados, 20 hexágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 120 | <b>Ângulos diédricos:</b> 69.09°, 79.19° e 121.72°. <a href="https://mathworld.wolfram.com/GreatTruncatedIcosidodecahedron.html" target="_blank">Mais sobre...</a>
