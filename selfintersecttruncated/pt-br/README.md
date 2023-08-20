@@ -82,7 +82,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>9. Grande icosaedro truncado</h4>
 <a href="../vr/truncated_great_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/89A.png" class="foto"></a><img src="../ar/89.png" class="qr">
- <br><span class="titulo">U<sub>55</sub></span> O grande icosaedro truncado é o poliedro uniforme, também chamado de grande icosaedro truncado, cujo dual é o grande dodecaedro stellapentakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
+ <br><span class="titulo">U<sub>55</sub></span> O grande icosaedro truncado é o poliedro uniforme, também chamado de icosaedro truncado grande, cujo dual é o grande dodecaedro stellapentakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 20 hexágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 41.81° e 100.81°. <a href="https://mathworld.wolfram.com/GreatTruncatedIcosahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>10. Grande dodecaedro stellapentakis</h4>
@@ -123,7 +123,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>17. Dodecadodecaedro truncado</h4>
 <a href="../vr/truncated_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/73A.png" class="foto"></a><img src="../ar/73.png" class="qr">
- <br><span class="titulo">U<sub>59</sub></span> O dodecadodecaedro truncado (ou dodecadodecaedro quase truncado ou dodecadodecaedro stellatruncated) é o poliedro uniforme cujo dual é o disdyakis triacontahedron medial. A região central do poliedro está ligada ao exterior através de 20 pequenos orifícios triangulares.
+ <br><span class="titulo">U<sub>59</sub></span> O dodecadodecaedro truncado (ou dodecadodecaedro quase truncado ou dodecadodecaedro estrelado truncado) é o poliedro uniforme cujo dual é o triacontaedro disdyakis medial. A região central do poliedro está ligada ao exterior através de 20 pequenos orifícios triangulares.
 <br><br><b>Faces:</b> 30 quadrados, 12 decágonos regulares e 12 decagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 120 | <b>Ângulos diédricos:</b> 58.28°, 63.43° e 148.28°. <a href="https://en.wikipedia.org/wiki/Truncated_dodecadodecahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>18. Triacontaedro disdyakis medial</h4>
@@ -138,7 +138,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>20. Grande triacontaedro disdyakis</h4>
 <a href="../vr/great_disdyakis_triacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/70A.png" class="foto"></a><img src="../ar/70.png" class="qr">
- <br>O grande triacontaedro disdyakis (ou icosaedro trisdyakis) é o poliedro cujo dual é o grande icosidodecaedro truncado uniforme. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+ <br>O grande triacontaedro disdyakis (ou icosaedro trisdyakis) é o poliedro cujo dual é o uniforme grande icosidodecaedro truncado. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 121.34°. <a href="https://en.wikipedia.org/wiki/Great_truncated_icosidodecahedron#Great_disdyakis_triacontahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 
