@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/selfintersecttruncated/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -32,17 +31,27 @@ function urlHandler(value) {
 <p id="p8"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros truncados de auto-interseção</h2>
   Um poliedro é regular truncado se for transitivo de vértice com figuras de vértice triangulares isósceles. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. Uma figura de vértice é o polígono produzido pela conexão dos pontos médios das arestas que se encontram no vértice na mesma ordem em que as arestas aparecem ao redor do vértice.
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
+<h3 align="center">Salas imersivas</h3>
+  <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
+  <p align="center"><img src="../vr/salas/videos/selfintersecttruncated1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/><img src="../vr/salas/videos/selfintersecttruncated2.gif" style="max-width: 47%; border-radius:5px" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/></p>
+<hr>
+  <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros truncados de auto-interseção em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
 <p align="center"><img style="border-radius:7px;" src="../ar/example7.jpg" width="85%"></p>
 <p align="center"><img src="../ar/selfintersecttruncated.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
- <hr>
+<hr>
+<h3 id="m3d" align="center">Modelos 3D</h3>
+  <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWMt1EHkknSKxkWuKKT6aHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 <h4>1. Hexaedro estrelado truncado</h4>
 <a href="../vr/stellated_truncated_hexahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/97A.png" class="foto"></a><img src="../ar/97.png" class="qr">
- <br><span class="titulo">U<sub>19</sub></span> O hexaedro estrelado truncado é o poliedro uniforme também chamado de hexaedro quasitruncado, cujo poliedro dual é o grande octaedro triakis. O casco convexo do hexaedro truncado estrelado é o pequeno rombicuboctaedro arquimediano.
+ <br><span class="titulo">U<sub>19</sub></span> O hexaedro estrelado truncado é o poliedro uniforme também chamado de hexaedro quase truncado, cujo poliedro dual é o grande octaedro triakis. O casco convexo do hexaedro truncado estrelado é o pequeno rombicuboctaedro arquimediano.
 <br><br><b>Faces:</b> 14 triângulos equiláteros e 6 octagramas regulares | <b>Arestas:</b> 36 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 54.74° e 90°. <a href="https://mathworld.wolfram.com/StellatedTruncatedHexahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>2. Grande octaedro triakis</h4>

@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/selfintersecttruncated/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p8"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Self-intersecting truncated polyhedra</h2>
   A polyhedron is truncated regular if it is vertex-transitive with isosceles triangular vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. A vertex figure is the polygon produced by connecting the midpoints of the edges meeting at the vertex in the same order that the edges appear around the vertex.
-  <hr>
+ <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+<hr>
+  <h3 align="center">Immersive rooms</h3>
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros truncados de auto-interseção" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a></p>
+  <p align="center"><img src="vr/salas/videos/selfintersecttruncated1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Immersive room of self-intersecting truncated polyhedra"/><img src="vr/salas/videos/selfintersecttruncated2.gif" style="max-width: 47%; border-radius:5px" loading="lazy" alt="Immersive room of self-intersecting truncated polyhedra"/></p>
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
   To view self-intersecting truncated polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersecttruncated/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -40,6 +46,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example7.jpg" width="85%"></p>
 <p align="center"><img src="ar/selfintersecttruncated.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWMt1EHkknSKxkWuKKT6aHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <h4>1. Stellated Truncated Hexahedron</h4>
 <a href="vr/stellated_truncated_hexahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/97A.png" class="foto"></a><img src="ar/97.png" class="qr">
  <br><span class="titulo">U<sub>19</sub></span> The stellated truncated hexahedron is the uniform polyhedron also called the quasitruncated hexahedron, whose dual polyhedron is the great triakis octahedron. The convex hull of the stellated truncated hexahedron is the Archimedean small rhombicuboctahedron.
