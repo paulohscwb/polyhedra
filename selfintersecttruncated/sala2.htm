@@ -102,9 +102,10 @@
 			<a-sphere mixin='esfera mtl9' position='0.5 0.207107 1.207107'></a-sphere>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.2" scale="0.042 0.042 0.042" shadow>
-			<a-obj-model src="vr/outros/TetradyakisHexahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/TetradyakisHexahedronL.obj" mtl="#material"></a-obj-model>
+		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.2" scale="0.035 0.035 0.035" shadow>
+			<a-obj-model src="vr/outros/TetradyakisHexahedron.obj" mtl="#material" scale="0.998 0.998 0.998" rotation="30 0 45"></a-obj-model>
+			<a-obj-model src="vr/outros/TetradyakisHexahedronL.obj" rotation="30 0 45" mtl="#material"></a-obj-model>
+			<a-entity rotation="30 0 45">
 			<a-sphere mixin='esferaGG mtl9' position='0.0 0.0 -7.24264'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='7.24264 0.0 0.0'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='-7.24264 0.0 0.0'></a-sphere>
@@ -125,6 +126,7 @@
 			<a-sphere mixin='esferaGG mtl9' position='-1.0 -1.0 1.0'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='-1.0 -1.0 -1.0'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='0.0 0.0 7.24264'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli" position="0 1 -0.7" scale="0.25 0.25 0.25" shadow>
@@ -338,8 +340,9 @@
 		
 		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
 		<a-entity class="poli" mixin="poli" position="0.75 1 2.2" scale="0.094 0.094 0.094" shadow>
-			<a-obj-model src="vr/outros/TridyakisIcosahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/TridyakisIcosahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/TridyakisIcosahedron.obj" mtl="#material" scale="0.998 0.998 0.998" rotation="0 0 22.5"></a-obj-model>
+			<a-obj-model src="vr/outros/TridyakisIcosahedronL.obj" rotation="0 0 22.5" mtl="#material"></a-obj-model>
+			<a-entity rotation="0 0 22.5">
 			<a-sphere mixin='esferaG mtl9' position='1.67705 0.0 -2.71353'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='-1.67705 0.0 2.71353'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='-1.67705 0.0 -2.71353'></a-sphere>
@@ -384,6 +387,7 @@
 			<a-sphere mixin='esferaG mtl9' position='-1.25 -1.25 1.25'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='-1.25 -1.25 -1.25'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='1.67705 0.0 2.71353'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli" position="0.75 1 1.7" scale="0.15 0.15 0.15" shadow>
@@ -512,8 +516,9 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli" position="0 1 2.2" scale="0.042 0.042 0.042" shadow>
-			<a-obj-model src="vr/outros/MedialDisdyakisTriacontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/MedialDisdyakisTriacontahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/MedialDisdyakisTriacontahedron.obj" mtl="#material" rotation="0 0 22.5" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model rotation="0 0 22.5" src="vr/outros/MedialDisdyakisTriacontahedronL.obj" mtl="#material"></a-obj-model>
+			<a-entity rotation="0 0 22.5">
 			<a-sphere mixin='esferaGG mtl9' position='3.618034 0.0 -5.854102'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='-3.618034 0.0 5.854102'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='-3.618034 0.0 -5.854102'></a-sphere>
@@ -568,6 +573,7 @@
 			<a-sphere mixin='esferaGG mtl9' position='-0.833333 -1.348362 0.515028'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='-0.833333 -1.348362 -0.515028'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='3.618034 0.0 5.854102'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli" position="0 1 1.7" scale="0.25 0.25 0.25" shadow>
@@ -696,8 +702,9 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli" position="-0.75 1 2" scale="0.07 0.07 0.07" shadow>
-			<a-obj-model src="vr/outros/GreatDisdyakisTriacontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/GreatDisdyakisTriacontahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatDisdyakisTriacontahedron.obj" mtl="#material" rotation="30 0 0" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatDisdyakisTriacontahedronL.obj" mtl="#material" rotation="30 0 0"></a-obj-model>
+			<a-entity rotation="30 0 0">
 			<a-sphere mixin='esferaG mtl9' position='0.0 -0.0 1.07571'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='0.0 -1.07571 0.0'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='0.0 1.07571 0.0'></a-sphere>
@@ -760,6 +767,7 @@
 			<a-sphere mixin='esferaG mtl9' position='2.23607 2.23607 -2.23607'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='2.23607 2.23607 2.23607'></a-sphere>
 			<a-sphere mixin='esferaG mtl9' position='0.0 -0.0 -1.07571'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
 		<a-video src="../../geometria-descritiva/videos/icositruncated_dodecadodecahedron_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
