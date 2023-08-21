@@ -36,7 +36,7 @@ function urlHandler(value) {
   <h3 align="center">Immersive rooms</h3>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros truncados de auto-interseção" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a></p>
-  <p align="center"><img src="vr/salas/videos/selfintersecttruncated1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Immersive room of self-intersecting truncated polyhedra"/><img src="vr/salas/videos/selfintersecttruncated2.gif" style="max-width: 47%; border-radius:5px" loading="lazy" alt="Immersive room of self-intersecting truncated polyhedra"/></p>
+  <p align="center"><img src="../../geometria-descritiva/videos/selfintersecttruncated1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Immersive room of self-intersecting truncated polyhedra"/><img src="../../geometria-descritiva/videos/selfintersecttruncated2.gif" style="max-width: 47%; border-radius:5px" loading="lazy" alt="Immersive room of self-intersecting truncated polyhedra"/></p>
 <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
   To view self-intersecting truncated polyhedra in AR, simply visit:
