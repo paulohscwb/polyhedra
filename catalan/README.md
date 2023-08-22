@@ -118,7 +118,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 
 <h4>How to cite this work:</h4> 
 <p>Siqueira, P.H., "Catalan polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality". Available in: <https://paulohscwb.github.io/polyhedra/catalan/>, August 2022.</p>
-
+<br><a href="https://doi.org/10.5281/zenodo.8271425"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8271425.svg" alt="DOI"></a>
 <br><b>References:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
 <br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
