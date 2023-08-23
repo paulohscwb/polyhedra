@@ -198,8 +198,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 
 <h4>Como citar este trabalho:</h4> 
 <p>Siqueira, P.H., "Johnson solids part 3 (J63 - J92): Visualization of polyhedra with Augmented Reality and Virtual Reality". Disponível em: <https://paulohscwb.github.io/polyhedra/johnson3/>, Julho de 2023.</p>
-<br><a href="https://doi.org/10.5281/zenodo.8271425"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8271425.svg" alt="DOI"></a>
-<br><b>Referências:</b>
+<a target="_blank" href="https://doi.org/10.5281/zenodo.8272770"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8272770.svg" alt="DOI"></a>
+<br><br><b>Referências:</b>
 <br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
 <br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
 <br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
