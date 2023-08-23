@@ -30,10 +30,10 @@ function urlHandler(value) {
 </script>
 
 <p id="p9"></p>
-  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros truncados snubficados</h2>
+  <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Poliedros truncados de auto-interseção snubficados</h2>
   Um poliedro é quase regular snubficado se for transitivo de vértice com figuras irregulares de vértice pentagonal, hexagonal ou octogonal. Transitividade de vértice significa que, para quaisquer dois vértices do poliedro, existe uma translação, rotação e/ou reflexão que deixa a aparência externa do poliedro inalterada, mas move um vértice para o outro. A snubificação de um poliedro é uma operação que permite obter outro poliedro. Esta operação consiste em afastar todas as faces do poliedro, rotacionar as mesmas um certo ângulo e preencher os espaços vazios resultantes com polígonos (por exemplo, triângulos, retângulos ou pentágonos).
   <hr>
-  Para visualizar os poliedros truncados snubficados em RA, visite a página:
+  Para visualizar os poliedros truncados de auto-interseção snubficados em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso às páginas de RV é feito clicando no círculo azul que aparece em cima de cada marcador.
@@ -55,7 +55,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>60</sub></span> O dodecadodecaedro snub invertido é o poliedro uniforme também chamado de dodecadodecaedro vertisnub ou isdid, cujo poliedro dual é o hexecontaedro pentagonal invertido medial. Três triângulos, 1 pentágono e um pentagrama se encontram em cada vértice. Ele pode ser construído pela alternância do dodecadodecaedro quase truncado e, em seguida, definindo todos os comprimentos de arestas para ficarem com mesmo tamanho.
 <br><br><b>Faces:</b> 60 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 68.64°, 130.49° e 11.12°. <a href="https://mathworld.wolfram.com/InvertedSnubDodecadodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
-<h4>4. Hexecontaedro pentagonal medial</h4>
+<h4>4. Hexecontaedro pentagonal invertido medial</h4>
 <a href="../vr/medial_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/66A.png" class="foto"></a><img src="../ar/66.png" class="qr">
  <br>O hexecontaedro pentagonal invertido medial é o poliedro cujo dual é o uniforme dodecadodecaedro snub invertido. Consiste em 60 pentágonos irregulares, cada um com duas arestas curtas, uma média e duas longas. Parte de cada pentágono está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 pentágonos irregulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 84 | <b>Ângulo diédrico:</b> 108.09°. <a href="https://polytope.miraheze.org/wiki/Medial_inverted_pentagonal_hexecontahedron" target="_blank">Mais sobre...</a>
@@ -136,9 +136,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>75</sub></span> O grande dirrombicosidodecaedro é o poliedro uniforme também chamado de gidrid, cujo poliedro dual é o grande dirrombicosidodecacron. É o único poliedro uniforme com mais de seis polígonos envolvendo cada vértice do poliedro: quatro quadrados alternados com dois triângulos e dois pentagramas. O grande dirrombicosidodecaedro é o poliedro uniforme mais complexo e tem faces passando pelo centro. Portanto, alguns dos vértices do grande dirrombicosidodecacron estão em pontos ideais infinitamente distantes da origem.
 <br><br><b>Faces:</b> 40 triângulos equiláteros, 60 quadrados e 24 pentagramas regulares | <b>Arestas:</b> 240 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 54.74° e 71.04°. <a href="https://mathworld.wolfram.com/GreatDirhombicosidodecahedron.html" target="_blank">Mais sobre...</a>
   <hr>
-<h4>20. Grande disnub dirhombidodecahedron</h4>
+<h4>20. Grande dirrombidodecaedro disnub</h4>
 <a href="../vr/great_disnub_dirhombidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto"></a><img src="../ar/50.png" class="qr">
- <br>O grande disnub dirhombidodecaedro, também chamado gididrid ou figura de Skilling, é um poliedro estrelado uniforme degenerado. Devido à sua realização geométrica com algumas arestas duplas onde 4 faces se encontram, é considerado um poliedro uniforme degenerado, mas não estritamente um poliedro uniforme. Seis triângulos, quatro quadrados e dois pentagramas se encontram em cada vértice. Pode ser construído como uma mistura do grande dirrombicosidodecaedro uniforme e do disnub icosaedro, o composto uniforme de 20 octaedros com o qual compartilha seu esqueleto de arestas.
+ <br>O grande dirrombidodecaedro disnub, também chamado gididrid ou figura de Skilling, é um poliedro estrelado uniforme degenerado. Devido à sua realização geométrica com algumas arestas duplas onde 4 faces se encontram, é considerado um poliedro uniforme degenerado, mas não estritamente um poliedro uniforme. Seis triângulos, quatro quadrados e dois pentagramas se encontram em cada vértice. Pode ser construído como uma mistura do grande dirrombicosidodecaedro uniforme e do disnub icosaedro, o composto uniforme de 20 octaedros com o qual compartilha seu esqueleto de arestas.
 <br><br><b>Faces:</b> 120 triângulos equiláteros, 60 quadrados e 24 pentagramas regulares | <b>Arestas:</b> 360 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 109.47°, 54.73° e 71.04°. <a href="https://polytope.miraheze.org/wiki/Great_disnub_dirhombidodecahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 
