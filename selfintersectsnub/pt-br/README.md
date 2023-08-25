@@ -93,13 +93,13 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>11. Icosidodecadodecaedro snub</h4>
 <a href="../vr/snub_icosidodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/59A.png" class="foto"></a><img src="../ar/59.png" class="qr">
- <br><span class="titulo">U<sub>46</sub></span> O icosidodecadodecaedro snub é o poliedro uniforme também denominado de sided, cujo poliedro dual é o hexecontaedro hexagonal medial. Quatro triângulos, um pentágono e um pentagrama reunidos em cada vértice. Ele pode ser construído pela alternância do icosidodecatruncado icosidodecaedro e, em seguida, definindo todos os comprimentos de arestas para serem iguais.
+ <br><span class="titulo">U<sub>46</sub></span> O icosidodecadodecaedro snub é o poliedro uniforme também denominado de sided, cujo poliedro dual é o hexecontaedro hexagonal medial. Quatro triângulos, um pentágono e um pentagrama encontram-se em cada vértice. Ele pode ser construído pela alternância do icosidodecatruncado icosidodecaedro e, em seguida, definindo todos os comprimentos de arestas para serem iguais.
 <br><br><b>Faces:</b> 80 triângulos equiláteros, 12 pentágonos regulares e 12 pentagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 7.35°, 120.43° e 146.78°. <a href="https://mathworld.wolfram.com/SnubIcosidodecadodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>12. Hexecontaedro hexagonal medial</h4>
 <a href="../vr/medial_hexagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/58A.png" class="foto"></a><img src="../ar/58.png" class="qr">
  <br>O hexecontaedro hexagonal medial é o poliedro cujo dual é o uniforme icosidodecadodecaedro snub. É composto por 60 hexágonos não convexos assimétricos e cada hexágono tem duas arestas longas, duas de comprimento médio e duas curtas. Parte de cada hexágono está dentro do sólido, portanto, é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 60 hexágonos assimétricos | <b>Arestas:</b> 180 | <b>Vértices:</b> 104 | <b>Ângulo diédrico:</b> 127.32°. <a href="https://polytope.miraheze.org/wiki/Medial_hexagonal_hexecontahedron" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 60 hexágonos irregulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 104 | <b>Ângulo diédrico:</b> 127.32°. <a href="https://polytope.miraheze.org/wiki/Medial_hexagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>13. Grande dodecicosidodecaedro snub</h4>
 <a href="../vr/great_snub_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/57A.png" class="foto"></a><img src="../ar/57.png" class="qr">
@@ -109,11 +109,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>14. Grande hexecontaedro hexagonal</h4>
 <a href="../vr/great_hexagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/56A.png" class="foto"></a><img src="../ar/56.png" class="qr">
  <br>O grande hexecontaedro hexagonal é o poliedro cujo dual é o uniforme grande dodecicosidodecaedro snub. Consiste em 60 hexágonos não convexos assimétricos e cada hexágono tem duas arestas curtas, duas médias e duas longas. Parte de cada hexágono está dentro do sólido, portanto, é invisível em modelos sólidos.
-<br><br><b>Faces:</b> 60 hexágonos assimétricos | <b>Arestas:</b> 180 | <b>Vértices:</b> 104 | <b>Ângulo diédrico:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 60 hexágonos irregulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 104 | <b>Ângulo diédrico:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>15. Pequeno icosicosidodecaedro snub</h4>
 <a href="../vr/small_snub_icosicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto"></a><img src="../ar/55.png" class="qr">
- <br><span class="titulo">U<sub>32</sub></span> O pequeno icosicosidodecaedro snub é o poliedro uniforme também chamado de seside, cujo poliedro dual é o pequeno hexecontaedro hexagonal. Cinco triângulos e um pentagrama se encontram em cada vértice. É composto por 60 triângulos snubficados, mais 40 triângulos que criam 20 hexagramas devido a pares caindo no mesmo plano e 12 pentagramas.
+ <br><span class="titulo">U<sub>32</sub></span> O pequeno icosicosidodecaedro snub é o poliedro uniforme também chamado de seside, cujo poliedro dual é o pequeno hexecontaedro hexagonal. Cinco triângulos e um pentagrama se encontram em cada vértice. É composto por 60 triângulos snubficados, mais 40 triângulos que criam 20 hexagramas devido a pares pertencentes ao mesmo plano e 12 pentagramas.
 <br><br><b>Faces:</b> 100 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 155.67° e 161.02°. <a href="https://mathworld.wolfram.com/SmallSnubIcosicosidodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>16. Pequeno hexecontaedro hexagonal</h4>
@@ -123,12 +123,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>17. Pequeno icosicosidodecaedro retrosnub</h4>
 <a href="../vr/small_retrosnub_icosicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto"></a><img src="../ar/53.png" class="qr">
- <br><span class="titulo">U<sub>72</sub></span> O pequeno icosicosidodecaedro retrosnub é o poliedro uniforme também chamado de disicosidodecaedro retrosnub, cujo poliedro dual é o pequeno hexecontaedro hexagrâmico. As 40 faces triangulares não snubficadas formam 20 pares coplanares, formando hexágonos estelares que não são regulares. Ao contrário da maioria dos poliedros snub, ele possui simetrias de reflexão.
+ <br><span class="titulo">U<sub>72</sub></span> O pequeno icosicosidodecaedro retrosnub é o poliedro uniforme também chamado de disicosidodecaedro retrosnub, cujo poliedro dual é o pequeno hexecontaedro hexagrâmico. As 40 faces triangulares não snubficadas formam 20 pares coplanares, criando hexágonos estrelados não regulares. Ao contrário da maioria dos poliedros snub, ele possui simetrias de reflexão.
 <br><br><b>Faces:</b> 100 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 24.33° e 44.46°. <a href="https://mathworld.wolfram.com/SmallRetrosnubIcosicosidodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>18. Pequeno hexecontaedro hexagrâmico</h4>
 <a href="../vr/small_hexagrammic_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto"></a><img src="../ar/52.png" class="qr">
- <br>O pequeno hexecontaedro hexagrâmico é o poliedro cujo dual é o uniforme pequeno icosicosidodecaedro retrosnub. Consiste em 60 hexagramas unicursais simétricos espelhados e parte de cada hexágono está dentro do sólido, portanto, é invisível em modelos sólidos.
+ <br>O pequeno hexecontaedro hexagrâmico é o poliedro cujo dual é o uniforme pequeno icosicosidodecaedro retrosnub. Consiste em 60 hexagramas simétricos espelhados e parte de cada hexagrama está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 hexagramas simétricos | <b>Arestas:</b> 180 | <b>Vértices:</b> 112 | <b>Ângulo diédrico:</b> 61.13°. <a href="https://polytope.miraheze.org/wiki/Small_hexagrammic_hexecontahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>19. Grande dirrombicosidodecaedro</h4>
