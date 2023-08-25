@@ -103,7 +103,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>13. Grande dodecicosidodecaedro snub</h4>
 <a href="../vr/great_snub_dodecicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/57A.png" class="foto"></a><img src="../ar/57.png" class="qr">
- <br><span class="titulo">U<sub>64</sub></span> O grande dodecicosidodecaedro snub é o poliedro uniforme também chamado de gisdid, cujo poliedro dual é o grande hexecontaedro hexagonal. Quatro triângulos e dois pentagramas se encontram em cada vértice. As arestas desse poliedro são um subconjunto das do grande dirrombicosidodecaedro e compartilham os mesmos vértices.
+ <br><span class="titulo">U<sub>64</sub></span> O grande dodecicosidodecaedro snub é o poliedro uniforme também chamado de gisdid, cujo poliedro dual é o grande hexecontaedro hexagonal. Quatro triângulos e dois pentagramas se encontram em cada vértice. As arestas deste poliedro são um subconjunto das arestas do grande dirrombicosidodecaedro e compartilham os mesmos vértices.
 <br><br><b>Faces:</b> 80 triângulos equiláteros e 24 pentagramas regulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 16.3°, 109.47° e 125.77°. <a href="https://mathworld.wolfram.com/GreatSnubDodecicosidodecahedron.html" target="_blank">Mais sobre...</a>
 <hr>
 <h4>14. Grande hexecontaedro hexagonal</h4>
@@ -138,7 +138,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
   <hr>
 <h4>20. Grande dirrombidodecaedro disnub</h4>
 <a href="../vr/great_disnub_dirhombidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto"></a><img src="../ar/50.png" class="qr">
- <br>O grande dirrombidodecaedro disnub, também chamado gididrid ou figura de Skilling, é um poliedro estrelado uniforme degenerado. Devido à sua realização geométrica com algumas arestas duplas onde 4 faces se encontram, é considerado um poliedro uniforme degenerado, mas não estritamente um poliedro uniforme. Seis triângulos, quatro quadrados e dois pentagramas se encontram em cada vértice. Pode ser construído como uma mistura do grande dirrombicosidodecaedro uniforme e do disnub icosaedro, o composto uniforme de 20 octaedros com o qual compartilha seu esqueleto de arestas.
+ <br>O grande dirrombidodecaedro disnub, também chamado gididrid ou figura de Skilling, é um poliedro estrelado uniforme degenerado. Devido à sua realização geométrica com algumas arestas duplas onde 4 faces se encontram, é considerado um poliedro uniforme degenerado, mas não estritamente um poliedro uniforme. Seis triângulos, quatro quadrados e dois pentagramas se encontram em cada vértice. Pode ser construído como uma mistura do grande dirrombicosidodecaedro uniforme e do icosaedro disnub, o composto uniforme de 20 octaedros com o qual compartilha seu esqueleto de arestas.
 <br><br><b>Faces:</b> 120 triângulos equiláteros, 60 quadrados e 24 pentagramas regulares | <b>Arestas:</b> 360 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 109.47°, 54.73° e 71.04°. <a href="https://polytope.miraheze.org/wiki/Great_disnub_dirhombidodecahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 
