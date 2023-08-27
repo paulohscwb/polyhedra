@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/selfintersectsnub/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p9"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Self-intersecting snub polyhedra</h2>
   A polyhedron is snub quasi-regular if it is vertex-transitive with irregular pentagonal, hexagonal, or octagonal vertex figures. Vertex transitivity means that for any two vertices of the polyhedron, there exists a translation, rotation, and/or reflection that leaves the outward appearance of the polyhedron unchanged yet moves one vertex to the other. The snubification of a polyhedron is an operation that allows to obtain another polyhedron. This operation consists of moving all faces of the polyhedron apart, rotating them by a certain angle and filling the resulting empty spaces with polygons (examples: triangles, rectangles or pentagons).
-  <hr>
+ <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+<hr>
+  <h3 align="center">Immersive rooms</h3>
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros truncados de auto-interseção snubficados" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a></p>
+  <p align="center"><img src="../../geometria-descritiva/videos/selfintersectsnub1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Immersive room of self-intersecting snub polyhedra"/><img src="../../geometria-descritiva/videos/selfintersectsnub2.gif" style="max-width: 47%; border-radius:5px" loading="lazy" alt="Immersive room of self-intersecting snub polyhedra"/></p>
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
   To view self-intersecting snub polyhedra in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/selfintersectsnub/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -40,6 +46,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example8.jpg" width="85%"></p>
 <p align="center"><img src="ar/selfintersectsnub.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWMt1EHkknSKxkWuKKT6aHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Snub Dodecadodecahedron</h4>
 <a href="vr/snub_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto"></a><img src="ar/69.png" class="qr">
  <br><span class="titulo">U<sub>40</sub></span> The snub dodecadodecahedron is the uniform polyhedron also called the siddid, whose dual polyhedron is the medial pentagonal hexecontahedron. Three triangles, 1 pentagon, and one pentagram meet at each vertex. 
