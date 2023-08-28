@@ -49,9 +49,10 @@
         <a-gltf-model static-body src="vr/salas/selfinterSnubTrunc1.glb" position="0 0 0" shadow></a-gltf-model>
 		<a-gltf-model static-body src="vr/salas/selfinterSnubTrunc2.glb" position="0 0 0" shadow></a-gltf-model>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.7" scale="0.22 0.22 0.22" shadow>
-			<a-obj-model src="vr/outros/SnubDodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/SnubDodecadodecahedronL.obj" mtl="#material"></a-obj-model>
+		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.7" scale="0.2 0.2 0.2" shadow>
+			<a-obj-model src="vr/outros/SnubDodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998" rotation="0 0 22.5"></a-obj-model>
+			<a-obj-model src="vr/outros/SnubDodecadodecahedronL.obj" rotation="0 0 22.5" mtl="#material"></a-obj-model>
+			<a-entity rotation="0 0 22.5">
 			<a-sphere mixin='esfera mtl9' position='0.201581 0.213263 -1.240194'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.201581 0.213263 1.240194'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.201581 -0.213263 -1.240194'></a-sphere>
@@ -112,11 +113,13 @@
 			<a-sphere mixin='esfera mtl9' position='-0.454984 -0.849082 0.834414'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.454984 0.849082 -0.834414'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.201581 -0.213263 1.240194'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.2" scale="0.21 0.21 0.21" shadow>
-			<a-obj-model src="vr/outros/MedialPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/MedialPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
+		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.2" scale="0.18 0.18 0.18" shadow>
+			<a-obj-model src="vr/outros/MedialPentagonalHexecontahedron.obj" mtl="#material" rotation="0 0 15" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/MedialPentagonalHexecontahedronL.obj" mtl="#material" rotation="0 0 15"></a-obj-model>
+			<a-entity rotation="0 0 15">
 			<a-sphere mixin='esfera mtl9' position='0.76129 0.0 -1.23179'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.76129 0.0 1.23179'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.76129 0.0 -1.23179'></a-sphere>
@@ -201,11 +204,13 @@
 			<a-sphere mixin='esfera mtl9' position='-0.39587 -0.83196 0.78360'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.39587 0.83196 -0.78360'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.76129 0.0 1.23179'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 -0.7" scale="0.33 0.33 0.33" shadow>
-				<a-obj-model src="vr/outros/InvertedSnubDodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/InvertedSnubDodecadodecahedronL.obj" mtl="#material"></a-obj-model>
+		<a-entity class="poli" mixin="poli" position="0 1 -0.7" scale="0.31 0.31 0.31" shadow>
+			<a-obj-model src="vr/outros/InvertedSnubDodecadodecahedron.obj" mtl="#material" rotation="0 0 22.5" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/InvertedSnubDodecadodecahedronL.obj" mtl="#material" rotation="0 0 22.5"></a-obj-model>
+			<a-entity rotation="0 0 22.5">
 			<a-sphere mixin='esferaP mtl9' position='0.67603 -0.36263 -0.36981'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.67603 -0.36263 0.36981'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.67603 0.36263 -0.36981'></a-sphere>
@@ -266,12 +271,13 @@
 			<a-sphere mixin='esferaP mtl9' position='-0.06964 0.84388 -0.09104'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.06964 -0.84388 0.09104'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.67603 0.36263 0.36981'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 -0.2" scale="0.03 0.03 0.03" shadow>
-				<a-obj-model src="vr/outros/MedialInvertedPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/MedialInvertedPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
-			<a-sphere mixin='esferaGG mtl9' position='0.0 0.60343 0.37294'></a-sphere>
+		<a-entity class="poli" mixin="poli" position="0 1 -0.2" scale="0.025 0.025 0.025" shadow>
+			<a-obj-model src="vr/outros/MedialInvertedPentagonalHexecontahedron.obj" mtl="#material" rotation="0 0 22.5" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/MedialInvertedPentagonalHexecontahedronL.obj" rotation="0 0 22.5" mtl="#material"></a-obj-model>
+			<a-entity rotation="0 0 22.5"><a-sphere mixin='esferaGG mtl9' position='0.0 0.60343 0.37294'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='0.0 -0.60343 -0.37294'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='0.0 -0.60343 0.37294'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='0.60343 -0.37294 0.0'></a-sphere>
@@ -355,12 +361,13 @@
 			<a-sphere mixin='esferaGG mtl9' position='-0.55732 0.51512 0.01940'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='0.55732 0.51512 -0.01940'></a-sphere>
 			<a-sphere mixin='esferaGG mtl9' position='0.0 0.60343 -0.37294'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0.75 1 -0.7" scale="0.33 0.33 0.33" shadow>
-			<a-obj-model src="vr/outros/GreatSnubIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/GreatSnubIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
-			<a-sphere mixin='esferaP mtl9' position='0.37105 0.33515 0.64497'></a-sphere>
+		<a-entity class="poli" mixin="poli" position="0.75 1 -0.7" scale="0.31 0.31 0.31" shadow>
+			<a-obj-model src="vr/outros/GreatSnubIcosidodecahedron.obj" mtl="#material" rotation="0 0 22.5" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatSnubIcosidodecahedronL.obj" mtl="#material" rotation="0 0 22.5"></a-obj-model>
+			<a-entity rotation="0 0 22.5"><a-sphere mixin='esferaP mtl9' position='0.37105 0.33515 0.64497'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.37105 -0.33515 -0.64497'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.37105 -0.33515 0.64497'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.33515 -0.64497 -0.37105'></a-sphere>
@@ -420,13 +427,14 @@
 			<a-sphere mixin='esferaP mtl9' position='-0.12587 -0.46888 0.65597'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.12587 -0.46888 -0.65597'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.37105 0.33515 -0.64497'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
 		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
-		<a-entity class="poli" mixin="poli" position="0.75 1 2.2" scale="0.36 0.36 0.36" shadow>
-			<a-obj-model src="vr/outros/GreatPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/GreatPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
-			<a-sphere mixin='esferaP mtl9' position='-0.216381 -0.239559 -0.644971'></a-sphere>
+		<a-entity class="poli" mixin="poli" position="0.75 1 2.2" scale="0.32 0.32 0.32" shadow>
+			<a-obj-model src="vr/outros/GreatPentagonalHexecontahedron.obj" mtl="#material" rotation="0 0 7" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatPentagonalHexecontahedronL.obj" mtl="#material"rotation="0 0 7"></a-obj-model>
+			<a-entity rotation="0 0 7"><a-sphere mixin='esferaP mtl9' position='-0.216381 -0.239559 -0.644971'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.216381 0.239559 0.644971'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.216381 0.239559 -0.644971'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.239559 0.644971 0.216381'></a-sphere>
@@ -518,11 +526,13 @@
 			<a-sphere mixin='esferaP mtl9' position='0.416412 0.416412 -0.416412'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.416412 0.416412 0.416412'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.216381 -0.239559 0.644971'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0.75 1 1.7" scale="0.42 0.42 0.42" shadow>
-			<a-obj-model src="vr/outros/GreatInvertedSnubIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/GreatInvertedSnubIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
+		<a-entity class="poli" mixin="poli" position="0.75 1 1.7" scale="0.38 0.38 0.38" shadow>
+			<a-obj-model src="vr/outros/GreatInvertedSnubIcosidodecahedron.obj" mtl="#material" rotation="0 0 22.5" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatInvertedSnubIcosidodecahedronL.obj" mtl="#material" rotation="0 0 22.5"></a-obj-model>
+			<a-entity rotation="0 0 22.5">
 			<a-sphere mixin='esferaP mtl9' position='0.46352 0.18748 0.40749'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.46352 -0.18748 -0.40749'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.46352 -0.18748 0.40749'></a-sphere>
@@ -583,10 +593,11 @@
 			<a-sphere mixin='esferaP mtl9' position='0.63668 -0.0927 0.04583'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.63668 -0.0927 -0.04583'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.46352 0.18748 -0.40749'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 2.2" scale="0.47 0.47 0.47" shadow>
-				<a-obj-model src="vr/outros/GreatInvertedPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+		<a-entity class="poli" mixin="poli" position="0 1 2.2" scale="0.42 0.42 0.42" shadow>
+			<a-obj-model src="vr/outros/GreatInvertedPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatInvertedPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='-0.15336 0.37917 0.40749'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.15336 -0.37917 -0.40749'></a-sphere>
@@ -683,8 +694,9 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli" position="0 1 1.7" scale="0.44 0.44 0.44" shadow>
-				<a-obj-model src="vr/outros/GreatRetrosnubIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/GreatRetrosnubIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatRetrosnubIcosidodecahedron.obj" mtl="#material" rotation="0 0 22.5" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/GreatRetrosnubIcosidodecahedronL.obj" mtl="#material" rotation="0 0 22.5"></a-obj-model>
+			<a-entity  rotation="0 0 22.5">
 			<a-sphere mixin='esferaP mtl9' position='0.171572 0.469641 -0.293942'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='0.171572 -0.469641 0.293942'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.171572 -0.469641 -0.293942'></a-sphere>
@@ -745,9 +757,10 @@
 			<a-sphere mixin='esferaP mtl9' position='0.140649 0.419606 0.374901'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.140649 0.419606 -0.374901'></a-sphere>
 			<a-sphere mixin='esferaP mtl9' position='-0.171572 0.469641 0.293942'></a-sphere>
+			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 2" scale="0.18 0.18 0.18" shadow>
+		<a-entity class="poli" mixin="poli" position="-0.75 1 2" scale="0.17 0.17 0.17" shadow>
 			<a-obj-model src="vr/outros/GreatPentagrammicHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatPentagrammicHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='1.43883 0.52564 0.29394'></a-sphere>
