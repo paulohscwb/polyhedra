@@ -47,7 +47,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><img src="../ar/selfintersectsnub.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-  <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWMt1EHkknSKxkWuKKT6aHX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWIwjaEwGWNbrv1lZeh8pDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Dodecadodecaedro snub</h4>
 <a href="../vr/snub_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/69A.png" class="foto"></a><img src="../ar/69.png" class="qr">
  <br><span class="titulo">U<sub>40</sub></span> O dodecadodecaedro snub é o poliedro uniforme também chamado de siddid, cujo poliedro dual é o hexecontaedro pentagonal medial. Três triângulos, 1 pentágono e um pentagrama se encontram em cada vértice.
