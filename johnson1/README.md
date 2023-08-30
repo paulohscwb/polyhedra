@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/johnson1/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p11"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Johnson solids - part 1: J<sub>1</sub> - J<sub>32</sub></h2>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In this first part, we have first 32 Johnson solids. 
-  <hr>
+  <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+<hr>
+  <h3 align="center">Immersive rooms</h3>
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva dos Sólidos de Johnson - parte 1" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala3.htm" target="_blank">&#x1f517; room 3</a></p>
+  <p align="center"><img src="../../geometria-descritiva/videos/johnson1a.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Immersive room of Johnson solids - part 1" loading="lazy"/><img src="../../geometria-descritiva/videos/johnson1b.gif" alt="Immersive room of Johnson solids - part 1" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../../geometria-descritiva/videos/johnson1c.gif" style="max-width: 31.5%; border-radius:5px" alt="Immersive room of Johnson solids - part 1" loading="lazy"/></p>
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
   To view Johnson solids in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson1/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -40,6 +46,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
 <p align="center"><img src="ar/johnson1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Square pyramid</h4>
 <a href="vr/j1_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto"></a><img src="ar/49.png" class="qr">
  <br><span class="titulo">J<sub>1</sub></span> The square pyramid, or squippy, is a pyramid with a square base and 4 triangles as sides. The version with equilateral triangles as sides is the first of the 92 Johnson solids. Two square pyramids can be joined together at their square base to form a regular octahedron.
@@ -52,17 +60,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>3. Triangular cupola</h4>
 <a href="vr/j3_triangular_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/47A.png" class="foto"></a><img src="ar/47.png" class="qr">
- <br><span class="titulo">J<sub>3</sub></span> The triangular cupola, or tricu, is one of the 92 Johnson solids. It is a cupola based on the equilateral triangle, and is one of three Johnson solid cupolas, the other two being the square cupola and the pentagonal cupola.
+ <br><span class="titulo">J<sub>3</sub></span> The triangular cupola, or tricu, is one of the 92 Johnson solids. It is a cupola based on the equilateral triangle, and is one of three Johnson cupolas, the other two being the square cupola and the pentagonal cupola.
 <br><br><b>Faces:</b> 4 triangles, 3 squares and 1 hexagon | <b>Edges:</b> 15 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 125.26°, 70.53° and 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cupola" target="_blank">More...</a>
 <hr>
 <h4>4. Square cupola</h4>
 <a href="vr/j4_square_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/46A.png" class="foto"></a><img src="ar/46.png" class="qr">
- <br><span class="titulo">J<sub>4</sub></span> The square cupola, or squacu, is one of the Johnson solids. It is a cupola based on the square, and is one of three Johnson solid cupolas. It can be obtained as a segment of the small rhombicuboctahedron, when considered as an elongated square orthobicupola.
+ <br><span class="titulo">J<sub>4</sub></span> The square cupola, or squacu, is one of the Johnson solids. It is a cupola based on the square, and is one of three Johnson cupolas. It can be obtained as a segment of the small rhombicuboctahedron, when considered as an elongated square orthobicupola.
 <br><br><b>Faces:</b> 4 triangles, 5 squares and 1 octagon | <b>Edges:</b> 20 | <b>Vertices:</b> 12 | <b>Dihedral angles:</b> 144.74°, 135°, 45° and 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cupola" target="_blank">More...</a>
 <hr>
 <h4>5. Pentagonal cupola</h4>
 <a href="vr/j5_pentagonal_cupola.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto"></a><img src="ar/45.png" class="qr">
- <br><span class="titulo">J<sub>5</sub></span> The pentagonal cupola, or pecu, is one of the Johnson solids. It is a cupola based on the pentagon, and is one of three Johnson solid cupolas. It can be obtained as a segment of the small rhombicosidodecahedron. 
+ <br><span class="titulo">J<sub>5</sub></span> The pentagonal cupola, or pecu, is one of the Johnson solids. It is a cupola based on the pentagon, and is one of three Johnson cupolas. It can be obtained as a segment of the small rhombicosidodecahedron. 
 <br><br><b>Faces:</b> 5 triangles, 5 squares, 1 pentagon and 1 decagon | <b>Edges:</b> 25 | <b>Vertices:</b> 15 | <b>Dihedral angles:</b> 159.09°, 148.28°, 37.38° and 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">More...</a>
 <hr>
 <h4>6. Pentagonal rotunda</h4>

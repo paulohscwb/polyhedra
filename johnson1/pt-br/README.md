@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/johnson1/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p11"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Sólidos de Johnson - parte 1: J<sub>1</sub> - J<sub>32</sub></h2>
   Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Nesta primeira parte, temos os primeiros 32 sólidos de Johnson. 
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
+<h3 align="center">Salas imersivas</h3>
+  <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala imersiva dos Sólidos de Johnson - parte 1" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a></p>
+  <p align="center"><img src="../../../geometria-descritiva/videos/johnson1a.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Sala imersiva dos Sólidos de Johnson - parte 1" loading="lazy"/><img src="../../../geometria-descritiva/videos/johnson1b.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Sala imersiva dos Sólidos de Johnson - parte 1" loading="lazy"/><img src="../../../geometria-descritiva/videos/johnson1c.gif" style="max-width: 31.5%; border-radius:5px" alt="Sala imersiva dos Sólidos de Johnson - parte 1" loading="lazy"/></p>
+<hr>
+  <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros de Johnson em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson1/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -40,6 +46,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
 <p align="center"><img src="../ar/johnson1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+ <h3 id="m3d" align="center">Modelos 3D</h3>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Pirâmide quadrada</h4>
 <a href="../vr/j1_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto"></a><img src="../ar/49.png" class="qr">
  <br><span class="titulo">J<sub>1</sub></span> A pirâmide quadrada, ou squippy, é uma pirâmide com uma base quadrada e 4 triângulos como lados. A versão com triângulos equiláteros como lados é o primeiro dos 92 sólidos de Johnson. Duas pirâmides quadradas podem ser unidas em sua base quadrada para formar um octaedro regular.
@@ -52,17 +60,17 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>3. Cúpula triangular</h4>
 <a href="../vr/j3_triangular_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto"></a><img src="../ar/47.png" class="qr">
- <br><span class="titulo">J<sub>3</sub></span> A cúpula triangular, ou tricu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no triângulo equilátero e é uma das três cúpulas sólidas de Johnson, sendo as outras duas a cúpula quadrada e a cúpula pentagonal.
+ <br><span class="titulo">J<sub>3</sub></span> A cúpula triangular, ou tricu, é um dos 92 sólidos de Johnson. É uma cúpula baseada no triângulo equilátero e é uma das três cúpulas de Johnson, sendo as outras duas a cúpula quadrada e a cúpula pentagonal.
 <br><br><b>Faces:</b> 4 triângulos, 3 quadrados e 1 hexágono | <b>Arestas:</b> 15 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 125.26°, 70.53° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Triangular_cupola" target="_blank">Mais sobre...</a>
 <hr>
 <h4>4. Cúpula quadrada</h4>
 <a href="../vr/j4_square_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/46A.png" class="foto"></a><img src="../ar/46.png" class="qr">
- <br><span class="titulo">J<sub>4</sub></span> A cúpula quadrada, ou squacu, é um dos sólidos de Johnson. É uma cúpula baseada no quadrado e é uma das três cúpulas sólidas de Johnson. Pode ser obtida como um segmento do pequeno rombicuboctaedro, quando considerado como uma ortobicúpula quadrada alongada.
+ <br><span class="titulo">J<sub>4</sub></span> A cúpula quadrada, ou squacu, é um dos sólidos de Johnson. É uma cúpula baseada no quadrado e é uma das três cúpulas de Johnson. Pode ser obtida como um segmento do pequeno rombicuboctaedro, quando considerado como uma ortobicúpula quadrada alongada.
 <br><br><b>Faces:</b> 4 triângulos, 5 quadrados e 1 octógono | <b>Arestas:</b> 20 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 144.74°, 135°, 45° e 54.74°. <a href="https://polytope.miraheze.org/wiki/Square_cupola" target="_blank">Mais sobre...</a>
 <hr>
 <h4>5. Cúpula pentagonal</h4>
 <a href="../vr/j5_pentagonal_cupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto"></a><img src="../ar/45.png" class="qr">
- <br><span class="titulo">J<sub>5</sub></span> A cúpula pentagonal, ou pecu, é um dos sólidos de Johnson. É uma cúpula baseada no pentágono e é uma das três cúpulas sólidas de Johnson. Pode ser obtido como um segmento do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>5</sub></span> A cúpula pentagonal, ou pecu, é um dos sólidos de Johnson. É uma cúpula baseada no pentágono e é uma das três cúpulas de Johnson. Pode ser obtida como um segmento do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 5 triângulos, 5 quadrados, 1 pentágono e 1 decágono | <b>Arestas:</b> 25 | <b>Vértices:</b> 15 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 37.38° e 31.72°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_cupola" target="_blank">Mais sobre...</a>
 <hr>
 <h4>6. Rotunda pentagonal</h4>

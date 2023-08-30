@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Pirâmides, tetraedros, prismas e antiprismas</title>
+    <title>Sólidos de Johnson 1: J12 - J22</title>
 	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 	<meta name="apple-mobile-web-app-capable" content="yes">
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
@@ -12,6 +12,7 @@
 	<script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.misc.min.js"></script>
   </head>
   <body>
+	<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
 	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;' id="info">
 		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
 	</div>
@@ -24,7 +25,7 @@
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true; sortObjects: true; highRefreshRate: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
            <a-mixin id="poli" shadow 
-             hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:5; shape: auto"event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false"></a-mixin>
+             hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:5; shape: auto;" event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false"></a-mixin>
            <a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
 			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli, a-obj-model, a-link" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
@@ -35,7 +36,8 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.06;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 			<a-mixin id="esferaP" geometry="radius: 0.035;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="esferaG" geometry="radius: 0.11;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esferaG" geometry="radius: 0.17;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esferaGG" geometry="radius: 0.4;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
         </a-assets>
         <a-entity id="cameraRig">
@@ -44,12 +46,8 @@
 		   <a-entity id="rhand" mixin="controle" hand-controls="hand: right"></a-entity>
         </a-entity>
         <a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
-        <a-gltf-model static-body src="vr/salas/mesa_Prisms1.glb" position="0 0 0" shadow></a-gltf-model>
-		<a-gltf-model static-body src="vr/salas/mesa_Prisms2.glb" position="0 0 0" shadow></a-gltf-model>
-		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.7" scale="0.2 0.2 0.2" shadow>
-			
-		</a-entity>
+        <a-gltf-model static-body src="vr/salas/johnson1c.glb" position="0 0 0" shadow></a-gltf-model>
+		<a-gltf-model static-body src="vr/salas/johnson1d.glb" position="0 0 0" shadow></a-gltf-model>
 		
 		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.2" scale="0.18 0.18 0.18" shadow>
 			
@@ -84,22 +82,24 @@
 			
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 2" scale="0.17 0.17 0.17" shadow>
+		<a-entity class="poli" mixin="poli" position="-0.75 1 2.2" scale="0.17 0.17 0.17" shadow>
 
 		</a-entity>
 		
-		<a-video src="vr/salas/videos/great_dodecahemidodecahedron_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
-		<a-box position="2.08 1 1.16" rotation="0 270 0" depth="0.03" height="1.8" width="2.9" src="vr/salas/imagens/textura.jpg" material="repeat:5 2" static-body></a-box>
-		<!--<a-text value="Poliedros nao convexos" position="0.7 0.77 -0.15" rotation="-90 0 0" width="1.3"></a-text>
-		<a-text value="Nonconvex polyhedra" position="0.7 0.77 -0.05" rotation="-90 0 0" width="1.3"></a-text>-->
-		<a-link position="2.06 1.5 -0.7" rotation="0 270 0" scale="0.25 0.25 0" href="sala2.htm" title="Sala anterior / Previous room" link="backgroundColor: aliceblue; borderColor:#97c9f1; titleColor:#55aaed"></a-link>
+		<a-entity class="poli" mixin="poli" position="-0.75 1 1.7" scale="0.17 0.17 0.17" shadow>
+
+		</a-entity>
+		
+		<a-video src="../../geometria-descritiva/videos/j13_pentagonal_dipyramid_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
+		<a-box position="2.08 1 1.16" rotation="0 270 0" depth="0.03" height="1.8" width="2.9" src="../imagens/textura.jpg" material="repeat:5 2" static-body></a-box>
+		<a-link position="2.06 1.5 -0.7" rotation="0 270 0" scale="0.25 0.25 0" href="sala1.htm" title="Proxima sala / Next room" link="backgroundColor: aliceblue; borderColor:#97c9f1; titleColor:#55aaed"></a-link>
 		<a-text value="Youtube: @paulohscwb" position="2.06 0.18 1.5" width="2" rotation="0 270 0"></a-text>
-		<a-text value="imagem panoramica: Marko Klaric" position="-2 0.18 1.5" width="2.3" rotation="0 90 0"></a-text>
+		<a-text value="imagem panoramica: Paul Bourke" position="-2 0.18 1.5" width="2.3" rotation="0 90 0"></a-text>
 
         <a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" light="castShadow:true; shadowBias: -0.0001;" intensity="0.75" position="-3 2 1"></a-light>
 		<a-light type="directional" color="white" light="castShadow:true; shadowBias: -0.0001;" intensity="0.75" position="3 -2 1"></a-light>
-		<a-sky src="vr/salas/imagens/toyC.jpg" geometry="phiStart: 41.5;"></a-sky> <!--geometry="phiStart: 95;"-->
+		<a-sky src="../imagens/toy.jpg"></a-sky><!--geometry="phiStart: 95;"-->
     </a-scene>
   </body>
 </html>
