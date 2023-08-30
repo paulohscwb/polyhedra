@@ -16,10 +16,14 @@
 			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.042;" material="metalness:0.4; roughness:0.5;">
 			<a-asset-item id="material" src="johnson/solidos.mtl"></a-asset-item>
+			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
+			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 0 0 -18.43; to: 0 360 -18.43; easing: linear; delay: 3000'></a-mixin>
+			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 0 0 -18.43; to: 180 0 -18.43; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
+			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 0 0 -18.43; to: 270 0 252; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
 		</a-assets>
 				
-		<a-entity position="0 0 0" rotation="0 0 -18.43" scale="3.3 3.3 3.3">
-			<a-obj-model src="johnson/j14_elongated_triangular_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+		<a-entity position="0 0 0" rotation="0 0 -18.43" scale="3.3 3.3 3.3" mixin="anima1 anima2 anima3">
+			<a-obj-model src="johnson/j14_elongated_triangular_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998" visible="false" mixin="anima0"></a-obj-model>
 			<a-obj-model src="johnson/j14_elongated_triangular_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.446131 1.338394 0.000000'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.338878 -0.677755 0.309352'></a-sphere>
