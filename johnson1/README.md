@@ -47,7 +47,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img src="ar/johnson1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUrm2hnJT1nvSPbFAYYJWmh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Square pyramid</h4>
 <a href="vr/j1_square_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto"></a><img src="ar/49.png" class="qr">
  <br><span class="titulo">J<sub>1</sub></span> The square pyramid, or squippy, is a pyramid with a square base and 4 triangles as sides. The version with equilateral triangles as sides is the first of the 92 Johnson solids. Two square pyramids can be joined together at their square base to form a regular octahedron.

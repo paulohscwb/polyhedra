@@ -47,7 +47,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><img src="../ar/johnson1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
  <h3 id="m3d" align="center">Modelos 3D</h3>
- <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUjI1zr4s0lYhyLANZl3GOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxUrm2hnJT1nvSPbFAYYJWmh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Pirâmide quadrada</h4>
 <a href="../vr/j1_square_pyramid.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto"></a><img src="../ar/49.png" class="qr">
  <br><span class="titulo">J<sub>1</sub></span> A pirâmide quadrada, ou squippy, é uma pirâmide com uma base quadrada e 4 triângulos como lados. A versão com triângulos equiláteros como lados é o primeiro dos 92 sólidos de Johnson. Duas pirâmides quadradas podem ser unidas em sua base quadrada para formar um octaedro regular.
