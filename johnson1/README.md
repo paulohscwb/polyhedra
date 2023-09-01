@@ -116,12 +116,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>14. Elongated triangular dipyramid</h4>
 <a href="vr/j14_elongated_triangular_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/36A.png" class="foto"></a><img src="ar/36.png" class="qr">
- <br><span class="titulo">J<sub>14</sub></span> The elongated triangular dipyramid, also called a elongated triangular bipyramid or etidpy, is one of the Johnson solids. It can be constructed by inserting a triangular prism between the two halves of the triangular dipyramid. 
+ <br><span class="titulo">J<sub>14</sub></span> The elongated triangular dipyramid, also called a elongated triangular bipyramid or etidpy, is one of the Johnson solids. It can be constructed by inserting a triangular prism between the halves of the triangular dipyramid. 
 <br><br><b>Faces:</b> 6 triangles and 3 squares | <b>Edges:</b> 15 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 160.53°, 60° and 70.53°. <a href="https://polytope.miraheze.org/wiki/Elongated_triangular_bipyramid" target="_blank">More...</a>
 <hr>
 <h4>15. Elongated square dipyramid</h4>
 <a href="vr/j15_elongated_square_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/35A.png" class="foto"></a><img src="ar/35.png" class="qr">
- <br><span class="titulo">J<sub>15</sub></span> The elongated square dipyramid, also called a elongated square bipyramid or esquidpy, is one of the Johnson solids. It can be constructed by inserting a cube, seen as a square prism, between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
+ <br><span class="titulo">J<sub>15</sub></span> The elongated square dipyramid, also called a elongated square bipyramid or esquidpy, is one of the Johnson solids. It can be constructed by inserting a cube, seen as a square prism, between the pyramidal halves of the regular octahedron, seen as a square dipyramid. 
 <br><br><b>Faces:</b> 8 triangles and 4 squares | <b>Edges:</b> 20 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 144.74°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Elongated_square_bipyramid" target="_blank">More...</a>
 <hr>
 <h4>16. Elongated pentagonal dipyramid</h4>
@@ -131,7 +131,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>17. Gyroelongated square dipyramid</h4>
 <a href="vr/j17_gyroelongated_square_dipyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/33A.png" class="foto"></a><img src="ar/33.png" class="qr">
- <br><span class="titulo">J<sub>17</sub></span> The gyroelongated square dipyramid, also called a gyroelongated square bipyramid or gyesqidpy, is one of the Johnson solids. It can be constructed by inserting a square antiprism between the two pyramidal halves of the regular octahedron, seen as a square dipyramid. 
+ <br><span class="titulo">J<sub>17</sub></span> The gyroelongated square dipyramid, also called a gyroelongated square bipyramid or gyesqidpy, is one of the Johnson solids. It can be constructed by inserting a square antiprism between the pyramidal halves of the regular octahedron, seen as a square dipyramid. 
 <br><br><b>Faces:</b> 16 triangles | <b>Edges:</b> 24 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 158.57°, 127.55° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bipyramid" target="_blank">More...</a>
 <hr>
 <h4>18. Elongated triangular cupola</h4>
@@ -177,7 +177,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>26. Gyrobifastigium</h4>
 <a href="vr/j26_gyrobifastigium.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/24A.png" class="foto"></a><img src="ar/24.png" class="qr">
- <br><span class="titulo">J<sub>26</sub></span> The gyrobifastigium, or gybef, is one of the Johnson solids. It can be constructed by attaching two triangular prisms, seen as digonal cupolas, at one of their square faces so that their opposite edges are perpendicular. As such, it could be considered to be a digonal gyrobicupola.   
+ <br><span class="titulo">J<sub>26</sub></span> The gyrobifastigium, or gybef, is one of the Johnson solids. It can be constructed by attaching two triangular prisms, seen as digonal cupolas, at one of their square faces so that their opposite edges are orthogonal. As such, it could be considered to be a digonal gyrobicupola.   
 <br><br><b>Faces:</b> 4 triangles and 4 squares | <b>Edges:</b> 14 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 150°, 90° and 60°. <a href="https://polytope.miraheze.org/wiki/Gyrobifastigium" target="_blank">More...</a>
 <hr>
 <h4>27. Triangular orthobicupola</h4>
