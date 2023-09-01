@@ -208,7 +208,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>32. Ortocúpula rotunda pentagonal</h4>
 <a href="../vr/j32_pentagonal_orthocupolarontunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/18bA.png" class="foto"></a><img src="../ar/18b.png" class="qr">
- <br><span class="titulo">J<sub>31</sub></span> A ortocúpula rotunda pentagonal é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se a cúpula e a rotunda forem unidas de modo que as bases sejam giradas 36°, o resultado é a girocúpula rotunda pentagonal.
+ <br><span class="titulo">J<sub>32</sub></span> A ortocúpula rotunda pentagonal é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais estejam na mesma orientação. Se a cúpula e a rotunda forem unidas de modo que as bases sejam giradas 36°, o resultado é a girocúpula rotunda pentagonal.
 <br><br><b>Faces:</b> 15 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 50 | <b>Vértices:</b> 25 | <b>Ângulos diédricos:</b> 159.09°, 148.28°, 142.62°, 110.95° e 100.81°. <a href="https://polytope.miraheze.org/wiki/Pentagonal_orthocupolarotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p11" class="topo">voltar ao topo</a></p>
 
