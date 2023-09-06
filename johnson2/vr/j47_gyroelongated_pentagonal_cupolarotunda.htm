@@ -16,14 +16,10 @@
 			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.031;" material="metalness:0.4; roughness:0.5;">
 			<a-asset-item id="material" src="johnson/solidos.mtl"></a-asset-item>
-			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
-			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: 188.06 0 -53.7; to: 188.06 360 -53.7; easing: linear; delay: 3000'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: 188.06 0 -53.7; to: 368 0 -53.7; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
-			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: 188.06 0 -53.7; to: 458 0 220; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
 		</a-assets>
 				
-		<a-entity position="0 0 0" rotation="188.06 0 -53.7" scale="4.5 4.5 4.5" mixin="anima1 anima2 anima3">
-			<a-obj-model src="johnson/j47_gyroelongated_pentagonal_cupolarotunda.obj" mtl="#material" scale="0.998 0.998 0.998" visible="false" mixin="anima0"></a-obj-model>
+		<a-entity position="0 0 0" rotation="188.06 0 -53.7" scale="4.5 4.5 4.5">
+			<a-obj-model src="johnson/j47_gyroelongated_pentagonal_cupolarotunda.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="johnson/j47_gyroelongated_pentagonal_cupolarotundaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.894854 -0.367641 0.429886'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.853258 0.048135 -0.301436'></a-sphere>
