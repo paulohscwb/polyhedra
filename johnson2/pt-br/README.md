@@ -98,7 +98,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>12. Bicúpula triangular giralongada</h4>
 <a href="../vr/j44_gyroelongated_triangular_bicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6bA.png" class="foto"></a><img src="../ar/6b.png" class="qr">
- <br><span class="titulo">J<sub>44</sub></span> A bicúpula triangular giralongada é um dos sólidos de Johnson. Pode ser construída anexando cúpulas triangulares às bases do antiprisma hexagonal. A bicúpula triangular giralongada é um dos cinco sólidos de Johnson que são quirais, o que significa que eles têm uma forma "esquerda" e uma "direita".
+ <br><span class="titulo">J<sub>44</sub></span> A bicúpula triangular giralongada é um dos sólidos de Johnson. Pode ser construída anexando cúpulas triangulares às bases do antiprisma hexagonal. A bicúpula triangular giralongada é um dos cinco sólidos de Johnson que são quirais, o que significa que eles têm uma forma "esquerda" e uma "direita". 
 <br><br><b>Faces:</b> 20 triângulos e 6 quadrados | <b>Arestas:</b> 42 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 169.43°, 153.64°, 145.22° e 125.26°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_triangular_bicupola" target="_blank">Mais sobre...</a>
 <hr>
 <h4>13. Bicúpula quadrada giralongada</h4>
