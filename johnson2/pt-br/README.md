@@ -106,14 +106,14 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>45</sub></span> A bicúpula quadrada giralongada é um dos sólidos de Johnson. Pode ser construída anexando cúpulas quadradas às bases do antiprisma octogonal. É um dos cinco sólidos quirais de Johnson.
 <br><br><b>Faces:</b> 24 triângulos e 10 quadrados | <b>Arestas:</b> 56 | <b>Vértices:</b> 24 | <b>Ângulos diédricos:</b> 153.96°, 151.33°, 144.74°, 135° e 141.59°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_square_bicupola" target="_blank">Mais sobre...</a>
 <hr>
-<h4>14. Bicúpula pentagonal giroalongada</h4>
+<h4>14. Bicúpula pentagonal giralongada</h4>
 <a href="../vr/j46_gyroelongated_pentagonal_bicupola.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/4bA.png" class="foto"></a><img src="../ar/4b.png" class="qr">
- <br><span class="titulo">J<sub>46</sub></span> A bicúpula pentagonal giroalongada é um dos sólidos de Johnson. Pode ser construída unindo cúpulas pentagonais às bases do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
+ <br><span class="titulo">J<sub>46</sub></span> A bicúpula pentagonal girolongada é um dos sólidos de Johnson. Pode ser construída unindo cúpulas pentagonais às bases do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
 <br><br><b>Faces:</b> 30 triângulos, 10 quadrados e 2 pentágonos | <b>Arestas:</b> 70 | <b>Vértices:</b> 30 | <b>Ângulos diédricos:</b> 159.19°, 159.09°, 148.28°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_bicupola" target="_blank">Mais sobre...</a>
 <hr>
-<h4>15. Cúpula rotunda pentagonal giroalongada</h4>
+<h4>15. Cúpula rotunda pentagonal giralongada</h4>
 <a href="../vr/j47_gyroelongated_pentagonal_cupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/3bA.png" class="foto"></a><img src="../ar/3b.png" class="qr">
- <br><span class="titulo">J<sub>47</sub></span> A cúpula rotunda pentagonal giroalongada é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal a bases opostas do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
+ <br><span class="titulo">J<sub>47</sub></span> A cúpula rotunda pentagonal giralongada é um dos sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal às bases opostas do antiprisma decagonal. É um dos cinco sólidos quirais de Johnson.
 <br><br><b>Faces:</b> 35 triângulos, 5 quadrados e 7 pentágonos | <b>Arestas:</b> 80 | <b>Vértices:</b> 35 | <b>Ângulos diédricos:</b> 174.43°, 159.19°, 159.09°, 158.68°, 148.28°, 142.62°, 132.62° e 126.96°. <a href="https://polytope.miraheze.org/wiki/Gyroelongated_pentagonal_cupolarotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>16. Birotunda pentagonal giralongada</h4>
