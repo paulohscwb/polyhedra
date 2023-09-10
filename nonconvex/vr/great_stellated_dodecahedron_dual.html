@@ -17,7 +17,7 @@
 			<a-mixin id="texto" text="width: 5; color: #556B2F; align:center;" rotation="-45 0 0"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 			<a-mixin id="esfera" geometry="radius: 0.018;" material="metalness:0.4; roughness:0.5;"></a-mixin></a-mixin> <!--vertices-->
-			<a-mixin id="esfera1" geometry="radius: 0.021;" material="metalness:0.4; roughness:0.5;"></a-mixin><!--vertices-->
+			<a-mixin id="esfera1" geometry="radius: 0.017;" material="metalness:0.4; roughness:0.5;"></a-mixin><!--vertices-->
 			
 			<a-mixin id="anima0" animation__0='property: visible; from: false; to: true; dur: 500; delay: 8000'></a-mixin>
 			<a-mixin id="anima2" animation='property: rotation; dur: 30000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 6000'></a-mixin>
@@ -34,7 +34,7 @@
 	<a-entity mixin="anima2 anima3">		
 		
 		<!--dual 1.2: visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
-		<a-entity position="0 0 0" scale="2.5 2.5 2.5" visible="false" mixin="anima0">
+		<a-entity position="0 0 0" scale="3.5 3.5 3.5" visible="false" mixin="anima0">
 			<a-obj-model src="outros/GreatStellatedDodecahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998" mixin="anima8"></a-obj-model>
 			<a-obj-model src="outros/GreatStellatedDodecahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera1 mtl7" position="0.5 0.0 -0.190983"></a-sphere>
