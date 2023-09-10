@@ -24,7 +24,7 @@
 			<a-mixin id="anima3" animation__3='property: rotation; dur: 15000; from: 0 0 0; to: 180 0 0; dir: alternate; easing: linear; delay: 36000; loop: 1'></a-mixin>
 			<a-mixin id="anima4" animation__4='property: visible; from: true; to: false; delay: 30000'></a-mixin>
 			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; delay: 33000'></a-mixin>
-			<a-mixin id="anima6" animation__6='property: camera.zoom; from: 1; to: 1.7; dur: 60000; delay: 0'></a-mixin>
+			<a-mixin id="anima6" animation__6='property: camera.zoom; from: 1; to: 1.5; dur: 60000; delay: 0'></a-mixin>
 			<a-mixin id="anima7" animation__7='property: visible; from: true; to: false; delay: 7000'></a-mixin>
 			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; dur: 500; delay: 40000'></a-mixin>
 		</a-assets>
@@ -34,7 +34,7 @@
 	<a-entity mixin="anima2 anima3">		
 		
 		<!--dual 1.2: visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
-		<a-entity position="0 0 0" scale="1 1 1" visible="false" mixin="anima0">
+		<a-entity position="0 0 0" scale="0.89 0.89 0.89" visible="false" mixin="anima0">
 			<a-obj-model src="../../infinity/vr/outros/SmallDodecahemicosacron.obj" mtl="#material" scale="0.998 0.998 0.998" mixin="anima8"></a-obj-model>
 			<a-obj-model src="../../infinity/vr/outros/SmallDodecahemicosacronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera1 mtl7' position='0.9 0 -1.46'></a-sphere>
