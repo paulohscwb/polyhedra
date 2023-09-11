@@ -155,7 +155,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>23. Parabiaugmented hexagonal prism</h4>
 <a href="vr/j55_parabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/207A.png" class="foto"></a><img src="ar/207.png" class="qr">
  <br><span class="titulo">J<sub>55</sub></span> The parabiaugmented hexagonal prism, or pabauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to two opposite square faces of the hexagonal prism. Attaching the pyramids to nonadjacent, nonparallel equatorial faces yields a metabiaugmented hexagonal prism J<sub>56</sub>: the solid obtained by attaching pyramids to adjacent equatorial faces is not convex, and thus not a Johnson solid. 
-<br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 25 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_hexagonal_prism" target="_blank">More...</a>
+<br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 26 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Parabiaugmented_hexagonal_prism" target="_blank">More...</a>
 <hr>
 <h4>24. Metabiaugmented hexagonal prism</h4>
 <a href="vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/208A.png" class="foto"></a><img src="ar/208.png" class="qr">

@@ -133,7 +133,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>19. Prisma triangular triaumentado</h4>
 <a href="../vr/j51_triaugmented_triangular_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/202A.png" class="foto"></a><img src="../ar/202.png" class="qr">
- <br><span class="titulo">J<sub>51</sub></span> O prisma triangular triaumentado é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a todas as três faces quadradas do prisma triangular. A mesma forma também é chamada de prisma triangular tetrakis, prisma trigonal tricapado, tetracaidecadeltahedron ou tetrakaidecadeltahedron.
+ <br><span class="titulo">J<sub>51</sub></span> O prisma triangular triaumentado é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a todas as três faces quadradas do prisma triangular. A mesma forma também é chamada de prisma triangular tetrakis, prisma trigonal tricapado, tetracaidecadeltaedro ou tetrakaidecadeltaedro.
 <br><br><b>Faces:</b> 14 triângulos | <b>Arestas:</b> 21 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 169.47°, 144.74° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Triaugmented_triangular_prism" target="_blank">Mais sobre...</a>
 <hr>
 <h4>20. Prisma pentagonal aumentado</h4>
@@ -189,7 +189,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>30. Icosaedro metabidiminuído</h4>
 <a href="../vr/j62_metabidiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/214A.png" class="foto"></a><img src="../ar/214.png" class="qr">
- <br><span class="titulo">J<sub>62</sub></span> O icosaedro metabidiminuído é um dos sólidos de Johnson. Ele pode ser construído removendo dois vértices não opostos e não adjacentes de um icosaedro regular. Se duas pirâmides pentagonais forem removidas para formar faces pentagonais não adjacentes, o resultado será o antiprisma pentagonal.
+ <br><span class="titulo">J<sub>62</sub></span> O icosaedro metabidiminuído é um dos sólidos de Johnson. Pode ser construído removendo dois vértices não opostos e não adjacentes de um icosaedro regular. Se duas pirâmides pentagonais forem removidas para formar faces pentagonais não adjacentes, o resultado será o antiprisma pentagonal.
 <br><br><b>Faces:</b> 10 triângulos e 2 pentágonos | <b>Arestas:</b> 20 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 100.81°, 138.19° e 43.43°. <a href="https://polytope.miraheze.org/wiki/Metabidiminished_icosahedron" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 
