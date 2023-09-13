@@ -47,7 +47,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><img src="../ar/johnson2.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
  <h3 id="m3d" align="center">Modelos 3D</h3>
- <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWYoeljKMGhCn3SCKJK4HEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWYoeljKMGhCn3SCKJK4HEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
 <h4>1. Girocúpula rotunda pentagonal</h4>
 <a href="../vr/j33_pentagonal_gyrocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17bA.png" class="foto"></a><img src="../ar/17b.png" class="qr">
  <br><span class="titulo">J<sub>33</sub></span> A girocúpula rotunda pentagonal é um dos 92 sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais sejam giradas 36° uma em relação à outra. Se a cúpula e a rotunda forem unidas de forma que as bases estejam na mesma orientação, o resultado é a ortocúpula rotunda pentagonal.
