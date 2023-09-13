@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/johnson2/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p12"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Sólidos de Johnson - parte 2: J<sub>33</sub> - J<sub>62</sub></h2>
   Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Na segunda parte, temos mais 30 sólidos de Johnson. 
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
+<h3 align="center">Salas imersivas</h3>
+  <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala imersiva dos Sólidos de Johnson - parte 2" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a></p>
+  <p align="center"><img src="../../../geometria-descritiva/videos/johnson2a.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Sala imersiva dos Sólidos de Johnson - parte 2" loading="lazy"/><img src="../../../geometria-descritiva/videos/johnson2b.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Sala imersiva dos Sólidos de Johnson - parte 2" loading="lazy"/><img src="../../../geometria-descritiva/videos/johnson2c.gif" style="max-width: 31.5%; border-radius:5px" alt="Sala imersiva dos Sólidos de Johnson - parte 2" loading="lazy"/></p>
+<hr>
+  <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros de Johnson em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -40,6 +46,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
 <p align="center"><img src="../ar/johnson2.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+ <h3 id="m3d" align="center">Modelos 3D</h3>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWYoeljKMGhCn3SCKJK4HEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Girocúpula rotunda pentagonal</h4>
 <a href="../vr/j33_pentagonal_gyrocupolarotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17bA.png" class="foto"></a><img src="../ar/17b.png" class="qr">
  <br><span class="titulo">J<sub>33</sub></span> A girocúpula rotunda pentagonal é um dos 92 sólidos de Johnson. Pode ser construída anexando uma cúpula pentagonal e uma rotunda pentagonal em suas bases decagonais, de modo que as duas bases pentagonais sejam giradas 36° uma em relação à outra. Se a cúpula e a rotunda forem unidas de forma que as bases estejam na mesma orientação, o resultado é a ortocúpula rotunda pentagonal.

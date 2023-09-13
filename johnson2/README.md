@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/johnson2/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p12"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Johnson solids - part 2: J<sub>33</sub> - J<sub>62</sub></h2>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In second part, we have more 30 Johnson solids. 
-  <hr>
+  <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+<hr>
+  <h3 align="center">Immersive rooms</h3>
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva dos Sólidos de Johnson - parte 2" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala3.htm" target="_blank">&#x1f517; room 3</a></p>
+  <p align="center"><img src="../../geometria-descritiva/videos/johnson2a.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Immersive room of Johnson solids - part 2" loading="lazy"/><img src="../../geometria-descritiva/videos/johnson2b.gif" alt="Immersive room of Johnson solids - part 2" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../../geometria-descritiva/videos/johnson2c.gif" style="max-width: 31.5%; border-radius:5px" alt="Immersive room of Johnson solids - part 2" loading="lazy"/></p>
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
   To view Johnson solids in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson2/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -40,6 +46,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
 <p align="center"><img src="ar/johnson2.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWYoeljKMGhCn3SCKJK4HEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Pentagonal gyrocupolarotunda</h4>
 <a href="vr/j33_pentagonal_gyrocupolarotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17bA.png" class="foto"></a><img src="ar/17b.png" class="qr">
  <br><span class="titulo">J<sub>33</sub></span> The pentagonal gyrocupolarotunda, or pegycuro, is one of the 92 Johnson solids. It can be constructed by attaching a pentagonal cupola and a pentagonal rotunda at their decagonal bases, such that the two pentagonal bases are rotated 36° with respect to each other. If the cupola and rotunda are joined such that the bases are in the same orientation, the result is the pentagonal orthocupolarotunda. 
