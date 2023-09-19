@@ -149,12 +149,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>22. Snub disphenoid</h4>
 <a href="vr/j84_snub_disphenoid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/236A.png" class="foto"></a><img src="ar/236.png" class="qr">
- <br><span class="titulo">J<sub>84</sub></span> The snub disphenoid, or snadow, is one of the Johnson solids. It can be constructed from a tetrahedron, seen as a digonal antiprism or disphenoid, by expanding the two halves outward and inserting a set of 8 triangles in between the halves.
+ <br><span class="titulo">J<sub>84</sub></span> The snub disphenoid, or snadow, is one of the Johnson solids. It can be constructed from a tetrahedron, seen as a digonal antiprism or disphenoid, by expanding the halves outward and inserting a set of 8 triangles in between the halves.
 <br><br><b>Faces:</b> 12 triangles | <b>Edges:</b> 18 | <b>Vertices:</b> 8 | <b>Dihedral angles:</b> 96.2°, 121.74° and 166.44°. <a href="https://polytope.miraheze.org/wiki/Snub_disphenoid" target="_blank">More...</a>
 <hr>
 <h4>23. Snub square antiprism</h4>
 <a href="vr/j85_snub_square_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/237A.png" class="foto"></a><img src="ar/237.png" class="qr">
- <br><span class="titulo">J<sub>85</sub></span> The snub square antiprism, or snisquap, is one of the Johnson solids. It can be constructed from a square antiprism by expanding the two halves outward and inserting a set of 16 triangles in between the halves. 
+ <br><span class="titulo">J<sub>85</sub></span> The snub square antiprism, or snisquap, is one of the Johnson solids. It can be constructed from a square antiprism by expanding the halves outward and inserting a set of 16 triangles in between the halves. 
 <br><br><b>Faces:</b> 24 triangles and 2 squares | <b>Edges:</b> 40 | <b>Vertices:</b> 16 | <b>Dihedral angles:</b> 144.14°, 119.11°, 164.26°, 145.44° and 114.65°. <a href="https://polytope.miraheze.org/wiki/Snub_square_antiprism" target="_blank">More...</a>
 <hr>
 <h4>24. Sphenocorona </h4>
