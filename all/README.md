@@ -232,7 +232,7 @@
 		<td><a href="https://youtu.be/oTaVDrXTUUU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="margin-top:3px; text-align:center;">Nonconvex polyhedra</h3>
+<h3 style="margin-top:3px; text-align:center;"> Nonconvex polyhedra</h3>
 <h3 style="margin-top:3px; text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
 <h3 style="margin-top:3px; text-align:center;">Self-intersecting polyhedra</h3>
 <h3 style="margin-top:3px; text-align:center;">Quasi regular polyhedra</h3>
