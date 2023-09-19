@@ -6,7 +6,7 @@
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
 <hr>
 <h2>List of polyhedra</h2>
-<h3 style="margin-top:3px; text-align:center;"><img src="../platonic/ar/9A.png" style="margin-bottom:-10px" width="40"> Platonic polyhedra</h3>
+<h3 style="text-align:center;">Platonic polyhedra</h3>
 <style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f8f8ff;}  table {border-radius: 5px;}</style>
 <table align="center">
 	<tr>
@@ -56,7 +56,7 @@
 		<td><a href="https://youtu.be/D0MzHlIAsbQ" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="margin-top:3px; text-align:center;"><img src="../archimedes/ar/18A.png" style="margin-bottom:-10px" width="40"> Archimedes and Catalan polyhedra</h3>
+<h3 style="text-align:center;">Archimedes and Catalan polyhedra</h3>
 <table align="center">
 	<tr>
 		<th colspan="3">Name</th>
