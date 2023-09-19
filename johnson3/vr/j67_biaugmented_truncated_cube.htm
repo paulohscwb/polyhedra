@@ -16,14 +16,10 @@
 			<a-mixin id="texto" text="color: #4d4d4d; align:center;"></a-mixin>
 			<a-mixin id="esfera" geometry="radius: 0.031;" material="metalness:0.4; roughness:0.5;">
 			<a-asset-item id="material" src="johnson/solidos.mtl"></a-asset-item>
-			<a-mixin id="anima0" animation__4='property: visible; from: false; to: true; dur: 1; delay: 2500'></a-mixin>
-			<a-mixin id="anima1" animation='property: rotation; dur: 13000; from: -27.04 0 -160.76; to: -27.04 360 -160.76; easing: linear; delay: 3000'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: rotation; dur: 13000; from: -27.04 0 -160.76; to: 150 0 -160.76; dir: alternate; easing: linear; delay: 17000; loop: 1'></a-mixin>
-			<a-mixin id="anima3" animation__3='property: rotation; dur: 13000; from: -27.04 0 -160.76; to: 240 0 110; dir: alternate; easing: linear; delay: 44000; loop: 1'></a-mixin>
 		</a-assets>
 				
-		<a-entity position="0 0 0" rotation="-27.04 0 -160.76" scale="4.5 4.5 4.5" mixin="anima1 anima2 anima3">
-			<a-obj-model src="johnson/j67_biaugmented_truncated_cube.obj" mtl="#material" scale="0.998 0.998 0.998" visible="false" mixin="anima0"></a-obj-model>
+		<a-entity position="0 0 0" rotation="-27.04 0 -160.76" scale="4.5 4.5 4.5">
+			<a-obj-model src="johnson/j67_biaugmented_truncated_cube.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="johnson/j67_biaugmented_truncated_cubeL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.813538 0.214997 0.467663'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.753988 -0.584165 -0.130495'></a-sphere>
