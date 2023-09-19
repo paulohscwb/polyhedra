@@ -47,7 +47,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Icosaedro tridiminuído aumentado</h4>
 <a href="../vr/j64_augmented_tridiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/216A.png" class="foto"></a><img src="../ar/216.png" class="qr">
- <br><span class="titulo">J<sub>64</sub></span> O icosaedro tridiminuído aumentado é um dos sólidos de Johnson. Pode ser construído anexando um tetraedro, visto como uma pirâmide triangular, à face triangular do icosaedro tridiminuído que está conectado apenas aos pentágonos. É o único sólido de Johnson que é construído usando diminuição e aumento, assumindo que nenhuma diminuição e aumento se anulam.
+ <br><span class="titulo">J<sub>64</sub></span> O icosaedro tridiminuído aumentado é um dos sólidos de Johnson. Pode ser construído anexando um tetraedro, visto como uma pirâmide triangular, à face triangular do icosaedro tridiminuído que está conectada apenas aos pentágonos. É o único sólido de Johnson que é construído usando diminuição e aumento, assumindo que nenhuma diminuição e aumento se anulam.
 <br><br><b>Faces:</b> 7 triângulos e 3 pentágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 171.34°, 138.19°, 100.81°, 70.53° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Augmented_tridiminished_icosahedron" target="_blank">Mais sobre...</a>
 <hr>
 <h4>3. Tetraedro truncado aumentado</h4>
