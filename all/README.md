@@ -7,7 +7,7 @@
 <hr>
 <h2>List of polyhedra</h2>
 <h3 style="text-align:center;">Platonic polyhedra</h3>
-<style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f8f8ff;}  table {border-radius: 8px; font-size:13pt;}</style>
+<style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f8f8ff;}  table {border-radius: 8px;}</style>
 <table align="center">
 	<tr>
 		<th colspan="3">Name</th>
@@ -169,7 +169,7 @@
 		<td></td>
 		<td><a href="../catalan/#m3d" target="_blank">Pentagonal Icositetrahedron</a></td>
 		<td><a href="../catalan/vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/LjEK73IAm4mU" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/jEK73IAm4mU" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td><img src="../archimedes/ar/20A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
