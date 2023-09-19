@@ -14,7 +14,7 @@
 		<th colspan="2">Name</th>
 		<th>3D model</th>
 		<th>Video</th>
-		<th>Dual polyhedron</th>
+		<th>Dual</th>
 		<th>Immersive room</th>
 	</tr>
 	<tr>
@@ -58,7 +58,7 @@
 		<th colspan="2">Name</th>
 		<th>3D model</th>
 		<th>Video</th>
-		<th>Dual polyhedron</th>
+		<th>Dual</th>
 		<th>Immersive rooms</th>
 	</tr>
 	<tr>
@@ -232,7 +232,7 @@
 		<td><a href="https://youtu.be/oTaVDrXTUUU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="margin-top:3px; text-align:center;"> Nonconvex polyhedra</h3>
+<h3 style="margin-top:3px; text-align:center;">Nonconvex polyhedra</h3>
 <h3 style="margin-top:3px; text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
 <h3 style="margin-top:3px; text-align:center;">Self-intersecting polyhedra</h3>
 <h3 style="margin-top:3px; text-align:center;">Quasi regular polyhedra</h3>
