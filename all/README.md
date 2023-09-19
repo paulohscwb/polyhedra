@@ -8,7 +8,7 @@
 <h2>List of polyhedra</h2>
 <h3 style="text-align:center;">Platonic polyhedra</h3>
 <style>td, th {margin: 7px; padding: 7px; background-color: #f8f8ff;}
-.ima {width: 50px; margin-bottom:-10px;}</style>
+.ima {width: 40px; margin-bottom:-10px;}</style>
 <table align="center">
 	<tr>
 		<th colspan="2">Name</th>
