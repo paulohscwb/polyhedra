@@ -7,7 +7,7 @@
 <hr>
 <h2>List of polyhedra</h2>
 <h3 style="text-align:center;">Platonic polyhedra</h3>
-<style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f8f8ff;}  table {border-radius: 8px;}</style>
+<style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f8f8ff;}  table {border-radius: 8px; font-size:13pt;}</style>
 <table align="center">
 	<tr>
 		<th colspan="3">Name</th>
@@ -66,13 +66,43 @@
 		<th>Immersive rooms</th>
 	</tr>
 	<tr>
+		<td><img src="../archimedes/ar/10A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td>U<sub>2</sub></td>
+		<td><a href="../archimedes/#m3d" target="_blank">Truncated tetrahedron</a></td>
+		<td><a href="../archimedes/vr/truncated_tetrahedron.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/cLgqXsEyyWU" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="https://youtu.be/1Zex5zJVfCY" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
+		<td rowspan="26">Archimedes<br><a href="../archimedes/sala.htm" target="_blank"><img src="../imagens/vr.png" style="margin-bottom:-10px" width="40" alt="immersive room"></a><hr>Catalan<br><a href="../catalan/sala.htm" target="_blank"><img src="../imagens/vr.png" style="margin-bottom:-10px" width="40" alt="immersive room"></a><br></td>
+	</tr>
+	<tr>
+		<td><img src="../catalan/ar/180A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td></td>
+		<td><a href="../catalan/#m3d" target="_blank">Triakis Tetrahedron</a></td>
+		<td><a href="../catalan/vr/triakis_tetrahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/j23eKa-AbaM" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../archimedes/ar/11A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td>U<sub>7</sub></td>
+		<td><a href="../archimedes/#m3d" target="_blank">Cuboctahedron</a></td>
+		<td><a href="../archimedes/vr/cuboctahedron.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/FP27muJEe58" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="https://youtu.be/mGS-RLW1Lls" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../catalan/ar/165A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td></td>
+		<td><a href="../catalan/#m3d" target="_blank">Rhombic Dodecahedron</a></td>
+		<td><a href="../catalan/vr/rhombic_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/_LgMPyVMfPM" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
 		<td><img src="../archimedes/ar/hiroA.png" style="margin-bottom:-10px" width="50" alt="image"></td>
 		<td>U<sub>8</sub></td>
 		<td><a href="../archimedes/#m3d" target="_blank">Truncated octahedron</a></td>
 		<td><a href="../archimedes/vr/truncated_octahedron.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/dFkNEXxzO1k" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
 		<td rowspan="2"><a href="https://youtu.be/C87FWLpDiN8" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
-		<td rowspan="26">Archimedes<br><a href="../archimedes/sala.htm" target="_blank"><img src="../imagens/vr.png" style="margin-bottom:-10px" width="40" alt="immersive room"></a><hr>Catalan<br><a href="../catalan/sala.htm" target="_blank"><img src="../imagens/vr.png" style="margin-bottom:-10px" width="40" alt="immersive room"></a><br></td>
 	</tr>
 	<tr>
 		<td><img src="../catalan/ar/166A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
@@ -80,6 +110,66 @@
 		<td><a href="../catalan/#m3d" target="_blank">Tetrakis Hexahedron</a></td>
 		<td><a href="../catalan/vr/tetrakis_hexahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/vCpQbBGZVHI" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../archimedes/ar/12A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td>U<sub>9</sub></td>
+		<td><a href="../archimedes/#m3d" target="_blank">Truncated cube</a></td>
+		<td><a href="../archimedes/vr/truncated_cube.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Ri-NWNEN234" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="https://youtu.be/ZKLjhYbPtb8" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../catalan/ar/167A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td></td>
+		<td><a href="../catalan/#m3d" target="_blank">Triakis Octahedron</a></td>
+		<td><a href="../catalan/vr/triakis_octahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/9cdVtgbqS-U" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../archimedes/ar/13A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td>U<sub>10</sub></td>
+		<td><a href="../archimedes/#m3d" target="_blank">Rhombicuboctahedron</a></td>
+		<td><a href="../archimedes/vr/rhombicuboctahedron.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/abv75JrlyIY" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="https://youtu.be/AisoxUhVxGs" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../catalan/ar/168A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td></td>
+		<td><a href="../catalan/#m3d" target="_blank">Deltoidal Icositetrahedron</a></td>
+		<td><a href="../catalan/vr/deltoidal_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/cd5dJ6M9C7I" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../archimedes/ar/14A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td>U<sub>11</sub></td>
+		<td><a href="../archimedes/#m3d" target="_blank">Truncated cuboctahedron</a></td>
+		<td><a href="../archimedes/vr/truncated_cuboctahedron.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Nvmvql4focQ" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="https://youtu.be/JIMIbB6edLY" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../catalan/ar/174A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td></td>
+		<td><a href="../catalan/#m3d" target="_blank">Disdyakis Dodecahedron</a></td>
+		<td><a href="../catalan/vr/disdyakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/M63yJ9USPEk" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../archimedes/ar/15A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td>U<sub>12</sub></td>
+		<td><a href="../archimedes/#m3d" target="_blank">Snub cube</a></td>
+		<td><a href="../archimedes/vr/snubcube.html" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/YJfQyFwnxlw" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="https://youtu.be/whorXn7Yct0" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="dual"></a></td>
+	</tr>
+	<tr>
+		<td><img src="../catalan/ar/170A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
+		<td></td>
+		<td><a href="../catalan/#m3d" target="_blank">Pentagonal Icositetrahedron</a></td>
+		<td><a href="../catalan/vr/pentagonal_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/LjEK73IAm4mU" target="_blank"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td><img src="../archimedes/ar/20A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
