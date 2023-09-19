@@ -9,11 +9,10 @@
 <hr>
 <h2>List of polyhedra</h2>
 <h3 style="margin-top:3px; text-align:center;"><img src="../platonic/ar/9A.png" style="margin-bottom:-10px" width="40"> Platonic polyhedra</h3>
-<style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f2f2f2;}</style>
+<style>td, th {margin: 10px; text-align:center; padding: 10px; background-color: #f8f8ff;}</style>
 <table align="center">
 	<tr>
-		<th></th>
-		<th>Name</th>
+		<th colspan="2">Name</th>
 		<th>Imagem</th>
 		<th>3D model</th>
 		<th>Video</th>
@@ -23,41 +22,41 @@
 	<tr>
 		<td>U<sub>1</sub></td>
 		<td><a href="../platonic/" target="_blank">Tetrahedron</a></td>
-		<td><img src="../platonic/ar/5A.png" style="margin-bottom:-10px" width="50" alt="image"></a></td>
+		<td><img src="../platonic/ar/5A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
 		<td><a href="../platonic/vr/tetrahedron.html" target="_blank" alt="3D model"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="30"></a></td>
-		<td><a href="https://youtu.be/2hni77KGMnA" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></td>
+		<td><a href="https://youtu.be/2hni77KGMnA" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 		<td><a href="https://youtu.be/EAG7J-BpRgU" target="_blank" alt="dual"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 		<td rowspan="5"><a href="../platonic/sala.htm" target="_blank" alt="immersive room"><img src="../imagens/vr.png" style="margin-bottom:-10px" width="40"></a></td>
 	</tr>
 	<tr>
 		<td>U<sub>5</sub></td>
 		<td><a href="../platonic/" target="_blank">Octahedron</a></td>
-		<td><img src="../platonic/ar/7A.png" style="margin-bottom:-10px" width="50" alt="image"></a></td>
+		<td><img src="../platonic/ar/7A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
 		<td><a href="../platonic/vr/octahedron.html" target="_blank" alt="3D model"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="30"></a></td>
-		<td><a href="https://youtu.be/tUMeAHr-rws" target="_blank"  alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></td>
+		<td><a href="https://youtu.be/tUMeAHr-rws" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 		<td rowspan="2"><a href="https://youtu.be/PNDP5pM7UU8" target="_blank" alt="dual"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 	</tr>
 	<tr>
 		<td>U<sub>6</sub></td>
 		<td><a href="../platonic/" target="_blank">Cube</a></td>
-		<td><img src="../platonic/ar/6A.png" style="margin-bottom:-10px" width="50" alt="image"></a></td>
+		<td><img src="../platonic/ar/6A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
 		<td><a href="../platonic/vr/cube.html" target="_blank" alt="3D model"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="30"></a></td>
-		<td><a href="https://youtu.be/Lfk3YXUl3Ic" target="_blank"  alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></td>
+		<td><a href="https://youtu.be/Lfk3YXUl3Ic" target="_blank"  alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 	</tr>
 	<tr>
 		<td>U<sub>22</sub></td>
 		<td><a href="../platonic/" target="_blank">Icosahedron</a></td>
-		<td><img src="../platonic/ar/9A.png" style="margin-bottom:-10px" width="50" alt="image"></a></td>
+		<td><img src="../platonic/ar/9A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
 		<td><a href="../platonic/vr/icosahedron.html" target="_blank" alt="3D model"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="30"></a></td>
-		<td><a href="https://youtu.be/6GYBVIBmRdE" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></td>
+		<td><a href="https://youtu.be/6GYBVIBmRdE" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 		<td rowspan="2"><a href="https://youtu.be/deedM9fh85U" target="_blank" alt="dual"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 	</tr>
 	<tr>
 		<td>U<sub>23</sub></td>
 		<td><a href="../platonic/" target="_blank">Dodecahedron</a></td>
-		<td><img src="../platonic/ar/8A.png" style="margin-bottom:-10px" width="50" alt="image"></a></td>
+		<td><img src="../platonic/ar/8A.png" style="margin-bottom:-10px" width="50" alt="image"></td>
 		<td><a href="../platonic/vr/dodecahedron.html" target="_blank" alt="3D model"><img src="../imagens/3d.png" style="margin-bottom:-10px" width="30"></a></td>
-		<td><a href="https://youtu.be/D0MzHlIAsbQ" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></td>
+		<td><a href="https://youtu.be/D0MzHlIAsbQ" target="_blank" alt="video"><img src="../imagens/video.jpg" style="margin-bottom:-10px" width="40"></a></td>
 	</tr>
 </table>
 <h3 style="margin-top:3px"><img src="../archimedes/ar/18A.png" style="margin-bottom:-10px" width="40"> Archimedean polyhedra</h3>
