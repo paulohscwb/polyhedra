@@ -232,6 +232,246 @@
 	</tr>
 </table>
 <h3 style="margin-top:3px; text-align:center;">Nonconvex polyhedra</h3>
+<table align="center">
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive rooms</th>
+	</tr>
+	<tr>
+		<td>U<sub>3</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/196A.png" class="ima"> Octahemioctahedron</a></td>
+		<td><a href="../nonconvex/vr/octahemioctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/VnpKtcT-OII" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/165A.png" class="ima"> Octahemioctacron</a></td>
+		<td><a href="../infinity/vr/octahemioctacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/vi9yAGBNtxQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>4</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/197A.png" class="ima"> Tetrahemihexahedron</a></td>
+		<td><a href="../nonconvex/vr/tetrahemihexahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ln4kiQ4iI7w" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/250A.png" class="ima"> Tetrahemihexacron</a></td>
+		<td><a href="../infinity/vr/tetrahemihexacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/oPH0v8MMMKY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>15</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/198A.png" class="ima"> Cubohemioctahedron</a></td>
+		<td><a href="../nonconvex/vr/cubohemioctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Kezi2zLHvc4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/166A.png" class="ima"> Hexahemioctacron</a></td>
+		<td><a href="../infinity/vr/hexahemioctacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/8JRZ3Bw7kKM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>34</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/186A.png" class="ima"> Small Stellated Dodecahedron</a></td>
+		<td><a href="../nonconvex/vr/small_stellated_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/DeDzl2gwhjo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../nonconvex/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>35</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/188A.png" class="ima"> Great Dodecahedron</a></td>
+		<td><a href="../nonconvex/vr/great_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/grTVQ3vrFxg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>49</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/195A.png" class="ima"> Small Icosihemidodecahedron</a></td>
+		<td><a href="../nonconvex/vr/small_icosihemidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/yanq1FftxZw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/170A.png" class="ima"> Small icosihemidodecacron</a></td>
+		<td><a href="../infinity/vr/small_icosihemidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/QWA4BNCCnBQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>51</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/193A.png" class="ima"> Small Dodecahemidodecahedron</a></td>
+		<td><a href="../nonconvex/vr/small_dodecahemidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/FZD5tdGN6CQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/172A.png" class="ima"> Small dodecahemidodecacron</a></td>
+		<td><a href="../infinity/vr/small_dodecahemidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/QakpOrFv4hw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>52</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/187A.png" class="ima"> Great Stellated Dodecahedron</a></td>
+		<td><a href="../nonconvex/vr/great_stellated_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Ss7XnCv5fFk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../nonconvex/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>53</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/189A.png" class="ima"> Great Icosahedron</a></td>
+		<td><a href="../nonconvex/vr/great_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/VlO_cceLPTc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>62</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/190A.png" class="ima"> Small Dodecahemicosahedron</a></td>
+		<td><a href="../nonconvex/vr/small_dodecahemicosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/cLxvMTN0lpU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/168A.png" class="ima"> Small dodecahemicosacron</a></td>
+		<td><a href="../infinity/vr/small_dodecahemicosacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/-52Gc3KrPoE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>65</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/192A.png" class="ima"> Great Dodecahemicosahedron</a></td>
+		<td><a href="../nonconvex/vr/great_dodecahemicosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/-X_6Q_Gcpjc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/167A.png" class="ima"> Great dodecahemicosacron</a></td>
+		<td><a href="../infinity/vr/great_dodecahemicosacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/P2lSo4k6ox4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>70</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/191A.png" class="ima"> Great Dodecahemidodecahedron</a></td>
+		<td><a href="../nonconvex/vr/great_dodecahemidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/FEi-XX3Wt2M" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/175A.png" class="ima"> Great dodecahemidodecacron</a></td>
+		<td><a href="../infinity/vr/great_dodecahemidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/dFjIrdGVZBg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>71</sub></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/194A.png" class="ima"> Great Icosihemidodecahedron</a></td>
+		<td><a href="../nonconvex/vr/great_icosihemidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/T07oSnAvhK8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/174A.png" class="ima"> Great icosihemidodecacron</a></td>
+		<td><a href="../infinity/vr/great_icosihemidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mFcpiLX6ci0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/181A.png" class="ima"> Escher's Solid</a></td>
+		<td><a href="../nonconvex/vr/escher.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/YSOIpLf0muc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="6"><a href="../nonconvex/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/114A.png" class="ima"> Escher's Solid Dual</a></td>
+		<td><a href="../nonconvex/vr/escher_dual.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/j9XZhTHzmms" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/182A.png" class="ima"> Stella Octangula</a></td>
+		<td><a href="../nonconvex/vr/stella_octangula.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/UIYe95QRb3Y" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/183A.png" class="ima"> Rhombic Hexecontahedron</a></td>
+		<td><a href="../nonconvex/vr/rhombic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/XP-5EvWCObo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/184A.png" class="ima"> Concave Dodecahedron</a></td>
+		<td><a href="../nonconvex/vr/concave_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/1fHIXsrTkaQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/185A.png" class="ima"> Jessen's Orthogonal Icosahedron</a></td>
+		<td><a href="../nonconvex/vr/jessens_orthogonal_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/3POtASf7b5E" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/119A.png" class="ima"> Möbius Deltahedron - 24 faces</a></td>
+		<td><a href="../nonconvex/vr/mobius24.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/n1eWXPztFv0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="7"><a href="../nonconvex/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/113A.png" class="ima"> Möbius Deltahedron dual</a></td>
+		<td><a href="../nonconvex/vr/mobius24_dual.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/gg2djQBKZ9w" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/118A.png" class="ima"> Möbius Octakis Hexahedron</a></td>
+		<td><a href="../nonconvex/vr/mobius48a.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/3-Q4W-cUVv4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/112A.png" class="ima"> Möbius Octakis Hexahedron dual</a></td>
+		<td><a href="../nonconvex/vr/mobius48a_dual.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/JkfZgtznKLw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/117A.png" class="ima"> Möbius Hexakis Octahedron</a></td>
+		<td><a href="../nonconvex/vr/mobius48b.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/JsIDgl6Y-B70" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/116A.png" class="ima"> Möbius Hexakis Icosahedron</a></td>
+		<td><a href="../nonconvex/vr/mobius120a.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/wVx07RDe7sU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/115A.png" class="ima"> Möbius 10-akis Dodecahedron</a></td>
+		<td><a href="../nonconvex/vr/mobius120b.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/yGiQYxBkDWU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+</table>
 <h3 style="margin-top:3px; text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
 <h3 style="margin-top:3px; text-align:center;">Self-intersecting polyhedra</h3>
 <h3 style="margin-top:3px; text-align:center;">Quasi regular polyhedra</h3>
