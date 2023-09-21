@@ -231,7 +231,7 @@
 		<td><a href="https://youtu.be/oTaVDrXTUUU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="margin-top:3px; text-align:center;">Nonconvex polyhedra</h3>
+<h3 style="text-align:center;">Nonconvex polyhedra</h3>
 <table align="center">
 	<tr>
 		<th colspan="2">Name</th>
@@ -457,7 +457,7 @@
 		<td></td>
 		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/117A.png" class="ima"> Möbius Hexakis Octahedron</a></td>
 		<td><a href="../nonconvex/vr/mobius48b.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/JsIDgl6Y-B70" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/sIDgl6Y-B70" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -472,12 +472,12 @@
 		<td><a href="https://youtu.be/yGiQYxBkDWU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="margin-top:3px; text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
-<h3 style="margin-top:3px; text-align:center;">Self-intersecting polyhedra</h3>
-<h3 style="margin-top:3px; text-align:center;">Quasi regular polyhedra</h3>
-<h3 style="margin-top:3px; text-align:center;">Self-intersecting truncated polyhedra</h3>
-<h3 style="margin-top:3px; text-align:center;">Self-intersecting snub polyhedra</h3>
-<h3 style="margin-top:3px; text-align:center;">Johnson solids</h3>
+<h3 style="text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
+<h3 style="text-align:center;">Self-intersecting polyhedra</h3>
+<h3 style="text-align:center;">Quasi regular polyhedra</h3>
+<h3 style="text-align:center;">Self-intersecting truncated polyhedra</h3>
+<h3 style="text-align:center;">Self-intersecting snub polyhedra</h3>
+<h3 style="text-align:center;">Johnson solids</h3>
 <hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Visualization of polyhedra with Augmented Reality and Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
