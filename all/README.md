@@ -1106,6 +1106,151 @@
 	</tr>
 </table>
 <h3>Self-intersecting snub polyhedra</h3>
+<table>	
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive rooms</th>
+	</tr>
+	<tr>
+		<td>U<sub>32</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/55A.png" class="ima"> Small Snub Icosicosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/small_snub_icosicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/erJMLuAmI9I" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/54A.png" class="ima"> Small Hexagonal Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/small_hexagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/66Wf-1vlTW0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>40</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/69A.png" class="ima"> Snub Dodecadodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/snub_dodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/x9SZLgicJMg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/68A.png" class="ima"> Medial pentagonal hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/medial_pentagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mfjN0sFtKJo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>46</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/59A.png" class="ima"> Snub Icosidodecadodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/snub_icosidodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/G1YWXGwZo9s" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/58A.png" class="ima"> Medial Hexagonal Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/medial_hexagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/tFwe4m1CKsk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>57</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/65A.png" class="ima"> Great Snub Icosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_snub_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/vGsIrEKtMZ0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="4"><a href="../selfintersectsnub/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/64A.png" class="ima"> Great Pentagonal Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_pentagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/tlz5trBLgcY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>60</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/67A.png" class="ima"> Inverted Snub Dodecadodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/inverted_snub_dodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/jfhi87ROr3w" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/66A.png" class="ima"> Medial inverted pentagonal hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/medial_inverted_pentagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/1N-t4iP12lE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>64</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/57A.png" class="ima"> Great Snub Dodecicosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_snub_dodecicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ng5w0AqHAlY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/56A.png" class="ima"> Great Hexagonal Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_hexagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/RGU5m91IFhI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>69</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/63A.png" class="ima"> Great Inverted Snub Icosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_inverted_snub_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/lahPcmgWI9I" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/62A.png" class="ima"> Great Inverted Pentagonal Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_inverted_pentagonal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ZbEGNpSbcLM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>72</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/53A.png" class="ima"> Small Retrosnub Icosicosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/small_retrosnub_icosicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/_Y7sAoQHLqw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/52A.png" class="ima"> Small Hexagrammic Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/small_hexagrammic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/tnvEFc-rs7c" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>74</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/61A.png" class="ima"> Great Retrosnub Icosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_retrosnub_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/1dliq8IuaWg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersectsnub/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/60A.png" class="ima"> Great Pentagrammic Hexecontahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_pentagrammic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/fOnhat4z3Ww" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>75</sub></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/51A.png" class="ima"> Great dirhombicosidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_dirhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ahU1uPbp8l4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../infinity/#m3d" target="_blank"><img src="../infinity/ar/176A.png" class="ima"> Great dirhombicosidodecacron</a></td>
+		<td><a href="../infinity/vr/great_dirhombicosidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/1L9v6-jyevg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../infinity/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/50A.png" class="ima"> Great Disnub Dirhombidodecahedron</a></td>
+		<td><a href="../selfintersectsnub/vr/great_disnub_dirhombidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/VqCgVItpJlk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+</table>
 <h3>Johnson solids</h3>
 <hr>
 
