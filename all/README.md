@@ -640,6 +640,239 @@
 	</tr>
 </table>
 <h3 style="text-align:center;">Self-intersecting polyhedra</h3>
+<table>	
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive rooms</th>
+	</tr>
+	<tr>
+		<td>U<sub>13</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/157A.png" class="ima"> Small Cubicuboctahedron</a></td>
+		<td><a href="../selfintersect/vr/small_cubicuboctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/H_ethzGJUe0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/156A.png" class="ima"> Small Hexacronic Icositetrahedron</a></td>
+		<td><a href="../selfintersect/vr/small_hexacronic_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/_3gblaHK1i8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>14</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/155A.png" class="ima"> Great Cubicuboctahedron</a></td>
+		<td><a href="../selfintersect/vr/great_cubicuboctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/6OO_Lto6dZQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="4"><a href="../selfintersect/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/154A.png" class="ima"> Great Hexacronic Icositetrahedron</a></td>
+		<td><a href="../selfintersect/vr/great_hexacronic_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/g80SJ3GKQ14" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>17</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/153A.png" class="ima"> Uniform Great Rhombicuboctahedron</a></td>
+		<td><a href="../selfintersect/vr/uniform_great_rhombicuboctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/YkmgZu6q_FY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/152A.png" class="ima"> Great Deltoidal Icositetrahedron</a></td>
+		<td><a href="../selfintersect/vr/great_deltoidal_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/fQBdtwU7MPo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>30</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/201A.png" class="ima"> Small Ditrigonal Icosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/small_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/MKfUY4jJXRk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/164A.png" class="ima"> Small Triambic Icosahedron</a></td>
+		<td><a href="../selfintersect/vr/small_triambic_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/wFr21qdZFpE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>31</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/141A.png" class="ima"> Small icosicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/small_icosicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/lrmfPG44h8w" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/140A.png" class="ima"> Small icosacronic hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/small_icosacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/wRmIWPad2ho" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>33</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/151A.png" class="ima"> Small Dodecicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/small_dodecicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/_q8HLZVA0NE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/150A.png" class="ima"> Small Dodecacronic Hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/small_dodecacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/VA6L5eRaTlc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>36</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/161A.png" class="ima"> Dodecadodecahedron</a></td>
+		<td><a href="../selfintersect/vr/dodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Ufgfv5epBxY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/160A.png" class="ima"> Medial Rhombic Triacontahedron</a></td>
+		<td><a href="../selfintersect/vr/medial_rhombic_triacontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/V3WU8OT6HIs" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>38</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/137A.png" class="ima"> Rhombidodecadodecahedron</a></td>
+		<td><a href="../selfintersect/vr/rhombidodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/XeATL9BpQ-k" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/136A.png" class="ima"> Medial deltoidal hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/medial_deltoidal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/eVcPS8hLpuk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>41</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/199A.png" class="ima"> Ditrigonal dodecahedron</a></td>
+		<td><a href="../selfintersect/vr/ditrigonal_dodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/2YwSb2rNiJ8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/200A.png" class="ima"> Medial Triambic Icosahedron</a></td>
+		<td><a href="../selfintersect/vr/medial_triambic_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/KPLjWvIwbGw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>42</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/145A.png" class="ima"> Great ditrigonal dodecicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/great_ditrigonal_dodecicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ZC9ANLCz7qY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="4"><a href="../selfintersect/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/144A.png" class="ima"> Great ditrigonal dodecacronic hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/great_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/7vTuDZ711uA" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>43</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/147A.png" class="ima"> Small ditrigonal dodecicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/small_ditrigonal_dodecicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/snYfCG3efNY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/146A.png" class="ima"> Small ditrigonal dodecacronic hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/small_ditrigonal_dodecacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/gkZPAxHzkEA" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>44</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/143A.png" class="ima"> Icosidodecadodecahedron</a></td>
+		<td><a href="../selfintersect/vr/icosidodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/K6ELVk5le8s" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/142A.png" class="ima"> Medial icosacronic hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/medial_icosacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/VDmQWbl337M" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>47</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/163A.png" class="ima"> Great Ditrigonal Icosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/great_ditrigonal_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/JBzhvXXe96s" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/162A.png" class="ima"> Great Triambic Icosahedron</a></td>
+		<td><a href="../selfintersect/vr/great_triambic_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/6QSMyC0UHlE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>48</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/139A.png" class="ima"> Great Icosicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/great_icosicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Tuof2kPF7o4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/138A.png" class="ima"> Great icosacronic hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/great_icosacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/geCFn7Ug4XE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>54</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/159A.png" class="ima"> Great Icosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/great_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/hEGr5d4TWuI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/158A.png" class="ima"> Great Rhombic Triacontahedron</a></td>
+		<td><a href="../selfintersect/vr/great_rhombic_triacontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/E0vf_4-ciHc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>61</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/149A.png" class="ima"> Great Dodecicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/great_dodecicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/7hSJoQbY1ls" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersect/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/148A.png" class="ima"> Great dodecacronic hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/great_dodecacronic_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/63U2dRvyTB0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>67</sub></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/134A.png" class="ima"> Uniform great rhombicosidodecahedron</a></td>
+		<td><a href="../selfintersect/vr/uniform_great_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Dhg79SryBtI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="3"><a href="../selfintersect/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/136A.png" class="ima"> Great deltoidal hexecontahedron</a></td>
+		<td><a href="../selfintersect/vr/great_deltoidal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/cPm4zBzvIlI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/245A.png" class="ima"> Echidnahedron</a></td>
+		<td><a href="../selfintersect/vr/echidnahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/TW4dzEhOTEM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+</table>
 <h3 style="text-align:center;">Quasi regular polyhedra</h3>
 <h3 style="text-align:center;">Self-intersecting truncated polyhedra</h3>
 <h3 style="text-align:center;">Self-intersecting snub polyhedra</h3>
