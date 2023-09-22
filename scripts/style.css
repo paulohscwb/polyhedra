@@ -16,7 +16,7 @@ details a img:hover {opacity:0.9; transition: all .5s; box-shadow: 0 0 10px rgb(
 
 details a img {transition: all .5s; margin-top: 8px;}
 
-td, th {margin: 7px; padding: 7px; background-color: #f8f8ff; text-align: center;}
+td, th {margin: 5px; padding: 5px; background-color: #f8f8ff; text-align: center;}
 .ima {width: 40px; margin-bottom:-10px;} 
 .titulo1 {text-align:left;} 
 td img {margin-bottom:-5px;} 
