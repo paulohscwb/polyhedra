@@ -10,7 +10,7 @@ a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top
 .titulo {color:#58d68d; padding-right: 2px; font-weight: bold;}
 .titulo:after {content:" -";}
 
-table {align:center;}
+table {margin-left: auto; margin-right: auto;}
 
 details a img:hover {opacity:0.9; transition: all .5s; box-shadow: 0 0 10px rgb(150,183,170) inset; border-radius:8px;}
 
