@@ -6,7 +6,7 @@
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
 <hr>
 <h2>List of polyhedra</h2>
-<h3 style="text-align:center;">Platonic polyhedra</h3>
+<h3>Platonic polyhedra</h3>
 
 <table align="center">
 	<tr>
@@ -51,7 +51,7 @@
 		<td><a href="https://youtu.be/D0MzHlIAsbQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="text-align:center;">Archimedes and Catalan polyhedra</h3>
+<h3>Archimedes and Catalan polyhedra</h3>
 <table align="center">
 	<tr>
 		<th colspan="2">Name</th>
@@ -231,7 +231,7 @@
 		<td><a href="https://youtu.be/oTaVDrXTUUU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="text-align:center;">Nonconvex polyhedra</h3>
+<h3>Nonconvex polyhedra</h3>
 <table align="center">
 	<tr>
 		<th colspan="2">Name</th>
@@ -472,7 +472,7 @@
 		<td><a href="https://youtu.be/yGiQYxBkDWU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
+<h3>Pyramids, tetrahedrons, prisms and antiprisms</h3>
 <table>	
 	<tr>
 		<th colspan="2">Name</th>
@@ -639,7 +639,7 @@
 		<td><a href="https://youtu.be/i393vekj7Cc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="text-align:center;">Self-intersecting polyhedra</h3>
+<h3>Self-intersecting polyhedra</h3>
 <table>	
 	<tr>
 		<th colspan="2">Name</th>
@@ -873,10 +873,103 @@
 		<td><a href="https://youtu.be/TW4dzEhOTEM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
-<h3 style="text-align:center;">Quasi regular polyhedra</h3>
-<h3 style="text-align:center;">Self-intersecting truncated polyhedra</h3>
-<h3 style="text-align:center;">Self-intersecting snub polyhedra</h3>
-<h3 style="text-align:center;">Johnson solids</h3>
+<h3>Quasi regular polyhedra</h3>
+<table>	
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive room</th>
+	</tr>
+	<tr>
+		<td>U<sub>18</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/133A.png" class="ima"> Small rhombihexahedron</a></td>
+		<td><a href="../quasiregular/vr/small_rhombihexahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ir0iXqHvtSU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="14"><a href="../quasiregular/sala.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/132A.png" class="ima"> Small rhombihexacron</a></td>
+		<td><a href="../quasiregular/vr/small_rhombihexacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mh5JPLW45A4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>21</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/131A.png" class="ima"> Great Rhombihexahedron</a></td>
+		<td><a href="../quasiregular/vr/great_rhombihexahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/y9Jfn9aCE74" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/130A.png" class="ima"> Great Rhombihexacron</a></td>
+		<td><a href="../quasiregular/vr/great_rhombihexacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/FW3ifwDSd7w" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>39</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/125A.png" class="ima"> Small rhombidodecahedron</a></td>
+		<td><a href="../quasiregular/vr/small_rhombidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/dZL__bPWuPw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/124A.png" class="ima"> Small rhombidodecacron</a></td>
+		<td><a href="../quasiregular/vr/small_rhombidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/luV5euvOKIg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>50</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/129A.png" class="ima"> Small dodecicosahedron</a></td>
+		<td><a href="../quasiregular/vr/small_dodecicosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/GlnM4nOX_uo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/128A.png" class="ima"> Small dodecicosacron</a></td>
+		<td><a href="../quasiregular/vr/small_dodecicosacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/eSvMcG2GJPQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>56</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/121A.png" class="ima"> Rhombicosahedron</a></td>
+		<td><a href="../quasiregular/vr/rhombicosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/N9Bkp_0qPU0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/120A.png" class="ima"> Rhombicosacron</a></td>
+		<td><a href="../quasiregular/vr/rhombicosacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/3DTrihIC_js" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>63</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/127A.png" class="ima"> Great dodecicosahedron</a></td>
+		<td><a href="../quasiregular/vr/great_dodecicosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Ku_wJaJWbNA" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/126A.png" class="ima"> Great dodecicosacron</a></td>
+		<td><a href="../quasiregular/vr/great_dodecicosacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/0WufBkfgQP0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>73</sub></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/123A.png" class="ima"> Great rhombidodecahedron</a></td>
+		<td><a href="../quasiregular/vr/great_rhombidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/7nThUTB_4FM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/122A.png" class="ima"> Great rhombidodecacron</a></td>
+		<td><a href="../quasiregular/vr/great_rhombidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/YxT5rUYSAh4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+</table>
+<h3>Self-intersecting truncated polyhedra</h3>
+<h3>Self-intersecting snub polyhedra</h3>
+<h3>Johnson solids</h3>
 <hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Visualization of polyhedra with Augmented Reality and Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
