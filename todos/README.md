@@ -4,7 +4,7 @@
  <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contato:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="../all/">english version</a>
- <br><a href="../../pt-br/">Página Inicial</a>
+ <br><a href="../pt-br/">Página Inicial</a>
 <hr>
 <h2>Lista dos poliedros</h2>
 <h3>Poliedros de Platão</h3>
