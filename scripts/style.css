@@ -10,13 +10,13 @@ a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top
 .titulo {color:#58d68d; padding-right: 2px; font-weight: bold;}
 .titulo:after {content:" -";}
 
-table {margin-left: auto; margin-right: auto; width:100%;}
+table {margin-left: auto; margin-right: auto;}
 
 details a img:hover {opacity:0.9; transition: all .5s; box-shadow: 0 0 10px rgb(150,183,170) inset; border-radius:8px;}
 
 details a img {transition: all .5s; margin-top: 8px;}
 
-td, th {margin: 4px; padding: 4px; background-color: #f8f8ff; text-align: center;}
+td, th {padding: 3px; background-color: #f8f8ff; text-align: center;}
 .ima {width: 40px; margin-bottom:-10px;} 
 .titulo1 {text-align:left;} 
 td img {margin-bottom:-5px;} 

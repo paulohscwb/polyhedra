@@ -473,6 +473,172 @@
 	</tr>
 </table>
 <h3 style="text-align:center;">Pyramids, tetrahedrons, prisms and antiprisms</h3>
+<table>	
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive rooms</th>
+	</tr>
+	<tr>
+		<td>U<sub>76</sub></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/110A.png" class="ima"> Prism</a></td>
+		<td><a href="../polyhedron/vr/heptagonal_prism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/v10tBaJanZc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="13"><a href="../polyhedron/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>77</sub></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/108A.png" class="ima"> Antiprism</a></td>
+		<td><a href="../polyhedron/vr/hexagonal_antiprism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Zz-ypbjb3hc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>78</sub></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/105A.png" class="ima"> Stellated Prism</a></td>
+		<td><a href="../polyhedron/vr/octagrammic_prism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mcQmgH01-jk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>79</sub></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/104A.png" class="ima"> Stellated Antiprism</a></td>
+		<td><a href="../polyhedron/vr/pentagrammic_antiprism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/GqZEqofsdj8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>80</sub></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/103A.png" class="ima"> Stellated Crossed Antiprism</a></td>
+		<td><a href="../polyhedron/vr/heptagrammic_crossed_antiprism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/C2ntwS58a-I" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/109A.png" class="ima"> Pyramid</a></td>
+		<td><a href="../polyhedron/vr/heptagonal_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/9PgMa6eB4ls" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/102A.png" class="ima"> Stellated Pyramid</a></td>
+		<td><a href="../polyhedron/vr/octagrammic_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/hVeGet102BY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/107A.png" class="ima"> Dipyramid</a></td>
+		<td><a href="../polyhedron/vr/pentagonal_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ySu42Xbp4o8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/101A.png" class="ima"> Stellated Dipyramid</a></td>
+		<td><a href="../polyhedron/vr/pentagrammic_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/9Vqv3Uf-os8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/106A.png" class="ima"> Trapezohedron</a></td>
+		<td><a href="../polyhedron/vr/hexagonal_trapezohedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/aLSm95UrSoc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/100A.png" class="ima"> Stellated Trapezohedron</a></td>
+		<td><a href="../polyhedron/vr/heptagrammic_trapezohedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/BXRdBMQqs0w" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/99A.png" class="ima"> Stellated Concave Trapezohedron</a></td>
+		<td><a href="../polyhedron/vr/octagrammic_concave_trapezohedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/kt5svetFlHc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/111A.png" class="ima"> Isosceles tetrahedron</a></td>
+		<td><a href="../polyhedron/vr/isosceles_tetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/KCOAmdByNK8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/98A.png" class="ima"> Trapezo-rhombic Dodecahedron</a></td>
+		<td><a href="../polyhedron/vr/trapezoidal_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/zRXhv_sSqSw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="13"><a href="../polyhedron/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/87A.png" class="ima"> Octahedral Pentagonal Dodecahedron</a></td>
+		<td><a href="../polyhedron/vr/octahedral_pentagonal_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/pX93UGuLU5k" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/86A.png" class="ima"> Concave Dyakis Dodecahedron</a></td>
+		<td><a href="../polyhedron/vr/concave_dyakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/T7jaL3cfhl8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/85A.png" class="ima"> Dyakis Dodecahedron</a></td>
+		<td><a href="../polyhedron/vr/dyakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/NemLPCZlzVc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/83A.png" class="ima"> Tetragonal Pentagonal Dodecahedron</a></td>
+		<td><a href="../polyhedron/vr/tetartoid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/rQlyMmKYwi8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/82A.png" class="ima"> Hexakis Tetrahedron</a></td>
+		<td><a href="../polyhedron/vr/hexakis_tetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/HIip81BcXb4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/84A.png" class="ima"> Trapezohedral Tristetrahedron</a></td>
+		<td><a href="../polyhedron/vr/trapezohedral_tristetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Vzu4516lbAQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/81A.png" class="ima"> Iris Toroid</a></td>
+		<td><a href="../polyhedron/vr/heptagonal_iris_toroid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/WSbLA2qQUFE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/80A.png" class="ima"> Iris Antitoroid</a></td>
+		<td><a href="../polyhedron/vr/anti_heptagonal_iris_toroid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/G14YXwA4XWQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/246A.png" class="ima"> Rhombic enneacontahedron</a></td>
+		<td><a href="../polyhedron/vr/rhombic_enneacontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/zYVZSq2ygeY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/247A.png" class="ima"> Goddard-Henning enneahedron</a></td>
+		<td><a href="../polyhedron/vr/goddard_henning_enneahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ITlb8sSlQr4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/248A.png" class="ima"> Herschel enneahedron</a></td>
+		<td><a href="../polyhedron/vr/herschel_enneahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/b70A86cHNn8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/249A.png" class="ima"> Parallelepiped</a></td>
+		<td><a href="../polyhedron/vr/parallelepiped.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/i393vekj7Cc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+</table>
 <h3 style="text-align:center;">Self-intersecting polyhedra</h3>
 <h3 style="text-align:center;">Quasi regular polyhedra</h3>
 <h3 style="text-align:center;">Self-intersecting truncated polyhedra</h3>
