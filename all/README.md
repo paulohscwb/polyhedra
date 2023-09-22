@@ -1324,7 +1324,7 @@
 		<td>J<sub>11</sub></td>
 		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/39A.png" class="ima"> Gyroelongated pentagonal pyramid</a></td>
 		<td><a href="../johnson1/vr/j11_gyroelongated_pentagonal_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/fMhMthXUlN8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/92duwd8pWcc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>12</sub></td>
