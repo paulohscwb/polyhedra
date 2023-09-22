@@ -1252,6 +1252,209 @@
 	</tr>
 </table>
 <h3>Johnson solids</h3>
+<table>	
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive rooms</th>
+	</tr>
+	<tr>
+		<td>J<sub>1</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/49A.png" class="ima"> Square pyramid</a></td>
+		<td><a href="../johnson1/vr/j1_square_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/d9GiadvGtZY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="11"><a href="../johnson1/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>2</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/48A.png" class="ima"> Pentagonal pyramid</a></td>
+		<td><a href="../johnson1/vr/j2_pentagonal_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/j2FIU55tDJ0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>3</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/47A.png" class="ima"> Triangular cupola</a></td>
+		<td><a href="../johnson1/vr/j3_triangular_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/X9rxQpSbNGw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>4</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/46A.png" class="ima"> Square cupola</a></td>
+		<td><a href="../johnson1/vr/j4_square_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ZJzOgHzSNfo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>5</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/45A.png" class="ima"> Pentagonal cupola</a></td>
+		<td><a href="../johnson1/vr/j5_pentagonal_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/l4eloCpzaXk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>6</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/44A.png" class="ima"> Pentagonal rotunda</a></td>
+		<td><a href="../johnson1/vr/j6_pentagonal_rotunda.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/tqtdZHd0OkM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>7</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/43A.png" class="ima"> Elongated triangular pyramid</a></td>
+		<td><a href="../johnson1/vr/j7_elongated_triangular_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/ShwA8QG76po" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>8</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/42A.png" class="ima"> Elongated square pyramid</a></td>
+		<td><a href="../johnson1/vr/j8_elongated_square_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/VfEHjGmgdGU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>9</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/41A.png" class="ima"> Elongated pentagonal pyramid</a></td>
+		<td><a href="../johnson1/vr/j9_elongated_pentagonal_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/bFeE6sRYnJY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>10</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/40A.png" class="ima"> Gyroelongated square pyramid</a></td>
+		<td><a href="../johnson1/vr/j10_gyroelongated_square_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/fMhMthXUlN8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>11</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/39A.png" class="ima"> Gyroelongated pentagonal pyramid</a></td>
+		<td><a href="../johnson1/vr/j11_gyroelongated_pentagonal_pyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/fMhMthXUlN8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>12</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/38A.png" class="ima"> Triangular dipyramid</a></td>
+		<td><a href="../johnson1/vr/j12_triangular_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/3ZG1ogCRZ7c" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="11"><a href="../johnson1/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>13</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/37A.png" class="ima"> Pentagonal dipyramid</a></td>
+		<td><a href="../johnson1/vr/j13_pentagonal_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/L2GjzYfg2KU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>14</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/36A.png" class="ima"> Elongated triangular dipyramid</a></td>
+		<td><a href="../johnson1/vr/j14_elongated_triangular_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/6zzWsmyfy54" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>15</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/35A.png" class="ima"> Elongated square dipyramid</a></td>
+		<td><a href="../johnson1/vr/j15_elongated_square_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/4NlGv0FYMgY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>16</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/34A.png" class="ima"> Elongated pentagonal dipyramid</a></td>
+		<td><a href="../johnson1/vr/j16_elongated_pentagonal_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/fn5wpejTBcU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>17</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/33A.png" class="ima"> Gyroelongated square dipyramid</a></td>
+		<td><a href="../johnson1/vr/j17_gyroelongated_square_dipyramid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/UU2quuZVXb4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>18</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/32A.png" class="ima"> Elongated triangular cupola</a></td>
+		<td><a href="../johnson1/vr/j18_elongated_triangular_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/-vP6AcODWgE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>19</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/31A.png" class="ima"> Elongated square cupola</a></td>
+		<td><a href="../johnson1/vr/j19_elongated_square_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/l58OXhBPZfo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>20</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/30A.png" class="ima"> Elongated pentagonal cupola</a></td>
+		<td><a href="../johnson1/vr/j20_elongated_pentagonal_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mvKPLorUVmE" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>21</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/29A.png" class="ima"> Elongated pentagonal rotunda</a></td>
+		<td><a href="../johnson1/vr/j21_elongated_pentagonal_rotunda.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/G3POq_ibSiA" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>22</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/28A.png" class="ima"> Gyroelongated triangular cupola</a></td>
+		<td><a href="../johnson1/vr/j22_gyroelongated_triangular_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Q0ZCB56KD44" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>23</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/27A.png" class="ima"> Gyroelongated square cupola</a></td>
+		<td><a href="../johnson1/vr/j23_gyroelongated_square_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/jnDAD5MNJL4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="10"><a href="../johnson1/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>24</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/26A.png" class="ima"> Gyroelongated pentagonal cupola</a></td>
+		<td><a href="../johnson1/vr/j24_gyroelongated_pentagonal_cupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/qyIs187eqSo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>25</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/25A.png" class="ima"> Gyroelongated pentagonal rotunda</a></td>
+		<td><a href="../johnson1/vr/j25_gyroelongated_pentagonal_rotunda.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/m9jQm9g7ki8" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>26</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/24A.png" class="ima"> Gyrobifastigium</a></td>
+		<td><a href="../johnson1/vr/j26_gyrobifastigium.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/7OonapMI2kk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>27</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/23A.png" class="ima"> Triangular orthobicupola</a></td>
+		<td><a href="../johnson1/vr/j27_triangular_orthobicupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/3uXLVwVhi24" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>28</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/22A.png" class="ima"> Square orthobicupola</a></td>
+		<td><a href="../johnson1/vr/j28_square_orthobicupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/IvHN7prp9uk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>29</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/21A.png" class="ima"> Square gyrobicupola</a></td>
+		<td><a href="../johnson1/vr/j29_square_gyrobicupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/jYreFRik0z0" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>30</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/20bA.png" class="ima"> Pentagonal orthobicupola</a></td>
+		<td><a href="../johnson1/vr/j30_pentagonal_orthobicupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/FUPjj5wl8iY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>31</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/19bA.png" class="ima"> Pentagonal gyrobicupola</a></td>
+		<td><a href="../johnson1/vr/j31_pentagonal_gyrobicupola.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Yy9iQKYZv1c" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>J<sub>32</sub></td>
+		<td class="titulo1"><a href="../johnson1/#m3d" target="_blank"><img src="../johnson1/ar/18bA.png" class="ima"> Pentagonal orthocupolarotunda</a></td>
+		<td><a href="../johnson1/vr/j32_pentagonal_orthocupolarontunda.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/e1Ak3-GPH9M" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+</table>
 <hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Polyhedra: Visualization of polyhedra with Augmented Reality and Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
