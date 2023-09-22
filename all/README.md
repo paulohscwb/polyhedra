@@ -4,6 +4,7 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="../todos/">versão em português</a>
+ <br><a href="../">Home</a>
 <hr>
 <h2>List of polyhedra</h2>
 <h3>Platonic polyhedra</h3>
