@@ -177,9 +177,9 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">J<sub>89</sub></span> A hebesfenomegacorona é um dos sólidos de Johnson. O nome é derivado de "hebespheno" (que significa um arranjo em forma de cunha de três "luas", onde cada lua consiste em um quadrado ligado a dois triângulos) e "megacorona" denotando uma estrutura em forma de coroa composta por 12 triângulos (em oposição à menor "coroa" de 8 triângulos encontrados na esfenocorona). Tem uma distante relação com o icosaedro: se o quadrado do meio for contraído até uma aresta de modo que os quadrados vizinhos se tornem triângulos e os triângulos vizinhos se toquem, o resultado é um icosaedro.
 <br><br><b>Faces:</b> 18 triângulos e 3 quadrados | <b>Arestas:</b> 33 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 157.15°, 141.34°, 128.5°, 111.73°, 149.56°, 101.29°, 152.98°, 102.52° e 133.97°. <a href="https://polytope.miraheze.org/wiki/Hebesphenomegacorona" target="_blank">Mais sobre...</a>
 <hr>
-<h4>28. Disphenocingulum</h4>
+<h4>28. Disfenocingulum</h4>
 <a href="../vr/j90_disphenocingulum.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/242A.png" class="foto"></a><img src="../ar/242.png" class="qr">
- <br><span class="titulo">J<sub>90</sub></span> O disphenocingulum é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significando dois desses complexos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
+ <br><span class="titulo">J<sub>90</sub></span> O disfenocingulum é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significando dois desses complexos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
 <br><br><b>Faces:</b> 20 triângulos e 4 quadrados | <b>Arestas:</b> 38 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 124.7°, 148.43°, 133.59°, 166.81°, 154.42°, 134.34° e 100.19°. <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">Mais sobre...</a>
 <hr>
 <h4>29. Birotunda bilunar</h4>
