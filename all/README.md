@@ -968,6 +968,143 @@
 	</tr>
 </table>
 <h3>Self-intersecting truncated polyhedra</h3>
+<table>	
+	<tr>
+		<th colspan="2">Name</th>
+		<th>3D model</th>
+		<th>Video</th>
+		<th>Immersive rooms</th>
+	</tr>
+	<tr>
+		<td>U<sub>16</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/79A.png" class="ima"> Cubitruncated Cuboctahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/cubitruncated_cuboctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Iww2EeWGhLw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/78A.png" class="ima"> Tetradyakis Hexahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/tetradyakis_hexahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/7fmCYZd7NAg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>19</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/97A.png" class="ima"> Stellated Truncated Hexahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/stellated_truncated_hexahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/kPkQ5VKHCJQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/96A.png" class="ima"> Great Triakis Octahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_triakis_octahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/u-eUG2Aheac" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>20</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/77A.png" class="ima"> Great Truncated Cuboctahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_truncated_cuboctahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/E3S0jcNsmbk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/76A.png" class="ima"> Great Disdyakis Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_disdyakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/otbaosPUOck" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>37</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/95A.png" class="ima"> Truncated Great Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/truncated_great_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/iCiYSH8SLlM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/94A.png" class="ima"> Small Stellapentakis Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/small_stellapentakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/pCRbAg-IfsY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>45</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/75A.png" class="ima"> Icositruncated Dodecadodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/icositruncated_dodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/QUn063tHFdU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/74A.png" class="ima"> Tridyakis icosahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/tridyakis_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/UMUvbMhA8go" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>55</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/89A.png" class="ima"> Great Truncated Icosahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/truncated_great_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/AtZvIVZTTmk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="4"><a href="../selfintersecttruncated/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/88A.png" class="ima"> Great Stellapentakis Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_stellapentakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/II4_W9lnL1g" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>58</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/93A.png" class="ima"> Small Stellated Truncated Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/small_stellated_truncated_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/gVMQU00GLSk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/92A.png" class="ima"> Great Pentakis Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_pentakis_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/GE3P_pDGVpg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>59</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/73A.png" class="ima"> Truncated Dodecadodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/truncated_dodecadodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/U2dpp-lO6po" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/72A.png" class="ima"> Medial Disdyakis Triacontahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/medial_disdyakis_triacontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/tkOYTSC_xeI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>66</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/91A.png" class="ima"> Great Stellated Truncated Dodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_stellated_truncated_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/C8D5DXPlk8s" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/90A.png" class="ima"> Great Triakis Icosahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_triakis_icosahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/CuR_7n9pV5A" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td>U<sub>68</sub></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/71A.png" class="ima"> Great Truncated Icosidodecahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_truncated_icosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/aA7h5AJ4peo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td rowspan="2"><a href="../selfintersecttruncated/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/70A.png" class="ima"> Great Disdyakis Triacontahedron</a></td>
+		<td><a href="../selfintersecttruncated/vr/great_disdyakis_triacontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mDTPYwDPU1A" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+</table>
 <h3>Self-intersecting snub polyhedra</h3>
 <h3>Johnson solids</h3>
 <hr>
