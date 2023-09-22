@@ -855,14 +855,14 @@
 	</tr>
 	<tr>
 		<td>U<sub>67</sub></td>
-		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/134A.png" class="ima"> Uniform great rhombicosidodecahedron</a></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/135A.png" class="ima"> Uniform great rhombicosidodecahedron</a></td>
 		<td><a href="../selfintersect/vr/uniform_great_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/Dhg79SryBtI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td rowspan="3"><a href="../selfintersect/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
 	</tr>
 	<tr>
 		<td></td>
-		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/136A.png" class="ima"> Great deltoidal hexecontahedron</a></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/134A.png" class="ima"> Great deltoidal hexecontahedron</a></td>
 		<td><a href="../selfintersect/vr/great_deltoidal_hexecontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/cPm4zBzvIlI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
