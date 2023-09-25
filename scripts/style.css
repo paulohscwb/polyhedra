@@ -5,7 +5,7 @@
 
 a.fotoA {min-width:30%; max-width:40%; float:right; margin: 0 0 10px 10px; text-decoration:none;}
 
-a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top:-6px; font-weight: bold; color:#58d68d; background: url("../imagens/3d.png") no-repeat; background-size: contain; background-position: 25%}
+a.fotoA:after {content:attr(title); display:block; text-align:left; margin-top:-6px; padding-left:30px; font-weight: bold; color:#58d68d; background: url("../imagens/3d.png") no-repeat; background-size: contain; }
 
 .titulo {color:#58d68d; padding-right: 2px; font-weight: bold;}
 .titulo:after {content:" -";}
