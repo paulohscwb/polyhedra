@@ -7,7 +7,7 @@ a.fotoA {min-width:30%; max-width:40%; float:right; margin: 0 0 10px 10px; text-
 
 a.fotoA:after {content:attr(title); display:block; text-align:center; margin-top:-6px; font-weight: bold; color:#58d68d;}
 
-a.fotoA::before {
+a.fotoA:before {
     background: url("../imagens/3d.png") no-repeat;
     background-size: contain;
     width: 25px;
