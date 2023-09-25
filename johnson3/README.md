@@ -5,8 +5,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/johnson3/pt-br/">versão em português</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../">Home</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More polyhedra:</option>
 		<option value="../archimedes/">Archimedes</option>
 		<option value="../catalan/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p13"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Johnson solids - part 3: J<sub>63</sub> - J<sub>92</sub></h2>
   A Johnson solid is a strictly convex regular-faced polyhedron that is not uniform. They are named after Norman Woodason Johnson, who in 1966 first listed all 92 such polyhedra. In third part, we have more 30 Johnson solids. 
-  <hr>
+ <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
+<hr>
+  <h3 align="center">Immersive rooms</h3>
+  <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva dos Sólidos de Johnson - parte 3" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala3.htm" target="_blank">&#x1f517; room 3</a></p>
+  <p align="center"><img src="../../geometria-descritiva/videos/johnson3a.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Immersive room of Johnson solids - part 3" loading="lazy"/><img src="../../geometria-descritiva/videos/johnson3b.gif" alt="Immersive room of Johnson solids - part 3" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../../geometria-descritiva/videos/johnson3c.gif" style="max-width: 31.5%; border-radius:5px" alt="Immersive room of Johnson solids - part 3" loading="lazy"/></p>
+<hr>
+  <h3 id="ra" align="center">Augmented Reality</h3>
   To view Johnson solids in AR, simply visit:
 <p align="center"><a href="ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson3/ra.html</a></p> 
 with any browser with a webcam device (smartphone, tablet or notebook). 
@@ -40,6 +46,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p align="center"><img style="border-radius:7px;" src="ar/example9.jpg" width="85%"></p>
 <p align="center"><img src="ar/johnson3.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+<h3 id="m3d" align="center">3D models</h3>
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXQoWgT-PKQ-avQgnJ3UXuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
 <h4>1. Tridiminished icosahedron</h4>
 <a href="vr/j63_tridiminished_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/215A.png" class="foto"></a><img src="ar/215.png" class="qr">
  <br><span class="titulo">J<sub>63</sub></span> The tridiminished icosahedron, or teddi, is one of the 92 Johnson solids. It can be constructed by removing 3 mutually non-adjacent vertices from a regular icosahedron. The name refers to one way of constructing it, by removing three pentagonal pyramids J<sub>2</sub> from a regular icosahedron, which replaces three sets of five triangular faces from the icosahedron with three mutually adjacent pentagonal faces. 
@@ -165,7 +173,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>25. Augmented sphenocorona </h4>
 <a href="vr/j87_augmented_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/239A.png" class="foto"></a><img src="ar/239.png" class="qr">
  <br><span class="titulo">J<sub>87</sub></span> The augmented sphenocorona, or auwaco, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the sphenocorona J<sub>86</sub>. 
-<br><br><b>Faces:</b> 16 triangles and 1 square | <b>Edges:</b> 26 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75°, and 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">More...</a>
+<br><br><b>Faces:</b> 16 triangles and 1 square | <b>Edges:</b> 26 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75° and 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">More...</a>
 <hr>
 <h4>26. Sphenomegacorona </h4>
 <a href="vr/j88_sphenomegacorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/240A.png" class="foto"></a><img src="ar/240.png" class="qr">
@@ -184,7 +192,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>29. Bilunabirotunda</h4>
 <a href="vr/j91_bilunabirotunda.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/243A.png" class="foto"></a><img src="ar/243.png" class="qr">
- <br><span class="titulo">J<sub>91</sub></span> The bilunabirotunda, or bilbiro, is one of the Johnson solids. The "birotunda" in the name signifies these two areas, while the "biluna" refers to the two lunes (sections with a square connecting to two triangles). If the "rotunda" parts of two bilunabirotundae are aligned with opposite corresponding parts of an icosidodecahedron, they touch at the center of the icosidodecahedron because each bilunabirotunda's height in this direction is exactly half that of the icosidodecahedron height.  
+ <br><span class="titulo">J<sub>91</sub></span> The bilunabirotunda, or bilbiro, is one of the Johnson solids. The "birotunda" in the name signifies two rotundas, while the "biluna" refers to the two lunes (sections with a square connecting to two triangles). If the "rotunda" parts of two bilunabirotundae are aligned with opposite corresponding parts of an icosidodecahedron, they touch at the center of the icosidodecahedron because each bilunabirotunda's height in this direction is exactly half that of the icosidodecahedron height.  
 <br><br><b>Faces:</b> 8 triangles, 2 squares and 4 pentagons | <b>Edges:</b> 26 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 159.09°, 142.62°, 110.95°, 100.81° and 63.43°. <a href="https://polytope.miraheze.org/wiki/Bilunabirotunda" target="_blank">More...</a>
 <hr>
 <h4>30. Triangular hebesphenorotunda</h4>

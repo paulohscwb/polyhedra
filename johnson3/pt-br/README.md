@@ -5,8 +5,7 @@
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/johnson3/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
-	<a href="../../pt-br/">Página Inicial</a>
-	<br><select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
+	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected>Mais poliedros:</option>
 		<option value="../../archimedes/pt-br/">Arquimedes</option>
 		<option value="../../catalan/pt-br/">Catalan</option>
@@ -32,7 +31,14 @@ function urlHandler(value) {
 <p id="p13"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Sólidos de Johnson - parte 3: J<sub>63</sub> - J<sub>92</sub></h2>
   Um sólido de Johnson é um poliedro de face regular estritamente convexo que não é uniforme. Eles receberam o nome de Norman Woodason Johnson, que em 1966 listou pela primeira vez todos os 92 poliedros. Na terceira parte, temos mais 30 sólidos de Johnson. 
+  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
+<h3 align="center">Salas imersivas</h3>
+  <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala imersiva dos Sólidos de Johnson - parte 3" frameborder="0" loading="lazy"></iframe></div>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a></p>
+  <p align="center"><img src="../../../geometria-descritiva/videos/johnson3a.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Sala imersiva dos Sólidos de Johnson - parte 3" loading="lazy"/><img src="../../../geometria-descritiva/videos/johnson3b.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" alt="Sala imersiva dos Sólidos de Johnson - parte 3" loading="lazy"/><img src="../../../geometria-descritiva/videos/johnson3c.gif" style="max-width: 31.5%; border-radius:5px" alt="Sala imersiva dos Sólidos de Johnson - parte 3" loading="lazy"/></p>
+<hr>
+  <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros de Johnson em RA, visite a página:
 <p align="center"><a href="../ra.html" target="_blank">https://paulohscwb.github.io/polyhedra/johnson3/ra.html</a></p> 
 com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -40,6 +46,8 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p align="center"><img style="border-radius:7px;" src="../ar/example9.jpg" width="85%"></p>
 <p align="center"><img src="../ar/johnson3.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
+ <h3 id="m3d" align="center">Modelos 3D</h3>
+ <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxXQoWgT-PKQ-avQgnJ3UXuZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"  allowfullscreen></iframe>
 <h4>1. Icosaedro tridiminuído</h4>
 <a href="../vr/j63_tridiminished_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/215A.png" class="foto"></a><img src="../ar/215.png" class="qr">
  <br><span class="titulo">J<sub>63</sub></span> O icosaedro tridiminuído é um dos 92 sólidos de Johnson. Pode ser construído removendo 3 vértices mutuamente não adjacentes de um icosaedro regular. O nome refere-se a uma maneira de construí-lo, removendo três pirâmides pentagonais J<sub>2</sub> de um icosaedro regular, que substitui três conjuntos de cinco faces triangulares do icosaedro por três faces pentagonais mutuamente adjacentes.
@@ -165,7 +173,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>25. Esfenocorona aumentada</h4>
 <a href="../vr/j87_augmented_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/239A.png" class="foto"></a><img src="../ar/239.png" class="qr">
  <br><span class="titulo">J<sub>87</sub></span> A esfenocorona aumentada é um dos sólidos de Johnson. Pode ser construída anexando uma pirâmide quadrada a uma das faces quadradas da esfenocorona J<sub>86</sub>.
-<br><br><b>Faces:</b> 16 triângulos e 1 quadrado | <b>Arestas:</b> 26 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75°, e 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">Mais sobre...</a>
+<br><br><b>Faces:</b> 16 triângulos e 1 quadrado | <b>Arestas:</b> 26 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52°, 164.26°, 171.75° e 152.19°. <a href="https://polytope.miraheze.org/wiki/Augmented_sphenocorona" target="_blank">Mais sobre...</a>
 <hr>
 <h4>26. Esfenomegacorona</h4>
 <a href="../vr/j88_sphenomegacorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/240A.png" class="foto"></a><img src="../ar/240.png" class="qr">
@@ -179,17 +187,17 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>28. Disfenocingulum</h4>
 <a href="../vr/j90_disphenocingulum.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/242A.png" class="foto"></a><img src="../ar/242.png" class="qr">
- <br><span class="titulo">J<sub>90</sub></span> O disfenocingulum é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significando dois desses complexos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
+ <br><span class="titulo">J<sub>90</sub></span> O disfenocingulum é um dos sólidos de Johnson. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos - "di" significa dois desses conjuntos) e "cingulum" denotando uma forma de coroa de 12 triângulos.
 <br><br><b>Faces:</b> 20 triângulos e 4 quadrados | <b>Arestas:</b> 38 | <b>Vértices:</b> 16 | <b>Ângulos diédricos:</b> 124.7°, 148.43°, 133.59°, 166.81°, 154.42°, 134.34° e 100.19°. <a href="https://polytope.miraheze.org/wiki/Disphenocingulum" target="_blank">Mais sobre...</a>
 <hr>
 <h4>29. Birotunda bilunar</h4>
 <a href="../vr/j91_bilunabirotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/243A.png" class="foto"></a><img src="../ar/243.png" class="qr">
- <br><span class="titulo">J<sub>91</sub></span> A birotunda bilunar é um dos sólidos de Johnson. A "birotunda" no nome significa essas duas áreas, enquanto a "bilunar" se refere às duas luas (seções com um quadrado conectando-se a dois triângulos). Se as partes "rotunda" de dois bilunabirotundae estiverem alinhadas com as partes correspondentes opostas de um icosidodecaedro, elas se tocam no centro do icosidodecaedro porque a altura de cada bilunabirotunda nessa direção é exatamente a metade da altura do icosidodecaedro.
+ <br><span class="titulo">J<sub>91</sub></span> A birotunda bilunar é um dos sólidos de Johnson. A "birotunda" no nome significa duas rotundas, enquanto a "bilunar" se refere às duas luas (seções com um quadrado conectando-se a dois triângulos). Se as partes "rotunda" de dois bilunabirotundae estiverem alinhadas com as partes correspondentes opostas de um icosidodecaedro, elas se tocam no centro do icosidodecaedro porque a altura de cada bilunabirotunda nessa direção é exatamente a metade da altura do icosidodecaedro.
 <br><br><b>Faces:</b> 8 triângulos, 2 quadrados e 4 pentágonos | <b>Arestas:</b> 26 | <b>Vértices:</b> 14 | <b>Ângulos diédricos:</b> 159.09°, 142.62°, 110.95°, 100.81° e 63.43°. <a href="https://polytope.miraheze.org/wiki/Bilunabirotunda" target="_blank">Mais sobre...</a>
 <hr>
 <h4>30. Hebesfenorotunda triangular</h4>
 <a href="../vr/j92_triangular_hebesphenorotunda.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/244A.png" class="foto"></a><img src="../ar/244.png" class="qr">
- <br><span class="titulo">J<sub>92</sub></span> A hebesfenorotunda triangular é um dos sólidos de Johnson. A hebesfenorotunda triangular também tem uma conexão com o pequeno rombicosidodecaedro. Os triângulos e quadrados que formam a porção "lunar" da forma são congruentes com os triângulos e quadrados correspondentes do pequeno rombicosidodecaedro.
+ <br><span class="titulo">J<sub>92</sub></span> A hebesfenorotunda triangular é um dos sólidos de Johnson. A hebesfenorotunda triangular também tem uma conexão com o pequeno rombicosidodecaedro. Os triângulos e quadrados que formam a porção "lunar" do sólido são congruentes com os triângulos e quadrados correspondentes do pequeno rombicosidodecaedro.
 <br><br><b>Faces:</b> 13 triângulos, 3 quadrados, 3 pentágonos e 1 hexágono | <b>Arestas:</b> 36 | <b>Vértices:</b> 18 | <b>Ângulos diédricos:</b> 159.09°, 142.62°, 138.19°, 110.95° e 100.81°.. <a href="https://polytope.miraheze.org/wiki/Triangular_hebesphenorotunda" target="_blank">Mais sobre...</a>
 <p class="topop"><a href="#p13" class="topo">voltar ao topo</a></p>
 
