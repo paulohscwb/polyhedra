@@ -1733,92 +1733,92 @@
 		<td>J<sub>78</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/230A.png" class="ima"> Rombicosidodecaedro diminuído metagirado</a></td>
 		<td><a href="../johnson3/vr/j78_metagyrate_diminished_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/zqizCK0xXBY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>79</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/231A.png" class="ima"> Rombicosidodecaedro diminuído bigirado</a></td>
 		<td><a href="../johnson3/vr/j79_bigyrate_diminished_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/Gcry-JuYbXw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>80</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/232A.png" class="ima"> Rombicosidodecaedro parabidiminuído</a></td>
 		<td><a href="../johnson3/vr/j80_parabidiminished_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/MVhl4kEEpks" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>81</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/233A.png" class="ima"> Rombicosidodecaedro metabidiminuído</a></td>
 		<td><a href="../johnson3/vr/j81_metabidiminished_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/ifAzWvodHbU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>82</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/234A.png" class="ima"> Rombicosidodecaedro bidiminuído girado</a></td>
 		<td><a href="../johnson3/vr/j82_gyrate_bidiminished_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/Yh3me_OvVtc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>83</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/235A.png" class="ima"> Rombicosidodecaedro tridiminuído</a></td>
 		<td><a href="../johnson3/vr/j83_tridiminished_rhombicosidodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/bWEA0oNBuMk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td rowspan="10"><a href="../johnson3/sala3.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>84</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/236A.png" class="ima"> Disfenóide snub</a></td>
 		<td><a href="../johnson3/vr/j84_snub_disphenoid.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/wF6v5G2JYdI" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>85</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/237A.png" class="ima"> Antiprisma quadrado snub</a></td>
 		<td><a href="../johnson3/vr/j85_snub_square_antiprism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/wkxDeuA6l_M" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>86</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/238A.png" class="ima"> Esfenocorona</a></td>
 		<td><a href="../johnson3/vr/j86_sphenocorona.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/veYUUUMnvDY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>87</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/239A.png" class="ima"> Esfenocorona aumentada</a></td>
 		<td><a href="../johnson3/vr/j87_augmented_sphenocorona.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/hycF4bQR55Q" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>88</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/240A.png" class="ima"> Esfenomegacorona</a></td>
 		<td><a href="../johnson3/vr/j88_sphenomegacorona.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/krPccTA_lso" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>89</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/241A.png" class="ima"> Hebesfenomegacorona</a></td>
 		<td><a href="../johnson3/vr/j89_hebesphenomegacorona.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/6TWFV8fiR_I" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>90</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/242A.png" class="ima"> Disfenocingulum</a></td>
 		<td><a href="../johnson3/vr/j90_disphenocingulum.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/UKr8w9y55Vs" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>91</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/243A.png" class="ima"> Birotunda bilunar</a></td>
 		<td><a href="../johnson3/vr/j91_bilunabirotunda.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/QQG6BTh5_KQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 	<tr>
 		<td>J<sub>92</sub></td>
 		<td class="titulo1"><a href="../johnson3/pt-br/#m3d" target="_blank"><img src="../johnson3/ar/244A.png" class="ima"> Hebesfenorotunda triangular</a></td>
 		<td><a href="../johnson3/vr/j92_triangular_hebesphenorotunda.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/xKnMtdn_7GY" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/dNiLY7REaQU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
 <hr>
