@@ -4,6 +4,8 @@
 	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
 	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
@@ -19,8 +21,8 @@
 		</a-assets>
 				
 		<a-entity position="0 0 0" rotation="245.63 0 0.91" scale="4.5 4.5 4.5">
-			<a-obj-model src="johnson/j24_gyroelongated_pentagonal_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="johnson/j24_gyroelongated_pentagonal_cupolaL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model id="fc" src="johnson/j24_gyroelongated_pentagonal_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="johnson/j24_gyroelongated_pentagonal_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.995648 -0.249677 0.045090'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.928425 0.319026 0.303212'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.878881 -0.297121 -0.570283'></a-sphere>
@@ -56,5 +58,12 @@
 
 		<a-sky color="aliceblue"></a-sky>
     </a-scene>
+	<div class="box">
+		<span class="titulo">Cúpula pentagonal giralongada</span>
+		<br><span class="titulo">Gyroelongated pentagonal cupola</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
   </body>
 </html>
