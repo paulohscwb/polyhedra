@@ -1,6 +1,6 @@
 * {font-family:'Calibri'; font-size:2vh;}
 input {padding: 5px; max-width: 3vh;}
 input {border-radius:10px; border:1px solid #ccc; max-width:95%;}
-.box {position: fixed; top: 0; max-width:95vw; border:1px solid #ccc; margin:5px 5px 0 5px; padding: 10px; box-shadow:0 0 1px inset grey; border-radius:7px; background: linear-gradient(to right top, white, aliceblue);}
+.box {text-align:center; position: fixed; top: 0; max-width:95vw; border:1px solid #ccc; margin:5px 5px 0 5px; padding: 10px; box-shadow:0 0 1px inset grey; border-radius:7px; background: linear-gradient(to right top, white, aliceblue);}
 hr {border-top:1px solid lightblue; border-bottom:1px solid silver;}
 .titulo {font-size:2.1vh; color:royalblue; font-weight:bold;}
