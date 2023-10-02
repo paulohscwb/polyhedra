@@ -4,6 +4,8 @@
 	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
 	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
@@ -19,8 +21,8 @@
 		</a-assets>
 				
 		<a-entity position="0 0 0" rotation="0 0 0" scale="7 7 7">
-			<a-obj-model src="outros/GreatSnubDodecicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="outros/GreatSnubDodecicosidodecahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model id="fc" src="outros/GreatSnubDodecicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="outros/GreatSnubDodecicosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.1818 0.1429 -0.6682'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.1818 -0.1429 0.6682'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.1818 -0.1429 -0.6682'></a-sphere>
@@ -91,5 +93,12 @@
 
 		<a-sky color="aliceblue"></a-sky>
     </a-scene>
+	<div class="box">
+		<span class="titulo">Grande dodecicosidodecaedro snub</span>
+		<br><span class="titulo">Great snub dodecicosidodecahedron</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
   </body>
 </html>
