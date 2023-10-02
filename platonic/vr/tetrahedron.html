@@ -4,14 +4,8 @@
 	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
 	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="../../scripts/aframe-orbit-controls.min.js"></script>
-	<style type="text/css">
-		* {font-family:'Calibri'; font-size:2.1vh;}
-		input {padding: 5px; max-width: 3vh;}
-		input {border-radius:10px; border:1px solid #ccc; max-width:95%;}
-		.box {position: fixed; top: 0; max-width:95vw; border:1px solid #ccc; margin:5px 5px 0 5px; padding: 10px; box-shadow:0 0 1px inset grey; border-radius:7px; background: linear-gradient(to right, #F0FFF8, aliceblue);}
-		hr {border-top:1px solid lightblue; border-bottom:1px solid silver;}
-		.titulo {font-size:2.4vh; color:royalblue; font-weight:bold;}
-	</style>
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
 </head>  
 <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -110,30 +104,5 @@
 		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
 		<input type="checkbox" id="ar" checked onclick="marestas()">edges 
 	</div>
-	<script>
-		function mfaces() {
-			var x = document.getElementById("faces")
-			var sceneEl = document.querySelector('a-scene')
-			var entityEl = sceneEl.querySelector('#fc')
-			if (x.checked == true) { 
-			  entityEl.setAttribute('visible','true');
-			}
-			else {
-			  entityEl.setAttribute('visible','false');
-			}
-		}
-		
-		function marestas() {
-			var x = document.getElementById("ar")
-			var sceneEl = document.querySelector('a-scene')
-			var entityEl = sceneEl.querySelector('#arestas')
-			if (x.checked == true) { 
-			  entityEl.setAttribute('visible','true');
-			}
-			else {
-			  entityEl.setAttribute('visible','false');
-			}
-		}
-	</script>
 </body>
 </html>
