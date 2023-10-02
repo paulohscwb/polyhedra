@@ -4,6 +4,8 @@
 	<link rel="icon" type="image/png" href="salas/imagens/icone.png">
 	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="https://unpkg.com/aframe-orbit-controls@1.3.0/dist/aframe-orbit-controls.min.js"></script>
+	<script src="nomes.js"></script>
+	<link rel="stylesheet" href="nomes.css">
   </head>
   <body>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
@@ -19,8 +21,8 @@
 		</a-assets>
 				
 		<a-entity position="0 0 0" rotation="243.35 0 179.22" scale="4.5 4.5 4.5">
-			<a-obj-model src="johnson/j78_metagyrate_diminished_rhombicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="johnson/j78_metagyrate_diminished_rhombicosidodecahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model id="fc" src="johnson/j78_metagyrate_diminished_rhombicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="johnson/j78_metagyrate_diminished_rhombicosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.952173 -0.166819 -0.363246'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.946899 -0.019645 0.255045'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.929897 -0.401835 0.019190'></a-sphere>
@@ -86,5 +88,12 @@
 
 		<a-sky color="aliceblue"></a-sky>
     </a-scene>
+	<div class="box">
+		<span class="titulo">Rombicosidodecaedro diminuído metagirado</span>
+		<br><span class="titulo">Metagyrate diminished rhombicosidodecahedron</span>
+		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
+		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
+		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
+	</div>
   </body>
 </html>
