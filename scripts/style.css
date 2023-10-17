@@ -7,6 +7,10 @@ a.fotoA {min-width:30%; max-width:40%; float:right; margin: 0 0 10px 10px; text-
 
 a.fotoA:after {content:attr(title); display:block; text-align:left; margin-top:-6px; padding-left:35px; font-weight: bold; color:#58d68d; background: url("../imagens/3d.png") no-repeat; background-size: contain; }
 
+a.raAR {text-decoration:none;}
+
+a.raAR:after {content:attr(title); display:block; text-align:left; padding-left:35px; font-weight: bold; color:#58d68d; background: url("../imagens/ra.png") no-repeat; background-size: contain;}
+
 .titulo {color:#58d68d; padding-right: 2px; font-weight: bold;}
 .titulo:after {content:" -";}
 
