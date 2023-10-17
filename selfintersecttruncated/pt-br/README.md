@@ -57,7 +57,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>2. Grande octaedro triakis</h4>
 <a href="../vr/great_triakis_octahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/96A.png" class="foto"></a><img src="../ar/96.png" class="qr">
- <br>O grande octaedro triakis é o dual do uniforme hexaedro truncado estrelado. Ele tem 24 faces de triângulos isósceles que se cruzam e parte de cada triângulo está dentro do sólido, portanto, é invisível em modelos sólidos.
+ <br>O grande octaedro triakis é o dual do uniforme hexaedro truncado estrelado. Tem 24 faces de triângulos isósceles que se cruzam e parte de cada triângulo está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 24 triângulos isósceles | <b>Arestas:</b> 36 | <b>Vértices:</b> 14 | <b>Ângulo diédrico:</b> 60.72°. <a href="https://en.wikipedia.org/wiki/Great_triakis_octahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
@@ -69,7 +69,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>4. Pequeno dodecaedro stellapentakis</h4>
 <a href="../vr/small_stellapentakis_dodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/94A.png" class="foto"></a><img src="../ar/94.png" class="qr">
- <br>O pequeno dodecaedro stellapentakis é o poliedro cujo dual é o uniforme grande dodecaedro truncado. Ele tem 60 faces triangulares que se cruzam e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
+ <br>O pequeno dodecaedro stellapentakis é o poliedro cujo dual é o uniforme grande dodecaedro truncado. Tem 60 faces triangulares que se cruzam e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 24 | <b>Ângulo diédrico:</b> 149.1°. <a href="https://en.wikipedia.org/wiki/Small_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
