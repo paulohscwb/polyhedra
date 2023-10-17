@@ -50,54 +50,54 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>1. Tetrahemihexacron</h4>
 <a href="vr/tetrahemihexacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/250A.png" class="foto" alt="Tetrahemihexacron"></a><img src="ar/250.png" class="qr">
  <br>The tetrahemihexacron is the dual of the tetrahemihexahedron. Because the tetrahemihexahedron has three faces going through its middle, three of the tetrahemihexacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by three prisms extending an arbitrarily long distance.
-<br><br><b>Faces:</b> 6 polygons | <b>Edges:</b> 12 | <b>Vertices:</b> 7 (3 at infinity)  | <b>Dihedral angle:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Tetrahemihexacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 6 polygons | <b>Edges:</b> 12 | <b>Vertices:</b> 7 (3 at infinity)  | <b>Dihedral angle:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Tetrahemihexacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>2. Octahemioctacron</h4>
 <a href="vr/octahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/165A.png" class="foto" alt="Octahemioctacron"></a><img src="ar/165.png" class="qr">
  <br>The octahemioctacron is the dual of the octahemioctahedron. Because the latter polyhedron has four faces going through its middle, four of the octahemioctacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the hexahemioctacron. 
-<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 12 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Octahemioctacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>3. Hexahemioctacron</h4>
 <a href="vr/hexahemioctacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/166A.png" class="foto" alt="Hexahemioctacron"></a><img src="ar/166.png" class="qr">
  <br>The hexahemioctacron is the dual of the cubohemioctahedron. Because the cubohemioctahedron has four faces going through its middle, four of the hexahemioctacron's vertices are at infinity on the real projective plane. This is usually represented in images and models by prisms extending an arbitrarily long distance. This model appears the same as the the analygous model for the octahemioctacron. 
-<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 10 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Hexahemioctacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 12 polygons | <b>Edges:</b> 24 | <b>Vertices:</b> 10 (4 at infinity)  | <b>Dihedral angle:</b> 54.74°. <a href="https://polytope.miraheze.org/wiki/Hexahemioctacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>4. Great dodecahemicosacron</h4>
 <a href="vr/great_dodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/167A.png" class="foto" alt="Great dodecahemicosacron"></a><img src="ar/167.png" class="qr">
  <br>The great dodecahemicosacron is the dual of the great dodecahemicosahedron. Because the great dodecahemicosahedron has ten faces going through its middle, ten of the great dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the small dodecahemicosacron. 
-<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemicosacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemicosacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>5. Small dodecahemicosacron</h4>
 <a href="vr/small_dodecahemicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/168A.png" class="foto" alt="Small dodecahemicosacron"></a><img src="ar/168.png" class="qr">
  <br>The small dodecahemicosacron is the dual of the small dodecahemicosahedron. Because the small dodecahemicosahedron has ten faces going through its middle, ten of the small dodecahemicosacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the great dodecahemicosacron.  
-<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 22 (10 at infinity)  | <b>Dihedral angle:</b> 37.38°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemicosacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>6. Small icosihemidodecacron</h4>
 <a href="vr/small_icosihemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/170A.png" class="foto" alt="Small icosihemidodecacron"></a><img src="ar/170.png" class="qr">
  <br>The small icosihemidodecacron is the dual of the small  icosihemidodecahedron. Because the small icosihemidodecahedron has six faces going through its middle, six of the small icosihemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the small dodecahemidodecacron.   
-<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 26 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_icosihemidodecacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 26 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_icosihemidodecacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>7. Small dodecahemidodecacron</h4>
 <a href="vr/small_dodecahemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/172A.png" class="foto" alt="Small dodecahemidodecacron"></a><img src="ar/172.png" class="qr">
  <br>The small dodecahemidodecacron is the dual of the small dodecahemidodecahedron. Because the small dodecahemidodecahedron has six faces going through its middle, six of the small dodecahemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the small icosihemidodecacron.  
-<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 18 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemidodecacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 18 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Small_dodecahemidodecacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>8. Great icosihemidodecacron</h4>
 <a href="vr/great_icosihemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/174A.png" class="foto" alt="Great icosihemidodecacron"></a><img src="ar/174.png" class="qr">
  <br>The great icosihemidodecacron is the dual of the great  icosihemidodecahedron. Because the great icosihemidodecahedron has six faces going through its middle, six of the great icosihemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the great dodecahemidodecacron.   
-<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 26 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Great_icosihemidodecacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 26 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Great_icosihemidodecacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>9. Great dodecahemidodecacron</h4>
 <a href="vr/great_dodecahemidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/175A.png" class="foto" alt="Great dodecahemidodecacron"></a><img src="ar/175.png" class="qr">
  <br>The great dodecahemidodecacron is the dual of the great dodecahemidodecahedron. Because the great dodecahemidodecahedron has six faces going through its middle, six of the great dodecahemidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance. It appears the same as the great icosihemidodecacron.  
-<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 18 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemidodecacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 30 polygons | <b>Edges:</b> 60 | <b>Vertices:</b> 18 (6 at infinity)  | <b>Dihedral angle:</b> 63.43°. <a href="https://polytope.miraheze.org/wiki/Great_dodecahemidodecacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>10. Great dirhombicosidodecacron</h4>
 <a href="vr/great_dirhombicosidodecacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/176A.png" class="foto" alt="Great dirhombicosidodecacron"></a><img src="ar/176.png" class="qr">
  <br>The great dirhombicosidodecacron is the dual of the great dirhombicosidodecahedron. Because the great dirhombicosidodecahedron has 60 faces going through its middle, 60 of the great dirhombicosidodecacron's vertices are at an ideal points infinitely far away from the origin in projective space. This is usually represented in images and models by prisms extending an arbitrarily long distance.  
-<br><br><b>Faces:</b> 60 polygons | <b>Edges:</b> 240 | <b>Vertices:</b> 124 (60 at infinity)  | <b>Dihedral angle:</b> 54.73°. <a href="https://polytope.miraheze.org/wiki/Great_dirhombicosidodecacron" target="_blank">More...</a>
+<br><br><b>Faces:</b> 60 polygons | <b>Edges:</b> 240 | <b>Vertices:</b> 124 (60 at infinity)  | <b>Dihedral angle:</b> 54.73°. <a href="https://polytope.miraheze.org/wiki/Great_dirhombicosidodecacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p14" class="topo">back to top</a></p>
-
+<hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Stellation to infinity polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/infinity/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 

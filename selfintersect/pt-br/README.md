@@ -227,7 +227,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O equidnaedro é o termo usado para a quarta estrela pontiaguda do icosaedro, aparentemente usado pela primeira vez no banco de dados de poliedros Netlib. O equidnaedro é um poliedro nobre que consiste em 20 eneagramas irregulares, mas triangulares simétricos. Aparece como a célula do dual do heptacosiicosachron pentagonal-prismático.
 <br><br><b>Faces:</b> 20 eneagramas triangulares simétricos | <b>Arestas:</b> 270 | <b>Vértices:</b> 92 . <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
-
+<hr>
  
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Self-intersecting polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/selfintersect/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 

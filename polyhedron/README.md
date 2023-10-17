@@ -180,6 +180,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The parallelepiped is a prism whose faces are all parallelograms. The term rhomboid is also sometimes used with meaning parallelepiped. The rectangular cuboid (six rectangular faces), cube (six square faces) and the rhombohedron (six rhombus faces) are all special cases of parallelepiped.
 <br><br><b>Faces:</b> 6 parallelograms, squares, rectangles or rhombi | <b>Edges:</b> 12 | <b>Vertices:</b> 8. <a href="https://mathworld.wolfram.com/Parallelepiped.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
+<hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pyramids, tetrahedrons, prisms and antiprisms - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/polyhedron/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 

@@ -180,7 +180,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O paralelepípedo é um prisma cujas faces são todos paralelogramos. O termo rombóide também é usado às vezes com o significado de paralelepípedo. O paralelepípedo retangular (seis faces retangulares), o cubo (seis faces quadradas) e o romboedro (seis losangos) são casos especiais de paralelepípedos.
 <br><br><b>Faces:</b> 6 paralelogramos, losangos, quadrados ou retângulos | <b>Arestas:</b> 12 | <b>Vértices:</b> 8. <a href="https://mathworld.wolfram.com/Parallelepiped.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
-
+<hr>
  
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pyramids, tetrahedrons, prisms and antiprisms - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/polyhedron/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
