@@ -65,8 +65,8 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/truncated_great_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/95A.png" class="foto"></a><img src="ar/95.png" class="qr">
  <br><span class="titulo">U<sub>37</sub></span> The truncated great dodecahedron is the uniform polyhedron whose dual is the small stellapentakis dodecahedron. It shares its vertex arrangement with three other uniform polyhedra: the nonconvex great rhombicosidodecahedron, the great dodecicosidodecahedron, and the great rhombidodecahedron.
 <br><br><b>Faces:</b> 12 regular pentagrams and 12 regular decagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 63.43° and 116.57°. <a href="https://en.wikipedia.org/wiki/Truncated_great_dodecahedron" target="_blank">More...</a>
-<hr>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
 <h4>4. Small Stellapentakis Dodecahedron</h4>
 <a href="vr/small_stellapentakis_dodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/94A.png" class="foto"></a><img src="ar/94.png" class="qr">
  <br>The small stellapentakis dodecahedron is the polyhedron whose dual is the uniform truncated great dodecahedron. It has 60 intersecting triangular faces and part of each triangle lies within the solid, hence is invisible in solid models. 
@@ -170,7 +170,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><br><br><b>Faces:</b> 120 obtuse triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 121.34°. <a href="https://en.wikipedia.org/wiki/Great_truncated_icosidodecahedron#Great_disdyakis_triacontahedron" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
-
+<hr>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Self-intersecting truncated polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/selfintersecttruncated/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
