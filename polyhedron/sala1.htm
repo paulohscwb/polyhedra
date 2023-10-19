@@ -24,11 +24,11 @@
 	</script>
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true; sortObjects: true; highRefreshRate: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
-           <a-mixin id="poli" shadow 
+           <a-mixin id="poli1" shadow 
              hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:5; shape: auto"event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false"></a-mixin>
            <a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
-			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli, a-obj-model, a-link" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
+			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poli1, .poli, a-obj-model, a-link" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -51,7 +51,7 @@
         <a-gltf-model static-body src="vr/salas/mesa_Prisms1.glb" position="0 0 0" shadow></a-gltf-model>
 		<a-gltf-model static-body src="vr/salas/mesa_Prisms2.glb" position="0 0 0" shadow></a-gltf-model>
 		
-		<a-entity class="poli" mixin="poli" position="-1.11 1 -0.7" scale="0.175 0.175 0.175" shadow>
+		<a-entity class="poli" mixin="poli1" position="-1.11 1 -0.7" scale="0.175 0.175 0.175" shadow>
 			<a-obj-model src="vr/outros/HeptagonalPrism.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/HeptagonalPrismL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -72,7 +72,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-1.11 1 -0.2" scale="0.386 0.19 0.386" shadow>
+		<a-entity class="poli" mixin="poli1" position="-1.11 1 -0.2" scale="0.386 0.19 0.386" shadow>
 			<a-obj-model src="vr/outros/OctagrammicPrism.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/OctagrammicPrismL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -95,7 +95,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.37 1 -0.7" scale="0.193 0.193 0.193" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.37 1 -0.7" scale="0.193 0.193 0.193" shadow>
 			<a-obj-model src="vr/outros/HexagonalAntiprism.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/HexagonalAntiprismL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -114,7 +114,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.37 1 -0.2" scale="0.386 0.29 0.386" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.37 1 -0.2" scale="0.386 0.29 0.386" shadow>
 			<a-obj-model src="vr/outros/PentagrammicAntiprism.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/PentagrammicAntiprismL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -131,7 +131,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0.37 1 -0.7" scale="0.386 0.386 0.386" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.37 1 -0.7" scale="0.386 0.386 0.386" shadow>
 			<a-obj-model src="vr/outros/HeptagrammicCrossedAntiprism.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/HeptagrammicCrossedAntiprismL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -152,7 +152,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0.37 1 -0.2" scale="0.175 0.175 0.175" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.37 1 -0.2" scale="0.175 0.175 0.175" shadow>
 			<a-obj-model src="vr/outros/HeptagonalPyramid.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/HeptagonalPyramidL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -167,7 +167,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="1.11 1 -0.7" scale="0.14 0.14 0.14" shadow>
+		<a-entity class="poli" mixin="poli1" position="1.11 1 -0.7" scale="0.14 0.14 0.14" shadow>
 			<a-obj-model src="vr/outros/OctagrammicPyramid.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/OctagrammicPyramidL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">			
@@ -184,7 +184,7 @@
 		</a-entity>
 		
 		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
-		<a-entity class="poli" mixin="poli" position="0.75 1 2.2" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.75 1 2.2" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/outros/PentagonalDipyramid.obj" rotation="215.34 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/PentagonalDipyramidL.obj" rotation="215.34 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="215.34 0 0">
@@ -198,7 +198,7 @@
 			</a-entity>
 		</a-entity>
 			
-		<a-entity class="poli" mixin="poli" position="0.75 1 1.7" scale="0.14 0.14 0.14" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.75 1 1.7" scale="0.14 0.14 0.14" shadow>
 			<a-obj-model src="vr/outros/PentagrammicDipyramid.obj" rotation="117 180 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/PentagrammicDipyramidL.obj" rotation="117 180 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="117 180 0">
@@ -212,7 +212,7 @@
 			</a-entity>
 		</a-entity>
 			
-		<a-entity class="poli" mixin="poli" position="0 1 2.2" scale="0.2  0.1 0.2" shadow>
+		<a-entity class="poli" mixin="poli1" position="0 1 2.2" scale="0.2  0.1 0.2" shadow>
 			<a-obj-model src="vr/outros/HexagonalTrapezohedron.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/HexagonalTrapezohedronL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -233,7 +233,7 @@
 			</a-entity>
 		</a-entity>
 			
-		<a-entity class="poli" mixin="poli" position="0 1 1.7" scale="0.386 0.386 0.386" shadow>
+		<a-entity class="poli" mixin="poli1" position="0 1 1.7" scale="0.386 0.386 0.386" shadow>
 			<a-obj-model src="vr/outros/HeptagrammicTrapezohedron.obj" rotation="-71.79 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/HeptagrammicTrapezohedronL.obj" rotation="-71.79 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="-71.79 0 0">
@@ -256,7 +256,7 @@
 			</a-entity>
 		</a-entity>
 			
-		<a-entity class="poli" mixin="poli" position="-0.75 1 2.2" scale="0.386 0.17 0.386" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.75 1 2.2" scale="0.386 0.17 0.386" shadow>
 			<a-obj-model src="vr/outros/OctagrammicConcaveTrapezohedron.obj" rotation="90 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/OctagrammicConcaveTrapezohedronL.obj" rotation="90 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="90 0 0">
@@ -281,7 +281,7 @@
 			</a-entity>
 		</a-entity>
 			
-		<a-entity class="poli" mixin="poli" position="-0.75 1 1.7" scale="0.2 0.2 0.2" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.75 1 1.7" scale="0.2 0.2 0.2" shadow>
 			<a-obj-model src="vr/outros/IsoscelesTetrahedron.obj" rotation="139.22 -15 -81.14" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/IsoscelesTetrahedronL.obj" rotation="139.22 -15 -81.14" mtl="#material"></a-obj-model>
 			<a-entity rotation="139.22 -15 -81.14">			

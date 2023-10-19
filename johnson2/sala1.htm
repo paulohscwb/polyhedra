@@ -24,11 +24,11 @@
 	</script>
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true; sortObjects: true; highRefreshRate: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
-           <a-mixin id="poli" shadow 
+           <a-mixin id="poli1" shadow 
              hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:5; shape: auto;" event-set__hoveron="_event: hover-start; material.opacity: 0.7; transparent: true" event-set__hoveroff="_event: hover-end; material.opacity: 1; transparent: false"></a-mixin>
            <a-mixin id="piso" geometry="width: 40; height: 0.1; depth: 40;" material="opacity:0.01; color: rgb(100,100,100)" static-body shadow></a-mixin>
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
-			 <a-mixin id="pointer" raycaster="showLine: true; objects: .poli, a-obj-model, a-link" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
+			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poli1, .poli, a-obj-model, a-link" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -49,7 +49,7 @@
         <a-gltf-model static-body src="vr/salas/johnson2a.glb" position="0 0 0" shadow></a-gltf-model>
 		<a-gltf-model static-body src="vr/salas/johnson2b.glb" position="0 0 0" shadow></a-gltf-model>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.7" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.75 1 -0.7" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j33_pentagonal_gyrocupolarotunda.obj" mtl="#material" scale="0.998 0.998 0.998" rotation="-16.38 0 61.64"></a-obj-model>
 			<a-obj-model src="vr/johnson/j33_pentagonal_gyrocupolarotundaL.obj" mtl="#material" rotation="-16.38 0 61.64"></a-obj-model>
 			<a-entity rotation="-16.38 0 61.64">
@@ -81,7 +81,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 -0.2" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.75 1 -0.2" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j34_pentagonal_orthobirotunda.obj" mtl="#material" scale="0.998 0.998 0.998" rotation="-24.27 0 -28.14"></a-obj-model>
 			<a-obj-model src="vr/johnson/j34_pentagonal_orthobirotundaL.obj" rotation="-24.27 0 -28.14" mtl="#material"></a-obj-model>
 			<a-entity rotation="-24.27 0 -28.14">
@@ -118,7 +118,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 -0.7" scale="0.22 0.22 0.22" shadow>
+		<a-entity class="poli" mixin="poli1" position="0 1 -0.7" scale="0.22 0.22 0.22" shadow>
 			<a-obj-model src="vr/johnson/j35_elongated_triangular_orthobicupola.obj" mtl="#material" scale="0.998 0.998 0.998" rotation="-8.11 50 175.67"></a-obj-model>
 			<a-obj-model src="vr/johnson/j35_elongated_triangular_orthobicupolaL.obj" mtl="#material" rotation="-8.11 50 175.67"></a-obj-model>
 			<a-entity rotation="-8.11 50 175.67">
@@ -143,7 +143,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 -0.2" scale="0.22 0.22 0.22" shadow>
+		<a-entity class="poli" mixin="poli1" position="0 1 -0.2" scale="0.22 0.22 0.22" shadow>
 			<a-obj-model src="vr/johnson/j36_elongated_triangular_gyrobicupola.obj" mtl="#material" rotation="6.79 90 163.91" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j36_elongated_triangular_gyrobicupolaL.obj" mtl="#material" rotation="6.79 90 163.91"></a-obj-model>
 			<a-entity rotation="6.79 90 163.91">
@@ -168,7 +168,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0.75 1 -0.7" scale="0.23 0.23 0.23" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.75 1 -0.7" scale="0.23 0.23 0.23" shadow>
 			<a-obj-model src="vr/johnson/j37_elongated_square_gyrobicupola.obj" mtl="#material" rotation="0 60 0" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j37_elongated_square_gyrobicupolaL.obj" mtl="#material" rotation="0 60 0"></a-obj-model>
 			<a-entity rotation="0 60 0">
@@ -200,7 +200,7 @@
 		</a-entity>
 		
 		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
-		<a-entity class="poli" mixin="poli" position="0.75 1 2.2" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.75 1 2.2" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j38_elongated_pentagonal_orthobicupola.obj" mtl="#material" rotation="60.89 0 55.52" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j38_elongated_pentagonal_orthobicupolaL.obj" mtl="#material" rotation="60.89 0 55.52"></a-obj-model>
 			<a-entity rotation="60.89 0 55.52">
@@ -237,7 +237,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0.75 1 1.7" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="0.75 1 1.7" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j39_elongated_pentagonal_gyrobicupola.obj" mtl="#material" rotation="88.48 0 -98.83" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j39_elongated_pentagonal_gyrobicupolaL.obj" mtl="#material" rotation="88.48 0 -98.83"></a-obj-model>
 			<a-entity rotation="88.48 0 -98.83">
@@ -274,7 +274,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 2.2" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="0 1 2.2" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j40_elongated_pentagonal_orthocupolarotunda.obj" mtl="#material" rotation="206.26 0 -31.98" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j40_elongated_pentagonal_orthocupolarotundaL.obj" mtl="#material" rotation="206.26 0 -31.98"></a-obj-model>
 			<a-entity rotation="206.26 0 -31.98">
@@ -316,7 +316,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="0 1 1.7" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="0 1 1.7" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j41_elongated_pentagonal_gyrocupolarotunda.obj" mtl="#material" rotation="195.31 0 -19.64" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j41_elongated_pentagonal_gyrocupolarotundaL.obj" mtl="#material" rotation="195.31 0 -19.64"></a-obj-model>
 			<a-entity rotation="195.31 0 -19.64">
@@ -358,7 +358,7 @@
 			</a-entity>
 		</a-entity>
 		
-		<a-entity class="poli" mixin="poli" position="-0.75 1 2" scale="0.21 0.21 0.21" shadow>
+		<a-entity class="poli" mixin="poli1" position="-0.75 1 2" scale="0.21 0.21 0.21" shadow>
 			<a-obj-model src="vr/johnson/j42_elongated_pentagonal_orthobirotunda.obj" mtl="#material" rotation="32.3 -45 154.37" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j42_elongated_pentagonal_orthobirotundaL.obj" mtl="#material" rotation="32.3 -45 154.37"></a-obj-model>
 			<a-entity rotation="32.3 -45 154.37">
