@@ -22,6 +22,26 @@ function marestas() {
 	}
 }
 
+function mvertices() {
+	var x = document.getElementById("vert")
+	var sceneEl = document.querySelector('a-scene')
+	var entityEl = sceneEl.querySelector('#esfera')
+	var entityEl0 = sceneEl.querySelector('#esferaG')
+	var entityEl1 = sceneEl.querySelector('#esferaP')
+	if (x.checked == true) { 
+	  entityEl.setAttribute('visible','true');
+	  entityEl0.setAttribute('visible','true');
+	  entityEl1.setAttribute('visible','true');
+	  document.getElementById("vert").checked = false;
+	}
+	else {
+	  entityEl.setAttribute('visible','false');
+	  entityEl0.setAttribute('visible','false');
+	  entityEl1.setAttribute('visible','false');
+	  document.getElementById("vert").checked = true;
+	}
+}
+
 function mfacesRV() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelectorAll('.faces')
@@ -30,12 +50,12 @@ function mfacesRV() {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','true');
 	  }
-	  x.checked = false;
+	  document.getElementById("face").checked = false;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
 	  }
-	  x.checked = true;
+	  document.getElementById("face").checked = true;
 	}
 }
 
@@ -47,11 +67,11 @@ function marestasRV() {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','true');
 	  }
-	  x.checked = false;
+	  document.getElementById("ar").checked = false;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
 	  }
-	  x.checked = true;
+	  document.getElementById("ar").checked = true;
 	}
 }
