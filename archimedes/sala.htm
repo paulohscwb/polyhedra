@@ -9,6 +9,7 @@
     <script src="https://rawgit.com/donmccurdy/aframe-physics-system/v4.0.1/dist/aframe-physics-system.min.js"></script>
     <script src="https://unpkg.com/aframe-physics-extras/dist/aframe-physics-extras.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.misc.min.js"></script>
+	<script src="vr/nomes.js"></script>
   </head>
   <body>
   <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
@@ -21,6 +22,10 @@
 			get.style.display = 'none';
 		}, 5000);
 	</script>
+	<div class="box" style="visibility:hidden">
+		<input type="checkbox" id="face" checked>faces 
+		<input type="checkbox" id="ar" checked>edges 
+	</div>
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true; sortObjects: true; highRefreshRate: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
            <a-mixin id="poli1" shadow hoverable grabbable stretchable draggable droppable dynamic-body="linearDamping:0.05; angularDamping:0.05; mass:5; shape: auto"></a-mixin>
@@ -48,8 +53,8 @@
 		<a-gltf-model static-body src="vr/salas/mesa_Arquimedes2.glb" position="0 0 0" shadow></a-gltf-model>
 
 		<a-entity class="poli" mixin="poli1" position="-1.11 1 -0.7" scale="0.12 0.12 0.12" shadow>
-			<a-obj-model scale="0.998 0.998 0.998" src="vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
-			<a-obj-model src="vr/outros/TruncatedOctahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/TruncatedOctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.707107 0.0 -1.414214'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.707107 0.0 1.414214'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.707107 0.0 -1.414214'></a-sphere>
@@ -77,8 +82,8 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli1" position="-1.11 1 -0.2" scale="0.078 0.078 0.078" shadow>
-			<a-obj-model scale="0.998 0.998 0.998" rotation="211.71485 0 0" src="vr/outros/TruncatedIcosahedron.obj" mtl="#material"></a-obj-model>
-			<a-obj-model rotation="211.71485 0 0" src="vr/outros/TruncatedIcosahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model class="faces" scale="0.998 0.998 0.998" rotation="211.71485 0 0" src="vr/outros/TruncatedIcosahedron.obj" mtl="#material"></a-obj-model>
+			<a-obj-model rotation="211.71485 0 0" src="vr/outros/TruncatedIcosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			<a-entity rotation="211.71485 0 0">
 				<a-sphere mixin='esfera mtl9' position='0.5 0.0 -2.427051 '></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='-0.5 0.0 2.427051 '></a-sphere>
@@ -144,8 +149,8 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli1" position="-0.37 1 -0.7" scale="0.051 0.051 0.051" shadow>
-			<a-obj-model src="vr/outros/TruncatedIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/TruncatedIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/TruncatedIcosidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/TruncatedIcosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.5 -3.736068'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.5 -0.5 3.736068'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='0.5 -0.5 -3.736068'></a-sphere>
@@ -269,8 +274,8 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli1" position="-0.37 1 -0.2" scale="0.085 0.085 0.085" shadow>
-			<a-obj-model src="vr/outros/Rhombicosidodecahedron.obj" rotation="148.28 0 0" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/RhombicosidodecahedronL.obj" rotation="148.28 0 0" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/Rhombicosidodecahedron.obj" rotation="148.28 0 0" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/RhombicosidodecahedronL.obj" class="arestas" rotation="148.28 0 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="148.28 0 0">
 				<a-sphere mixin='esfera mtl9' position='0.5 0.5 -2.118034'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='0.5 -0.5 2.118034'></a-sphere>
@@ -336,8 +341,8 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli1" position="0.37 1 -0.7" scale="0.09 0.09 0.09" shadow>
-			<a-obj-model rotation="-0.22 4.998 58.277" src="vr/outros/SnubDodecahedron.obj" mtl="#material"scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model rotation="-0.22 4.998 58.277" src="vr/outros/SnubDodecahedronL.obj" mtl="#material"></a-obj-model>
+			<a-obj-model rotation="-0.22 4.998 58.277" src="vr/outros/SnubDodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model rotation="-0.22 4.998 58.277" src="vr/outros/SnubDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			<a-entity rotation="-0.22 4.998 58.277">
 				<a-sphere mixin='esfera mtl9' position='0.374822 0.330921 -2.097054'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='-0.374822 0.330921 2.097054'></a-sphere>
@@ -403,8 +408,8 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli1" position="0.37 1 -0.2" scale="0.065 0.065 0.065" shadow>
-			<a-obj-model src="vr/outros/TruncatedDodecahedron.obj" rotation="0 18 58.285" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model src="vr/outros/TruncatedDodecahedronL.obj" rotation="0 18 58.285" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/TruncatedDodecahedron.obj" rotation="0 18 58.285" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model src="vr/outros/TruncatedDodecahedronL.obj" class="arestas" rotation="0 18 58.285" mtl="#material"></a-obj-model>
 			<a-entity rotation="0 18 58.285">
 				<a-sphere mixin='esfera mtl9' position='0.0 0.5 -2.927051'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='0.0 -0.5 2.927051'></a-sphere>
@@ -470,8 +475,8 @@
 		</a-entity>
 		
 		<a-entity class="poli" mixin="poli1" position="1.11 1 -0.7" scale="0.115 0.115 0.115" shadow>
-			<a-obj-model src="vr/outros/Icosidodecahedron.obj" mtl="#material"scale="0.998 0.998 0.998" rotation="148 36 0"></a-obj-model>
-			<a-obj-model src="vr/outros/IcosidodecahedronL.obj" rotation="148 36 0" mtl="#material"></a-obj-model>
+			<a-obj-model src="vr/outros/Icosidodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998" rotation="148 36 0"></a-obj-model>
+			<a-obj-model src="vr/outros/IcosidodecahedronL.obj" class="arestas" rotation="148 36 0" mtl="#material"></a-obj-model>
 			<a-entity rotation="148 36 0">
 				<a-sphere mixin='esfera mtl9' position='0.0 0.0 -1.618034'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='1.618034 0.0 0.0'></a-sphere>
@@ -508,8 +513,8 @@
 		
 		<!-- segunda mesa: girada 180 graus, com afastamento 1.5-->
 			<a-entity class="poli" mixin="poli1" position="0.75 1 2.2" scale="0.13 0.13 0.13" shadow>
-				<a-obj-model src="vr/outros/SnubCube.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/SnubCubeL.obj" mtl="#material" ></a-obj-model>
+				<a-obj-model src="vr/outros/SnubCube.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/SnubCubeL.obj" class="arestas" mtl="#material" ></a-obj-model>
 				<a-sphere mixin='esfera mtl9' position='0.621226 0.337754 -1.142614'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='-0.621226 0.337754 1.142614'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='-0.621226 -0.337754 -1.142614'></a-sphere>
@@ -537,8 +542,8 @@
 			</a-entity>
 			
 			<a-entity class="poli" mixin="poli1" position="0.75 1 1.7" scale="0.082 0.082 0.082" shadow>
-				<a-obj-model src="vr/outros/TruncatedCuboctahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/TruncatedCuboctahedronL.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/TruncatedCuboctahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/TruncatedCuboctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 				<a-sphere mixin='esfera mtl9' position='1.207107 0.5 -1.914214'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='1.207107 -0.5 1.914214'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='1.207107 -0.5 -1.914214'></a-sphere>
@@ -590,8 +595,8 @@
 			</a-entity>
 			
 			<a-entity class="poli" mixin="poli1" position="0 1 2.2" scale="0.13 0.13 0.13" shadow>
-				<a-obj-model src="vr/outros/Rhombicuboctahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/RhombicuboctahedronL.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/Rhombicuboctahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/RhombicuboctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 				<a-sphere mixin='esfera mtl9' position='0.5 0.5 -1.207107'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='0.5 -0.5 1.207107'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='0.5 -0.5 -1.207107'></a-sphere>
@@ -619,8 +624,8 @@
 			</a-entity>
 			
 			<a-entity class="poli" mixin="poli1" position="0 1 1.7" scale="0.12 0.12 0.12" shadow>
-				<a-obj-model src="vr/outros/TruncatedCube.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/TruncatedCubeL.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/TruncatedCube.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/TruncatedCubeL.obj" class="arestas" mtl="#material"></a-obj-model>
 				<a-sphere mixin='esfera mtl9' position='1.207107 0.5 -1.207107'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='1.207107 -0.5 1.207107'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='1.207107 -0.5 -1.207107'></a-sphere>
@@ -648,8 +653,8 @@
 			</a-entity>
 			
 			<a-entity class="poli" mixin="poli1" position="-0.75 1 2.2" scale="0.185 0.185 0.185" shadow>
-				<a-obj-model src="vr/outros/Cuboctahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/CuboctahedronL.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/Cuboctahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/CuboctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 				<a-sphere mixin='esfera mtl9' position='0.707107 0.0 -0.707107'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='-0.707107 0.0 0.707107'></a-sphere>
 				<a-sphere mixin='esfera mtl9' position='-0.707107 0.0 -0.707107'></a-sphere>
@@ -665,8 +670,8 @@
 			</a-entity>
 			
 			<a-entity class="poli" mixin="poli1" position="-0.75 1 1.7" scale="0.155 0.155 0.155" shadow>
-				<a-obj-model rotation="35 60 45" src="vr/outros/TruncatedTetrahedron.obj" mtl="#material"scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model rotation="35 60 45" src="vr/outros/TruncatedTetrahedronL.obj" mtl="#material"></a-obj-model>
+				<a-obj-model rotation="35 60 45" src="vr/outros/TruncatedTetrahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model rotation="35 60 45" src="vr/outros/TruncatedTetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 				<a-entity rotation="35 60 45">
 					<a-sphere mixin='esfera mtl9' position='0.353553 0.353553 -1.060660'></a-sphere>
 					<a-sphere mixin='esfera mtl9' position='-0.353553 0.353553 1.060660'></a-sphere>
@@ -691,6 +696,10 @@
 		
 		<a-cylinder mixin="botao1" class="botao" position="2.06 1.5 -0.7" onclick="fl='../catalan/sala.htm', window.open(fl, '_self');" radius="0.3" material="opacity: 0.5;" color="forestgreen" rotation="-90 270 0"></a-cylinder>
 		<a-text value="Poliedros de Catalan" text="align:center;" position="2.06 1.85 -0.7" width="2" rotation="0 270 0"></a-text>
+		<a-cylinder mixin="botao1" class="botao" position="2.06 1 -0.7" onclick="mfacesRV();" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
+		<a-text value="faces" text="align:center;" position="2.06 1.12 -0.7" width="2" rotation="0 270 0"></a-text>
+		<a-cylinder mixin="botao1" class="botao" position="2.06 0.8 -0.7" onclick="marestasRV();" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
+		<a-text value="edges" text="align:center;" position="2.06 0.92 -0.7" width="2" rotation="0 270 0"></a-text>
 		
 		<a-text value="Youtube: @paulohscwb" position="2.06 0.18 1.5" width="2" rotation="0 270 0"></a-text>
 		<a-text value="imagem panoramica: Marko Klaric" position="-2 0.18 1.5" width="2.3" rotation="0 90 0"></a-text>
