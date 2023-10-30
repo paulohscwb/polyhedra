@@ -697,11 +697,11 @@
 			<!-- <a-link position="2.06 1.5 -0.7" rotation="0 270 0" scale="0.25 0.25 0" href="../catalan/sala.htm" title="Poliedros de Catalan" link="backgroundColor: aliceblue; borderColor:#97c9f1; titleColor:#55aaed"></a-link> -->
 			<a-cylinder mixin="botao1" class="botao" position="2.06 1.5 -0.7" onclick="fl='../catalan/sala.htm', window.open(fl, '_self');" radius="0.3" material="opacity: 0.5;" color="forestgreen" rotation="-90 270 0"></a-cylinder>
 			<a-text value="Poliedros de Catalan" text="align:center;" position="2.06 1.85 -0.7" width="2" rotation="0 270 0"></a-text>
-			<a-cylinder mixin="botao1" class="botao" position="2.06 0.95 -0.9" onclick="face.value=1;" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
+			<a-cylinder mixin="botao1" class="botao" position="2.06 0.95 -0.9" onclick="face.value=1; mfacesRV()" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
 			<a-text value="faces" text="align:center;" position="2.06 1.1 -0.9" width="2" rotation="0 270 0"></a-text>
-			<a-cylinder mixin="botao1" class="botao" position="2.06 0.95 -0.5" onclick="ar.value=1;" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
+			<a-cylinder mixin="botao1" class="botao" position="2.06 0.95 -0.5" onclick="ar.value=1; marestasRV()" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
 			<a-text value="edges" text="align:center;" position="2.06 1.1 -0.5" width="2" rotation="0 270 0"></a-text>
-			<a-cylinder mixin="botao1" class="botao" position="2.06 0.65 -0.7" onclick="vertices.value=1;" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
+			<a-cylinder mixin="botao1" class="botao" position="2.06 0.65 -0.7" onclick="vertices.value=1; mvertices()" radius="0.1" material="opacity: 0.5;" color="violet" rotation="-90 270 0"></a-cylinder>
 			<a-text value="vertices" text="align:center;" position="2.06 0.8 -0.7" width="2" rotation="0 270 0"></a-text>
 		</a-entity>
 		
