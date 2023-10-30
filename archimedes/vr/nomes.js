@@ -26,7 +26,7 @@ function mvertices() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelector('#esfera')
 	var entityEl0 = sceneEl.querySelector('#esferaG')
-	a = entityEl.getAttribute('visible')
+	a = entityEl.getAttribute('visible');
 	if (a == 'true') { 
 	  entityEl.setAttribute('visible','false');
 	  entityEl0.setAttribute('visible','false');
@@ -40,7 +40,7 @@ function mvertices() {
 function mfacesRV() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelectorAll('.faces')
-	a = entityEl[0].getAttribute('visible')
+	a = entityEl[1].getAttribute('visible');
 	if (a == 'true') { 
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
@@ -55,7 +55,7 @@ function mfacesRV() {
 function marestasRV() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelectorAll('.arestas')
-	a = entityEl[0].getAttribute('visible')
+	a = entityEl[1].getAttribute('visible');
 	if (a == 'true') { 
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
