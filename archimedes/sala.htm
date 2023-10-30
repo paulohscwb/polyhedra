@@ -23,9 +23,9 @@
 		}, 5000);
 	</script>
 	<div class="box" style="visibility:hidden">
-		<input type="checkbox" id="face" value="0" onchange="mfacesRV()">faces 
-		<input type="checkbox" id="ar" value="0" onchange="marestasRV()">edges 
-		<input type="checkbox" id="vertices" value="0" onchange="mvertices()">vertices 
+		<input type="checkbox" id="face" value="0" onchange="face.value=value; mfacesRV()">faces 
+		<input type="checkbox" id="ar" value="0" onchange="ar.value=value; marestasRV()">edges 
+		<input type="checkbox" id="vertices" value="0" onchange="vertices.value=value; mvertices()">vertices 
 	</div>
     <a-scene physics="gravity:-1; iterations:100;" shadow="type: pcfsoft" renderer="colorManagement: true; sortObjects: true; highRefreshRate: true;"> <!--logarithmicDepthBuffer: true-->
         <a-assets>
