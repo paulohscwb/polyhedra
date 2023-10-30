@@ -30,13 +30,11 @@ function mvertices() {
 	if (x.checked == true) { 
 	  entityEl.setAttribute('visible','true');
 	  entityEl0.setAttribute('visible','true');
-	  x.checked = false;
 	  x.value = 0;
 	}
 	else {
 	  entityEl.setAttribute('visible','false');
 	  entityEl0.setAttribute('visible','false');
-	  x.checked = true;
 	  x.value = 0;
 	}
 }
@@ -49,13 +47,11 @@ function mfacesRV() {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','true');
 	  }
-	  x.checked = false;
 	  x.value = 0;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
 	  }
-	  x.checked = true;
 	  x.value = 0;
 	}
 }
@@ -68,13 +64,11 @@ function marestasRV() {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','true');
 	  }
-	  x.checked = false;
 	  x.value = 0;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
 	  }
-      x.checked = true;
 	  x.value = 0;
 	}
 }
