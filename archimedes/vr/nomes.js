@@ -27,17 +27,14 @@ function mvertices() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelector('#esfera')
 	var entityEl0 = sceneEl.querySelector('#esferaG')
-	var entityEl1 = sceneEl.querySelector('#esferaP')
 	if (x.checked == true) { 
 	  entityEl.setAttribute('visible','true');
 	  entityEl0.setAttribute('visible','true');
-	  entityEl1.setAttribute('visible','true');
 	  document.getElementById("vertices").checked = false;
 	}
 	else {
 	  entityEl.setAttribute('visible','false');
 	  entityEl0.setAttribute('visible','false');
-	  entityEl1.setAttribute('visible','false');
 	  document.getElementById("vertices").checked = true;
 	}
 }
