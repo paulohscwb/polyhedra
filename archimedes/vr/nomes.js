@@ -28,13 +28,13 @@ function mvertices() {
 	var entityEl = sceneEl.querySelector('#esfera')
 	var entityEl0 = sceneEl.querySelector('#esferaG')
 	if (x.checked == true) { 
-	  entityEl.setAttribute('visible','true');
-	  entityEl0.setAttribute('visible','true');
+	  entityEl.setAttribute('visible','false');
+	  entityEl0.setAttribute('visible','false');
 	  x.checked = false;
 	}
 	else {
-	  entityEl.setAttribute('visible','false');
-	  entityEl0.setAttribute('visible','false');
+	  entityEl.setAttribute('visible','true');
+	  entityEl0.setAttribute('visible','true');
 	  x.checked = true;
 	}
 }
@@ -45,12 +45,12 @@ function mfacesRV() {
 	let x = document.getElementById('face')
 	if (x.checked == true) { 
 	  for (let i = 0; i < entityEl.length; i++) {
-		entityEl[i].setAttribute('visible','true');
+		entityEl[i].setAttribute('visible','false');
 	  }
 	  x.checked = false;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
-		entityEl[i].setAttribute('visible','false');
+		entityEl[i].setAttribute('visible','true');
 	  }
 	  x.checked = true;
 	}
@@ -62,12 +62,12 @@ function marestasRV() {
 	let x = document.getElementById('ar')
 	if (x.checked == true) { 
 	  for (let i = 0; i < entityEl.length; i++) {
-		entityEl[i].setAttribute('visible','true');
+		entityEl[i].setAttribute('visible','false');
 	  }
 	  x.checked = false;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
-		entityEl[i].setAttribute('visible','false');
+		entityEl[i].setAttribute('visible','true');
 	  }
 	  x.checked = true;
 	}
