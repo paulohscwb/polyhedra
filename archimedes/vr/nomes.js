@@ -23,58 +23,43 @@ function marestas() {
 }
 
 function mvertices() {
-	let x = document.getElementById('vertices')
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelector('#esfera')
 	var entityEl0 = sceneEl.querySelector('#esferaG')
-	if (x.checked == true) { 
+	if (entityEl.visible == true) { 
 	  entityEl.setAttribute('visible','false');
 	  entityEl0.setAttribute('visible','false');
-	  x.value = 0;
-	  x.checked = false;
 	}
 	else {
 	  entityEl.setAttribute('visible','true');
 	  entityEl0.setAttribute('visible','true');
-	  x.value = 0;
-	  x.checked = true;
 	}
 }
 
 function mfacesRV() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelectorAll('.faces')
-	let x = document.getElementById('face')
-	if (x.checked == true) { 
+	if (entityEl[0].visible == true) { 
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
 	  }
-	  x.checked = false;
-	  x.value = 0;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','true');
 	  }
-	  x.value = 0;
-	  x.checked = true;
 	}
 }
 
 function marestasRV() {
 	var sceneEl = document.querySelector('a-scene')
 	var entityEl = sceneEl.querySelectorAll('.arestas')
-	let x = document.getElementById('ar')
-	if (x.checked == true) { 
+	if (entityEl[0].visible == true) { 
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','false');
 	  }
-	  x.value = 0;
-	  x.checked = false;
 	} else {
 	  for (let i = 0; i < entityEl.length; i++) {
 		entityEl[i].setAttribute('visible','true');
 	  }
-	  x.value = 0;
-	  x.checked = true;
 	}
 }
