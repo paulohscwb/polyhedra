@@ -61,17 +61,17 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>3. Antiprism</h4>
 <a href="vr/hexagonal_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto"></a><img src="ar/108.png" class="qr">
  <br><span class="titulo">U<sub>77</sub></span> A general n-gonal antiprism is a polyhedron consisting of identical top and bottom n-gonal faces whose periphery is bounded by a set of 2n triangles with alternating up-down orientations. If the top and bottom faces are regular n-gons displaced relative to one another in the direction perpendicular to the plane of the polygons and rotated relative to one another by an angle of 180&deg;/n, then the antiprism is known as a right antiprism and its faces are equilateral triangles. The example shown on this page is a regular hexagonal antiprism.
-<br><br><b>Faces:</b> 2 polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Antiprism.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 2 polygons of n sides (bases) and 2n triangles (side faces) | <b>Edges:</b> 4n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/Antiprism.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>4. Stellated Antiprism</h4>
 <a href="vr/pentagrammic_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/104A.png" class="foto"></a><img src="ar/104.png" class="qr">
  <br><span class="titulo">U<sub>79</sub></span> A stellated or polygrammic antiprism is formed by two upper and lower regular stellated polygons (polygrams), whose periphery is bounded by a set of 2n triangles with alternating orientations from top to bottom. The example shown on this page is of a pentagonal stellated right antiprism (pentagrammic antiprism).
-<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicAntiprism.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and 2n triangles (side faces) | <b>Edges:</b> 4n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicAntiprism.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>5. Stellated Crossed Antiprism</h4>
 <a href="vr/heptagrammic_crossed_antiprism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/103A.png" class="foto"></a><img src="ar/103.png" class="qr">
  <br><span class="titulo">U<sub>80</sub></span> A stellated or polygrammic crossed antiprism is formed by two upper and lower regular stellated polygons (polygrams), whose periphery is bounded by a 2n set with alternating orientations from top to bottom connected with opposite vertices of the bases. The example shown on this page is a heptagonal stellated crossed right antiprism (heptagrammic crossed antiprism).
-<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and n triangles (side faces) | <b>Edges:</b> 3n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicCrossedAntiprism.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 2 stellated polygons of n sides (bases) and 2n triangles (side faces) | <b>Edges:</b> 4n | <b>Vertices:</b> 2n. <a href="https://mathworld.wolfram.com/PentagrammicCrossedAntiprism.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>6. Pyramid</h4>
 <a href="vr/heptagonal_pyramid.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/109A.png" class="foto"></a><img src="ar/109.png" class="qr">
