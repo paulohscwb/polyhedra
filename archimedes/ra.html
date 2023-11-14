@@ -70,8 +70,8 @@
 	     	<a-mixin id="s13_3h" position="0 1.8371 0"></a-mixin> <!--apotema do solido-->
 			<a-mixin id="s13_3t" position="0 3.0619 0"></a-mixin> <!--apotema do solido-->
 	     
-			<a-mixin id="esfera" geometry="radius: 0.2;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
-			<a-mixin id="arestas" geometry="radius: 0.05; height:3"material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
+			<a-mixin id="esfera" geometry="radius: 0.2; segments-height:6; segments-width:8;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--vertices-->
+			<a-mixin id="arestas" geometry="radius: 0.05; height:3; segments-height:8; segments-radial:18;" material="metalness:0.4; roughness:0.5;"></a-mixin> <!--arestas-->
 	     	<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 		</a-assets>
