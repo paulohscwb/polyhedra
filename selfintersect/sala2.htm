@@ -11,6 +11,7 @@
 	<script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.1/dist/aframe-extras.misc.min.js"></script>
   </head>
   <body>
+	<div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
 	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;' id="info">
 		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
 	</div>
@@ -32,10 +33,10 @@
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
-			<a-mixin id="esfera" geometry="radius: 0.06;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="esferaP" geometry="radius: 0.035;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="esferaG" geometry="radius: 0.11;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="esferaGG" geometry="radius: 0.18;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esfera" geometry="radius: 0.06; segments-height:8; segments-width:12;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esferaP" geometry="radius: 0.035; segments-height:8; segments-width:12;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esferaG" geometry="radius: 0.11; segments-height:8; segments-width:12;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esferaGG" geometry="radius: 0.18; segments-height:8; segments-width:12;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
         </a-assets>
         <a-entity id="cameraRig">
