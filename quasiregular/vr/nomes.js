@@ -10,6 +10,13 @@ function mfaces() {
 	}
 }
 
+function sairVR() {
+	const sceneEl = document.querySelector('a-scene');
+	if (sceneEl.is('vr-mode')) {
+		sceneEl.exitVR();
+	}
+}
+
 function marestas() {
 	var x = document.getElementById("arestas")
 	var sceneEl = document.querySelector('a-scene')
