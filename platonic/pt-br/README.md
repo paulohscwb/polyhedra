@@ -72,6 +72,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/tetrahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/5A.png" class="foto"></a><img src="../ar/5.png" class="qr">
  <br><span class="titulo">U<sub>1</sub></span> O tetraedro tem três faces triangulares reunidas em cada vértice. O tetraedro também é conhecido como uma pirâmide triangular e é o mais simples de todos os poliedros convexos comuns e o único que tem menos de 5 faces. O tetraedro tem muitas propriedades análogas àquelas de um triângulo, incluindo um esfera inscrita, esfera circunscrita, tetraedro medial e esferas ex-inscritas.
 <br><br><b>Faces:</b> 4 triângulos | <b>Arestas:</b> 6 | <b>Vértices:</b> 4 | <b>Esfericidade:</b> 0.671 | <b>Ângulo diédrico:</b> 70.53°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
 <h4>6. Composto dos poliedros platônicos</h4>
  <a href="../vr/PlatonicCompound.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto"></a><img src="../ar/2.png" class="qr">
  <br>Um composto de poliedros é um arranjo de vários poliedros interpenetrantes, todos iguais ou de vários tipos distintos, geralmente com propriedades simétricas visualmente atraentes. Neste exemplo, temos um composto de poliedros platônicos usando diagonais, vértices e mediatrizes de arestas.

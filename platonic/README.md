@@ -72,6 +72,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/tetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/5A.png" class="foto"></a><img src="ar/5.png" class="qr">
  <br><span class="titulo">U<sub>1</sub></span> The tetrahedron has three equilateral triangular faces meeting at each vertex. The tetrahedron is also known as a triangular pyramid and it is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces. The tetrahedron has many properties analogous to those of a triangle, including an insphere, circumsphere, medial tetrahedron, and exspheres. 
 <br><br><b>Faces:</b> 4 triangles | <b>Edges:</b> 6 | <b>Vertices:</b> 4 | <b>Sphericity:</b> 0.671 | <b>Dihedral angle:</b> 70.53°. <a href="http://mathworld.wolfram.com/RegularTetrahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
 <h4>6. Platonic polyhedra compound</h4>
  <a href="vr/PlatonicCompound.html" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto"></a><img src="ar/2.png" class="qr">
  <br>A polyhedron compound is an arrangement of several interpenetrating polyhedra, all the same or of several distinct types, usually with visually appealing symmetrical properties. In this example, we have a Platonic polyhedra compound using diagonals, vertices and edge perpendicular bisectors.
