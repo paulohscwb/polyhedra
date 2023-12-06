@@ -17,7 +17,7 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 2; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.025;" material="metalness:0.4; roughness:0.5;"></a-mixin>
-			<a-mixin id="esfera1" geometry="radius: 0.06;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esfera1" geometry="radius: 0.08;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 			
 			<a-mixin id="anima0" animation__0='property: visible; from: false; to: true; dur: 500; delay: 8000'></a-mixin>
 			<a-mixin id="anima2" animation='property: rotation; dur: 30000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 6000'></a-mixin>
@@ -29,7 +29,7 @@
 			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; dur: 500; delay: 40000'></a-mixin>
 		</a-assets>
 				
-		<a-entity mixin="anima2 anima3">		
+		<a-entity mixin="anima2 anima3" scale="1.2 1.2 1.2">		
 		
 		<!--dual 1.2: visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
 		<a-entity position="0 0 0" scale="1.23 1.23 1.23" visible="false" mixin="anima0">
