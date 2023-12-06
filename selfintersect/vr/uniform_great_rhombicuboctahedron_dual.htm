@@ -92,7 +92,7 @@
 		</a-entity>
 		
 		<!--dual do dual 0.57: visible="false" mixin="anima5" -->
-		<a-entity position="0 0 0" scale="2 2 2" visible="false" mixin="anima5">
+		<a-entity position="0 0 0" scale="3.2 3.2 3.2" visible="false" mixin="anima5">
 			<a-obj-model id="fc" src="outros/UniformGreatRhombicuboctahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/UniformGreatRhombicuboctahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="-0.5 -0.5 -0.2071068"></a-sphere>
@@ -122,7 +122,7 @@
 		</a-entity>
 	</a-entity>
 		
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" mixin="anima6" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
 	  
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
 		<a-light type="directional" color="white" intensity="0.8" position="-3 2 1"></a-light>
