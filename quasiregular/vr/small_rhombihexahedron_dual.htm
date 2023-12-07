@@ -29,10 +29,10 @@
 			<a-mixin id="anima8" animation__8='property: visible; from: true; to: false; dur: 500; delay: 40000'></a-mixin>
 		</a-assets>
 		
-		<a-entity mixin="anima2 anima3">		
+		<a-entity mixin="anima2 anima3" scale="1.1 1.1 1.1">		
 		
 		<!--dual 1.2: visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
-		<a-entity position="0 0 0" scale="1.2 1.2 1.2" visible="false" mixin="anima0">
+		<a-entity position="0 0 0" scale="1.24 1.24 1.24" visible="false" mixin="anima0">
 			<a-obj-model id="fc" mixin="anima8" src="outros/SmallRhombihexacron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/SmallRhombihexacronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.0 0.0 -3.41421'></a-sphere>
@@ -86,7 +86,7 @@
 		</a-entity>
 		
 		<!--dual do dual 0.57: visible="false" mixin="anima5" -->
-		<a-entity position="0 0 0" scale="2 2 2" visible="false" mixin="anima5">
+		<a-entity position="0 0 0" scale="1.46 1.46 1.46" visible="false" mixin="anima5">
 			<a-obj-model id="fc" src="outros/SmallRhombihexahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/SmallRhombihexahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.5 0.5 -1.207107'></a-sphere>
@@ -125,12 +125,6 @@
 
 		<a-sky color="aliceblue"></a-sky>
     </a-scene>
-	<div class="box">
-		<span class="titulo">Small rhombihexahedron</span>
-		<br><span class="titulo">Pequeno rombihexaedro</span>
-		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
-		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
-		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
-	</div>
+
   </body>
 </html>
