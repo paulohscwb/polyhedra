@@ -82,7 +82,7 @@
 		
 		<!--primal 1.7: mixin="anima4" NO OBJ: mixin="anima7"-->
 		<a-entity position="0 0 0" scale="7 7 7" mixin="anima4">
-			<a-obj-model id="fc" src="outros/GreatDodecicosidodecahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="fc" mixin="anima7" src="outros/GreatDodecicosidodecahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/GreatDodecicosidodecahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="-0.5 -0.5 -0.118034"></a-sphere>
 			<a-sphere mixin="esfera mtl9" position="0.5 -0.5 0.118034"></a-sphere>
@@ -222,12 +222,6 @@
 
 		<a-sky color="aliceblue"></a-sky>
     </a-scene>
-	<div class="box">
-		<span class="titulo">Great dodecicosidodecahedron</span>
-		<br><span class="titulo">Grande dodecicosidodecaedro</span>
-		<hr><input type="checkbox" id="faces" checked onclick="mfaces()">faces&nbsp;&nbsp;&nbsp;  
-		<input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;&nbsp; 
-		<input type="checkbox" id="vertices" checked onclick="mvertices()">vertices
-	</div>
+
   </body>
 </html>
