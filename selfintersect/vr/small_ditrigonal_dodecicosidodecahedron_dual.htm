@@ -17,6 +17,7 @@
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3;"></a-mixin>
 			<a-mixin id="texto" text="width: 9; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="esfera" geometry="radius: 0.046;" material="metalness:0.4; roughness:0.5;"></a-mixin>
+			<a-mixin id="esfera1" geometry="radius: 0.08;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 			
 			<a-mixin id="anima0" animation__0='property: visible; from: false; to: true; dur: 500; delay: 8000'></a-mixin>
 			<a-mixin id="anima2" animation='property: rotation; dur: 30000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 6000'></a-mixin>
@@ -31,53 +32,53 @@
 		<a-entity mixin="anima2 anima3">		
 		
 		<!--dual 1.2: visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
-		<a-entity position="0 0 0" scale="1.2 1.2 1.2" visible="false" mixin="anima0">
+		<a-entity position="0 0 0" scale="1.07 1.07 1.07" visible="false" mixin="anima0">
 			<a-obj-model id="fc" mixin="anima8" src="outros/SmallDitrigonalDodecacronicHexecontahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/SmallDitrigonalDodecacronicHexecontahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
-			<a-sphere mixin="esfera mtl9" position="2.427051 0.0 -3.927051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-2.427051 0.0 3.927051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-2.427051 0.0 -3.927051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="3.927051 2.427051 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="3.927051 -2.427051 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-3.927051 2.427051 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-3.927051 -2.427051 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 3.927051 2.427051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 3.927051 -2.427051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 -3.927051 2.427051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 -3.927051 -2.427051"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 0.597024 1.563029"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 0.597024 -1.563029"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 -0.597024 1.563029"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 -0.597024 -1.563029"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="1.563029 0.0 0.597024"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="1.563029 0.0 -0.597024"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-1.563029 0.0 0.597024"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-1.563029 0.0 -0.597024"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.597024 1.563029 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.597024 -1.563029 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.597024 1.563029 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.597024 -1.563029 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.870268 0.0 1.408123"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.870268 0.0 -1.408123"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.870268 0.0 1.408123"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.870268 0.0 -1.408123"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="1.408123 0.870268 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="1.408123 -0.870268 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-1.408123 0.870268 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-1.408123 -0.870268 0.0"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 1.408123 0.870268"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 1.408123 -0.870268"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 -1.408123 0.870268"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.0 -1.408123 -0.870268"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.966005 0.966005 0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.966005 0.966005 -0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.966005 -0.966005 0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="0.966005 -0.966005 -0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.966005 0.966005 0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.966005 0.966005 -0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.966005 -0.966005 0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="-0.966005 -0.966005 -0.966005"></a-sphere>
-			<a-sphere mixin="esfera mtl9" position="2.427051 0.0 3.927051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="2.427051 0.0 -3.927051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-2.427051 0.0 3.927051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-2.427051 0.0 -3.927051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="3.927051 2.427051 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="3.927051 -2.427051 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-3.927051 2.427051 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-3.927051 -2.427051 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 3.927051 2.427051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 3.927051 -2.427051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 -3.927051 2.427051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 -3.927051 -2.427051"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 0.597024 1.563029"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 0.597024 -1.563029"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 -0.597024 1.563029"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 -0.597024 -1.563029"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="1.563029 0.0 0.597024"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="1.563029 0.0 -0.597024"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-1.563029 0.0 0.597024"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-1.563029 0.0 -0.597024"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.597024 1.563029 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.597024 -1.563029 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.597024 1.563029 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.597024 -1.563029 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.870268 0.0 1.408123"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.870268 0.0 -1.408123"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.870268 0.0 1.408123"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.870268 0.0 -1.408123"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="1.408123 0.870268 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="1.408123 -0.870268 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-1.408123 0.870268 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-1.408123 -0.870268 0.0"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 1.408123 0.870268"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 1.408123 -0.870268"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 -1.408123 0.870268"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.0 -1.408123 -0.870268"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.966005 0.966005 0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.966005 0.966005 -0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.966005 -0.966005 0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="0.966005 -0.966005 -0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.966005 0.966005 0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.966005 0.966005 -0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.966005 -0.966005 0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="-0.966005 -0.966005 -0.966005"></a-sphere>
+			<a-sphere mixin="esfera1 mtl9" position="2.427051 0.0 3.927051"></a-sphere>
 		</a-entity>
 		
 		<!--primal 1.7: mixin="anima4" NO OBJ: mixin="anima7"-->
@@ -147,7 +148,7 @@
 		</a-entity>
 		
 		<!--dual do dual 0.57: visible="false" mixin="anima5" -->
-		<a-entity position="0 0 0" scale="2 2 2" visible="false" mixin="anima5">
+		<a-entity position="0 0 0" scale="1.65 1.65 1.65" visible="false" mixin="anima5">
 			<a-obj-model id="fc" src="outros/SmallDitrigonalDodecicosidodecahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/SmallDitrigonalDodecicosidodecahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.5 0.309017 -1.618034"></a-sphere>
