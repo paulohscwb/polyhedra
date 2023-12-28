@@ -1,7 +1,7 @@
 ## Alias MTL Material File
 
 newmtl Cor1
-Kd 0.3 0.8 0.3
+Kd 0.3 0.8 1.0
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
