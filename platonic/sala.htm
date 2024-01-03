@@ -74,7 +74,8 @@
         <a-box mixin="piso" class="piso" visible="false" position="0 -0.05 0"></a-box>
         <a-gltf-model static-body src="vr/salas/mesa_Platao.glb" position="0 0 0" shadow></a-gltf-model>
 		<a-gltf-model static-body src="vr/salas/mesa_Platao2.glb" position="0 0 0" shadow></a-gltf-model>
-        
+        <a-light type="point" color="white" intensity="0.5" position="0 0 0"></a-light>
+		
 		<a-entity rotation="0 180 0" position="0 0 1.5">
 			<a-sphere mixin="botao1" rotation="-90 0 0" class="botao" position="0.38 0.77 -0.27" onclick="nv.value=0; mnivel();"></a-sphere>
 			<a-sphere mixin="botao1" rotation="-90 0 0" class="botao" position="0.51 0.77 -0.27" onclick="nv.value=1; mnivel();"></a-sphere>
