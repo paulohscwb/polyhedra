@@ -17,7 +17,7 @@
 			<a-mixin id="texto" text="width: 5; color: #556B2F; align:center;" rotation="-45 0 0"></a-mixin>
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 			<a-mixin id="esfera" geometry="segments-height:12; segments-width:12; radius: 0.035;" material="metalness:0.4; roughness:0.5;"></a-mixin><!--vertices-->
-			<a-mixin id="esfera1" geometry="segments-height:12; segments-width:12; radius: 0.11;" material="metalness:0.4; roughness:0.5;"></a-mixin><!--vertices-->
+			<a-mixin id="esfera1" geometry="segments-height:12; segments-width:12; radius: 0.04;" material="metalness:0.4; roughness:0.5;"></a-mixin><!--vertices-->
 			
 			<a-mixin id="anima0" animation__0='property: visible; from: false; to: true; dur: 500; delay: 8000'></a-mixin>
 			<a-mixin id="anima2" animation='property: rotation; dur: 30000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 6000'></a-mixin>
@@ -34,7 +34,7 @@
 	<a-entity mixin="anima2 anima3">		
 		
 		<!--dual 1.2: visible="false" mixin="anima0" NO OBJ: mixin="anima8"-->
-		<a-entity position="0 0 0" scale="1.2 1.2 1.2" visible="false" mixin="anima0">
+		<a-entity position="0 0 0" scale="3.2 3.2 3.2" visible="false" mixin="anima0">
 			<a-obj-model id="fc" mixin="anima8" src="outros/MedialPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/MedialPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera1 mtl7' position='0.76129 0.0 -1.23179'></a-sphere>
@@ -190,7 +190,7 @@
 		</a-entity>
 		
 		<!--dual do dual 0.57: visible="false" mixin="anima5" -->
-		<a-entity position="0 0 0" scale="2 2 2" visible="false" mixin="anima5">
+		<a-entity position="0 0 0" scale="3.1 3.1 3.1" visible="false" mixin="anima5">
 			<a-obj-model id="fc" src="outros/SnubDodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model id="ar" src="outros/SnubDodecadodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.201581 0.213263 -1.240194'></a-sphere>
