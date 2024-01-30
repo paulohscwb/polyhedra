@@ -29,3 +29,51 @@ function marestas() {
 	}
 }
 
+function mfacesDNA() {
+	var x = document.getElementById('faces')
+	var sceneEl = document.querySelector('a-scene')
+	var entityEl = sceneEl.querySelectorAll('.faces')
+	if (x.checked == true) { 
+	  for (let i = 0; i < entityEl.length; i++) {
+		entityEl[i].setAttribute('visible','true');
+	  }
+	}
+	else {
+	  for (let i = 0; i < entityEl.length; i++) {
+		entityEl[i].setAttribute('visible','false');
+	  }
+	}
+}
+
+function mfacesDNA() {
+	var x = document.getElementById('facesA')
+	var sceneEl = document.querySelector('a-scene')
+	var entityEl = sceneEl.querySelectorAll('.faces')
+	if (x.checked == true) { 
+	  for (let i = 0; i < entityEl.length; i++) {
+		entityEl[i].setAttribute('visible','true');
+	  }
+	}
+	else {
+	  for (let i = 0; i < entityEl.length; i++) {
+		entityEl[i].setAttribute('visible','false');
+	  }
+	}
+}
+
+function marestasDNA() {
+	var x = document.getElementById('ar')
+	var sceneEl = document.querySelector('a-scene')
+	var entityEl = sceneEl.querySelectorAll('.arestas')
+	if (x.checked == true) { 
+	  for (let i = 0; i < entityEl.length; i++) {
+		entityEl[i].setAttribute('visible','true');
+	  }
+	}
+	else {
+	  for (let i = 0; i < entityEl.length; i++) {
+		entityEl[i].setAttribute('visible','false');
+	  }
+	}
+}
+
