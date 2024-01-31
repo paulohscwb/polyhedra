@@ -111,6 +111,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/truncated_tetrahedron.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/10A.png" class="foto" alt="Tetraedro truncado"></a><img src="../ar/10.png" class="qr">
  <br><span class="titulo">U<sub>2</sub></span> O tetraedro truncado pode ser construído truncando todos os 4 vértices de um tetraedro regular com um terço do comprimento original da aresta. Um truncamento mais profundo, removendo um tetraedro de metade do comprimento original da aresta de cada vértice, é chamado de retificação. A retificação de um tetraedro produz um octaedro.
 <br><br><b>Faces:</b> 8 | <b>Polígonos:</b> 4 triângulos e 4 hexágonos | <b>Arestas:</b> 18 | <b>Vértices:</b> 12 | <b>Esfericidade:</b> 0.775 | <b>Ângulos diédricos:</b> 109.47° (6-3) e 70.53° (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a> 
+<hr>
+<h4>14. Poliedros de Arquimedes e seus duais de Catalan</h4>
+ <a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Poliedros de Arquimedes e seus duais de Catalan"></a><img src="../ar/9.png" class="qr">
+ <br>Representação com cada poliedro de Arquimedes e seu respectivo dual de Catalan. Neste projeto, temos os poliedros simulando a fita de DNA com as respectivas ligações entre os poliedros duais de Arquimedes e de Catalan.
+<br><br><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a> 
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <hr>
  

@@ -113,6 +113,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/truncated_tetrahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/10A.png" class="foto" alt="Truncated tetrahedron"></a><img src="ar/10.png" class="qr">
  <br><span class="titulo">U<sub>2</sub></span> The truncated tetrahedron can be constructed by truncating all 4 vertices of a regular tetrahedron at one third of the original edge length. A deeper truncation, removing a tetrahedron of half the original edge length from each vertex, is called rectification. The rectification of a tetrahedron produces an octahedron.
  <br><br><b>Faces:</b> 8 | <b>Polygons:</b> 4 triangles and 4 hexagons | <b>Edges:</b> 18 | <b>Vertices:</b> 12 | <b>Sphericity:</b> 0.775 | <b>Dihedral angles:</b> 109.47° (6-3) and 70.53° (6-6). <a href="http://mathworld.wolfram.com/TruncatedTetrahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>  
+ <hr>
+<h4>14. Archimedean polyhedra and their Catalan duals</h4>
+ <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Archimedean polyhedra and their Catalan duals"></a><img src="ar/9.png" class="qr">
+ <br>Representation with each Archimedes polyhedron and its respective Catalan dual. In this project, we have polyhedra simulating the DNA ribbon with the respective connections between the dual polyhedra of Archimedes and Catalan.
+ <br><br><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
 
