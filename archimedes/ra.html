@@ -76,6 +76,7 @@
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 			<a-asset-item id="material1" src="vr/outros/dna.mtl"></a-asset-item>
 			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #abeb78;"></a-mixin>
+			<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
 		</a-assets>
 
     <a-entity camera></a-entity>
@@ -7121,7 +7122,7 @@
 			<a-link mixin="lnk" class="lnk" href="vr/dna.html"></a-link>
 			<a-light type="point" color="yellow" intensity="0.5" position="-3 0 0"></a-light>
 			<a-light type="point" color="yellow" intensity="0.5" position="3 0 0"></a-light>
-			<a-entity position="3 0.8 0" id="prop1" scale="0.16 0.16 0.16" rotation="0 0 90" mixin="anima">
+			<a-entity position="2.5 0.8 0" id="prop1" scale="0.3 0.3 0.3" rotation="0 0 90" mixin="anima">
 				<a-entity scale="0.65 0.65 0.65" position="3 0 0">
 					<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
 					<a-obj-model src="vr/outros/TruncatedOctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>

@@ -112,6 +112,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/disdyakis_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/179A.png" class="foto"></a><img src="ar/179.png" class="qr">
  <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.99°, 58.24° and 32.77°. 
 <br><br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+ <h4>14. Catalan polyhedra and their Archimedean duals</h4>
+ <a href="../archimedes/vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/164A.png" class="foto"></a><img src="ar/164.png" class="qr">
+ <br>Representation with each Catalan polyhedron and its respective Archimedean dual. In this project, we have polyhedra simulating the DNA ribbon with the respective connections between the dual polyhedra of Catalan and Archimedes. 
+<br><br><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p3" class="topo">back to top</a></p>
 <hr>
 
