@@ -117,7 +117,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>14. Archimedean polyhedra and their Catalan duals</h4>
  <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/9A.png" class="foto" alt="Archimedean polyhedra and their Catalan duals"></a><img src="ar/9.png" class="qr">
  <br>Representation with each Archimedes polyhedron and its respective Catalan dual. In this project, we have polyhedra simulating the DNA ribbon with the respective connections between the dual polyhedra of Archimedes and Catalan.
- <br><br><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+ <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <hr>
 
