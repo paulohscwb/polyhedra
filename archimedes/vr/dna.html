@@ -15,6 +15,7 @@
 			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #abeb78;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #abeb78;">
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
+			<a-asset-item id="material1" src="outros/dna.mtl"></a-asset-item>
 		</a-assets>
 
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 250 150 700; maxDistance: 1500;"></a-entity>
@@ -34,18 +35,18 @@
 			</a-entity>
 			
 			<a-entity scale="0.65 0.65 0.65" position="-3 0 0">
-				<a-obj-model src="../../catalan/vr/catalan/TetrakisHexahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/TetrakisHexahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TetrakisHexahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TetrakisHexahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.39 0.39 0.39" position="2.12 1.5 -2.12">
-				<a-obj-model class="faces" scale="0.998 0.998 0.998" rotation="211.71485 0 0" src="outros/TruncatedIcosahedron.obj" mtl="#material"></a-obj-model>
-				<a-obj-model rotation="211.71485 0 0" src="outros/TruncatedIcosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" rotation="211.71485 0 0" src="outros/TruncatedIcosahedron.obj" mtl="#material1"></a-obj-model>
+				<a-obj-model rotation="211.71485 0 0" src="outros/TruncatedIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.39 0.39 0.39" position="-2.12 1.5 2.12" rotation="-211.71485 36 0">
-				<a-obj-model src="../../catalan/vr/catalan/PentakisDodecahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/PentakisDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/PentakisDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/PentakisDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.26 0.26 0.26" position="2.12 -1.5 2.12">
@@ -54,8 +55,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.26 0.26 0.26" position="-2.12 -1.5 -2.12" rotation="-148.28 36 0">
-				<a-obj-model src="../../catalan/vr/catalan/DisdyakisTriacontahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/DisdyakisTriacontahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DisdyakisTriacontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DisdyakisTriacontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.43 0.43 0.43" position="0 3 -3">
@@ -64,8 +65,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.43 0.43 0.43" position="0 3 3" rotation="-148.28 36 0">
-				<a-obj-model src="../../catalan/vr/catalan/DeltoidalHexecontahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/DeltoidalHexecontahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DeltoidalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DeltoidalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.45 0.45 0.45" position="0 -3 3">
@@ -74,8 +75,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.45 0.45 0.45" position="0 -3 -3" rotation="0.22 -30 -58.277">
-				<a-obj-model src="../../catalan/vr/catalan/PentagonalHexecontahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/PentagonalHexecontahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/PentagonalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/PentagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.33 0.33 0.33" position="-2.12 4.5 -2.12">
@@ -84,8 +85,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.33 0.33 0.33" position="2.12 4.5 2.12" rotation="0 -18 -58.285">
-				<a-obj-model src="../../catalan/vr/catalan/TriakisIcosahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/TriakisIcosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TriakisIcosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TriakisIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.58 0.58 0.58" position="-2.12 -4.5 2.12">
@@ -94,8 +95,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.58 0.58 0.58" position="2.12 -4.5 -2.12" rotation="-148 0 0">
-				<a-obj-model src="../../catalan/vr/catalan/RhombicTriacontahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/RhombicTriacontahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/RhombicTriacontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/RhombicTriacontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.75 0.75 0.75" position="-3 6 0">
@@ -104,8 +105,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.75 0.75 0.75" position="3 6 0" rotation="0 -72 0">
-				<a-obj-model src="../../catalan/vr/catalan/PentagonalIcositetrahedron1.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/PentagonalIcositetrahedron1L.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/PentagonalIcositetrahedron1.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/PentagonalIcositetrahedron1L.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.44 0.44 0.44" position="-3 -6 0">
@@ -114,8 +115,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.44 0.44 0.44" position="3 -6 0">
-				<a-obj-model src="../../catalan/vr/catalan/DisdyakisDodecahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/DisdyakisDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DisdyakisDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DisdyakisDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.65 0.65 0.65" position="-2.12 7.5 2.12">
@@ -124,8 +125,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.65 0.65 0.65" position="2.12 7.5 -2.12">
-				<a-obj-model src="../../catalan/vr/catalan/DeltoidalIcositetrahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/DeltoidalIcositetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DeltoidalIcositetrahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/DeltoidalIcositetrahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.6 0.6 0.6" position="-2.12 -7.5 -2.12">
@@ -134,8 +135,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.53 0.53 0.53" position="2.12 -7.5 2.12">
-				<a-obj-model src="../../catalan/vr/catalan/TriakisOctahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/TriakisOctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TriakisOctahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TriakisOctahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="1.05 1.05 1.05" position="0 9 3">
@@ -144,8 +145,8 @@
 			</a-entity>
 			
 			<a-entity scale="1.05 1.05 1.05" position="0 9 -3" rotation="0 -45 0">
-				<a-obj-model src="../../catalan/vr/catalan/RhombicDodecahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/RhombicDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/RhombicDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/RhombicDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.88 0.88 0.88" position="0 -9 -3">
@@ -154,8 +155,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.7 0.7 0.7" position="0 -9 3" rotation="35 60 45">
-				<a-obj-model src="../../catalan/vr/catalan/TriakisTetrahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../../catalan/vr/catalan/TriakisTetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TriakisTetrahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../catalan/vr/catalan/TriakisTetrahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 					
 			<a-cylinder mixin="mtl1" position="0 0 0" rotation="90 0 90"></a-cylinder>
