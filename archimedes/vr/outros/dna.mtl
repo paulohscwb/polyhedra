@@ -10,7 +10,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor2
-Kd 0.7 0.6 0.9
+Kd 0.5 1.0 0.9
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -28,7 +28,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor4
-Kd 0.6 0.9 1.0
+Kd 0.5 1.0 0.9
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -55,7 +55,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor7
-Kd 0.9 0.7 0.6
+Kd 0.7 0.8 1.0
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -64,7 +64,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor8
-Kd 0.8 0.8 1.0
+Kd 0.3 0.8 1.0
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -73,7 +73,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor9
-Kd 0.6 1.0 0.5
+Kd 0.3 0.8 1.0
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -82,7 +82,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor10
-Kd 0.2 0.6 0.7
+Kd 0.7 0.8 1.0
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -91,7 +91,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor11
-Kd 1.0 0.7 0.7
+Kd 0.3 0.8 1.0
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -100,7 +100,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor12
-Kd 0.6 1.0 0.7
+Kd 0.5 1.0 0.9
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
