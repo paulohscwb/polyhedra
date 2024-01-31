@@ -7119,8 +7119,9 @@
 		
 		<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1">
 			<a-link mixin="lnk" class="lnk" href="vr/dna.html"></a-link>
-			<a-entity position="1.5 0.8 0" id="prop1" scale="0.08 0.08 0.08" rotation="0 0 90" mixin="anima">
-			
+			<a-light type="point" color="yellow" intensity="0.5" position="-3 0 0"></a-light>
+			<a-light type="point" color="yellow" intensity="0.5" position="3 0 0"></a-light>
+			<a-entity position="3 0.8 0" id="prop1" scale="0.16 0.16 0.16" rotation="0 0 90" mixin="anima">
 				<a-entity scale="0.65 0.65 0.65" position="3 0 0">
 					<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
 					<a-obj-model src="vr/outros/TruncatedOctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
