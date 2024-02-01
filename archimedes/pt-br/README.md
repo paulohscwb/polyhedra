@@ -114,7 +114,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <hr>
 <h4>14. Poliedros de Arquimedes e seus duais de Catalan</h4>
  <a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/9A.png" class="foto" alt="Poliedros de Arquimedes e seus duais de Catalan"></a><img src="../ar/9.png" class="qr">
- <br>Representação com cada poliedro de Arquimedes e seu respectivo dual de Catalan. Neste projeto, temos os poliedros simulando a fita de DNA com as respectivas ligações entre os poliedros duais de Arquimedes e de Catalan.
+ <br>Representação com cada poliedro de Arquimedes e seu respectivo dual de Catalan. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os poliedros duais de Arquimedes e de Catalan.
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a> 
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <hr>

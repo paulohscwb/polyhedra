@@ -77,6 +77,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/PlatonicCompound.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/2A.png" class="foto"></a><img src="../ar/2.png" class="qr">
  <br>Um composto de poliedros é um arranjo de vários poliedros interpenetrantes, todos iguais ou de vários tipos distintos, geralmente com propriedades simétricas visualmente atraentes. Neste exemplo, temos um composto de poliedros platônicos usando diagonais, vértices e mediatrizes de arestas.
 <br><br><a href="https://mathworld.wolfram.com/PolyhedronCompound.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>7. Poliedros de Platão e seus duais</h4>
+ <a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto"></a><img src="../ar/1.png" class="qr">
+ <br>Representação com cada poliedro de Platão e seu respectivo dual. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os poliedros duais de Platão.
+<br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p2" class="topo">voltar ao topo</a></p>
 <hr>
 

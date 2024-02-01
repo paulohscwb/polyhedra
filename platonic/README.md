@@ -77,6 +77,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/PlatonicCompound.html" target="_blank" title="3D model" class="fotoA"><img src="ar/2A.png" class="foto"></a><img src="ar/2.png" class="qr">
  <br>A polyhedron compound is an arrangement of several interpenetrating polyhedra, all the same or of several distinct types, usually with visually appealing symmetrical properties. In this example, we have a Platonic polyhedra compound using diagonals, vertices and edge perpendicular bisectors.
 <br><a href="https://mathworld.wolfram.com/PolyhedronCompound.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>7. Platonic polyhedra and their duals</h4>
+ <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto"></a><img src="ar/1.png" class="qr">
+ <br>Representation with each Platonic polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual Platonic polyhedra.
+<br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p2" class="topo">back to top</a></p>
 <hr>
 
