@@ -24,13 +24,13 @@
 			<a-mixin id="anima3" animation__3='property: visible; from: false; to: true; dur: 1; delay: 28000'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 50 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 0 700; maxDistance: 1500;"></a-entity>
 
 		<a-light type="point" color="yellow" intensity="0.75" position="0 0 0"></a-light>
 		
 		<a-entity scale="1.5 1.5 1.5" rotation="0 0 0" mixin="anima">
 		
-			<a-entity scale="0.75 0.75 0.75" position="3 0 0" rotation="0 0 -30" visible="false" mixin="anima1">
+			<a-entity scale="0.75 0.75 0.75" position="2.8 0 0" rotation="0 0 -30" visible="false" mixin="anima1">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/DodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
@@ -40,22 +40,22 @@
 				<a-obj-model src="outros/IcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.42 1.42 1.42" position="2.12 2 -2.12" rotation="30 45 0" visible="false" mixin="anima2">
+			<a-entity scale="1.6 1.6 1.6" position="2.12 2 -2.12" rotation="30 45 0" visible="false" mixin="anima2">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Octahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/OctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.5 1.5 1.5" position="-2.12 2 2.12" rotation="30 45 0" visible="false" mixin="anima2">
+			<a-entity scale="1.5 1.5 1.5" position="-1.9 2 1.9" rotation="30 45 0" visible="false" mixin="anima2">
 				<a-obj-model src="outros/Cube.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/CubeL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.2 2.2 2.2" rotation="0 169 -45" position="2.12 -2 2.12" visible="false" mixin="anima3">
+			<a-entity scale="2.2 2.2 2.2" rotation="0 169 -45" position="1.7 -2 1.7" visible="false" mixin="anima3">
 				<a-obj-model src="outros/Tetrahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.2 2.2 2.2" position="-2.12 -2 -2.12" rotation="0 -11 -45" visible="false" mixin="anima3">
+			<a-entity scale="2.2 2.2 2.2" position="-1.7 -2 -1.7" rotation="0 -11 -45" visible="false" mixin="anima3">
 				<a-obj-model src="outros/Tetrahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetrahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
