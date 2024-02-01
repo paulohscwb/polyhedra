@@ -24,7 +24,7 @@
 			<a-mixin id="anima3" animation__3='property: visible; from: false; to: true; dur: 1; delay: 28000'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 0 700; maxDistance: 1500;"></a-entity>
 
 		<a-light type="point" color="yellow" intensity="0.75" position="0 0 0"></a-light>
 		
@@ -55,14 +55,14 @@
 				<a-obj-model src="outros/TetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.2 2.2 2.2" position="0 -11 -45" visible="false" mixin="anima3">
+			<a-entity scale="2.2 2.2 2.2" position="-2.12 -2 -2.12" rotation="0 -11 -45" visible="false" mixin="anima3">
 				<a-obj-model src="outros/Tetrahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetrahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-cylinder position="0 0 0" rotation="90 0 90" visible="false" mixin="mtl1 anima1"></a-cylinder>
-			<a-cylinder position="0 1.5 0" rotation="90 0 45" visible="false" mixin="mtl1 anima2"></a-cylinder>
-			<a-cylinder position="0 -1.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima3"></a-cylinder>
+			<a-cylinder position="0 2 0" rotation="90 0 45" visible="false" mixin="mtl1 anima2"></a-cylinder>
+			<a-cylinder position="0 -2 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima3"></a-cylinder>
 		</a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
