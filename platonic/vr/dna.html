@@ -13,7 +13,7 @@
 	<a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
 			<a-mixin id="mtl0" material="opacity: 0.7; metalness:0.3; roughness:0.9;"></a-mixin>
-			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #ab78eb;"></a-mixin>
+			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #78ebab;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #abeb78;">
 			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
 			<a-asset-item id="material1" src="outros/dna.mtl"></a-asset-item>
@@ -28,34 +28,34 @@
 
 		<a-light type="point" color="yellow" intensity="0.75" position="0 0 0"></a-light>
 		
-		<a-entity scale="1.07 1.07 1.07" rotation="0 0 0" mixin="anima">
+		<a-entity scale="1.5 1.5 1.5" rotation="0 0 0" mixin="anima">
 		
-			<a-entity scale="0.65 0.65 0.65" position="3 0 0" rotation="-80 120 0" visible="false" mixin="anima1">
-				<a-obj-model class="faces" rotation="0 -18 -58.28255" scale="0.998 0.998 0.998" src="outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
-				<a-obj-model rotation="0 -18 -58.28255" src="outros/DodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			<a-entity scale="0.75 0.75 0.75" position="3 0 0" rotation="0 0 -30" visible="false" mixin="anima1">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="outros/DodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.65 0.65 0.65" position="-3 0 0" visible="false" mixin="anima1">
-				<a-obj-model src="outros/Icosahedron.obj" rotation="-110.905 0 0" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="outros/IcosahedronL.obj" rotation="-110.905 0 0" class="arestas" mtl="#material1"></a-obj-model>
+			<a-entity scale="1.2 1.2 1.2" position="-3 0 0" rotation="0 0 -30" visible="false" mixin="anima1">
+				<a-obj-model src="outros/Icosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="outros/IcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.39 0.39 0.39" position="2.12 1.5 -2.12" visible="false" mixin="anima2">
-				<a-obj-model class="faces" scale="0.998 0.998 0.998" rotation="211.71485 0 0" src="outros/Octahedron.obj" mtl="#material"></a-obj-model>
-				<a-obj-model rotation="211.71485 0 0" src="outros/OctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			<a-entity scale="1.42 1.42 1.42" position="2.12 2 -2.12" rotation="0 45 0" visible="false" mixin="anima2">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Octahedron.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="outros/OctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.39 0.39 0.39" position="-2.12 1.5 2.12" rotation="-211.71485 36 0" visible="false" mixin="anima2">
+			<a-entity scale="1.5 1.5 1.5" position="-2.12 2 2.12" rotation="0 45 0" visible="false" mixin="anima2">
 				<a-obj-model src="outros/Cube.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/CubeL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.26 0.26 0.26" rotation="0 180 180" position="2.12 -1.5 2.12" visible="false" mixin="anima3">
+			<a-entity scale="2.2 2.2 2.2" rotation="0 169 -45" position="2.12 -2 2.12" visible="false" mixin="anima3">
 				<a-obj-model src="outros/Tetrahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.26 0.26 0.26" position="-2.12 -1.5 -2.12" visible="false" mixin="anima3">
+			<a-entity scale="2.2 2.2 2.2" position="0 -11 -45" visible="false" mixin="anima3">
 				<a-obj-model src="outros/Tetrahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetrahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
