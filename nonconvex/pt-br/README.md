@@ -180,6 +180,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/mobius120b.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/115A.png" class="foto"></a><img src="../ar/115.png" class="qr">
  <br>O Dodecaedro 10-akis é um deltaedro de Möbius com 120 faces derivado do dodecaedro e do grande triacontaedro rômbico. É um dos cinco deltaedros que têm cada aresta em um plano de simetria.
 <br><br><b>Faces:</b> 120 triângulos equiláteros | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulos diédricos:</b> 332.16°, 132.64° e 82.51°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>27. Poliedros não convexos e seus duais</h4>
+ <a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto"></a><img src="../ar/111.png" class="qr">
+ <br>Representação com cada poliedro não convexo e seu respectivo dual. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os duais dos poliedros não convexos.
+<br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p4" class="topo">voltar ao topo</a></p>
 <hr>
  

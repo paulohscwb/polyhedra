@@ -180,6 +180,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/mobius120b.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/115A.png" class="foto"></a><img src="ar/115.png" class="qr">
  <br>The 10-akis Dodecahedron is a 120-faced Möbius deltahedron derived from the dodecahedron and the great rhombic triacontahedron. It is one of five deltahedrons that have each edge in a plane of symmetry.
 <br><br><b>Faces:</b> 120 equilateral triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angles:</b> 332.16°, 132.64° and 82.51°. <a href="https://www.interocitors.com/polyhedra/Deltahedra/Mobius/index.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>27. Nonconvex polyhedra and their duals</h4>
+ <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto"></a><img src="ar/111.png" class="qr">
+ <br>Representation with each Nonconvex polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Nonconvex polyhedra.
+<br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <p class="topop"><a href="#p4" class="topo">back to top</a></p>
 <hr>
 

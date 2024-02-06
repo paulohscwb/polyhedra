@@ -26,6 +26,10 @@
 		<a-mixin id="esferaG" geometry="radius: 0.1; segments-height:8; segments-radial:18;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.25 0" link="title: 3D model; highlighted:true; backgroundColor:LightGray"></a-mixin>
 		<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
+		<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
+		<a-asset-item id="material1" src="vr/outros/solidos.mtl"></a-asset-item>
+		<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #abeb78;"></a-mixin>
+		<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
 	</a-assets>
 
     <a-entity camera></a-entity>
@@ -954,6 +958,169 @@
 			<a-sphere mixin='esfera mtl9' position='-0.474 -0.737 0.3185'></a-sphere>
 			<a-sphere mixin='esfera mtl9' position='-0.112 0.7352 0.5626'></a-sphere>
 		</a-entity>
+	</a-marker>
+	
+	<a-marker type="barcode" value="112" smooth="smooth:true; smoothCount:1">
+		<a-link mixin="lnk" class="lnk" href="vr/dna.htm"></a-link>
+		<a-light type="point" color="yellow" intensity="0.4" position="-5 0 0"></a-light>
+		<a-light type="point" color="yellow" intensity="0.4" position="5 0 0"></a-light>
+		<a-light type="point" color="yellow" intensity="0.4" position="0 0 0"></a-light>
+		<a-entity position="2 1.5 1.5" id="prop1" scale="0.25 0.25 0.25" rotation="0 0 90" mixin="anima">
+		<a-entity scale="1.5 1.5 1.5" rotation="45 0 0" position="3 0 0">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/Cubohemioctahedron.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/CubohemioctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.35 0.35 0.35" rotation="45 0 0" position="-3 0 0">
+				<a-obj-model src="../infinity/vr/outros/Hexahemioctacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/HexahemioctacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.95 0.95 0.95" rotation="12 -8 157.5" position="2.12 1.5 -2.12">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/Mobius48a.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/Mobius48aL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.4 1.4 1.4" rotation="12 -8 157.5" position="-2.12 1.5 2.12">
+				<a-obj-model src="vr/outros/Mobius48aDual.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/Mobius48aDualL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.5 1.5 1.5" rotation="0 45 0" position="2.12 -1.5 2.12">
+				<a-obj-model src="vr/outros/Octahemioctahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/OctahemioctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.35 0.35 0.35" rotation="0 45 0" position="-2.12 -1.5 -2.12">
+				<a-obj-model src="../infinity/vr/outros/Octahemioctacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/OctahemioctacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.93 0.93 0.93" rotation="0 45 0" position="0 3 -3">
+				<a-obj-model src="vr/outros/Escher.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/EscherL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.15 1.15 1.15" rotation="0 45 0" position="0 3 3">
+				<a-obj-model src="vr/outros/EscherDual.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/EscherDualL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.38 1.38 1.38" rotation="21 0 0" position="0 -3 3">
+				<a-obj-model src="vr/outros/GreatDodecahemicosahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatDodecahemicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.26 0.26 0.26" rotation="21 0 0" position="0 -3 -3">
+				<a-obj-model src="../infinity/vr/outros/GreatDodecahemicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/GreatDodecahemicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.9 0.9 0.9" rotation="0 12.5 0" position="-2.12 4.5 -2.12">
+				<a-obj-model src="vr/outros/SmallIcosihemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/SmallIcosihemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.195 0.195 0.195" rotation="0 12.5 0" position="2.17 4.5 2.17">
+				<a-obj-model src="../infinity/vr/outros/SmallIcosihemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/SmallIcosihemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.2 2.2 2.2" rotation="0 -12.5 0" position="-2.12 -4.5 2.12">
+				<a-obj-model src="vr/outros/GreatStellatedDodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatStellatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.3 2.3 2.3" rotation="0 -12.5 0" position="2.12 -4.5 -2.12">
+				<a-obj-model src="vr/outros/GreatIcosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.33 1.33 1.33" rotation="0 -35 0" position="-3 6 0">
+				<a-obj-model src="vr/outros/Mobius24.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/Mobius24L.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.8 1.8 1.8" rotation="0 -35 0" position="3 6 0">
+				<a-obj-model src="vr/outros/Mobius24Dual.obj" mtl="#material1" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/Mobius24DualL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.86 0.86 0.86" rotation="0 0 31" position="-3 -6 0">
+				<a-obj-model src="vr/outros/SmallDodecahemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/SmallDodecahemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.18 0.18 0.18" rotation="0 0 31" position="3 -6 0">
+				<a-obj-model src="../infinity/vr/outros/SmallDodecahemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/SmallDodecahemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.25 2.25 2.25" rotation="0 -14 0" position="-2.12 7.5 2.12">
+				<a-obj-model src="vr/outros/SmallStellatedDodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/SmallStellatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.38 1.38 1.38" rotation="0 -14 0" position="2.12 7.5 -2.12">
+				<a-obj-model src="vr/outros/GreatDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.33 2.33 2.33" rotation="0 12.5 0" position="-2.12 -7.5 -2.12">
+				<a-obj-model src="vr/outros/GreatIcosihemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatIcosihemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.18 0.18 0.18" rotation="0 12.5 0" position="2.12 -7.5 2.12">
+				<a-obj-model src="../infinity/vr/outros/GreatIcosihemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/GreatIcosihemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.4 1.4 1.4" rotation="21 0 0" position="0 9 3">
+				<a-obj-model src="vr/outros/SmallDodecahemicosahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/SmallDodecahemicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.265 0.265 0.265" rotation="21 0 0" position="0 9 -3">
+				<a-obj-model src="../infinity/vr/outros/SmallDodecahemicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/SmallDodecahemicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.85 1.85 1.85" position="0 -9 -3">
+				<a-obj-model src="vr/outros/Tetrahemihexahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/TetrahemihexahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.43 0.43 0.43" position="0 -9 3">
+				<a-obj-model src="../infinity/vr/outros/Tetrahemihexacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/tetrahemihexacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.53 2.53 2.53" rotation="0 12.5 0" position="2.12 10.5 2.12">
+				<a-obj-model src="vr/outros/GreatDodecahemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatDodecahemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="0.19 0.19 0.19" rotation="0 12.5 0" position="-2.12 10.5 -2.12">
+				<a-obj-model src="../infinity/vr/outros/GreatDodecahemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../infinity/vr/outros/GreatDodecahemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+					
+			<a-cylinder position="0 0 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 1.5 0" rotation="90 0 45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -1.5 0" rotation="90 0 -45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 3 0" rotation="90 0 0" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -3 0" rotation="90 0 0" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 4.5 0" rotation="90 0 -45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -4.5 0" rotation="90 0 45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 6 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -6 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 7.5 0" rotation="90 0 45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -7.5 0" rotation="90 0 -45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 9 0" rotation="90 0 0" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -9 0" rotation="90 0 0" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 10.5 0" rotation="90 0 -45" mixin="mtl1"></a-cylinder>
+		</a-entity>	
 	</a-marker>
 	
   </a-scene>
