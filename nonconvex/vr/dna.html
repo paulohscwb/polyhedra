@@ -20,20 +20,6 @@
 			
 			<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
 			<a-mixin id="anima0" animation__0='property: camera.zoom; from: 1.4; to: 1; dur: 60000; delay: 4000'></a-mixin>
-			<a-mixin id="anima1" animation__1='property: visible; from: false; to: true; dur: 1; delay: 4000'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: visible; from: false; to: true; dur: 1; delay: 14000'></a-mixin>
-			<a-mixin id="anima3" animation__3='property: visible; from: false; to: true; dur: 1; delay: 24000'></a-mixin>
-			<a-mixin id="anima4" animation__4='property: visible; from: false; to: true; dur: 1; delay: 34000'></a-mixin>
-			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; dur: 1; delay: 44000'></a-mixin>
-			<a-mixin id="anima6" animation__6='property: visible; from: false; to: true; dur: 1; delay: 54000'></a-mixin>
-			<a-mixin id="anima7" animation__7='property: visible; from: false; to: true; dur: 1; delay: 64000'></a-mixin>
-			<a-mixin id="anima8" animation__8='property: visible; from: false; to: true; dur: 1; delay: 74000'></a-mixin>
-			<a-mixin id="anima9" animation__9='property: visible; from: false; to: true; dur: 1; delay: 84000'></a-mixin>
-			<a-mixin id="anima10" animation__10='property: visible; from: false; to: true; dur: 1; delay: 94000'></a-mixin>
-			<a-mixin id="anima11" animation__11='property: visible; from: false; to: true; dur: 1; delay: 104000'></a-mixin>
-			<a-mixin id="anima12" animation__12='property: visible; from: false; to: true; dur: 1; delay: 114000'></a-mixin>
-			<a-mixin id="anima13" animation__13='property: visible; from: false; to: true; dur: 1; delay: 124000'></a-mixin>
-			<a-mixin id="anima14" animation__14='property: visible; from: false; to: true; dur: 1; delay: 134000'></a-mixin>
 		</a-assets>
 
 		<a-entity camera="fov:1; near:1; zoom:1.4" mixin="anima0" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 150 700; maxDistance: 1500;"></a-entity>
@@ -48,160 +34,160 @@
 		
 		<a-entity scale="0.97 0.97 0.97" position="0.7 0 0" rotation="0 0 90" mixin="anima">
 		
-			<a-entity scale="1.5 1.5 1.5" rotation="45 0 0" position="3 0 0" visible="false" mixin="anima1">
+			<a-entity scale="1.5 1.5 1.5" rotation="45 0 0" position="3 0 0">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Cubohemioctahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/CubohemioctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.35 0.35 0.35" rotation="45 0 0" position="-3 0 0" visible="false" mixin="anima1">
+			<a-entity scale="0.35 0.35 0.35" rotation="45 0 0" position="-3 0 0">
 				<a-obj-model src="../../infinity/vr/outros/Hexahemioctacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/HexahemioctacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.95 0.95 0.95" rotation="12 -8 157.5" position="2.12 1.5 -2.12" visible="false" mixin="anima2">
+			<a-entity scale="0.95 0.95 0.95" rotation="12 -8 157.5" position="2.12 1.5 -2.12">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Mobius48a.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/Mobius48aL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.4 1.4 1.4" rotation="12 -8 157.5" position="-2.12 1.5 2.12" visible="false" mixin="anima2">
+			<a-entity scale="1.4 1.4 1.4" rotation="12 -8 157.5" position="-2.12 1.5 2.12">
 				<a-obj-model src="outros/Mobius48aDual.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/Mobius48aDualL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.5 1.5 1.5" rotation="0 45 0" position="2.12 -1.5 2.12" visible="false" mixin="anima3">
+			<a-entity scale="1.5 1.5 1.5" rotation="0 45 0" position="2.12 -1.5 2.12">
 				<a-obj-model src="outros/Octahemioctahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/OctahemioctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.35 0.35 0.35" rotation="0 45 0" position="-2.12 -1.5 -2.12" visible="false" mixin="anima3">
+			<a-entity scale="0.35 0.35 0.35" rotation="0 45 0" position="-2.12 -1.5 -2.12">
 				<a-obj-model src="../../infinity/vr/outros/Octahemioctacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/OctahemioctacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.93 0.93 0.93" rotation="0 45 0" position="0 3 -3" visible="false" mixin="anima4">
+			<a-entity scale="0.93 0.93 0.93" rotation="0 45 0" position="0 3 -3">
 				<a-obj-model src="outros/Escher.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/EscherL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.15 1.15 1.15" rotation="0 45 0" position="0 3 3" visible="false" mixin="anima4">
+			<a-entity scale="1.15 1.15 1.15" rotation="0 45 0" position="0 3 3">
 				<a-obj-model src="outros/EscherDual.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/EscherDualL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.38 1.38 1.38" rotation="21 0 0" position="0 -3 3" visible="false" mixin="anima5">
+			<a-entity scale="1.38 1.38 1.38" rotation="21 0 0" position="0 -3 3">
 				<a-obj-model src="outros/GreatDodecahemicosahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDodecahemicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.26 0.26 0.26" rotation="21 0 0" position="0 -3 -3" visible="false" mixin="anima5">
+			<a-entity scale="0.26 0.26 0.26" rotation="21 0 0" position="0 -3 -3">
 				<a-obj-model src="../../infinity/vr/outros/GreatDodecahemicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/GreatDodecahemicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.9 0.9 0.9" rotation="0 12.5 0" position="-2.12 4.5 -2.12" visible="false" mixin="anima6">
+			<a-entity scale="0.9 0.9 0.9" rotation="0 12.5 0" position="-2.12 4.5 -2.12">
 				<a-obj-model src="outros/SmallIcosihemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallIcosihemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.195 0.195 0.195" rotation="0 12.5 0" position="2.17 4.5 2.17" visible="false" mixin="anima6">
+			<a-entity scale="0.195 0.195 0.195" rotation="0 12.5 0" position="2.17 4.5 2.17">
 				<a-obj-model src="../../infinity/vr/outros/SmallIcosihemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/SmallIcosihemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.2 2.2 2.2" rotation="0 -12.5 0" position="-2.12 -4.5 2.12" visible="false" mixin="anima7">
+			<a-entity scale="2.2 2.2 2.2" rotation="0 -12.5 0" position="-2.12 -4.5 2.12">
 				<a-obj-model src="outros/GreatStellatedDodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatStellatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.3 2.3 2.3" rotation="0 -12.5 0" position="2.12 -4.5 -2.12" visible="false" mixin="anima7">
+			<a-entity scale="2.3 2.3 2.3" rotation="0 -12.5 0" position="2.12 -4.5 -2.12">
 				<a-obj-model src="outros/GreatIcosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.33 1.33 1.33" rotation="0 -35 0" position="-3 6 0" visible="false" mixin="anima8">
+			<a-entity scale="1.33 1.33 1.33" rotation="0 -35 0" position="-3 6 0">
 				<a-obj-model src="outros/Mobius24.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/Mobius24L.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.8 1.8 1.8" rotation="0 -35 0" position="3 6 0" visible="false" mixin="anima8">
+			<a-entity scale="1.8 1.8 1.8" rotation="0 -35 0" position="3 6 0">
 				<a-obj-model src="outros/Mobius24Dual.obj" mtl="#material1" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/Mobius24DualL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.86 0.86 0.86" rotation="0 0 31" position="-3 -6 0" visible="false" mixin="anima9">
+			<a-entity scale="0.86 0.86 0.86" rotation="0 0 31" position="-3 -6 0">
 				<a-obj-model src="outros/SmallDodecahemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallDodecahemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.18 0.18 0.18" rotation="0 0 31" position="3 -6 0" visible="false" mixin="anima9">
+			<a-entity scale="0.18 0.18 0.18" rotation="0 0 31" position="3 -6 0">
 				<a-obj-model src="../../infinity/vr/outros/SmallDodecahemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/SmallDodecahemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.25 2.25 2.25" rotation="0 -14 0" position="-2.12 7.5 2.12" visible="false" mixin="anima10">
+			<a-entity scale="2.25 2.25 2.25" rotation="0 -14 0" position="-2.12 7.5 2.12">
 				<a-obj-model src="outros/SmallStellatedDodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallStellatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.38 1.38 1.38" rotation="0 -14 0" position="2.12 7.5 -2.12" visible="false" mixin="anima10">
+			<a-entity scale="1.38 1.38 1.38" rotation="0 -14 0" position="2.12 7.5 -2.12">
 				<a-obj-model src="outros/GreatDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.33 2.33 2.33" rotation="0 12.5 0" position="-2.12 -7.5 -2.12" visible="false" mixin="anima11">
+			<a-entity scale="2.33 2.33 2.33" rotation="0 12.5 0" position="-2.12 -7.5 -2.12">
 				<a-obj-model src="outros/GreatIcosihemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatIcosihemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.18 0.18 0.18" rotation="0 12.5 0" position="2.12 -7.5 2.12" visible="false" mixin="anima11">
+			<a-entity scale="0.18 0.18 0.18" rotation="0 12.5 0" position="2.12 -7.5 2.12">
 				<a-obj-model src="../../infinity/vr/outros/GreatIcosihemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/GreatIcosihemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.4 1.4 1.4" rotation="21 0 0" position="0 9 3" visible="false" mixin="anima12">
+			<a-entity scale="1.4 1.4 1.4" rotation="21 0 0" position="0 9 3">
 				<a-obj-model src="outros/SmallDodecahemicosahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallDodecahemicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.265 0.265 0.265" rotation="21 0 0" position="0 9 -3" visible="false" mixin="anima12">
+			<a-entity scale="0.265 0.265 0.265" rotation="21 0 0" position="0 9 -3">
 				<a-obj-model src="../../infinity/vr/outros/SmallDodecahemicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/SmallDodecahemicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.85 1.85 1.85" position="0 -9 -3" visible="false" mixin="anima13">
+			<a-entity scale="1.85 1.85 1.85" position="0 -9 -3">
 				<a-obj-model src="outros/Tetrahemihexahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetrahemihexahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.43 0.43 0.43" position="0 -9 3" visible="false" mixin="anima13">
+			<a-entity scale="0.43 0.43 0.43" position="0 -9 3">
 				<a-obj-model src="../../infinity/vr/outros/Tetrahemihexacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/tetrahemihexacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.53 2.53 2.53" rotation="0 12.5 0" position="2.12 10.5 2.12" visible="false" mixin="anima14">
+			<a-entity scale="2.53 2.53 2.53" rotation="0 12.5 0" position="2.12 10.5 2.12">
 				<a-obj-model src="outros/GreatDodecahemidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDodecahemidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.19 0.19 0.19" rotation="0 12.5 0" position="-2.12 10.5 -2.12" visible="false" mixin="anima14">
+			<a-entity scale="0.19 0.19 0.19" rotation="0 12.5 0" position="-2.12 10.5 -2.12">
 				<a-obj-model src="../../infinity/vr/outros/GreatDodecahemidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="../../infinity/vr/outros/GreatDodecahemidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 					
-			<a-cylinder position="0 0 0" rotation="90 0 90" visible="false" mixin="mtl1 anima1"></a-cylinder>
-			<a-cylinder position="0 1.5 0" rotation="90 0 45" visible="false" mixin="mtl1 anima2"></a-cylinder>
-			<a-cylinder position="0 -1.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima3"></a-cylinder>
-			<a-cylinder position="0 3 0" rotation="90 0 0" visible="false" mixin="mtl1 anima4"></a-cylinder>
-			<a-cylinder position="0 -3 0" rotation="90 0 0" visible="false" mixin="mtl1 anima5"></a-cylinder>
-			<a-cylinder position="0 4.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima6"></a-cylinder>
-			<a-cylinder position="0 -4.5 0" rotation="90 0 45" visible="false" mixin="mtl1 anima7"></a-cylinder>
-			<a-cylinder position="0 6 0" rotation="90 0 90" visible="false" mixin="mtl1 anima8"></a-cylinder>
-			<a-cylinder position="0 -6 0" rotation="90 0 90" visible="false" mixin="mtl1 anima9"></a-cylinder>
-			<a-cylinder position="0 7.5 0" rotation="90 0 45" visible="false" mixin="mtl1 anima10"></a-cylinder>
-			<a-cylinder position="0 -7.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima11"></a-cylinder>
-			<a-cylinder position="0 9 0" rotation="90 0 0" visible="false" mixin="mtl1 anima12"></a-cylinder>
-			<a-cylinder position="0 -9 0" rotation="90 0 0" visible="false" mixin="mtl1 anima13"></a-cylinder>
-			<a-cylinder position="0 10.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima14"></a-cylinder>
+			<a-cylinder position="0 0 0" rotation="90 0 90"></a-cylinder>
+			<a-cylinder position="0 1.5 0" rotation="90 0 45"></a-cylinder>
+			<a-cylinder position="0 -1.5 0" rotation="90 0 -45"></a-cylinder>
+			<a-cylinder position="0 3 0" rotation="90 0 0"></a-cylinder>
+			<a-cylinder position="0 -3 0" rotation="90 0 0"></a-cylinder>
+			<a-cylinder position="0 4.5 0" rotation="90 0 -45"></a-cylinder>
+			<a-cylinder position="0 -4.5 0" rotation="90 0 45"></a-cylinder>
+			<a-cylinder position="0 6 0" rotation="90 0 90"></a-cylinder>
+			<a-cylinder position="0 -6 0" rotation="90 0 90"></a-cylinder>
+			<a-cylinder position="0 7.5 0" rotation="90 0 45"></a-cylinder>
+			<a-cylinder position="0 -7.5 0" rotation="90 0 -45"></a-cylinder>
+			<a-cylinder position="0 9 0" rotation="90 0 0"></a-cylinder>
+			<a-cylinder position="0 -9 0" rotation="90 0 0"></a-cylinder>
+			<a-cylinder position="0 10.5 0" rotation="90 0 -45"></a-cylinder>
 		</a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
