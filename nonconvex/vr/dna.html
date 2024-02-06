@@ -41,10 +41,10 @@
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.5" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:CUBOCTAHEDRON  |  Faces: 14  |  Polygons: 8 triangles and 6 squares  |  Edges: 24  |  Vertices: 12  |  Sphericity: 0.905  |  Diedral angle: 125.26 (4-3) degrees;"></a-plane>
 		</a-entity>-->
-		<a-light type="point" color="yellow" intensity="0.75" position="-3 0 0"></a-light>
-		<a-light type="point" color="yellow" intensity="0.75" position="3 0 0"></a-light>
+		<a-light type="point" color="yellow" intensity="0.45" position="-3.5 0 0"></a-light>
+		<a-light type="point" color="yellow" intensity="0.45" position="3.5 0 0"></a-light>
 		
-		<a-entity scale="0.97 0.97 0.97" rotation="0 0 90" mixin="anima">
+		<a-entity scale="0.97 0.97 0.97" position="0.5 0 0" rotation="0 0 90" mixin="anima">
 		
 			<a-entity scale="1.5 1.5 1.5" rotation="45 0 0" position="3 0 0" visible="false" mixin="anima1">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Cubohemioctahedron.obj" mtl="#material"></a-obj-model>
@@ -57,8 +57,8 @@
 			</a-entity>
 			
 			<a-entity scale="0.95 0.95 0.95" rotation="-35 0 0" position="2.12 1.5 -2.12" visible="false" mixin="anima2">
-				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Mobius48a.obj" mtl="#material1"></a-obj-model>
-				<a-obj-model src="outros/Mobius48aL.obj" class="arestas" mtl="#material1"></a-obj-model>
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/Mobius48a.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="outros/Mobius48aL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="1.4 1.4 1.4" rotation="-35 0 0" position="-2.12 1.5 2.12" visible="false" mixin="anima2">
@@ -117,13 +117,13 @@
 			</a-entity>
 			
 			<a-entity scale="1.33 1.33 1.33" rotation="0 -35 0" position="-3 6 0" visible="false" mixin="anima8">
-				<a-obj-model src="outros/Mobius24.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="outros/Mobius24L.obj" class="arestas" mtl="#material1"></a-obj-model>
+				<a-obj-model src="outros/Mobius24.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="outros/Mobius24L.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="1.8 1.8 1.8" rotation="0 -35 0" position="3 6 0" visible="false" mixin="anima8">
-				<a-obj-model src="outros/Mobius24Dual.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="outros/Mobius24DualL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="outros/Mobius24Dual.obj" mtl="#material1" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="outros/Mobius24DualL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="0.86 0.86 0.86" rotation="0 0 30" position="-3 -6 0" visible="false" mixin="anima9">
