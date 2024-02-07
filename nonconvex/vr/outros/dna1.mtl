@@ -118,7 +118,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor13a
-Kd 0.75 0.75 0.75
+Kd 0.35 0.35 0.35
 Ks 0.3 0.3 0.3
 Pr/map_Pr 0.6
 Pm/map_Pm 0.4
