@@ -36,7 +36,7 @@ Since the hemipolyhedra have faces passing through the center, the dual figures 
   <hr>
   <h3 align="center">Immersive room</h3>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><img align="middle" src="../../geometria-descritiva/videos/infinity.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to stellation to infinity polyhedra"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
+  <p align="center"><img align="middle" src="../../geometria-descritiva/videos/infinity.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to stellation to infinity polyhedra"/><a href="sala.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../nonconvex/sala4.htm" target="_blank">&#x1f517; room 2</a></p>
  <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
 To view stellation to infinity polyhedra in AR, simply visit:
