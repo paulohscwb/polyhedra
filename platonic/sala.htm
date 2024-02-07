@@ -34,6 +34,7 @@
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
 			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poli1, .poli, a-obj-model, a-link, a-cylinder, a-sphere" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer" hand-controls="hand: right"></a-mixin>
+			<a-mixin id="mtl7" material="color: #b3b3b3; side:double;">
 			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
 			<a-mixin id="mtl8" material="color: #87CEFA; side:double;"></a-mixin>
 			<a-mixin id="mtl9" material="color: #b3b3b3; side:double;"></a-mixin>
