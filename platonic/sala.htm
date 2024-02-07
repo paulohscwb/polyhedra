@@ -66,6 +66,9 @@
 			<a-mixin id="arestas3" mixin="arestas" geometry="radius: 0.0352" material="color: #FFFEC4;"></a-mixin> <!--arestas-->
 			<a-mixin id="arestas4" mixin="arestas" geometry="radius: 0.057" material="color: #CBFFA9;"></a-mixin> <!--arestas-->
 			<a-mixin id="arestas5" mixin="arestas" geometry="radius: 0.0352" material="color: #C0DBEA;"></a-mixin> <!--arestas-->
+			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #78ebab;"></a-mixin>
+			<a-asset-item id="material1" src="vr/outros/dna.mtl"></a-asset-item>
+			<a-mixin id="anima" animation='property: rotation; dur: 45000; from: 0 0 0; to: 0 360 0; easing: linear; delay: 6000; loop: 3; dir: alternate;'></a-mixin>
         </a-assets>
         <a-entity id="cameraRig">
            <a-camera id="head" look-controls wasd-controls-enabled="false" position="0 1.7 1" cursor="rayOrigin:mouse" static-body="shape: sphere; sphereRadius: 0.001" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-camera>
@@ -1597,6 +1600,42 @@
 					</a-entity>
 				</a-entity>
 			</a-entity>
+		</a-entity>
+		
+		<a-entity class="poli" mixin="poli1" position="0.8 1 1.85" scale="0.1 0.1 0.1" mixin="anima" shadow>
+			<a-entity scale="0.75 0.75 0.75" position="2.8 0 0" rotation="0 0 -32">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/DodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.2 1.2 1.2" position="-3 0 0" rotation="0 0 -32">
+				<a-obj-model src="vr/outros/Icosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/IcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.6 1.6 1.6" position="1.5 2 -2.6" rotation="30 60 0">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/Octahedron.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/OctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="1.5 1.5 1.5" position="-1.35 2 2.34" rotation="30 60 0">
+				<a-obj-model src="vr/outros/Cube.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/CubeL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.2 2.2 2.2" rotation="0 150 -45" position="1.23 -2 2.132">
+				<a-obj-model src="vr/outros/Tetrahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/TetrahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+			</a-entity>
+			
+			<a-entity scale="2.2 2.2 2.2" position="-1.23 -2 -2.132" rotation="0 -30 -45">
+				<a-obj-model src="vr/outros/Tetrahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/TetrahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			</a-entity>
+			
+			<a-cylinder position="0 0 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 2 0" rotation="90 0 30" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -2 0" rotation="90 0 -30" mixin="mtl1"></a-cylinder>
 		</a-entity>
 		
 		<a-video src="vr/salas/videos/icosahedron_dual_x264_x264.mp4" position="2.055 1 1.16" rotation="0 270 0" depth="0.01" height="1.5" width="2.5"></a-video>
