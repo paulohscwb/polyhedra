@@ -31,7 +31,7 @@
 			<a-mixin id="mfisicas" physics-collider collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: collisions; colliderEventProperty: els; colliderEndEvent: collisions; colliderEndEventProperty: clearedEls;"></a-mixin>
 			 <a-mixin id="pointer" raycaster="showLine: true; objects: #poli1, .poli, a-obj-model, a-link, a-cylinder" collision-filter="collisionForces: false" static-body="shape: sphere; sphereRadius: 0.02" super-hands="colliderEvent: raycaster-intersection; colliderEventProperty: els; colliderEndEvent:raycaster-intersection-cleared; colliderEndEventProperty: clearedEls;"></a-mixin>
 			<a-mixin id="controle" mixin="pointer"></a-mixin>
-			<a-asset-item id="material" src="vr/outros/solidos.mtl"></a-asset-item>
+			<a-asset-item id="material" src="vr/outros/dna1.mtl"></a-asset-item>
 			<a-mixin id="mtl9" material="color: #F79F81; side:double;"></a-mixin>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;">
 	    	<a-asset-item id="material1" src="vr/outros/dna.mtl"></a-asset-item>
@@ -113,13 +113,13 @@
 			</a-entity>
 			
 			<a-entity scale="2.2 2.2 2.2" rotation="0 -12.5 0" position="-2.12 -4.5 2.12">
-				<a-obj-model src="vr/outros/GreatIcosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/GreatIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatIcosahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatIcosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="2.3 2.3 2.3" rotation="0 -12.5 0" position="2.12 -4.5 -2.12">
-				<a-obj-model src="vr/outros/GreatStellatedDodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/GreatStellatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatStellatedDodecahedron.obj" mtl="#material1"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="vr/outros/GreatStellatedDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-entity scale="1.33 1.33 1.33" rotation="0 -35 0" position="-3 6 0">
