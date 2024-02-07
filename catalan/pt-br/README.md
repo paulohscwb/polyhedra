@@ -36,7 +36,8 @@ function urlHandler(value) {
   <hr>
   <h3 align="center">Sala imersiva</h3>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><img align="middle" src="../vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><a href="../sala.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../archimedes/sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
+  <p align="center"><a href="../sala.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../archimedes/sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
+  <p align="center"><img src="../vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy"/><img src="../..archimedes/vr/salas/videos/DNA_arquimedes.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
  <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros de Catalan em RA, visite a página:

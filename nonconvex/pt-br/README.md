@@ -37,7 +37,7 @@ function urlHandler(value) {
 <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a></p>
-  <p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 47%; border-radius:5px" loading="lazy"/></p>
+  <p align="center"><img src="../vr/salas/videos/nonconvex1.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../vr/salas/videos/nonconvex2.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../vr/salas/videos/DNA_nonconvex.gif" style="max-width: 31.5%; border-radius:5px;" loading="lazy"/></p>
 <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros não convexos em RA, visite a página:
