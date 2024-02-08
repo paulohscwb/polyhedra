@@ -19,7 +19,7 @@
 			<a-asset-item id="material" src="outros/dna.mtl"></a-asset-item>
 			
 			<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
-			<a-mixin id="anima0" animation__0='property: camera.zoom; from: 1.6; to: 1; dur: 85000; delay: 7000'></a-mixin>
+			<a-mixin id="anima0" animation__0='property: camera.zoom; from: 1.8; to: 1; dur: 85000; delay: 5000'></a-mixin>
 			<a-mixin id="anima1" animation__1='property: visible; from: false; to: true; dur: 1; delay: 4000'></a-mixin>
 			<a-mixin id="anima2" animation__2='property: visible; from: false; to: true; dur: 1; delay: 14000'></a-mixin>
 			<a-mixin id="anima3" animation__3='property: visible; from: false; to: true; dur: 1; delay: 24000'></a-mixin>
@@ -39,7 +39,7 @@
 			<a-mixin id="anima17" animation__17='property: visible; from: false; to: true; dur: 1; delay: 164000'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1; zoom:1.6" mixin="anima0" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1; zoom:1.8" mixin="anima0" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 150 700; maxDistance: 1500;"></a-entity>
 
 		<!--<a-entity scale="2 2 2" position="0 0 0">
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.5" position="0 -1 2.5" rotation="-45 0 0" 
@@ -49,7 +49,7 @@
 		<a-light type="point" color="yellow" intensity="0.42" position="6 0 0"></a-light>
 		<a-light type="point" color="yellow" intensity="0.42" position="0 0 0"></a-light>
 		
-		<a-entity scale="0.9 0.9 0.9" rotation="0 0 90" mixin="anima">
+		<a-entity scale="0.82 0.82 0.82" rotation="0 0 90" mixin="anima">
 		
 			<a-entity scale="1.87 1.87 1.87" rotation="0 0 32" position="3 0 0" visible="false" mixin="anima1">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/GreatDodecicosidodecahedron.obj" mtl="#material"></a-obj-model>
@@ -248,8 +248,8 @@
 
 	</a-scene>
 	<!--<div class="box">
-		<span class="titulo">Nonconvex polyhedra: duality</span>
-		<br><span class="titulo">Poliedros não convexos: dualidade</span>
+		<span class="titulo">Self-intersecting polyhedra: duality</span>
+		<br><span class="titulo">Poliedros de auto-interseção: dualidade</span>
 		<hr><input type="checkbox" id="facesA" checked onclick="mfacesDNA()">faces&nbsp;&nbsp;&nbsp;  
 		<input type="checkbox" id="ar" checked onclick="marestasDNA()">edges 
 	</div>-->
