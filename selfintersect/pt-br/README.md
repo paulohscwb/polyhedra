@@ -36,7 +36,7 @@ function urlHandler(value) {
   <hr>
 <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros de auto-interseção" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a></p>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala4.htm" target="_blank">&#x1f517; sala 4</a></p>
   <p align="center"><img src="../vr/salas/videos/selfintersect1.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../vr/salas/videos/selfintersect2.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="../vr/salas/videos/selfintersect3.gif" style="max-width: 31.5%; border-radius:5px" loading="lazy"/></p>
 <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
@@ -227,6 +227,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/echidnahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/245A.png" class="foto"></a><img src="../ar/245.png" class="qr">
  <br>O equidnaedro é o termo usado para a quarta estrela pontiaguda do icosaedro, aparentemente usado pela primeira vez no banco de dados de poliedros Netlib. O equidnaedro é um poliedro nobre que consiste em 20 eneagramas irregulares, mas triangulares simétricos. Aparece como a célula do dual do heptacosiicosachron pentagonal-prismático.
 <br><br><b>Faces:</b> 20 eneagramas triangulares simétricos | <b>Arestas:</b> 270 | <b>Vértices:</b> 92 . <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>36. Poliedros de auto-interseção e seus duais</h4>
+ <a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto"></a><img src="../ar/133.png" class="qr">
+ <br>Representação com cada poliedro de auto-interseção e seu respectivo dual. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os duais dos poliedros de auto-interseção. 
+<br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
  <p class="topop"><a href="#p5" class="topo">voltar ao topo</a></p>
 <hr>
  

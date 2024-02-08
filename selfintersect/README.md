@@ -36,7 +36,7 @@ The self-intersecting polyhedra may either have self-intersecting faces, or self
 <hr>
   <h3 align="center">Immersive rooms</h3>
   <div class="embed-container"><iframe width="100%" src="sala1.htm" title="Sala Imersiva de poliedros de auto-interseção" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala3.htm" target="_blank">&#x1f517; room 3</a></p>
+  <p align="center"><a href="sala1.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala2.htm" target="_blank">&#x1f517; room 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala3.htm" target="_blank">&#x1f517; room 3</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala4.htm" target="_blank">&#x1f517; room 4</a></p>
   <p align="center"><img src="vr/salas/videos/selfintersect1.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="vr/salas/videos/selfintersect2.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy"/><img src="vr/salas/videos/selfintersect3.gif" style="max-width: 31.5%; border-radius:5px" loading="lazy"/></p>
 <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
@@ -261,6 +261,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/echidnahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/245A.png" class="foto"></a><img src="ar/245.png" class="qr">
  <br>The echidnahedron is the term used for the spiky fourth icosahedron stellation, apparently first used in the Netlib polyhedron database. The echidnahedron is a noble polyhedron that consists of 20 irregular, but triangular-symmetric enneagrams. It appears as the cell of the dual of the pentagonal-prismatic heptacosiicosachoron. 
 <br><br><b>Faces:</b> 20 triangular-symmetric enneagrams | <b>Edges:</b> 270 | <b>Vertices:</b> 92. <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">More...</a>
+<br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>36. Self-intersect polyhedra and their duals</h4>
+ <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto"></a><img src="ar/133.png" class="qr">
+ <br>Representation with each Self-intersect polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Self-intersect polyhedra. 
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 <hr>
