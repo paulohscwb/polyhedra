@@ -263,9 +263,9 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <br><br><b>Faces:</b> 20 triangular-symmetric enneagrams | <b>Edges:</b> 270 | <b>Vertices:</b> 92. <a href="https://mathworld.wolfram.com/Echidnahedron.html" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
-<h4>36. Self-intersect polyhedra and their duals</h4>
+<h4>36. Self-intersecting polyhedra and their duals</h4>
  <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto"></a><img src="ar/133.png" class="qr">
- <br>Representation with each Self-intersect polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Self-intersect polyhedra. 
+ <br>Representation with each Self-intersecting polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Self-intersecting polyhedra. 
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <p class="topop"><a href="#p5" class="topo">back to top</a></p>
 <hr>

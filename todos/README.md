@@ -1052,7 +1052,7 @@
 		<td></td>
 		<td class="titulo1"><a href="../quasiregular/pt-br/#m3d" target="_blank"><img src="../quasiregular/ar/119A.png" class="ima"> Dualidade</a></td>
 		<td><a href="../quasiregular/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/HVSXSoENv8Q" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/5rA0UWdkz0Q" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 		<td></td>
 	</tr>

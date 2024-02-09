@@ -91,6 +91,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>66</sub></span> The great stellated truncated dodecahedron is the uniform polyhedron also called the quasitruncated great stellated dodecahedron, whose dual is the great triakis icosahedron. Part of each face lies within the solid, hence is invisible in solid models. 
 <br><br><b>Faces:</b> 20 equilateral triangles and 12 regular decagrams | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 63.43° and 79.19°. <a href="https://mathworld.wolfram.com/GreatStellatedTruncatedDodecahedron.html" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<p class="topop"><a href="#p8" class="topo">back to top</a></p>
 <hr>
 <h4>8. Great Triakis Icosahedron</h4>
 <a href="vr/great_triakis_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto"></a><img src="ar/90.png" class="qr">
@@ -109,7 +110,6 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great stellapentakis dodecahedron (or great astropentakis dodecahedron) is the polyhedron whose dual is the uniform great truncated icosahedron. Its faces are isosceles triangles and part of each triangle lies within the solid, hence is invisible in solid models.  
 <br><br><b>Faces:</b> 60 isosceles triangles | <b>Edges:</b> 90 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 123.32°. <a href="https://en.wikipedia.org/wiki/Great_stellapentakis_dodecahedron" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
-<p class="topop"><a href="#p8" class="topo">back to top</a></p>
 <hr>
 <h4>11. Cubitruncated Cuboctahedron</h4>
 <a href="vr/cubitruncated_cuboctahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto"></a><img src="ar/79.png" class="qr">
@@ -134,6 +134,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great disdyakis dodecahedron is the polyhedron whose dual is the uniform great truncated cuboctahedron. The great disdyakis dodecahedron is topologically identical to the convex Catalan solid, disdyakis dodecahedron, which is dual to the truncated cuboctahedron.  
 <br><br><b>Faces:</b> 48 obtuse triangles | <b>Edges:</b> 72 | <b>Vertices:</b> 26 | <b>Dihedral angles:</b> 123.85° and 236.15°. <a href="https://en.wikipedia.org/wiki/Great_disdyakis_dodecahedron" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<p class="topop"><a href="#p8" class="topo">back to top</a></p>
 <hr>
 <h4>15. Icositruncated Dodecadodecahedron</h4>
 <a href="vr/icositruncated_dodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/75A.png" class="foto"></a><img src="ar/75.png" class="qr">
@@ -169,6 +170,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_disdyakis_triacontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/70A.png" class="foto"></a><img src="ar/70.png" class="qr">
  <br>The great disdyakis triacontahedron (or trisdyakis icosahedron) is the polyhedron whose dual is the uniform great truncated icosidodecahedron. Its faces are scalene triangles and part of each triangle lies within the solid, hence is invisible in solid models.   
 <br><br><br><br><b>Faces:</b> 120 obtuse triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 121.34°. <a href="https://en.wikipedia.org/wiki/Great_truncated_icosidodecahedron#Great_disdyakis_triacontahedron" target="_blank">More...</a>
+<br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>21. Self-intersecting truncated polyhedra and their duals</h4>
+<a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/69A.png" class="foto"></a><img src="ar/69.png" class="qr">
+ <br>Representation with each Self-intersecting truncated polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Self-intersecting truncated polyhedra.    
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p8" class="topo">back to top</a></p>
 <hr>

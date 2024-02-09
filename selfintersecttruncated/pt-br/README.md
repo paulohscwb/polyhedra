@@ -91,6 +91,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>66</sub></span> O grande dodecaedro estrelado truncado é o poliedro uniforme também chamado de grande dodecaedro estrelado quase truncado, cujo dual é o grande icosaedro triakis. Parte de cada face está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 20 triângulos equiláteros e 12 decagramas regulares | <b>Arestas:</b> 90 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 63.43° e 79.19°. <a href="https://mathworld.wolfram.com/GreatStellatedTruncatedDodecahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>8. Grande icosaedro triakis</h4>
 <a href="../vr/great_triakis_icosahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto"></a><img src="../ar/90.png" class="qr">
@@ -109,7 +110,6 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande dodecaedro stellapentakis (ou grande dodecaedro astropentakis) é o poliedro cujo dual é o uniforme grande icosaedro truncado. Suas faces são triângulos isósceles e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 triângulos isósceles | <b>Arestas:</b> 90 | <b>Vértices:</b> 32 | <b>Ângulo diédrico:</b> 123.32°. <a href="https://en.wikipedia.org/wiki/Great_stellapentakis_dodecahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
-<p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>11. Cuboctaedro cubitruncado</h4>
 <a href="../vr/cubitruncated_cuboctahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/79A.png" class="foto"></a><img src="../ar/79.png" class="qr">
@@ -134,6 +134,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande dodecaedro disdyakis é o poliedro cujo dual é o uniforme grande cuboctaedro truncado. O grande dodecaedro disdyakis é topologicamente idêntico ao sólido convexo de Catalan dodecaedro disdyakis, que é dual ao cuboctaedro truncado.
 <br><br><b>Faces:</b> 48 triângulos obtusângulos | <b>Arestas:</b> 72 | <b>Vértices:</b> 26 | <b>Ângulos diédricos:</b> 123.85° e 236.15°. <a href="https://en.wikipedia.org/wiki/Great_disdyakis_dodecahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>15. Dodecadodecaedro icositruncado</h4>
 <a href="../vr/icositruncated_dodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/75A.png" class="foto"></a><img src="../ar/75.png" class="qr">
@@ -169,6 +170,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/great_disdyakis_triacontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/70A.png" class="foto"></a><img src="../ar/70.png" class="qr">
  <br>O grande triacontaedro disdyakis (ou icosaedro trisdyakis) é o poliedro cujo dual é o uniforme grande icosidodecaedro truncado. Suas faces são triângulos escalenos e parte de cada triângulo está dentro do sólido, portanto é invisível em modelos sólidos.
 <br><br><br><br><b>Faces:</b> 120 triângulos obtusângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 121.34°. <a href="https://en.wikipedia.org/wiki/Great_truncated_icosidodecahedron#Great_disdyakis_triacontahedron" target="_blank">Mais sobre...</a>
+<br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>21. Poliedros truncados de auto-interseção e seus duais</h4>
+<a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/69A.png" class="foto"></a><img src="../ar/69.png" class="qr">
+ <br>Representação com cada poliedro truncado de auto-interseção e seu respectivo dual. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os duais dos poliedros truncados de auto-interseção. 
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p8" class="topo">voltar ao topo</a></p>
 <hr>
