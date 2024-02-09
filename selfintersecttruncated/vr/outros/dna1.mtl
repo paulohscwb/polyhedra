@@ -1,7 +1,7 @@
 ## Alias MTL Material File
 
 newmtl Cor1
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -10,7 +10,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor2
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -19,7 +19,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor3
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -28,7 +28,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor4
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -37,7 +37,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor5
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -46,7 +46,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor6
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -55,7 +55,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor7
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -64,7 +64,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor8
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -73,7 +73,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor9
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -82,7 +82,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor10
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -91,7 +91,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor11
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -100,7 +100,7 @@ Pm/map_Pm 0.4
 d 0.85
 
 newmtl Cor12
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Ni 1
 illum 4
@@ -166,7 +166,7 @@ Pm/map_Pm 0.4
 d 1
 
 newmtl CorL2
-Kd 0.3 0.9 0.3
+Kd 0.15 0.9 0.15
 Ks 0.3 0.3 0.3
 Pr/map_Pr 0.6
 Pm/map_Pm 0.4

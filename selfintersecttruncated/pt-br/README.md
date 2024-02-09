@@ -36,8 +36,8 @@ function urlHandler(value) {
   <hr>
 <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala1.htm" title="Sala Imersiva dos poliedros não convexos" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
-  <p align="center"><img src="../../../geometria-descritiva/videos/selfintersecttruncated1.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/><img src="../../../geometria-descritiva/videos/selfintersecttruncated2.gif" style="max-width: 47%; border-radius:5px" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/></p>
+  <p align="center"><a href="../sala1.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala2.htm" target="_blank">&#x1f517; sala 2</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala3.htm" target="_blank">&#x1f517; sala 3</a></p>
+  <p align="center"><img src="../../../geometria-descritiva/videos/selfintersecttruncated1.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/><img src="../../../geometria-descritiva/videos/selfintersecttruncated2.gif" style="max-width: 31.5%; border-radius:5px; margin-right:2%" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/><img src="../vr/salas/videos/selfintersecttruncated.gif" style="max-width: 31.5%; border-radius:5px" loading="lazy" alt="Sala imersiva dos poliedros de auto-interseção"/></p>
 <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros truncados de auto-interseção em RA, visite a página:
