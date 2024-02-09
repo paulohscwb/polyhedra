@@ -510,6 +510,14 @@
 		<td><a href="https://youtu.be/yGiQYxBkDWU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/pt-br/#m3d" target="_blank"><img src="../nonconvex/ar/111A.png" class="ima"> Dualidade</a></td>
+		<td><a href="../nonconvex/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/_zQEEsAjY1M" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 <h3>Pirâmides, tetraedros, prismas e antiprismas</h3>
 <table>	
@@ -930,6 +938,14 @@
 		<td><a href="https://youtu.be/TW4dzEhOTEM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/pt-br/#m3d" target="_blank"><img src="../selfintersect/ar/133A.png" class="ima"> Dualidade</a></td>
+		<td><a href="../selfintersect/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/HVSXSoENv8Q" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 <h3>Poliedros quase regulares</h3>
 <table>	
@@ -1031,6 +1047,14 @@
 		<td class="titulo1"><a href="../quasiregular/pt-br/#m3d" target="_blank"><img src="../quasiregular/ar/122A.png" class="ima"> Grande rombidodecácrono</a></td>
 		<td><a href="../quasiregular/vr/great_rhombidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/YxT5rUYSAh4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/pt-br/#m3d" target="_blank"><img src="../quasiregular/ar/119A.png" class="ima"> Dualidade</a></td>
+		<td><a href="../quasiregular/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/HVSXSoENv8Q" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 <h3>Poliedros truncados de auto-interseção</h3>

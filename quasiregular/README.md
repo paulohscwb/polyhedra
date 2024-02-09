@@ -118,6 +118,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <a href="vr/rhombicosacron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/120A.png" class="foto" alt="Rhombicosacron"></a><img src="ar/120.png" class="qr">
  <br>The rhombicosacron (or midly dipteral ditriacontahedron) is the dual of the uniform rhombicosahedron. It has crossed-quadrilateral (antiparallelograms) faces.  
 <br><br><b>Faces:</b> 60 antiparallelograms | <b>Edges:</b> 120 | <b>Vertices:</b> 50 | <b>Dihedral angle:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Rhombicosacron" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>15. Quasi regular polyhedra and their duals</h4>
+ <a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/119A.png" class="foto" alt="Duality"></a><img src="ar/119.png" class="qr">
+ <br>Representation with each Quasi regular polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Quasi regular polyhedra.   
+<br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p6" class="topo">back to top</a></p>
 <hr>
 

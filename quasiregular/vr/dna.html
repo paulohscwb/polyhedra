@@ -14,7 +14,7 @@
 			<a-mixin id="mtl0" material="opacity: 0.7; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #abeb78;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #abeb78;">
-			<a-asset-item id="material" src="outros/solidos.mtl"></a-asset-item>
+			<a-asset-item id="material" src="outros/dna1.mtl"></a-asset-item>
 			<a-asset-item id="material1" src="outros/dna.mtl"></a-asset-item>
 			
 			<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
@@ -34,88 +34,88 @@
 			<a-plane mixin="mtl0p texto" material="color: #b3b3b3" width="4.5" position="0 -1 2.5" rotation="-45 0 0" 
 			  text="value:CUBOCTAHEDRON  |  Faces: 14  |  Polygons: 8 triangles and 6 squares  |  Edges: 24  |  Vertices: 12  |  Sphericity: 0.905  |  Diedral angle: 125.26 (4-3) degrees;"></a-plane>
 		</a-entity>-->
-		<a-light type="point" color="yellow" intensity="0.75" position="-3 0 0"></a-light>
-		<a-light type="point" color="yellow" intensity="0.75" position="3 0 0"></a-light>
+		<a-light type="point" color="yellow" intensity="0.5" position="-5 0 0"></a-light>
+		<a-light type="point" color="yellow" intensity="0.5" position="5 0 0"></a-light>
 		
-		<a-entity scale="1.07 1.07 1.07" rotation="0 0 90" mixin="anima">
+		<a-entity scale="1 1 1" rotation="0 0 90" mixin="anima">
 		
 			<a-entity scale="1 1 1" position="3 0 0" visible="false" mixin="anima1">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/SmallRhombihexahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/SmallRhombihexahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.44 0.44 0.44" position="-3 0 0" visible="false" mixin="anima1">
-				<a-obj-model src="vr/outros/SmallRhombihexacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="vr/outros/SmallRhombihexacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			<a-entity scale="0.4 0.4 0.4" position="-3 0 0" visible="false" mixin="anima1">
+				<a-obj-model src="outros/SmallRhombihexacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="outros/SmallRhombihexacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2 2 2" position="2.12 2 -2.12" visible="false" mixin="anima2">
-				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/GreatRhombihexahedron.obj" mtl="#material1"></a-obj-model>
-				<a-obj-model src="outros/GreatRhombihexahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			<a-entity scale="2 2 2" position="2.12 2.5 -2.12" rotation="0 45 0" visible="false" mixin="anima2">
+				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/GreatRhombihexahedron.obj" mtl="#material"></a-obj-model>
+				<a-obj-model src="outros/GreatRhombihexahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1 1 1" position="-2.12 2 2.12" visible="false" mixin="anima2">
+			<a-entity scale="1 1 1" position="-2.12 2.5 2.12" rotation="0 45 0" visible="false" mixin="anima2">
 				<a-obj-model src="outros/GreatRhombihexacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="outros/catalan/GreatRhombihexacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+				<a-obj-model src="outros/GreatRhombihexacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.82 0.82 0.82" position="2.12 -2 2.12" visible="false" mixin="anima3">
+			<a-entity scale="0.77 0.77 0.77" position="2.12 -2.5 2.12" rotation="0 14 0" visible="false" mixin="anima3">
 				<a-obj-model src="outros/SmallDodecicosahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallDodecicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.31 0.31 0.31" position="-2.12 -2 -2.12" visible="false" mixin="anima3">
+			<a-entity scale="0.29 0.29 0.29" position="-2.12 -2.5 -2.12" rotation="0 14 0" visible="false" mixin="anima3">
 				<a-obj-model src="outros/SmallDodecicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallDodecicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.28 1.28 1.28" position="0 4 -3" visible="false" mixin="anima4">
+			<a-entity scale="1.28 1.28 1.28" position="0 5 -3" rotation="0 30 0" visible="false" mixin="anima4">
 				<a-obj-model src="outros/GreatDodecicosahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDodecicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.8 0.8 0.8" position="0 4 3" visible="false" mixin="anima4">
+			<a-entity scale="0.77 0.77 0.77" position="0 5 3" rotation="0 30 0" visible="false" mixin="anima4">
 				<a-obj-model src="outros/GreatDodecicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDodecicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.65 0.65 0.65" position="0 -4 3" visible="false" mixin="anima5">
+			<a-entity scale="0.62 0.62 0.62" position="0 -5 3" visible="false" mixin="anima5">
 				<a-obj-model src="outros/SmallRhombidodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallRhombidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.42 0.42 0.42" position="0 -4 -3" visible="false" mixin="anima5">
+			<a-entity scale="0.42 0.42 0.42" position="0 -5 -3" visible="false" mixin="anima5">
 				<a-obj-model src="outros/SmallRhombidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallRhombidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2 2 2" position="-2.12 6 -2.12" visible="false" mixin="anima6">
+			<a-entity scale="2 2 2" position="-2.12 7.5 -2.12" rotation="0 14 0" visible="false" mixin="anima6">
 				<a-obj-model src="outros/GreatRhombidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatRhombidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.72 0.72 0.72" position="2.12 6 2.12" visible="false" mixin="anima6">
+			<a-entity scale="0.67 0.67 0.67" position="2.12 7.5 2.12" rotation="0 14 0" visible="false" mixin="anima6">
 				<a-obj-model src="outros/GreatRhombidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatRhombidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.14 1.14 1.14" position="-2.12 -6 2.12" visible="false" mixin="anima7">
+			<a-entity scale="1.1 1.1 1.1" position="-2.12 -7.5 2.12" rotation="0 -14 0" visible="false" mixin="anima7">
 				<a-obj-model src="outros/Rhombicosahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/RhombicosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.86 0.86 0.86" position="2.12 -6 -2.12" visible="false" mixin="anima7">
+			<a-entity scale="0.86 0.86 0.86" position="2.12 -7.5 -2.12" rotation="0 -14 0" visible="false" mixin="anima7">
 				<a-obj-model src="outros/Rhombicosacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/RhombicosacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-cylinder position="0 0 0" rotation="90 0 90" visible="false" mixin="mtl1 anima1"></a-cylinder>
-			<a-cylinder position="0 2 0" rotation="90 0 45" visible="false" mixin="mtl1 anima2"></a-cylinder>
-			<a-cylinder position="0 -2 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima3"></a-cylinder>
-			<a-cylinder position="0 4 0" rotation="90 0 0" visible="false" mixin="mtl1 anima4"></a-cylinder>
-			<a-cylinder position="0 -4 0" rotation="90 0 0" visible="false" mixin="mtl1 anima5"></a-cylinder>
-			<a-cylinder position="0 6 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima6"></a-cylinder>
-			<a-cylinder position="0 -6 0" rotation="90 0 45" visible="false" mixin="mtl1 anima7"></a-cylinder>
+			<a-cylinder position="0 2.5 0" rotation="90 0 45" visible="false" mixin="mtl1 anima2"></a-cylinder>
+			<a-cylinder position="0 -2.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima3"></a-cylinder>
+			<a-cylinder position="0 5 0" rotation="90 0 0" visible="false" mixin="mtl1 anima4"></a-cylinder>
+			<a-cylinder position="0 -5 0" rotation="90 0 0" visible="false" mixin="mtl1 anima5"></a-cylinder>
+			<a-cylinder position="0 7.5 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima6"></a-cylinder>
+			<a-cylinder position="0 -7.5 0" rotation="90 0 45" visible="false" mixin="mtl1 anima7"></a-cylinder>
 		</a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>

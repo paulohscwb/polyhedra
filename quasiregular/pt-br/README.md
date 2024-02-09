@@ -118,6 +118,11 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <a href="../vr/rhombicosacron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/120A.png" class="foto" alt="Rombicosacro"></a><img src="../ar/120.png" class="qr">
  <br>O rombicosacro (ou ditriacontaedro dipteral mediano) é o dual do poliedro unifrome rombicosaedro. Possui faces quadrilaterais cruzadas (antiparalelogramos).
 <br><br><b>Faces:</b> 60 antiparalelogramos | <b>Arestas:</b> 120 | <b>Vértices:</b> 50 | <b>Ângulo diédrico:</b> 135.58°. <a href="https://en.wikipedia.org/wiki/Rhombicosacron" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>15. Poliedros quase regulares e seus duais</h4>
+ <a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/119A.png" class="foto" alt="Dualidade"></a><img src="../ar/119.png" class="qr">
+ <br>Representação com cada poliedro quase regular e seu respectivo dual. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os duais dos poliedros quase regulares. 
+<br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p6" class="topo">voltar ao topo</a></p>
 <hr>
 

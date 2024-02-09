@@ -511,6 +511,14 @@
 		<td><a href="https://youtu.be/yGiQYxBkDWU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../nonconvex/#m3d" target="_blank"><img src="../nonconvex/ar/111A.png" class="ima">Duality</a></td>
+		<td><a href="../nonconvex/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/usy4zkuhOaM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 <h3>Pyramids, tetrahedrons, prisms and antiprisms</h3>
 <table>	
@@ -931,6 +939,14 @@
 		<td><a href="https://youtu.be/TW4dzEhOTEM" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersect/#m3d" target="_blank"><img src="../selfintersect/ar/133A.png" class="ima">Duality</a></td>
+		<td><a href="../selfintersect/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mmNnjIzJnVg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 <h3>Quasi regular polyhedra</h3>
 <table>	
@@ -1032,6 +1048,14 @@
 		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/122A.png" class="ima"> Great rhombidodecacron</a></td>
 		<td><a href="../quasiregular/vr/great_rhombidodecacron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/YxT5rUYSAh4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/119A.png" class="ima">Duality</a></td>
+		<td><a href="../quasiregular/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/mmNnjIzJnVg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 <h3>Self-intersecting truncated polyhedra</h3>
