@@ -19,20 +19,9 @@
 			<a-asset-item id="material1" src="outros/dna.mtl"></a-asset-item>
 			
 			<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
-			<a-mixin id="anima0" animation__0='property: camera.zoom; from: 1.4; to: 1; dur: 60000; delay: 4000'></a-mixin>
-			<a-mixin id="anima1" animation__1='property: visible; from: false; to: true; dur: 1; delay: 4000'></a-mixin>
-			<a-mixin id="anima2" animation__2='property: visible; from: false; to: true; dur: 1; delay: 14000'></a-mixin>
-			<a-mixin id="anima3" animation__3='property: visible; from: false; to: true; dur: 1; delay: 24000'></a-mixin>
-			<a-mixin id="anima4" animation__4='property: visible; from: false; to: true; dur: 1; delay: 34000'></a-mixin>
-			<a-mixin id="anima5" animation__5='property: visible; from: false; to: true; dur: 1; delay: 44000'></a-mixin>
-			<a-mixin id="anima6" animation__6='property: visible; from: false; to: true; dur: 1; delay: 54000'></a-mixin>
-			<a-mixin id="anima7" animation__7='property: visible; from: false; to: true; dur: 1; delay: 64000'></a-mixin>
-			<a-mixin id="anima8" animation__8='property: visible; from: false; to: true; dur: 1; delay: 74000'></a-mixin>
-			<a-mixin id="anima9" animation__9='property: visible; from: false; to: true; dur: 1; delay: 84000'></a-mixin>
-			<a-mixin id="anima10" animation__10='property: visible; from: false; to: true; dur: 1; delay: 94000'></a-mixin>
 		</a-assets>
 
-		<a-entity camera="fov:1; near:1; zoom:1.4" mixin="anima0" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 150 700; maxDistance: 1500;"></a-entity>
+		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; minDistance: 0.5; initialPosition: 0 150 700; maxDistance: 1500;"></a-entity>
 
 		<a-light type="point" color="yellow" intensity="0.4" position="-6 0 0"></a-light>
 		<a-light type="point" color="yellow" intensity="0.4" position="6 0 0"></a-light>
@@ -40,116 +29,116 @@
 		
 		<a-entity scale="1 1 1" position="0.7 0 0" rotation="0 0 90" mixin="anima">
 		
-			<a-entity scale="2.8 2.8 2.8" position="3 0 0" visible="false" mixin="anima1">
+			<a-entity scale="2.8 2.8 2.8" position="3 0 0">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/StellatedTruncatedHexahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/StellatedTruncatedHexahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.1 1.1 1.1" position="-3 0 0" visible="false" mixin="anima1">
+			<a-entity scale="1.1 1.1 1.1" position="-3 0 0">
 				<a-obj-model src="outros/GreatTriakisOctahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatTriakisOctahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.7 0.7 0.7" rotation="0 -14 0" position="2.12 2 -2.12" visible="false" mixin="anima2">
+			<a-entity scale="0.7 0.7 0.7" rotation="0 -14 0" position="2.12 2 -2.12">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/TruncatedGreatDodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/TruncatedGreatDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.4 0.4 0.4" rotation="0 -14 0" position="-2.12 2 2.12" visible="false" mixin="anima2">
+			<a-entity scale="0.4 0.4 0.4" rotation="0 -14 0" position="-2.12 2 2.12">
 				<a-obj-model src="outros/SmallStellapentakisDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallStellapentakisDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.65 1.65 1.65" rotation="0 13.25 0" position="2.12 -2 2.12" visible="false" mixin="anima3">
+			<a-entity scale="1.65 1.65 1.65" rotation="0 13.25 0" position="2.12 -2 2.12">
 				<a-obj-model src="outros/SmallStellatedTruncatedDodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallStellatedTruncatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.18 0.18 0.18" rotation="0 13.25 0" position="-2.12 -2 -2.12" visible="false" mixin="anima3">
+			<a-entity scale="0.18 0.18 0.18" rotation="0 13.25 0" position="-2.12 -2 -2.12">
 				<a-obj-model src="outros/GreatPentakisDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatPentakisDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.95 1.95 1.95" rotation="0 32 0" position="0 4 -3" visible="false" mixin="anima4">
+			<a-entity scale="1.95 1.95 1.95" rotation="0 32 0" position="0 4 -3">
 				<a-obj-model src="outros/GreatStellatedTruncatedDodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatStellatedTruncatedDodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.66 1.66 1.66" rotation="0 32 0" position="0 4 3" visible="false" mixin="anima4">
+			<a-entity scale="1.66 1.66 1.66" rotation="0 32 0" position="0 4 3">
 				<a-obj-model src="outros/GreatTriakisIcosahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatTriakisIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.4 1.4 1.4" rotation="0 32 0" position="0 -4 3" visible="false" mixin="anima5">
+			<a-entity scale="1.4 1.4 1.4" rotation="0 32 0" position="0 -4 3">
 				<a-obj-model src="outros/TruncatedGreatIcosahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TruncatedGreatIcosahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.55 0.55 0.55" rotation="0 32 0" position="0 -4 -3" visible="false" mixin="anima5">
+			<a-entity scale="0.55 0.55 0.55" rotation="0 32 0" position="0 -4 -3">
 				<a-obj-model src="outros/GreatStellapentakisDodecahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatStellapentakisDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1 1 1" rotation="0 45 0" position="-2.12 6 -2.12" visible="false" mixin="anima6">
+			<a-entity scale="1 1 1" rotation="0 45 0" position="-2.12 6 -2.12">
 				<a-obj-model src="outros/CubitruncatedCuboctahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/CubitruncatedCuboctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.195 0.195 0.195" rotation="0 45 0" position="2.17 6 2.17" visible="false" mixin="anima6">
+			<a-entity scale="0.195 0.195 0.195" rotation="0 45 0" position="2.17 6 2.17">
 				<a-obj-model src="outros/TetradyakisHexahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TetradyakisHexahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.32 1.32 1.32" rotation="0 45 0" position="-2.12 -6 2.12" visible="false" mixin="anima7">
+			<a-entity scale="1.32 1.32 1.32" rotation="0 45 0" position="-2.12 -6 2.12">
 				<a-obj-model src="outros/GreatTruncatedCuboctahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatTruncatedCuboctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.76 0.76 0.76" rotation="0 45 0" position="2.12 -6 -2.12" visible="false" mixin="anima7">
+			<a-entity scale="0.76 0.76 0.76" rotation="0 45 0" position="2.12 -6 -2.12">
 				<a-obj-model src="outros/GreatDisdyakisDodecahedron.obj" mtl="#material1"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDisdyakisDodecahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.68 0.68 0.68" rotation="0 0 -32" position="-3 8 0" visible="false" mixin="anima8">
+			<a-entity scale="0.68 0.68 0.68" rotation="0 0 -32" position="-3 8 0">
 				<a-obj-model src="outros/IcositruncatedDodecadodecahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/IcositruncatedDodecadodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.42 0.42 0.42" rotation="0 0 -32" position="3 8 0" visible="false" mixin="anima8">
+			<a-entity scale="0.42 0.42 0.42" rotation="0 0 -32" position="3 8 0">
 				<a-obj-model src="outros/TridyakisIcosahedron.obj" mtl="#material1" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TridyakisIcosahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.82 0.82 0.82" rotation="0 0 32" position="-3 -8 0" visible="false" mixin="anima9">
+			<a-entity scale="0.82 0.82 0.82" rotation="0 0 32" position="-3 -8 0">
 				<a-obj-model src="outros/TruncatedDodecadodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/TruncatedDodecadodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.2 0.2 0.2" rotation="0 0 32" position="3 -8 0" visible="false" mixin="anima9">
+			<a-entity scale="0.2 0.2 0.2" rotation="0 0 32" position="3 -8 0">
 				<a-obj-model src="outros/MedialDisdyakisTriacontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/MedialDisdyakisTriacontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.43 1.43 1.43" rotation="0 -14 0" position="-2.12 10 2.12" visible="false" mixin="anima10">
+			<a-entity scale="1.43 1.43 1.43" rotation="0 -14 0" position="-2.12 10 2.12">
 				<a-obj-model src="outros/GreatTruncatedIcosidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatTruncatedIcosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.37 0.37 0.37" rotation="0 -14 0" position="2.12 10 -2.12" visible="false" mixin="anima10">
+			<a-entity scale="0.37 0.37 0.37" rotation="0 -14 0" position="2.12 10 -2.12">
 				<a-obj-model src="outros/GreatDisdyakisTriacontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDisdyakisTriacontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-cylinder position="0 0 0" rotation="90 0 90" visible="false" mixin="mtl1 anima1"></a-cylinder>
-			<a-cylinder position="0 2 0" rotation="90 0 45" visible="false" mixin="mtl1 anima2"></a-cylinder>
-			<a-cylinder position="0 -2 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima3"></a-cylinder>
-			<a-cylinder position="0 4 0" rotation="90 0 0" visible="false" mixin="mtl1 anima4"></a-cylinder>
-			<a-cylinder position="0 -4 0" rotation="90 0 0" visible="false" mixin="mtl1 anima5"></a-cylinder>
-			<a-cylinder position="0 6 0" rotation="90 0 -45" visible="false" mixin="mtl1 anima6"></a-cylinder>
-			<a-cylinder position="0 -6 0" rotation="90 0 45" visible="false" mixin="mtl1 anima7"></a-cylinder>
-			<a-cylinder position="0 8 0" rotation="90 0 90" visible="false" mixin="mtl1 anima8"></a-cylinder>
-			<a-cylinder position="0 -8 0" rotation="90 0 90" visible="false" mixin="mtl1 anima9"></a-cylinder>
-			<a-cylinder position="0 10 0" rotation="90 0 45" visible="false" mixin="mtl1 anima10"></a-cylinder>
+			<a-cylinder position="0 0 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 2 0" rotation="90 0 45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -2 0" rotation="90 0 -45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 4 0" rotation="90 0 0" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -4 0" rotation="90 0 0" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 6 0" rotation="90 0 -45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -6 0" rotation="90 0 45" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 8 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 -8 0" rotation="90 0 90" mixin="mtl1"></a-cylinder>
+			<a-cylinder position="0 10 0" rotation="90 0 45" mixin="mtl1"></a-cylinder>
 		</a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.5"></a-light>
@@ -159,11 +148,11 @@
 		<a-sky color="aliceblue"></a-sky>
 
 	</a-scene>
-	<!--<div class="box">
+	<div class="box">
 		<span class="titulo">Self-intersecting truncated polyhedra: duality</span>
 		<br><span class="titulo">Poliedros de auto-interseção truncados: dualidade</span>
 		<hr><input type="checkbox" id="facesA" checked onclick="mfacesDNA()">faces&nbsp;&nbsp;&nbsp;  
 		<input type="checkbox" id="ar" checked onclick="marestasDNA()">edges 
-	</div>-->
+	</div>
 </body>
 </html>
