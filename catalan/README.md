@@ -34,7 +34,7 @@ function urlHandler(value) {
 The Catalan solids are the duals of the Archimedean solids. They are named after the Belgian mathematician Eugene Catalan (1814-1894) who first described the complete set in 1865. The Rhombic Dodecahedron and Rhombic Triacontahedron were described in 1611 by Johannes Kepler. Each Catalan solid has one type of face and a constant dihedral angle, and it possesses the same symmetry as its Archimedean dual.
   <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
-<h3 align="center">Immersive room</h3>
+<h3 align="center">Immersive rooms</h3>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="sala.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../archimedes/sala2.htm" target="_blank">&#x1f517; room 2</a></p>
   <p align="center"><img src="vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy"/><img src="../archimedes/vr/salas/videos/DNA_arquimedes.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>

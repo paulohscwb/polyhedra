@@ -34,7 +34,7 @@ function urlHandler(value) {
   Como os hemipoliedros têm faces passando pelo centro, as figuras duais têm vértices correspondentes no infinito. Esses poliedros são representados com prismas que se cruzam, cada um estendendo-se em ambas as direções para o mesmo vértice no infinito, a fim de manter a simetria.
  <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
-  <h3 align="center">Sala imersiva</h3>
+  <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="../sala.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../nonconvex/sala4.htm" target="_blank">&#x1f517; sala 2</a></p>
   <p align="center"><img align="middle" src="../../../geometria-descritiva/videos/infinity.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala Imersiva de RV para poliedros de Estrelação ao infinito"/><img align="middle" src="../vr/salas/videos/DNA_estrelacao.gif" style="max-width: 47%; border-radius:5px;" loading="lazy" alt="Sala Imersiva de RV para poliedros de Estrelação ao infinito"/></p>

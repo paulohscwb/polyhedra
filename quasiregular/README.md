@@ -34,9 +34,10 @@ function urlHandler(value) {
 A quasi regular polyhedron is a uniform polyhedron that has exactly two kinds of regular faces, which alternate around each vertex. 
 <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
   <hr>
-  <h3 align="center">Immersive room</h3>
+  <h3 align="center">Immersive rooms</h3>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
-  <p align="center"><img align="middle" src="../../geometria-descritiva/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy" alt="VR immersive room to quasi regular polyhedra"/><a href="sala.htm" target="_blank">&#x1f517; room link</a></p>
+  <p align="center"><a href="sala.htm" target="_blank">&#x1f517; room 1</a><a href="sala1.htm" target="_blank">&#x1f517; room 2</a></p>
+  <p align="center"><img src="../../geometria-descritiva/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="VR immersive room to quasi regular polyhedra"/><img src="vr/salas/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="VR immersive room to quasi regular polyhedra"/></p>
  <hr>
   <h3 id="ra" align="center">Augmented Reality</h3>
 To view quasi regular polyhedra in AR, simply visit:

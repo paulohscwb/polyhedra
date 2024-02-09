@@ -34,7 +34,7 @@ function urlHandler(value) {
   An Archimedean solid is one of the 13 solids first enumerated by Archimedes. They are the semi-regular convex polyhedra composed of regular polygons meeting in identical vertices, excluding the 5 Platonic solids and excluding the prisms and antiprisms.
   <p align="center"><a href="#ra">Augmented Reality</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
   <hr>
-  <h3 align="center">Immersive room</h3>
+  <h3 align="center">Immersive rooms</h3>
   <div class="embed-container"><iframe width="100%" src="sala.htm" title="Sala Imersiva de Arquimedes" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="sala.htm" target="_blank">&#x1f517; room 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="sala1.htm" target="_blank">&#x1f517; room 2</a></p>
   <p align="center"><img src="vr/salas/videos/arquimedes.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy"/><img src="vr/salas/videos/DNA_arquimedes.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>

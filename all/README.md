@@ -54,7 +54,7 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td class="titulo1"><a href="../platonic/#m3d" target="_blank"><img src="../platonic/ar/1A.png" class="ima">Duality</a></td>
+		<td class="titulo1"><a href="../platonic/#m3d" target="_blank"><img src="../platonic/ar/1A.png" class="ima"> Duality</a></td>
 		<td><a href="../platonic/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/GmL4lCdJ3Os" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
@@ -242,7 +242,7 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td class="titulo1"><a href="../archimedes/#m3d" target="_blank"><img src="../archimedes/ar/9A.png" class="ima"> Duality</a></td>
+		<td class="titulo1"><a href="../archimedes/#m3d" target="_blank"><img src="../archimedes/ar/9A.png" class="ima">  Duality</a></td>
 		<td><a href="../archimedes/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/1XyRLk6BrDk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
@@ -1051,7 +1051,7 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/119A.png" class="ima">Duality</a></td>
+		<td class="titulo1"><a href="../quasiregular/#m3d" target="_blank"><img src="../quasiregular/ar/119A.png" class="ima"> Duality</a></td>
 		<td><a href="../quasiregular/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/mmNnjIzJnVg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>

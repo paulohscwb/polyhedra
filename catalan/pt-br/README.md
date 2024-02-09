@@ -34,7 +34,7 @@ function urlHandler(value) {
   Os sólidos de Catalan são os duais dos sólidos de Arquimedes. Eles são nomeados em homenagem ao matemático belga Eugene Catalan (1814-1894) que descreveu pela primeira vez o conjunto completo em 1865. O Dodecaedro Rômbico e o Triacontaedro Rômbico foram descritos em 1611 por Johannes Kepler. Cada sólido de Catalan tem um tipo de face e um ângulo diedro constante, e possui a mesma simetria que seu respectivo dual de Arquimedes.
   <p align="center"><a href="#ra">Realidade Aumentada</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
   <hr>
-  <h3 align="center">Sala imersiva</h3>
+  <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Catalan" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="../sala.htm" target="_blank">&#x1f517; sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../archimedes/sala2.htm" target="_blank">&#x1f517; sala 2</a></p>
   <p align="center"><img src="../vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy"/><img src="../../archimedes/vr/salas/videos/DNA_arquimedes.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
