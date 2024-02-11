@@ -5,6 +5,7 @@
 	<title>Platonic polyhedra</title>
 	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
 	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
@@ -15,7 +16,7 @@
 	</div>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
-	   embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+	   embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;' gesture-detector>
      
      <a-assets>
 			<a-mixin id="mtl8" material="color: #87CEFA; side:double;"></a-mixin>
@@ -66,9 +67,9 @@
 	<a-light type="directional" color="white" intensity="0.9" position="-3 2 1"></a-light>
 	<a-light type="directional" color="white" intensity="0.9" position="3 -2 1"></a-light>
     
-	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/icosahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.31 0.31 0.31">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.31 0.31 0.31" class="clickable" gesture-handler>
 				<a-obj-model scale="3 3 3" position="0 2.2674 0" rotation="-110.905 0 0" src="vr/outros/Icosahedron.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -330,9 +331,9 @@
 			</a-entity>
 	</a-marker>
 	 
-	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="8" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/dodecahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.23 0.23 0.23">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.23 0.23 0.23" class="clickable" gesture-handler>
 				<a-obj-model scale="3 3 3" position="0 3.3405 0" rotation="0 -18 -58.28255" src="vr/outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -581,9 +582,9 @@
 			</a-entity>
 	</a-marker>	
 	  
-	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="7" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/octahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.4 0.4 0.4">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.4 0.4 0.4" class="clickable" gesture-handler>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s1_1" ></a-cylinder>
@@ -690,9 +691,9 @@
 			</a-entity>
 	</a-marker>
 	  
-	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="6" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/cube.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.35 0.35 0.35">	  
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.35 0.35 0.35" class="clickable" gesture-handler>	  
 	  			<a-obj-model scale="3 3 3" position="0 1.5 0" rotation="0 0 0" src="vr/outros/Cube.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -787,9 +788,9 @@
 			</a-entity>
 	</a-marker>
 	  
-	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="5" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/tetrahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.43 0.43 0.43">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.43 0.43 0.43" class="clickable" gesture-handler>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
 						<a-cylinder mixin="arestas mtl8 s1_1" ></a-cylinder>
@@ -845,9 +846,9 @@
 			</a-entity>
 	</a-marker>
     
-	<a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="2" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/PlatonicCompound.html"></a-link>
-		<a-entity position="1.8 1 0" id="prop1" scale="0.21 0.21 0.21">
+		<a-entity position="1.8 1 0" id="prop1" scale="0.21 0.21 0.21" class="clickable" gesture-handler>
 			<!--dodocaedro -->
 			<a-entity scale="1.095 1.095 1.095" rotation="-10.9 6.8	35.9" id="n3">
 				<a-entity position="0 -3.3405 0"> <!--apotema-->
@@ -1598,10 +1599,10 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="1" smooth="smooth:true; smoothCount:1" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/dna.html"></a-link>
 		<a-light type="point" color="yellow" intensity="0.75" position="0 0 0"></a-light>
-		<a-entity position="2 1.3 0.5" id="prop1" scale="0.35 0.35 0.35" mixin="anima">
+		<a-entity position="2 1.3 0.5" id="prop1" scale="0.35 0.35 0.35" mixin="anima" class="clickable" gesture-handler>
 			<a-entity scale="0.75 0.75 0.75" position="2.8 0 0" rotation="0 0 -32">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/Dodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="vr/outros/DodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
