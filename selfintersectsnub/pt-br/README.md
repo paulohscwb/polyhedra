@@ -90,6 +90,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>69</sub></span> O grande icosidodecaedro snub invertido é o poliedro uniforme também chamado de gisid, cujo poliedro dual é o grande hexecontaedro pentagonal invertido. Quatro triângulos e um pentagrama se encontram em cada vértice. Ele pode ser construído pela alternância do grande icosidodecaedro quase truncado após definir todos os comprimentos de arestas para serem iguais.
 <br><br><b>Faces:</b> 80 triângulos equiláteros e 12 pentagramas regulares | <b>Arestas:</b> 150 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 21.61° e 89.79°. <a href="https://mathworld.wolfram.com/GreatInvertedSnubIcosidodecahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>8. Grande hexecontaedro pentagonal invertido</h4>
 <a href="../vr/great_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/62A.png" class="foto"></a><img src="../ar/62.png" class="qr">
@@ -108,7 +109,6 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande hexecontaedro pentagrâmico, também chamado de grande ditriacontaedro dentóide, é o poliedro cujo dual é o uniforme grande retrosnub icosidodecaedro. Consiste em 60 pentágonos simétricos e parte de cada pentágono está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 pentágonos simétricos | <b>Arestas:</b> 150 | <b>Vértices:</b> 92 | <b>Ângulo diédrico:</b> 60.9°. <a href="https://polytope.miraheze.org/wiki/Great_pentagrammic_hexecontahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
-<p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>11. Icosidodecadodecaedro snub</h4>
 <a href="../vr/snub_icosidodecadodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/59A.png" class="foto"></a><img src="../ar/59.png" class="qr">
@@ -133,6 +133,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O grande hexecontaedro hexagonal é o poliedro cujo dual é o uniforme grande dodecicosidodecaedro snub. Consiste em 60 hexágonos não convexos assimétricos e cada hexágono tem duas arestas curtas, duas médias e duas longas. Parte de cada hexágono está dentro do sólido, portanto, é invisível em modelos sólidos.
 <br><br><b>Faces:</b> 60 hexágonos irregulares | <b>Arestas:</b> 180 | <b>Vértices:</b> 104 | <b>Ângulo diédrico:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>15. Pequeno icosicosidodecaedro snub</h4>
 <a href="../vr/small_snub_icosicosidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto"></a><img src="../ar/55.png" class="qr">
@@ -163,16 +164,20 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br><span class="titulo">U<sub>75</sub></span> O grande dirrombicosidodecaedro é o poliedro uniforme também chamado de gidrid, cujo poliedro dual é o grande dirrombicosidodecacron. É o único poliedro uniforme com mais de seis polígonos envolvendo cada vértice do poliedro: quatro quadrados alternados com dois triângulos e dois pentagramas. O grande dirrombicosidodecaedro é o poliedro uniforme mais complexo e tem faces passando pelo centro. Portanto, alguns dos vértices do grande dirrombicosidodecacron estão em pontos ideais infinitamente distantes da origem.
 <br><br><b>Faces:</b> 40 triângulos equiláteros, 60 quadrados e 24 pentagramas regulares | <b>Arestas:</b> 240 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 54.74° e 71.04°. <a href="https://mathworld.wolfram.com/GreatDirhombicosidodecahedron.html" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
-  <hr>
+<hr>
 <h4>20. Grande dirrombidodecaedro disnub</h4>
 <a href="../vr/great_disnub_dirhombidodecahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/50A.png" class="foto"></a><img src="../ar/50.png" class="qr">
  <br>O grande dirrombidodecaedro disnub, também chamado gididrid ou figura de Skilling, é um poliedro estrelado uniforme degenerado. Devido à sua realização geométrica com algumas arestas duplas onde 4 faces se encontram, é considerado um poliedro uniforme degenerado, mas não estritamente um poliedro uniforme. Seis triângulos, quatro quadrados e dois pentagramas se encontram em cada vértice. Pode ser construído como uma mistura do grande dirrombicosidodecaedro uniforme e do icosaedro disnub, o composto uniforme de 20 octaedros com o qual compartilha seu esqueleto de arestas.
 <br><br><b>Faces:</b> 120 triângulos equiláteros, 60 quadrados e 24 pentagramas regulares | <b>Arestas:</b> 360 | <b>Vértices:</b> 60 | <b>Ângulos diédricos:</b> 109.47°, 54.73° e 71.04°. <a href="https://polytope.miraheze.org/wiki/Great_disnub_dirhombidodecahedron" target="_blank">Mais sobre...</a>
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>21. Poliedros truncados de auto-interseção snubficados e seus duais</h4>
+<a href="../vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/49A.png" class="foto"></a><img src="../ar/49.png" class="qr">
+ <br>Representação com cada poliedro truncado de auto-interseção snubficado e seu respectivo dual. Neste projeto, temos os poliedros simulando uma fita de DNA com as respectivas ligações entre os duais dos poliedros truncados de auto-interseção snubficados. 
+<br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p9" class="topo">voltar ao topo</a></p>
 <hr>
 
- 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Self-intersecting snub polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/polyhedra/selfintersectsnub/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
 <h4>Como citar este trabalho:</h4> 

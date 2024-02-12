@@ -90,6 +90,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br><span class="titulo">U<sub>69</sub></span> The great inverted snub icosidodecahedron is the uniform polyhedron also called of gisid, whose dual polyhedron is the great inverted pentagonal hexecontahedron. Four triangles and one pentagram meet at each vertex. It can be constructed by alternation of the great quasitruncated icosidodecahedron after setting all edge lengths equal.  
 <br><br><b>Faces:</b> 80 equilateral triangles and 12 regular pentagrams | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 21.61° and 89.79°. <a href="https://mathworld.wolfram.com/GreatInvertedSnubIcosidodecahedron.html" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<p class="topop"><a href="#p9" class="topo">back to top</a></p>
 <hr>
 <h4>8. Great Inverted Pentagonal Hexecontahedron</h4>
 <a href="vr/great_inverted_pentagonal_hexecontahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/62A.png" class="foto"></a><img src="ar/62.png" class="qr">
@@ -108,7 +109,6 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great pentagrammic hexecontahedron, also called of great dentoid ditriacontahedronis, is the polyhedron whose dual is the uniform great retrosnub icosidodecahedron. It consists of 60 mirror-symmetric pentagons and part of each pentagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 mirror-symmetric pentagons | <b>Edges:</b> 150 | <b>Vertices:</b> 92 | <b>Dihedral angle:</b> 60.9°. <a href="https://polytope.miraheze.org/wiki/Great_pentagrammic_hexecontahedron" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
-<p class="topop"><a href="#p9" class="topo">back to top</a></p>
 <hr>
 <h4>11. Snub Icosidodecadodecahedron</h4>
 <a href="vr/snub_icosidodecadodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/59A.png" class="foto"></a><img src="ar/59.png" class="qr">
@@ -133,6 +133,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The great hexagonal hexecontahedron is the polyhedron whose dual is the uniform great snub dodecicosidodecahedron. It consists of 60 asymmetric nonconvex hexagons and each hexagon has two short, two medium, and two long edges. Part of each hexagon lies within the solid, hence is invisible in solid models.
 <br><br><b>Faces:</b> 60 irregular hexagons | <b>Edges:</b> 180 | <b>Vertices:</b> 104 | <b>Dihedral angle:</b> 90°. <a href="https://polytope.miraheze.org/wiki/Great_hexagonal_hexecontahedron" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<p class="topop"><a href="#p9" class="topo">back to top</a></p>
 <hr>
 <h4>15. Small Snub Icosicosidodecahedron</h4>
 <a href="vr/small_snub_icosicosidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto"></a><img src="ar/55.png" class="qr">
@@ -168,6 +169,11 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/great_disnub_dirhombidodecahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/50A.png" class="foto"></a><img src="ar/50.png" class="qr">
  <br>The great disnub dirhombidodecahedron, also called gidisdrid or Skilling's figure, is a degenerate uniform star polyhedron. Due to its geometric realization having some double edges where 4 faces meet, it is considered a degenerate uniform polyhedron but not strictly a uniform polyhedron. Six triangles, four squares, and two pentagrams meet at each vertex. It can be constructed as a blend of the uniform great dirhombicosidodecahedron and the disnub icosahedron, the uniform compound of 20 octahedra with which it shares its edge skeleton.
 <br><br><b>Faces:</b> 120 equilateral triangles, 60 squares and 24 regular pentagrams | <b>Edges:</b> 360 | <b>Vertices:</b> 60 | <b>Dihedral angles:</b> 109.47°, 54.73° and 71.04°. <a href="https://polytope.miraheze.org/wiki/Great_disnub_dirhombidodecahedron" target="_blank">More...</a>
+<br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>21. Self-intersecting snub polyhedra and their duals</h4>
+<a href="vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/49A.png" class="foto"></a><img src="ar/49.png" class="qr">
+ <br>Representation with each Self-intersecting snub polyhedron and its respective dual. In this project, we have polyhedra simulating a DNA ribbon with the respective connections between the dual of Self-intersecting snub polyhedra. 
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p9" class="topo">back to top</a></p>
 <hr>

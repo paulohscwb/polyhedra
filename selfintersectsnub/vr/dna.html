@@ -14,8 +14,8 @@
 			<a-mixin id="mtl0" material="opacity: 0.7; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" geometry="radius:0.06; height:3.2" material="color: #abeb78;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #abeb78;">
-			<a-asset-item id="material" src="outros/dna1.mtl"></a-asset-item>
-			<a-asset-item id="material1" src="outros/dna.mtl"></a-asset-item>
+			<a-asset-item id="material" src="outros/dna.mtl"></a-asset-item>
+			<a-asset-item id="material1" src="outros/dna1.mtl"></a-asset-item>
 			
 			<a-mixin id="anima" animation='property: rotation; dur: 60000; from: 0 0 90; to: 360 0 90; easing: linear; delay: 6000; loop: 4; dir: alternate;'></a-mixin>
 			<a-mixin id="anima0" animation__0='property: camera.zoom; from: 1.4; to: 1; dur: 60000; delay: 4000'></a-mixin>
@@ -39,104 +39,104 @@
 		
 		<a-entity scale="1 1 1" position="0.7 0 0" rotation="0 0 90" mixin="anima">
 		
-			<a-entity scale="1.14 1.14 1.14" position="3 0 0" visible="false" mixin="anima1">
+			<a-entity scale="1.05 1.05 1.05" rotation="0 0 32" position="3 0 0" visible="false" mixin="anima1">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/SnubDodecadodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/SnubDodecadodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.09 1.09 1.09" position="-3 0 0" visible="false" mixin="anima1">
+			<a-entity scale="1 1 1" rotation="0 0 32"position="-3.07 0 0" visible="false" mixin="anima1">
 				<a-obj-model src="outros/MedialPentagonalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/MedialPentagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.7 1.7 1.7" rotation="0 0 0" position="2.12 2 -2.12" visible="false" mixin="anima2">
+			<a-entity scale="1.6 1.6 1.6" rotation="0 -13.5 0" position="2.12 2 -2.12" visible="false" mixin="anima2">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="outros/InvertedSnubDodecadodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="outros/InvertedSnubDodecadodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.14 0.14 0.14" rotation="0 0 0" position="-2.12 2 2.12" visible="false" mixin="anima2">
+			<a-entity scale="0.125 0.125 0.125" rotation="0 -13.5 0" position="-2.17 2 2.17" visible="false" mixin="anima2">
 				<a-obj-model src="outros/MedialInvertedPentagonalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/MedialInvertedPentagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.71 1.71 1.71" rotation="0 0 0" position="2.12 -2 2.12" visible="false" mixin="anima3">
+			<a-entity scale="1.71 1.71 1.71" rotation="0 14 0" position="2.12 -2 2.12" visible="false" mixin="anima3">
 				<a-obj-model src="outros/GreatSnubIcosidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatSnubIcosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.9 1.9 1.9" rotation="0 0 0" position="-2.12 -2 -2.12" visible="false" mixin="anima3">
+			<a-entity scale="1.9 1.9 1.9" rotation="0 14 0" position="-2.12 -2 -2.12" visible="false" mixin="anima3">
 				<a-obj-model src="outros/GreatPentagonalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatPentagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.18 2.18 2.18" rotation="0 0 0" position="0 4 -3" visible="false" mixin="anima4">
+			<a-entity scale="2.18 2.18 2.18" rotation="0 32 0" position="0 4 -3" visible="false" mixin="anima4">
 				<a-obj-model src="outros/GreatInvertedSnubIcosidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatInvertedSnubIcosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.45 2.45 2.45" rotation="0 0 0" position="0 4 3" visible="false" mixin="anima4">
+			<a-entity scale="2.45 2.45 2.45" rotation="0 32 0" position="0 4 3" visible="false" mixin="anima4">
 				<a-obj-model src="outros/GreatInvertedPentagonalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatInvertedPentagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.3 2.3 2.3" rotation="0 0 0" position="0 -4 3" visible="false" mixin="anima5">
+			<a-entity scale="2.4 2.4 2.4" rotation="0 32 0" position="0 -4 3" visible="false" mixin="anima5">
 				<a-obj-model src="outros/GreatRetrosnubIcosidodecahedron.obj" mtl="#material"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatRetrosnubIcosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.93 0.93 0.93" rotation="0 0 0" position="0 -4 -3" visible="false" mixin="anima5">
+			<a-entity scale="0.92 0.92 0.92" rotation="0 32 0" position="0 -4 -3" visible="false" mixin="anima5">
 				<a-obj-model src="outros/GreatPentagrammicHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatPentagrammicHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.29 1.29 1.29" rotation="0 0 0" position="-2.12 6 -2.12" visible="false" mixin="anima6">
+			<a-entity scale="1.14 1.14 1.14" rotation="0 14 0" position="-2.12 6 -2.12" visible="false" mixin="anima6">
 				<a-obj-model src="outros/SnubIcosidodecadodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SnubIcosidodecadodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.09 1.09 1.09" rotation="0 0 0" position="2.17 6 2.17" visible="false" mixin="anima6">
+			<a-entity scale="1 1 1" rotation="0 14 0" position="2.12 6 2.12" visible="false" mixin="anima6">
 				<a-obj-model src="outros/MedialHexagonalHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/MedialHexagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2 2 2" rotation="0 0 0" position="-2.12 -6 2.12" visible="false" mixin="anima7">
+			<a-entity scale="2 2 2" rotation="0 -10 0" position="-2.12 -6 2.12" visible="false" mixin="anima7">
 				<a-obj-model src="outros/GreatSnubDodecicosidodecahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatSnubDodecicosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1.63 1.63 1.63" rotation="0 0 0" position="2.12 -6 -2.12" visible="false" mixin="anima7">
+			<a-entity scale="2.2 2.2 2.2" rotation="0 -10 0" position="2.12 -6 -2.12" visible="false" mixin="anima7">
 				<a-obj-model src="outros/GreatHexagonalHexecontahedron.obj" mtl="#material1"class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatHexagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1 1 1" rotation="0 0 0" position="-3 8 0" visible="false" mixin="anima8">
+			<a-entity scale="0.95 0.95 0.95" rotation="0 0 -30" position="-3 8 0" visible="false" mixin="anima8">
 				<a-obj-model src="outros/SmallSnubIcosicosidodecahedron.obj" class="faces" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallSnubIcosicosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1 1 1" rotation="0 0 0" position="3 8 0" visible="false" mixin="anima8">
+			<a-entity scale="0.95 0.95 0.95" rotation="0 0 -30" position="3 8 0" visible="false" mixin="anima8">
 				<a-obj-model src="outros/SmallHexagonalHexecontahedron.obj" mtl="#material1" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallHexagonalHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.42 2.42 2.42" rotation="0 0 0" position="-3 -8 0" visible="false" mixin="anima9">
+			<a-entity scale="2.5 2.5 2.5" rotation="0 0 32" position="-3 -8 0" visible="false" mixin="anima9">
 				<a-obj-model src="outros/SmallRetrosnubIcosicosidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallRetrosnubIcosicosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="1 1 1" rotation="0 0 32" position="3 -8 0" visible="false" mixin="anima9">
+			<a-entity scale="1.05 1.05 1.05" rotation="0 0 32" position="3 -8 0" visible="false" mixin="anima9">
 				<a-obj-model src="outros/SmallHexagrammicHexecontahedron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/SmallHexagrammicHexecontahedronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="2.15 2.15 2.15" rotation="0 0 0" position="-2.12 10 2.12" visible="false" mixin="anima10">
+			<a-entity scale="1.94 1.94 1.94" rotation="0 7 0" position="-2.12 10 2.12" visible="false" mixin="anima10">
 				<a-obj-model src="outros/GreatDirhombicosidodecahedron.obj" mtl="#material" class="faces" scale="0.998 0.998 0.998"></a-obj-model>
 				<a-obj-model src="outros/GreatDirhombicosidodecahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
 			</a-entity>
 			
-			<a-entity scale="0.22 0.22 0.22" rotation="0 0 0" position="2.12 10 -2.12" visible="false" mixin="anima10">
-				<a-obj-model src="../infinity/vr/outros/GreatDirhombicosidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
-				<a-obj-model src="../infinity/vr/outros/GreatDirhombicosidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
+			<a-entity scale="0.19 0.19 0.19" rotation="0 7 0" position="2.12 10 -2.12" visible="false" mixin="anima10">
+				<a-obj-model src="../../infinity/vr/outros/GreatDirhombicosidodecacron.obj" class="faces" mtl="#material1" scale="0.998 0.998 0.998"></a-obj-model>
+				<a-obj-model src="../../infinity/vr/outros/GreatDirhombicosidodecacronL.obj" class="arestas" mtl="#material1"></a-obj-model>
 			</a-entity>
 			
 			<a-cylinder position="0 0 0" rotation="90 0 90" visible="false" mixin="mtl1 anima1"></a-cylinder>
