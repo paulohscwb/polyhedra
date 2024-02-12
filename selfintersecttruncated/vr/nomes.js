@@ -41,7 +41,6 @@ function mvertices() {
 	}
 }
 
-
 function mfacesDNA() {
 	var x = document.getElementById('facesA')
 	var sceneEl = document.querySelector('a-scene')
