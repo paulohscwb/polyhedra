@@ -5,6 +5,7 @@
 	<title>Catalan polyhedra</title>
 	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
@@ -12,8 +13,7 @@
 		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
 	</div>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2022 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
-	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'  gesture-detector>
      
      <a-assets>
 		<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
@@ -38,9 +38,9 @@
 	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1"></a-light>
 	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1"></a-light>
     
-	<a-marker type="barcode" value="177" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="177" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/pentagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5">
+	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/PentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/PentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.19289  -0.21848 -2.09705"></a-sphere>
@@ -138,9 +138,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="168" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="168" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/deltoidal_icositetrahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.6 0.6 0.6">
+	   	<a-entity position="2 0.8 0" scale="0.6 0.6 0.6" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/DeltoidalIcositetrahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/DeltoidalIcositetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0  0.0  -1.41421"></a-sphere>
@@ -172,9 +172,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="170" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="170" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/pentagonal_icositetrahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.7 0.7 0.7">
+	   	<a-entity position="2 0.8 0" scale="0.7 0.7 0.7" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/PentagonalIcositetrahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/PentagonalIcositetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -1.3614"></a-sphere>
@@ -218,9 +218,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="165" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="165" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/rhombic_dodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.8 0.8 0.8">
+	   	<a-entity position="2 0.8 0" scale="0.8 0.8 0.8" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/RhombicDodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/RhombicDodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -1.06066"></a-sphere>
@@ -240,9 +240,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="175" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="175" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/pentakis_dodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.4 0.4 0.4">
+	   	<a-entity position="2 0.8 0" scale="0.4 0.4 0.4" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/PentakisDodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/PentakisDodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0   0.9271  -2.4271"></a-sphere>
@@ -280,9 +280,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="167" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="167" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/triakis_octahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.4 0.4 0.4">
+	   	<a-entity position="2 0.8 0" scale="0.4 0.4 0.4" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/TriakisOctahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/TriakisOctahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0  0.0  -2.4142"></a-sphere>
@@ -302,9 +302,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="180" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="180" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/triakis_tetrahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5">
+	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/TriakisTetrahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/TriakisTetrahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="1.06066 -1.06066 -1.06066"></a-sphere>
@@ -318,9 +318,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="166" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="166" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/tetrakis_hexahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5">
+	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/TetrakisHexahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/TetrakisHexahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -1.59099"></a-sphere>
@@ -340,9 +340,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="176" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="176" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/triakis_icosahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.3 0.3 0.3">
+	   	<a-entity position="2 0.8 0" scale="0.3 0.3 0.3" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/TriakisIcosahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/TriakisIcosahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="1.80902 0.0 -2.92705"></a-sphere>
@@ -380,9 +380,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="178" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="178" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/deltoidal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5">
+	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/DeltoidalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/DeltoidalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -2.23607"></a-sphere>
@@ -450,9 +450,9 @@
 		</a-entity>	
 	</a-marker>
 	
-	<a-marker type="barcode" value="179" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="179" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/disdyakis_triacontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.25 0.25 0.25">
+	   	<a-entity position="2 0.8 0" scale="0.25 0.25 0.25" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/DisdyakisTriacontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/DisdyakisTriacontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -3.80298"></a-sphere>
@@ -520,9 +520,9 @@
 		</a-entity>	
 	</a-marker>
 	
-	<a-marker type="barcode" value="174" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="174" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/disdyakis_dodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.4 0.4 0.4">
+	   	<a-entity position="2 0.8 0" scale="0.4 0.4 0.4" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/DisdyakisDodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/DisdyakisDodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.0 0.0 -2.6754"></a-sphere>
@@ -554,9 +554,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="172" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="172" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/rhombic_triacontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5">
+	   	<a-entity position="2 0.8 0" scale="0.5 0.5 0.5" class="clickable" gesture-handler>
 			<a-obj-model src="vr/catalan/RhombicTriacontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/catalan/RhombicTriacontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin="esfera mtl9" position="0.90451 0.0 -1.46353"></a-sphere>
@@ -594,11 +594,11 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="164" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="164" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="../archimedes/vr/dna.html"></a-link>
 		<a-light type="point" color="yellow" intensity="0.5" position="-3 0 0"></a-light>
 		<a-light type="point" color="yellow" intensity="0.5" position="3 0 0"></a-light>
-		<a-entity position="2 1.5 1.5" id="prop1" scale="0.25 0.25 0.25" rotation="0 0 90" mixin="anima">
+		<a-entity position="2 1.5 1.5" id="prop1" scale="0.25 0.25 0.25" rotation="0 0 90" mixin="anima" class="clickable" gesture-handler>
 			<a-entity scale="0.65 0.65 0.65" position="3 0 0">
 				<a-obj-model class="faces" scale="0.998 0.998 0.998" src="../archimedes/vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
 				<a-obj-model src="../archimedes/vr/outros/TruncatedOctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>
