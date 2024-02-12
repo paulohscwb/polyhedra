@@ -1206,6 +1206,14 @@
 		<td><a href="../selfintersecttruncated/vr/great_disdyakis_triacontahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/mDTPYwDPU1A" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersecttruncated/#m3d" target="_blank"><img src="../selfintersecttruncated/ar/69A.png" class="ima"> Duality</a></td>
+		<td><a href="../selfintersecttruncated/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/y_yaiOR7GGA" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
+	</tr>
 </table>
 <h3>Self-intersecting snub polyhedra</h3>
 <table>	
@@ -1363,6 +1371,14 @@
 		<td><a href="https://youtu.be/VqCgVItpJlk" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 		<td><a href="../selfintersectsnub/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../selfintersectsnub/#m3d" target="_blank"><img src="../selfintersectsnub/ar/49A.png" class="ima"> Duality</a></td>
+		<td><a href="../selfintersectsnub/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/bPpcjpT9K8k" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td></td>
+		<td></td>
 	</tr>
 </table>
 <h3>Johnson solids</h3>
