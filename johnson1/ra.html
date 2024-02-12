@@ -5,6 +5,7 @@
 	<title>Johnson solids 1: J1 - J32</title>
 	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
@@ -12,8 +13,7 @@
 		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
 	</div>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
-	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;' gesture-detector>
      
      <a-assets>
 		<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
@@ -38,9 +38,9 @@
 	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1"></a-light>
 	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1"></a-light>
     
-	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j1_square_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="221.2 0 6.61" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="221.2 0 6.61" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j1_square_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j1_square_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.655235 -0.292130 -0.754096'></a-sphere>
@@ -51,9 +51,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j2_pentagonal_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="60.83 0 -87.03" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="60.83 0 -87.03" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j2_pentagonal_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j2_pentagonal_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.329458 0.976099 0.280780'></a-sphere>
@@ -65,9 +65,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j3_triangular_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="194.96 0 9.64" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="194.96 0 9.64" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j3_triangular_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j3_triangular_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.747863 0.227870 -0.740794'></a-sphere>
@@ -82,9 +82,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="46" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="46" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j4_square_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="226.06 0 89.82" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="226.06 0 89.82" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j4_square_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j4_square_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.585543 -0.441941 -0.840701 '></a-sphere>
@@ -102,9 +102,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="45" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="45" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j5_pentagonal_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="245.63 0 90.91" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="245.63 0 90.91" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j5_pentagonal_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j5_pentagonal_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.844191 -0.563656 -0.512814 '></a-sphere>
@@ -125,9 +125,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="44" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="44" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j6_pentagonal_rotunda.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="229.18 0 152.65" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="229.18 0 152.65" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j6_pentagonal_rotunda.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j6_pentagonal_rotundaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.883472 -0.258791 0.103519'></a-sphere>
@@ -153,9 +153,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="43" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="43" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j7_elongated_triangular_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-27.58 0 19.01" scale="0.74 0.74 0.74">
+	   	<a-entity position="2 0.8 0" rotation="-27.58 0 19.01" scale="0.74 0.74 0.74" gesture-handler>
 			<a-obj-model src="vr/johnson/j7_elongated_triangular_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j7_elongated_triangular_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.451882 0.284418 0.565280'></a-sphere>
@@ -168,9 +168,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j8_elongated_square_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="198.32 0 -96.72" scale="0.74 0.74 0.94">
+	   	<a-entity position="2 0.8 0" rotation="198.32 0 -96.72" scale="0.74 0.74 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j8_elongated_square_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j8_elongated_square_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.849167 0.619869 0.087182'></a-sphere>
@@ -185,9 +185,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="41" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="41" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j9_elongated_pentagonal_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="8.68 0 15.07" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="8.68 0 15.07" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j9_elongated_pentagonal_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j9_elongated_pentagonal_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.719686 0.629425 0.022210'></a-sphere>
@@ -204,9 +204,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="40" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="40" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j10_gyroelongated_square_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-63.28 0 16.79" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="-63.28 0 16.79" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j10_gyroelongated_square_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j10_gyroelongated_square_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.681550 0.270757 -0.747914'></a-sphere>
@@ -221,9 +221,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="39" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="39" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j11_gyroelongated_pentagonal_pyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-13.92 0 88.64" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="-13.92 0 88.64" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j11_gyroelongated_pentagonal_pyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j11_gyroelongated_pentagonal_pyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.669286 0.622275 0.513309'></a-sphere>
@@ -240,9 +240,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="38" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="38" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j12_triangular_dipyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="33.75 0 -10.89" scale="0.84 0.84 0.84">
+	   	<a-entity position="2 0.8 0" rotation="33.75 0 -10.89" scale="0.84 0.84 0.84" gesture-handler>
 			<a-obj-model src="vr/johnson/j12_triangular_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j12_triangular_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.187812 -0.487950 -0.664016'></a-sphere>
@@ -253,9 +253,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="37" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="37" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j13_pentagonal_dipyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-52.46 0 17.55" scale="0.88 0.88 0.88">
+	   	<a-entity position="2 0.8 0" rotation="-52.46 0 17.55" scale="0.88 0.88 0.88" gesture-handler>
 			<a-obj-model src="vr/johnson/j13_pentagonal_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j13_pentagonal_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.640503 -0.646161 0.621837'></a-sphere>
@@ -268,9 +268,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="36" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="36" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j14_elongated_triangular_dipyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="0 0 -18.43" scale="0.69 0.69 0.69">
+	   	<a-entity position="2 0.8 0" rotation="0 0 -18.43" scale="0.69 0.69 0.69" gesture-handler>
 			<a-obj-model src="vr/johnson/j14_elongated_triangular_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j14_elongated_triangular_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.446131 1.338394 0.000000'></a-sphere>
@@ -284,9 +284,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="35" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="35" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j15_elongated_square_dipyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="0 0 -18.43" scale="0.74 0.74 0.74">
+	   	<a-entity position="2 0.8 0" rotation="0 0 -18.43" scale="0.74 0.74 0.74" gesture-handler>
 			<a-obj-model src="vr/johnson/j15_elongated_square_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j15_elongated_square_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.669867 0.334933 0.529577'></a-sphere>
@@ -302,9 +302,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j16_elongated_pentagonal_dipyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="0 0 -18.43" scale="0.88 0.88 0.88">
+	   	<a-entity position="2 0.8 0" rotation="0 0 -18.43" scale="0.88 0.88 0.88" gesture-handler>
 			<a-obj-model src="vr/johnson/j16_elongated_pentagonal_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j16_elongated_pentagonal_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.636706 0.318353 0.692816'></a-sphere>
@@ -322,9 +322,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="33" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="33" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j17_gyroelongated_square_dipyramid.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-12.92 0 178.39" scale="0.74 0.74 0.74">
+	   	<a-entity position="2 0.8 0" rotation="-12.92 0 178.39" scale="0.74 0.74 0.74" gesture-handler>
 			<a-obj-model src="vr/johnson/j17_gyroelongated_square_dipyramid.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j17_gyroelongated_square_dipyramidL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.675344 -0.565479 -0.273294'></a-sphere>
@@ -340,9 +340,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j18_elongated_triangular_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="0.91 0 -162.1" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="0.91 0 -162.1" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j18_elongated_triangular_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j18_elongated_triangular_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.686658 0.016522 -0.560338'></a-sphere>
@@ -363,9 +363,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="31" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="31" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j19_elongated_square_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="210.71 0 36.19" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="210.71 0 36.19" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j19_elongated_square_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j19_elongated_square_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.792371 -0.231368 0.270291 '></a-sphere>
@@ -391,14 +391,42 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="30" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="30" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j20_elongated_pentagonal_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" 
+	   	<a-entity position="2 0.8 0" rotation="227.14 0 52.65" scale="0.94 0.94 0.94" gesture-handler>
+			<a-obj-model id="fc" src="vr/johnson/j20_elongated_pentagonal_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="vr/johnson/j20_elongated_pentagonal_cupolaL.obj" mtl="#material"></a-obj-model>
+			<a-sphere mixin='esfera mtl9' position='-0.838689 -0.260219 -0.516017'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.711319 0.717591 0.128359'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.710334 -0.156922 0.080946'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.599799 0.556003 -0.725148'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.503838 -0.004675 -0.969981'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.487004 0.260210 0.480490'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.460089 -0.750282 -0.512622'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.376468 0.973135 -0.325605'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.331735 -0.646985 0.084342'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.254001 0.831847 0.530001'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.125239 -0.494738 -0.966586'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.029622 0.027949 0.730817'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.056536 -0.982543 -0.262295'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.080850 1.087391 0.076037'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.125583 -0.532729 0.485984'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.262625 0.599586 0.780328'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.391387 -0.726999 -0.716259'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.513854 -0.868287 0.139347'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.597475 0.855130 0.326364'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.641224 0.109523 0.783723'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.737185 -0.451155 0.538891'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.848705 -0.612742 -0.314616'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0.976075 0.365067 0.329760'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='1.072036 -0.195610 0.084927 '></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-0.934650 0.300459 -0.271185 '></a-sphere>
+		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="29" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="29" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j21_elongated_pentagonal_rotunda.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-46.1 0 -50.58" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="-46.1 0 -50.58" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j21_elongated_pentagonal_rotunda.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j21_elongated_pentagonal_rotundaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.801323 0.048332 0.456301'></a-sphere>
@@ -434,9 +462,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="28" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="28" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j22_gyroelongated_triangular_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="194.96 0 9.98" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="194.96 0 9.98" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j22_gyroelongated_triangular_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j22_gyroelongated_triangular_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.766106 0.678635 -0.329908'></a-sphere>
@@ -457,9 +485,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="27" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="27" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j23_gyroelongated_square_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="226.06 0 0.18" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="226.06 0 0.18" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j23_gyroelongated_square_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j23_gyroelongated_square_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.902194 0.146986 0.353054'></a-sphere>
@@ -485,9 +513,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="26" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="26" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j24_gyroelongated_pentagonal_cupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="245.63 0 0.91" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="245.63 0 0.91" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j24_gyroelongated_pentagonal_cupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j24_gyroelongated_pentagonal_cupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.995648 -0.249677 0.045090'></a-sphere>
@@ -518,9 +546,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="25" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="25" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j25_gyroelongated_pentagonal_rotunda.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="229.18 0 152.65" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="229.18 0 152.65" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j25_gyroelongated_pentagonal_rotunda.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j25_gyroelongated_pentagonal_rotundaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.877838 -0.070089 0.304735'></a-sphere>
@@ -556,9 +584,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="24" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="24" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j26_gyrobifastigium.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="0 45 0" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="0 45 0" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j26_gyrobifastigium.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j26_gyrobifastigiumL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.577350 0.577350 0.000000'></a-sphere>
@@ -572,9 +600,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="23" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="23" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j27_triangular_orthobicupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="42.99 30 10.72" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="42.99 30 10.72" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j27_triangular_orthobicupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j27_triangular_orthobicupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.683128 -0.715413 0.146701'></a-sphere>
@@ -592,9 +620,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="22" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="22" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j28_square_orthobicupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="89.98 -10 6.33" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="89.98 -10 6.33" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j28_square_orthobicupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j28_square_orthobicupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-1.017695 -0.474869 0.000238'></a-sphere>
@@ -616,9 +644,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="21" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="21" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j29_square_gyrobicupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="74.67 0 33.48" scale="0.94 0.94 0.94">
+	   	<a-entity position="2 0.8 0" rotation="74.67 0 33.48" scale="0.94 0.94 0.94" gesture-handler>
 			<a-obj-model src="vr/johnson/j29_square_gyrobicupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j29_square_gyrobicupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.863019 0.717824 0.033637'></a-sphere>
@@ -640,9 +668,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="20" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="20" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j30_pentagonal_orthobicupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="88.48 -10 171.17" scale="0.88 0.88 0.88">
+	   	<a-entity position="2 0.8 0" rotation="88.48 -10 171.17" scale="0.88 0.88 0.88" gesture-handler>
 			<a-obj-model src="vr/johnson/j30_pentagonal_orthobicupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j30_pentagonal_orthobicupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-1.038244 0.607337 -0.020132'></a-sphere>
@@ -668,9 +696,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="19" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="19" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j31_pentagonal_gyrobicupola.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="82.09 0 36.32" scale="0.88 0.88 0.88">
+	   	<a-entity position="2 0.8 0" rotation="82.09 0 36.32" scale="0.88 0.88 0.88" gesture-handler>
 			<a-obj-model src="vr/johnson/j31_pentagonal_gyrobicupola.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j31_pentagonal_gyrobicupolaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-1.138435 0.385484 -0.050817'></a-sphere>
@@ -696,9 +724,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="18" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="18" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/j32_pentagonal_orthocupolarontunda.htm"></a-link>
-	   	<a-entity position="2 0.8 0" rotation="-15.44 0 26" scale="0.88 0.88 0.88">
+	   	<a-entity position="2 0.8 0" rotation="-15.44 0 26" scale="0.88 0.88 0.88" gesture-handler>
 			<a-obj-model src="vr/johnson/j32_pentagonal_orthocupolarontunda.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/johnson/j32_pentagonal_orthocupolarontundaL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='-0.951485 0.016307 0.590957'></a-sphere>

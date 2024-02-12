@@ -5,6 +5,7 @@
 	<title>Archimedean polyhedra</title>
 	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
 	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
@@ -14,8 +15,7 @@
 		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
 	</div>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
-	          embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;' gesture-detector>
      
      <a-assets>
 			<a-mixin id="mtl8" material="color: #86B404; side:double;"></a-mixin>
@@ -93,9 +93,9 @@
 	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
 	</a-marker>
 	
-	<a-marker preset="hiro" smooth="smooth:true; smoothCount:1">
+	<a-marker preset="hiro" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/truncated_octahedron.html"></a-link>
-	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.16 0.16 0.16">
+	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.16 0.16 0.16" gesture-handler>
 		<a-obj-model scale="3 3 3" rotation="0 45 0" src="vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
 		<a-entity position="0 -4.2426 0"> <!--apotema-->
 				<a-entity id="baixo">
@@ -348,9 +348,9 @@
 		   </a-entity>
         </a-marker>
      
-	   <a-marker preset="kanji" smooth="smooth:true; smoothCount:1">
+	   <a-marker preset="kanji" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/truncated_icosahedron.html"></a-link>
-	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.12 0.12 0.12">
+	   <a-entity position="1.5 0.8 0" id="prop1" scale="0.12 0.12 0.12" gesture-handler>
 		  <a-obj-model scale="3 3 3" rotation="211.71485 0 0" src="vr/outros/TruncatedIcosahedron.obj" mtl="#material"></a-obj-model>
 		  <a-entity position="0 -6.9823 0"> <!--apotema-->
 				<a-entity id="baixo">
@@ -1117,10 +1117,9 @@
 		   </a-entity> 
 	  </a-marker>
 		  
-	  
-	  <a-marker type="barcode" value="19" smooth="smooth:true; smoothCount:1">
+	  <a-marker type="barcode" value="19" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/truncated_icosidodecahedron.html"></a-link>
-	   	<a-entity position="1.5 0.8 0" id="prop1" scale="0.075 0.075 0.075">
+	   	<a-entity position="1.5 0.8 0" id="prop1" scale="0.075 0.075 0.075" gesture-handler>
 	  		<a-obj-model scale="3 3 3" rotation="148.28 0 0" src="vr/outros/TruncatedIcosidodecahedron.obj" mtl="#material"></a-obj-model>
 			<a-entity position="0 -10.3223 0"> <!--apotema-->
 				<a-entity id="baixo">
@@ -2403,9 +2402,9 @@
 		</a-entity>
 	  </a-marker>  
 	
-	  <a-marker type="barcode" value="18" smooth="smooth:true; smoothCount:1">
+	  <a-marker type="barcode" value="18" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/rhombicosidodecahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.13 0.13 0.13">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.13 0.13 0.13" gesture-handler>
 				<a-obj-model scale="3 3 3" position="0 6.193 0" rotation="148.28 0 0" src="vr/outros/Rhombicosidodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -3406,9 +3405,9 @@
 			</a-entity>
 	  </a-marker>
 	
-	  <a-marker type="barcode" value="17" smooth="smooth:true; smoothCount:1">
+	  <a-marker type="barcode" value="17" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/snub_dodecahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.13 0.13 0.13">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.13 0.13 0.13" gesture-handler>
 	  			<a-obj-model scale="3 3 3" rotation="-0.22 4.998 58.277" position="0 5.943 0" src="vr/outros/SnubDodecahedron.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -4463,10 +4462,9 @@
 		</a-entity>
 	  </a-marker>		
 	  
-	
-	<a-marker type="barcode" value="16" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="16" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/truncated_dodecahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.1 0.1 0.1">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.1 0.1 0.1" gesture-handler>
 				<a-obj-model scale="3 3 3" rotation="0 18 58.285" src="vr/outros/TruncatedDodecahedron.obj" position="0 7.4697 0" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -4960,9 +4958,9 @@
 			</a-entity>	
 	</a-marker>
 	
-	<a-marker type="barcode" value="20" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="20" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/icosidodecahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.15 0.15 0.15">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.15 0.15 0.15" gesture-handler>
 				<a-obj-model scale="3 3 3" rotation="148 36 0" src="vr/outros/Icosidodecahedron.obj" position="0 4.1291 0" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -5488,9 +5486,9 @@
 			</a-entity>
 	</a-marker>
 		
-	<a-marker type="barcode" value="15" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="15" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/snubcube.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.18 0.18 0.18">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.18 0.18 0.18" gesture-handler>
 				<a-obj-model scale="3 3 3" rotation="0 17 0" src="vr/outros/SnubCube.obj" mtl="#material" position="0 3.408 0"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -5913,9 +5911,9 @@
 				</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="14" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="14" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/truncated_cuboctahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.12 0.12 0.12">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.12 0.12 0.12" gesture-handler>
 				<a-obj-model scale="3 3 3" rotation="0 0 0" position="0 5.7426 0" src="vr/outros/TruncatedCuboctahedron.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -6357,9 +6355,9 @@
 			</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="13" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="13" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/rhombicuboctahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.2 0.2 0.2">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.2 0.2 0.2" gesture-handler>
 			<a-obj-model scale="3 3 3" position="0 3.6213 0" rotation="0 0 0" src="vr/outros/Rhombicuboctahedron.obj" mtl="#material"></a-obj-model>
 			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -6625,9 +6623,9 @@
 			</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="12" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="12" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/truncated_cube.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.19 0.19 0.19">	
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.19 0.19 0.19" gesture-handler>	
 				<a-obj-model scale="3 3 3" position="0 3.6213 0" rotation="0 0 0" src="vr/outros/TruncatedCube.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -6821,9 +6819,9 @@
 			</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="11" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="11" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/cuboctahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.28 0.28 0.28">	
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.28 0.28 0.28" gesture-handler>	
 			<a-obj-model scale="3 3 3" rotation="0 45 0" position="0 2.0895 0" src="vr/outros/Cuboctahedron.obj" mtl="#material"></a-obj-model>
 			<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -6977,9 +6975,9 @@
 			</a-entity>	
 	</a-marker>
 	
-	<a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="10" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/truncated_tetrahedron.html"></a-link>
-	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.25 0.25 0.25">
+	   		<a-entity position="1.5 0.8 0" id="prop1" scale="0.25 0.25 0.25" gesture-handler>
 				<a-obj-model scale="3 3 3" position="0 1.8371 0" rotation="35 60 45" src="vr/outros/TruncatedTetrahedron.obj" mtl="#material"></a-obj-model>
 				<a-entity id="baixo">
 					<a-entity rotation="0 0 90">
@@ -7118,11 +7116,11 @@
 			</a-entity>
 		</a-marker>
 		
-		<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1">
+		<a-marker type="barcode" value="9" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 			<a-link mixin="lnk" class="lnk" href="vr/dna.html"></a-link>
 			<a-light type="point" color="yellow" intensity="0.5" position="-3 0 0"></a-light>
 			<a-light type="point" color="yellow" intensity="0.5" position="3 0 0"></a-light>
-			<a-entity position="2 1.5 1.5" id="prop1" scale="0.25 0.25 0.25" rotation="0 0 90" mixin="anima">
+			<a-entity position="2 1.5 1.5" id="prop1" scale="0.25 0.25 0.25" rotation="0 0 90" mixin="anima" gesture-handler>
 				<a-entity scale="0.65 0.65 0.65" position="3 0 0">
 					<a-obj-model class="faces" scale="0.998 0.998 0.998" src="vr/outros/TruncatedOctahedron.obj" mtl="#material"></a-obj-model>
 					<a-obj-model src="vr/outros/TruncatedOctahedronL.obj" class="arestas" mtl="#material"></a-obj-model>

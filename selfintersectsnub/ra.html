@@ -5,6 +5,7 @@
 	<title>Self-intersecting snub polyhedra</title>
 	<link rel="icon" type="image/png" href="vr/salas/imagens/icone.png">
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
@@ -12,8 +13,7 @@
 		<font face="verdana" size="5" color="DarkSlateBlue">Loading...</font>
 	</div>
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
-	   embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" embedded renderer="logarithmicDepthBuffer: true; colorManagement: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 4x4; debugUIEnabled: false;'  gesture-detector>
      
      <a-assets>
 		<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
@@ -39,9 +39,9 @@
 	<a-light type="directional" color="white" intensity="0.7" position="-3 2 1"></a-light>
 	<a-light type="directional" color="white" intensity="0.7" position="3 -2 1"></a-light>
     
-	<a-marker type="barcode" value="69" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="69" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/snub_dodecadodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.84 0.84 0.84">
+	   	<a-entity position="2 0.8 0" scale="0.84 0.84 0.84" gesture-handler>
 			<a-obj-model src="vr/outros/SnubDodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/SnubDodecadodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.201581 0.213263 -1.240194'></a-sphere>
@@ -107,9 +107,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="68" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="68" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/medial_pentagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.8 0.8 0.8">
+	   	<a-entity position="2 0.8 0" scale="0.8 0.8 0.8" gesture-handler>
 			<a-obj-model src="vr/outros/MedialPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/MedialPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.76129 0.0 -1.23179'></a-sphere>
@@ -199,9 +199,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="67" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="67" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/inverted_snub_dodecadodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.26 1.26 1.26">
+	   	<a-entity position="2 0.8 0" scale="1.26 1.26 1.26" gesture-handler>
 			<a-obj-model src="vr/outros/InvertedSnubDodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/InvertedSnubDodecadodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.67603 -0.36263 -0.36981'></a-sphere>
@@ -267,9 +267,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="66" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="66" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/medial_inverted_pentagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.1 0.1 0.1">
+	   	<a-entity position="2 0.8 0" scale="0.1 0.1 0.1" gesture-handler>
 			<a-obj-model src="vr/outros/MedialInvertedPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/MedialInvertedPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaGG mtl9' position='0.0 0.60343 0.37294'></a-sphere>
@@ -359,9 +359,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="65" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="65" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_snub_icosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.26 1.26 1.26">
+	   	<a-entity position="2 0.8 0" scale="1.26 1.26 1.26" gesture-handler>
 			<a-obj-model src="vr/outros/GreatSnubIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatSnubIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.37105 0.33515 0.64497'></a-sphere>
@@ -427,9 +427,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="64" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="64" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_pentagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.4 1.4 1.4">
+	   	<a-entity position="2 0.8 0" scale="1.4 1.4 1.4" gesture-handler>
 			<a-obj-model src="vr/outros/GreatPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='-0.216381 -0.239559 -0.644971'></a-sphere>
@@ -527,9 +527,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="63" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="63" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_inverted_snub_icosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.6 1.6 1.6">
+	   	<a-entity position="2 0.8 0" scale="1.6 1.6 1.6" gesture-handler>
 			<a-obj-model src="vr/outros/GreatInvertedSnubIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatInvertedSnubIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.46352 0.18748 0.40749'></a-sphere>
@@ -595,9 +595,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="62" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="62" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_inverted_pentagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.8 1.8 1.8">
+	   	<a-entity position="2 0.8 0" scale="1.8 1.8 1.8" gesture-handler>
 			<a-obj-model src="vr/outros/GreatInvertedPentagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatInvertedPentagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='-0.15336 0.37917 0.40749'></a-sphere>
@@ -695,9 +695,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="61" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="61" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_retrosnub_icosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.7 1.7 1.7">
+	   	<a-entity position="2 0.8 0" scale="1.7 1.7 1.7" gesture-handler>
 			<a-obj-model src="vr/outros/GreatRetrosnubIcosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatRetrosnubIcosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.171572 0.469641 -0.293942'></a-sphere>
@@ -763,9 +763,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="60" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="60" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_pentagrammic_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.68 0.68 0.68">
+	   	<a-entity position="2 0.8 0" scale="0.68 0.68 0.68" gesture-handler>
 			<a-obj-model src="vr/outros/GreatPentagrammicHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatPentagrammicHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='1.43883 0.52564 0.29394'></a-sphere>
@@ -863,9 +863,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/snub_icosidodecadodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.95 0.95 0.95">
+	   	<a-entity position="2 0.8 0" scale="0.95 0.95 0.95" gesture-handler>
 			<a-obj-model src="vr/outros/SnubIcosidodecadodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/SnubIcosidodecadodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.105399 0.184962 -1.106607'></a-sphere>
@@ -931,9 +931,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="58" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="58" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/medial_hexagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.8 0.8 0.8">
+	   	<a-entity position="2 0.8 0" scale="0.8 0.8 0.8" gesture-handler>
 			<a-obj-model src="vr/outros/MedialHexagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/MedialHexagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.7255 0.0 -1.1738'></a-sphere>
@@ -1043,9 +1043,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_snub_dodecicosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.48 1.48 1.48">
+	   	<a-entity position="2 0.8 0" scale="1.48 1.48 1.48" gesture-handler>
 			<a-obj-model src="vr/outros/GreatSnubDodecicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatSnubDodecicosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.1818 0.1429 -0.6682'></a-sphere>
@@ -1111,9 +1111,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_hexagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.63 1.63 1.63">
+	   	<a-entity position="2 0.8 0" scale="1.63 1.63 1.63" gesture-handler>
 			<a-obj-model src="vr/outros/GreatHexagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatHexagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.1718 -0.0594 -0.5848'></a-sphere>
@@ -1223,9 +1223,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="55" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="55" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/small_snub_icosicosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.73 0.73 0.73">
+	   	<a-entity position="2 0.8 0" scale="0.73 0.73 0.73" gesture-handler>
 			<a-obj-model src="vr/outros/SmallSnubIcosicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/SmallSnubIcosicosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.2678 0.0 -1.4334'></a-sphere>
@@ -1291,9 +1291,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="54" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="54" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/small_hexagonal_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.73 0.73 0.73">
+	   	<a-entity position="2 0.8 0" scale="0.73 0.73 0.73" gesture-handler>
 			<a-obj-model src="vr/outros/SmallHexagonalHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/SmallHexagonalHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.309 0.0 -1.3668'></a-sphere>
@@ -1411,9 +1411,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="53" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/small_retrosnub_icosicosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.78 1.78 1.78">
+	   	<a-entity position="2 0.8 0" scale="1.78 1.78 1.78" gesture-handler>
 			<a-obj-model src="vr/outros/SmallRetrosnubIcosicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/SmallRetrosnubIcosicosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='-0.5769 0.0 -0.0666'></a-sphere>
@@ -1479,9 +1479,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="52" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/small_hexagrammic_hexecontahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.73 0.73 0.73">
+	   	<a-entity position="2 0.8 0" scale="0.73 0.73 0.73" gesture-handler>
 			<a-obj-model src="vr/outros/SmallHexagrammicHexecontahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/SmallHexagrammicHexecontahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='0.309 0.0 1.3668'></a-sphere>
@@ -1599,9 +1599,9 @@
 		</a-entity>
 	</a-marker>
 	
-	<a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_dirhombicosidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="1.58 1.58 1.58">
+	   	<a-entity position="2 0.8 0" scale="1.58 1.58 1.58" gesture-handler>
 			<a-obj-model src="vr/outros/GreatDirhombicosidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/GreatDirhombicosidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esferaP mtl9' position='0.1818 0.1429 -0.6682'></a-sphere>
@@ -1667,9 +1667,9 @@
 		</a-entity>
 	</a-marker>
 
-	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 		<a-link mixin="lnk" class="lnk" href="vr/great_disnub_dirhombidodecahedron.htm"></a-link>
-	   	<a-entity position="2 0.8 0" scale="0.75 0.75 0.75">
+	   	<a-entity position="2 0.8 0" scale="0.75 0.75 0.75" gesture-handler>
 			<a-obj-model src="vr/outros/great_disnub_dirhombidodecahedron.obj" mtl="#material" scale="0.998 0.998 0.998"></a-obj-model>
 			<a-obj-model src="vr/outros/great_disnub_dirhombidodecahedronL.obj" mtl="#material"></a-obj-model>
 			<a-sphere mixin='esfera mtl9' position='1.41421 0 0'></a-sphere>
