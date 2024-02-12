@@ -37,7 +37,7 @@ function urlHandler(value) {
   <h3 align="center">Salas imersivas</h3>
   <div class="embed-container"><iframe width="100%" src="../sala.htm" title="Sala Imersiva de Estrelação ao infinito" frameborder="0" loading="lazy"></iframe></div>
   <p align="center"><a href="../sala.htm" target="_blank">&#x1f517; Sala 1</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../sala1.htm" target="_blank">&#x1f517; Sala 2</a></p>
-  <p align="center"><img src="../../../geometria-descritiva/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala Imersiva de RV para poliedros quase regulares"/><img align="middle" src="../vr/salas/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala Imersiva de RV para poliedros quase regulares"/></p>
+  <p align="center"><img src="../../../geometria-descritiva/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala Imersiva de RV para poliedros quase regulares"/><img src="../vr/salas/videos/quasiregular.gif" style="max-width: 47%; border-radius:5px; margin-right:5%" loading="lazy" alt="Sala Imersiva de RV para poliedros quase regulares"/></p>
 <hr>
   <h3 id="ra" align="center">Realidade Aumentada</h3>
   Para visualizar os poliedros quase regulares em RA, visite a página:
