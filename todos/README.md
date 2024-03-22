@@ -1375,7 +1375,7 @@
 		<td></td>
 		<td class="titulo1"><a href="../selfintersectsnub/pt-br/#m3d" target="_blank"><img src="../selfintersectsnub/ar/49A.png" class="ima"> Dualidade</a></td>
 		<td><a href="../selfintersectsnub/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/vsQmG5aFAnU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/kyLJU4aCsRo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 		<td></td>
 	</tr>
