@@ -22,7 +22,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="johnson3/"><img src="johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Johnson solids 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="infinity/"><img src="infinity/ar/165A.png" style="margin-bottom:-10px" width="40"> Stellation to infinity polyhedra</a></h3>
 <h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="all/">&#x1f4c4; Complete list of polyhedra</a></h3>
-<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../polyhedra2/">&#x1f4c4; Polyhedra - second part</a></h3>
+<h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../polyhedra2/">&#x2B50; Polyhedra - second part</a></h3>
 <hr>
 <h3 align="center">Immersive rooms</h3>
 <p align="center"><img src="catalan/vr/salas/videos/catalan.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="nonconvex/vr/salas/videos/nonconvex1.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
