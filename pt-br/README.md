@@ -21,6 +21,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson2/pt-br/"><img src="../johnson2/ar/17bA.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../johnson3/pt-br/"><img src="../johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Sólidos de Johnson 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../infinity/pt-br/"><img src="../infinity/ar/165A.png" style="margin-bottom:-10px" width="40"> Poliedros de estrelação ao infinito</a></h3>
+<hr>
 <h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../todos/">&#x1f4c4; Lista completa dos poliedros</a></h3>
 <h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../../polyhedra2/pt-br/">&#x2B50; Poliedros - segunda parte</a></h3>
 <hr>
