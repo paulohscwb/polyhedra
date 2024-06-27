@@ -21,6 +21,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="johnson2/"><img src="johnson2/ar/17bA.png" style="margin-bottom:-10px" width="40"> Johnson solids 2: J<sub>33</sub> - J<sub>62</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="johnson3/"><img src="johnson3/ar/223A.png" style="margin-bottom:-10px" width="40"> Johnson solids 3: J<sub>63</sub> - J<sub>92</sub></a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="infinity/"><img src="infinity/ar/165A.png" style="margin-bottom:-10px" width="40"> Stellation to infinity polyhedra</a></h3>
+<hr>
 <h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="all/">&#x1f4c4; Complete list of polyhedra</a></h3>
 <h3 style="margin-top:5px; text-align:center;"><a target="_blank" href="../polyhedra2/">&#x2B50; Polyhedra - second part</a></h3>
 <hr>
