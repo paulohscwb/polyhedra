@@ -128,7 +128,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p>Siqueira, P.H., "Catalan polyhedra - Visualization of polyhedra with Augmented Reality and Virtual Reality". Available in: <https://paulohscwb.github.io/polyhedra/catalan/>, August 2022.</p>
 <a target="_blank" href="https://doi.org/10.5281/zenodo.8272770"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8272770.svg" alt="DOI"></a>
 <br><br><b>References:</b>
-<br>Weisstein, Eric W. "Catalan Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/CatalanSolid.html</a>
+<br>Weisstein, Eric W. "Catalan Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/CatalanSolid.html" target="_blank">http://mathworld.wolfram.com/CatalanSolid.html</a>
 <br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Weisstein, Eric W. "Uniform Polyhedron." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/UniformPolyhedron.html" target="_blank">https://mathworld.wolfram.com/UniformPolyhedron.html</a>
 <br>Wikipedia <a href="https://en.wikipedia.org/wiki/Catalan_solid" target="_blank">https://en.wikipedia.org/wiki/Catalan_solid</a>
