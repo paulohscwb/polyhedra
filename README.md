@@ -43,10 +43,10 @@
 <a target="_blank" href="https://doi.org/10.5281/zenodo.8271425"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8271425.svg" alt="DOI"></a>
 
 <br><b>References:</b>
-<br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
-<br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
-<br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Weisstein, Eric W. "Uniform Polyhedron." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/UniformPolyhedron.html" target="_blank">https://mathworld.wolfram.com/UniformPolyhedron.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
+<br>Weisstein, Eric W. "Miscellaneous Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html" target="_blank">http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html</a>
+<br>Weisstein, Eric W. "Johnson Solid" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/JohnsonSolid.html" target="_blank">https://mathworld.wolfram.com/JohnsonSolid.html</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/List_of_uniform_polyhedra" target="_blank">https://en.wikipedia.org/wiki/List_of_uniform_polyhedra</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/Johnson_solid" target="_blank">https://en.wikipedia.org/wiki/Johnson_solid</a>
+<br>Polytope Miraheze <a href="https://polytope.miraheze.org/wiki/Johnson_solid" target="_blank">https://polytope.miraheze.org/wiki/Johnson_solid</a>
 <br>McCooey, David I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
