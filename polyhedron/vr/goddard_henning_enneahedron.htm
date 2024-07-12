@@ -19,18 +19,18 @@
 			<a-mixin id="esfera" geometry="radius: 0.115;" material="metalness:0.4; roughness:0.5;"></a-mixin>
 		</a-assets>
 				
-		<a-entity position="-0.58 -1.77 0.487" rotation="-55.29 0 141.76" scale="1.2 1.2 1.2">
-			<a-obj-model id="fc" src="outros/Goddard-HenningEnneahedron.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
-			<a-obj-model id="ar" src="outros/Goddard-HenningEnneahedronL.obj" mtl="outros/solidos.mtl"></a-obj-model>
-			<a-sphere mixin='esfera mtl9' position='-0.055 3.065 0.031'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='2.464 0.033 -2.699'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='-1.25 -3 -2.757 '></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='1.736 -3 4.212'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='2.576 0.846 0.714'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='1.819 -3 -1.053'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='-2.133 -3 0.641'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='-3.769 0.033 -0.028'></a-sphere>
-			<a-sphere mixin='esfera mtl9' position='-1.375 0.846 2.408'></a-sphere>
+		<a-entity position="0 0 0" scale="1.25 1.25 1.25">
+			<a-obj-model id="fc" src="outros/Goddard-HenningEnneahedron_n.obj" mtl="outros/solidos.mtl" scale="0.998 0.998 0.998"></a-obj-model>
+			<a-obj-model id="ar" src="outros/Goddard-HenningEnneahedron_nL.obj" mtl="outros/solidos.mtl"></a-obj-model>
+			<a-sphere mixin='esfera mtl9' position='-2.5 -2.5 -2.5'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='2.5 -2.5 -2.5'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='2.5 -2.5 2.5'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0 4 0'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0 0 -3'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='3 0 0'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='0 0 3'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-2.5 -2.5 2.5'></a-sphere>
+			<a-sphere mixin='esfera mtl9' position='-3 0 0'></a-sphere>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 150 150 700; maxDistance: 1500;"></a-entity>
