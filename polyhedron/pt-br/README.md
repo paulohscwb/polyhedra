@@ -180,6 +180,26 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <a href="../vr/parallelepiped.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/249A.png" class="foto"></a><img src="../ar/249.png" class="qr">
  <br>O paralelepípedo é um prisma cujas faces são todos paralelogramos. O termo rombóide também é usado às vezes com o significado de paralelepípedo. O paralelepípedo retangular (seis faces retangulares), o cubo (seis faces quadradas) e o romboedro (seis losangos) são casos especiais de paralelepípedos.
 <br><br><b>Faces:</b> 6 paralelogramos, losangos, quadrados ou retângulos | <b>Arestas:</b> 12 | <b>Vértices:</b> 8. <a href="https://mathworld.wolfram.com/Parallelepiped.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>27. Tetraedro hexakis não convexo</h4>
+<a href="../vr/hexakis_tetrahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/243A.png" class="foto"></a><img src="../ar/243.png" class="qr">
+ <br>Um tetraedro hexakis não convexo (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. Nesta versão, os vértices correspondentes dos pontos médios das arestas do tetraedro ficam mais próximos do centro do poliedro
+<br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>19. Tetraedro hexakis não convexo v2</h4>
+<a href="../vr/hexakis_tetrahedron3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/244A.png" class="foto"></a><img src="../ar/244.png" class="qr">
+ <br>Um tetraedro hexakis não convexo (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. Nesta versão, os vértices correspondentes dos centros das faces do tetraedro ficam mais próximos do centro do poliedro.
+<br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>19. Tetraedro hexakis não convexo v3</h4>
+<a href="../vr/hexakis_tetrahedron4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/245A.png" class="foto"></a><img src="../ar/245.png" class="qr">
+ <br>Um tetraedro hexakis não convexo (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. Nesta versão, os vértices correspondentes dos centros das faces e dos pontos médios das arestas do tetraedro ficam mais próximos do centro do poliedro.
+<br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<hr>
+<h4>30. Tristetraedro trapezoédrico convexo</h4>
+<a href="../vr/trapezohedral_tristetrahedron2.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/250A.png" class="foto"></a><img src="../ar/250.png" class="qr">
+ <br>O tristetraedro trapezoédrico convexo é o poliedro formado por 12 quadriláteros em forma de "pipa". Pode ser construído por meio de simetrias a partir de um tetraedro regular.
+<br><br><br><b>Faces:</b> 12 "pipas" | <b>Arestas:</b> 24 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p7" class="topo">voltar ao topo</a></p>
 <hr>
  
@@ -189,7 +209,10 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <p>Siqueira, P.H., "Pyramids, tetrahedrons, prisms and antiprisms - Visualization of polyhedra with Augmented Reality and Virtual Reality". Disponível em: <https://paulohscwb.github.io/polyhedra/polyhedron/>, Março de 2023.</p>
 <a target="_blank" href="https://doi.org/10.5281/zenodo.8272770"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8272770.svg" alt="DOI"></a>
 <br><br><b>Referências:</b>
-<br>Weisstein, Eric W. "Miscellaneous Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html" target="_blank">http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html</a>
+<br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
+<br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
+<br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Weisstein, Eric W. "Uniform Polyhedron." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/UniformPolyhedron.html" target="_blank">https://mathworld.wolfram.com/UniformPolyhedron.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/List_of_uniform_polyhedra" target="_blank">https://en.wikipedia.org/wiki/List_of_uniform_polyhedra</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
 <br>McCooey, David I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
