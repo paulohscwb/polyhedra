@@ -180,6 +180,26 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <a href="vr/parallelepiped.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/249A.png" class="foto"></a><img src="ar/249.png" class="qr">
  <br>The parallelepiped is a prism whose faces are all parallelograms. The term rhomboid is also sometimes used with meaning parallelepiped. The rectangular cuboid (six rectangular faces), cube (six square faces) and the rhombohedron (six rhombus faces) are all special cases of parallelepiped.
 <br><br><b>Faces:</b> 6 parallelograms, squares, rectangles or rhombi | <b>Edges:</b> 12 | <b>Vertices:</b> 8. <a href="https://mathworld.wolfram.com/Parallelepiped.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>27. Non convex Hexakis Tetrahedron</h4>
+<a href="vr/hexakis_tetrahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/243A.png" class="foto"></a><img src="ar/243.png" class="qr">
+ <br>A non convex hexakis tetrahedron (also called of hextetrahedron) is made by changing the length of the faces axes and edges-midpoint axes of a tetrahedron. In this version, the corresponding vertices of the midpoints of the tetrahedron's edges are closer to the center of the polyhedron.
+<br><br><br><b>Faces:</b> 24 triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>28. Non convex Hexakis Tetrahedron v2</h4>
+<a href="vr/hexakis_tetrahedron3.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/244A.png" class="foto"></a><img src="ar/244.png" class="qr">
+ <br>A non convex hexakis tetrahedron (also called of hextetrahedron) is made by changing the length of the faces axes and edges-midpoint axes of a tetrahedron. In this version, the corresponding vertices of the centers of the faces of the tetrahedron are closer to the center of the polyhedron.
+<br><br><br><b>Faces:</b> 24 triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>29. Non convex Hexakis Tetrahedron v3</h4>
+<a href="vr/hexakis_tetrahedron4.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/245A.png" class="foto"></a><img src="ar/245.png" class="qr">
+ <br>A non convex hexakis tetrahedron (also called of hextetrahedron) is made by changing the length of the faces axes and edges-midpoint axes of a tetrahedron. In this version, the corresponding vertices of the centers of the faces and the midpoints of the edges of the tetrahedron are closer to the center of the polyhedron.
+<br><br><br><b>Faces:</b> 24 triangles | <b>Edges:</b> 36 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+<h4>30. Convex Trapezohedral Tristetrahedron</h4>
+<a href="vr/trapezohedral_tristetrahedron2.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/250A.png" class="foto"></a><img src="ar/250.png" class="qr">
+ <br>The convex trapezohedral tristetrahedron is the polyhedra made from 12 kites shaped quadrilaterals. It can be constructed by means of symmetries from a regular tetrahedron.
+<br><br><br><b>Faces:</b> 12 kites | <b>Edges:</b> 24 | <b>Vertices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p7" class="topo">back to top</a></p>
 <hr>
 
@@ -189,7 +209,10 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <p>Siqueira, P.H., "Pyramids, tetrahedrons, prisms and antiprisms - Visualization of polyhedra with Augmented Reality and Virtual Reality". Available in: <https://paulohscwb.github.io/polyhedra/polyhedron/>, March 2023.</p>
 <a target="_blank" href="https://doi.org/10.5281/zenodo.8272770"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8272770.svg" alt="DOI"></a>
 <br><br><b>References:</b>
-<br>Weisstein, Eric W. "Miscellaneous Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html" target="_blank">http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html</a>
+<br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
+<br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
+<br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Weisstein, Eric W. "Uniform Polyhedron." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/UniformPolyhedron.html" target="_blank">https://mathworld.wolfram.com/UniformPolyhedron.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/List_of_uniform_polyhedra" target="_blank">https://en.wikipedia.org/wiki/List_of_uniform_polyhedra</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
 <br>McCooey, David I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
