@@ -186,12 +186,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>Um tetraedro hexakis não convexo (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. Nesta versão, os vértices correspondentes dos pontos médios das arestas do tetraedro ficam mais próximos do centro do poliedro
 <br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
-<h4>19. Tetraedro hexakis não convexo v2</h4>
+<h4>28. Tetraedro hexakis não convexo v2</h4>
 <a href="../vr/hexakis_tetrahedron3.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/244A.png" class="foto"></a><img src="../ar/244.png" class="qr">
  <br>Um tetraedro hexakis não convexo (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. Nesta versão, os vértices correspondentes dos centros das faces do tetraedro ficam mais próximos do centro do poliedro.
 <br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
-<h4>19. Tetraedro hexakis não convexo v3</h4>
+<h4>29. Tetraedro hexakis não convexo v3</h4>
 <a href="../vr/hexakis_tetrahedron4.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/245A.png" class="foto"></a><img src="../ar/245.png" class="qr">
  <br>Um tetraedro hexakis não convexo (também chamado de hextetraedro) é feito alterando o comprimento dos eixos das faces e os eixos dos pontos médios das arestas de um tetraedro. Nesta versão, os vértices correspondentes dos centros das faces e dos pontos médios das arestas do tetraedro ficam mais próximos do centro do poliedro.
 <br><br><br><b>Faces:</b> 24 triângulos | <b>Arestas:</b> 36 | <b>Vértices:</b> 14. <a href="https://mathworld.wolfram.com/Isohedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
