@@ -243,7 +243,7 @@
 		<td></td>
 		<td class="titulo1"><a href="../archimedes/pt-br/#m3d" target="_blank"><img src="../archimedes/ar/9A.png" class="ima"> Dualidade</a></td>
 		<td><a href="../archimedes/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/EVah-OpBqsw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/OA7VuYzLv4c" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -608,6 +608,18 @@
 	</tr>
 	<tr>
 		<td></td>
+		<td class="titulo1"><a href="../polyhedron/pt-br/#m3d" target="_blank"><img src="../polyhedron/ar/243A.png" class="ima"> Tetraedro hexakis não convexo</a></td>
+		<td><a href="../polyhedron/vr/hexakis_tetrahedron2.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/R11STwDnqcU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/pt-br/#m3d" target="_blank"><img src="../polyhedron/ar/244A.png" class="ima"> Tetraedro hexakis não convexo v2</a></td>
+		<td><a href="../polyhedron/vr/hexakis_tetrahedron3.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/exFlUozJeBQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
 		<td class="titulo1"><a href="../polyhedron/pt-br/#m3d" target="_blank"><img src="../polyhedron/ar/98A.png" class="ima"> Dodecaedro Trapezo-Rômbico</a></td>
 		<td><a href="../polyhedron/vr/trapezoidal_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/zRXhv_sSqSw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
@@ -684,6 +696,18 @@
 		<td class="titulo1"><a href="../polyhedron/pt-br/#m3d" target="_blank"><img src="../polyhedron/ar/249A.png" class="ima"> Paralelepípedo</a></td>
 		<td><a href="../polyhedron/vr/parallelepiped.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/i393vekj7Cc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/pt-br/#m3d" target="_blank"><img src="../polyhedron/ar/245A.png" class="ima"> Tetraedro hexakis não convexo v3</a></td>
+		<td><a href="../polyhedron/vr/hexakis_tetrahedron4.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/8Z3zstukcGQ" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+	</tr>
+	<tr>
+		<td></td>
+		<td class="titulo1"><a href="../polyhedron/pt-br/#m3d" target="_blank"><img src="../polyhedron/ar/250A.png" class="ima"> Tristetraedro trapezoédrico convexo</a></td>
+		<td><a href="../polyhedron/vr/trapezohedral_tristetrahedron2.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/uIgoiSqe5pA" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 	</tr>
 </table>
 <h3>Poliedros de auto-interseção</h3>
@@ -1375,7 +1399,7 @@
 		<td></td>
 		<td class="titulo1"><a href="../selfintersectsnub/pt-br/#m3d" target="_blank"><img src="../selfintersectsnub/ar/49A.png" class="ima"> Dualidade</a></td>
 		<td><a href="../selfintersectsnub/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
-		<td><a href="https://youtu.be/kyLJU4aCsRo" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/vsQmG5aFAnU" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -1959,10 +1983,10 @@
 <a target="_blank" href="https://doi.org/10.5281/zenodo.8271425"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.8271425.svg" alt="DOI"></a>
 
 <br><b>Referências:</b>
+<br>Weisstein, Eric W. "Archimedean Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/ArchimedeanSolid.html" target="_blank">http://mathworld.wolfram.com/ArchimedeanSolid.html</a>
+<br>Weisstein, Eric W. "Platonic Solid" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/PlatonicSolid.html" target="_blank">http://mathworld.wolfram.com/PlatonicSolid.html</a>
+<br>Weisstein, Eric W. "Archimedean Dual" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/ArchimedeanDual.html" target="_blank">https://mathworld.wolfram.com/ArchimedeanDual.html</a>
 <br>Weisstein, Eric W. "Uniform Polyhedron." From MathWorld--A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/UniformPolyhedron.html" target="_blank">https://mathworld.wolfram.com/UniformPolyhedron.html</a>
-<br>Weisstein, Eric W. "Miscellaneous Polyhedra" From MathWorld-A Wolfram Web Resource. <a href="http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html" target="_blank">http://mathworld.wolfram.com/topics/MiscellaneousPolyhedra.html</a>
-<br>Weisstein, Eric W. "Johnson Solid" From MathWorld-A Wolfram Web Resource. <a href="https://mathworld.wolfram.com/JohnsonSolid.html" target="_blank">https://mathworld.wolfram.com/JohnsonSolid.html</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/List_of_uniform_polyhedra" target="_blank">https://en.wikipedia.org/wiki/List_of_uniform_polyhedra</a>
-<br>Wikipedia <a href="https://en.wikipedia.org/wiki/Johnson_solid" target="_blank">https://en.wikipedia.org/wiki/Johnson_solid</a>
-<br>Polytope Miraheze <a href="https://polytope.miraheze.org/wiki/Johnson_solid" target="_blank">https://polytope.miraheze.org/wiki/Johnson_solid</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/Archimedean_solid" target="_blank">https://en.wikipedia.org/wiki/Archimedean_solid</a>
+<br>Wikipedia <a href="https://en.wikipedia.org/wiki/en.wikipedia.org/wiki/Platonic_solid" target="_blank">https://en.wikipedia.org/wiki/Platonic_solid</a>
 <br>McCooey, David I. "Visual Polyhedra". <a href="http://dmccooey.com/polyhedra/" target="_blank">http://dmccooey.com/polyhedra/</a>
