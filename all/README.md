@@ -533,7 +533,7 @@
 		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/110A.png" class="ima"> Prism</a></td>
 		<td><a href="../polyhedron/vr/heptagonal_prism.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/v10tBaJanZc" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
-		<td rowspan="13"><a href="../polyhedron/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+		<td rowspan="15"><a href="../polyhedron/sala1.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
 	</tr>
 	<tr>
 		<td>U<sub>77</sub></td>
@@ -624,7 +624,7 @@
 		<td class="titulo1"><a href="../polyhedron/#m3d" target="_blank"><img src="../polyhedron/ar/98A.png" class="ima"> Trapezo-rhombic Dodecahedron</a></td>
 		<td><a href="../polyhedron/vr/trapezoidal_dodecahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/zRXhv_sSqSw" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
-		<td rowspan="13"><a href="../polyhedron/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
+		<td rowspan="15"><a href="../polyhedron/sala2.htm" target="_blank"><img src="../imagens/vr.png" width="40" alt="immersive room"></a></td>
 	</tr>
 	<tr>
 		<td></td>
