@@ -1,0 +1,54 @@
+mtllib solidos.mtl
+s 1
+v 3.677148 -3.677148 -3.669704
+v -3.677271 -3.676640 3.675535
+v 3.676639 3.677270 3.675535
+v -3.674044 3.674043 -3.678889
+v -5.657354 0.000499 -0.002253
+v -0.004369 0.004369 5.656435
+v -2.297754 2.297754 2.294029
+v -0.000500 5.657353 -0.002253
+v 2.296715 2.299479 -2.292664
+v 5.655705 0.001150 0.000602
+v 0.002720 -0.002720 -5.658086
+v -2.295393 -2.300801 -2.300826
+v -0.001149 -5.655704 0.000602
+v 2.298905 -2.298905 2.301937
+usemtl CorL
+l 2 6 7 5
+usemtl CorL
+l 3 6 7 8
+usemtl CorL
+l 8 7 5 4
+usemtl CorL
+l 3 10 9 8
+usemtl CorL
+l 4 11 9 8
+usemtl CorL
+l 11 1 10 9
+usemtl CorL
+l 1 13 12 11
+usemtl CorL
+l 4 5 12 11
+usemtl CorL
+l 5 2 13 12
+usemtl CorL
+l 3 6 14 10
+usemtl CorL
+l 1 13 14 10
+usemtl CorL
+l 13 2 6 14
+usemtl CorL
+l 12 5
+usemtl CorL
+l 4 8
+usemtl CorL
+l 8 3
+usemtl CorL
+l 6 7
+usemtl CorL
+l 9 11
+usemtl CorL
+l 13 14
+usemtl CorL
+l 1 10
