@@ -70,7 +70,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>4. Small Triambic Icosahedron</h4>
  <a href="vr/small_triambic_icosahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/164A.png" class="foto"></a><img src="ar/164.png" class="qr">
  <br>The small triambic icosahedron is the dual polyhedron of the small ditrigonal icosidodecahedron. It can be constructed by augmentation of a unit edge-length icosahedron by pyramids. The convex hull of the small ditrigonal icosidodecahedron is a regular dodecahedron whose dual is the icosahedron, so the dual of the small ditrigonal icosidodecahedron (i.e., the small triambic icosahedron) is one of the icosahedron stellations.
-<br><br><b>Faces:</b> 20 pentagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/SmallTriambicIcosahedron.html" target="_blank">More...</a>
+<br><br><b>Faces:</b> 20 hexagons | <b>Edges:</b> 60 | <b>Vertices:</b> 32 | <b>Dihedral angle:</b> 109.47°. <a href="https://mathworld.wolfram.com/SmallTriambicIcosahedron.html" target="_blank">More...</a>
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
 <h4>5. Great Ditrigonal Icosidodecahedron</h4>
