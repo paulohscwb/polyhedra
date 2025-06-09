@@ -115,7 +115,12 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <br>O triacontaedro disdiakis é o poliedro dual do icosidodecaedro truncado de Arquimedes. Um tetraedro 10-composto, um octaedro 5-composto, um cubo 5-composto, um icosaedro, um dodecaedro e um icosidodecaedro podem ser inscritos nos vértices de um triacontaedro disdiakis. Os triângulos acutângulos de suas faces possuem ângulos dos vértices com medidas de 88.99°, 58.24° e 32.77°.
 <br><br><b>Faces:</b> 120 triângulos acutângulos | <b>Arestas:</b> 180 | <b>Vértices:</b> 62 | <b>Ângulo diédrico:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
  <hr>
- <h4>14. Poliedros de Catalan e seus duais de Arquimedes</h4>
+ <h4>14. Pseudo Triacontaedro disdiakis</h4>
+ <a href="../vr/pseudo_deltoidal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/179B.png" class="foto"></a>
+ <br><br><br>O pseudo icositetraedro deltoidal é obtido pela rotação de metade de um icositetraedro deltoidal, com um ângulo de 45°, em torno de um eixo que passa pela diagonal principal do sólido. É o dual da girobicúpula quadrada alongada de Johnson. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos dos vértices com medidas de 94.42° (duas vezes), 71.69° (uma vez) e 99.48° (uma vez).
+<br><br><br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
+ <hr>
+ <h4>15. Poliedros de Catalan e seus duais de Arquimedes</h4>
  <a href="../../archimedes/vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/164A.png" class="foto"></a><img src="../ar/164.png" class="qr">
  <br>Representação com cada poliedro de Catalan e seu respectivo dual de Arquimedes. Neste projeto, temos os poliedros simulando a fita de DNA com as respectivas ligações entre os poliedros duais de Catalan e de Arquimedes.
 <br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
