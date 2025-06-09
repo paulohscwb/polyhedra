@@ -115,7 +115,12 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <br>The disdyakis triacontahedron is the dual polyhedron of the Archimedean great rhombicosidodecahedron. A tetrahedron 10-compound, octahedron 5-compound, cube 5-compound, icosahedron, dodecahedron, and icosidodecahedron can be inscribed in the vertices of a disdyakis triacontahedron. Its acute triangles faces have vertex angles of 88.99°, 58.24° and 32.77°. 
 <br><br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
- <h4>14. Catalan polyhedra and their Archimedean duals</h4>
+<h4>14. Pseudo Deltoidal Icositetrahedron</h4>
+ <a href="vr/pseudo_deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/179B.png" class="foto"></a>
+ <br><br><br><br>The pseudo deltoidal icositetrahedron is obtained by rotating half of a deltoidal icositetrahedron, at an angle of 45° around an axis that passes through the main diagonal of the solid. It is the dual of Johnson's elongated square gyrobicupola.
+<br><br><br><b>Faces:</b> 120 acute triangles | <b>Edges:</b> 180 | <b>Vertices:</b> 62 | <b>Dihedral angle:</b> 164.89°. <a href="https://mathworld.wolfram.com/DisdyakisTriacontahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<hr>
+ <h4>15. Catalan polyhedra and their Archimedean duals</h4>
  <a href="../archimedes/vr/dna.html" target="_blank" title="3D model" class="fotoA"><img src="ar/164A.png" class="foto"></a><img src="ar/164.png" class="qr">
  <br>Representation with each Catalan polyhedron and its respective Archimedean dual. In this project, we have polyhedra simulating the DNA ribbon with the respective connections between the dual polyhedra of Catalan and Archimedes. 
 <br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
