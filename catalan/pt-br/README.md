@@ -118,7 +118,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <h4>14. Pseudo Triacontaedro disdiakis</h4>
  <a href="../vr/pseudo_deltoidal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/179B.png" class="foto"></a>
  <br><br><br>O pseudo icositetraedro deltoidal é obtido pela rotação de metade de um icositetraedro deltoidal, com um ângulo de 45°, em torno de um eixo que passa pela diagonal principal do sólido. É o dual da girobicúpula quadrada alongada de Johnson. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos dos vértices com medidas de 94.42° (duas vezes), 71.69° (uma vez) e 99.48° (uma vez).
-<br><br><br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
+<br><br><br><br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
  <hr>
  <h4>15. Poliedros de Catalan e seus duais de Arquimedes</h4>
  <a href="../../archimedes/vr/dna.html" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/164A.png" class="foto"></a><img src="../ar/164.png" class="qr">
