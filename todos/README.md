@@ -241,6 +241,14 @@
 	</tr>
 	<tr>
 		<td></td>
+		<td class="titulo1"><a href="../catalan/pt-br/#m3d" target="_blank"><img src="../catalan/ar/179B.png" class="ima"> Pseudo icositetraedro deltoidal</a></td>
+		<td><a href="../catalan/vr/pseudo_deltoidal_icositetrahedron.htm" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
+		<td><a href="https://youtu.be/Wlpr7i9sPlg" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
+		<td><a href="https://youtu.be/MtXi7KtOkO4" target="_blank"><img src="../imagens/video.jpg" width="30" alt="dual"></a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
 		<td class="titulo1"><a href="../archimedes/pt-br/#m3d" target="_blank"><img src="../archimedes/ar/9A.png" class="ima"> Dualidade</a></td>
 		<td><a href="../archimedes/vr/dna.html" target="_blank"><img src="../imagens/3d.png" width="40" alt="3D model"></a></td>
 		<td><a href="https://youtu.be/OA7VuYzLv4c" target="_blank"><img src="../imagens/video.jpg" width="30" alt="video"></a></td>
