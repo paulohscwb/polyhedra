@@ -79,7 +79,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>6. Truncated dodecahedron</h4>
  <a href="vr/truncated_dodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/16A.png" class="foto" alt="Truncated dodecahedron"></a><img src="ar/16.png" class="qr">
  <br><span class="titulo">U<sub>26</sub></span> The truncated dodecahedron is used in the cell-transitive hyperbolic space-filling tessellation, the bitruncated icosahedral honeycomb. This polyhedron can be formed from a dodecahedron by truncating the corners so the pentagon faces become decagons and the corners become triangles. It is part of a truncation process between a dodecahedron and icosahedron.
- <br><br><b>Faces:</b> 32 | <b>Polygons:</b> 20 triangles and 12 decagons | <b>Edges:</b> 150 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.926 | <b>Dihedral angles:</b> 116.57° (10-10) and 142.62° (3-10). <a href="http://mathworld.wolfram.com/TruncatedDodecahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>  
+ <br><br><b>Faces:</b> 32 | <b>Polygons:</b> 20 triangles and 12 decagons | <b>Edges:</b> 90 | <b>Vertices:</b> 60 | <b>Sphericity:</b> 0.926 | <b>Dihedral angles:</b> 116.57° (10-10) and 142.62° (3-10). <a href="http://mathworld.wolfram.com/TruncatedDodecahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>  
 <hr>
 <h4>7. Icosidodecahedron</h4>
  <a href="vr/icosidodecahedron.html" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Icosidodecahedron"></a><img src="ar/20.png" class="qr">
