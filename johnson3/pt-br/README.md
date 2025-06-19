@@ -169,7 +169,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>24. Esfenocorona</h4>
 <a href="../vr/j86_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/238A.png" class="foto"></a><img src="../ar/238.png" class="qr">
  <br><span class="titulo">J<sub>86</sub></span> A esfenocorona é um dos sólidos de Johnson. É um dos vários poliedros próximos ao final da lista de sólidos de Johnson sem alguma relação óbvia com um dos poliedros uniformes. O nome é derivado de "spheno" (que significa um arranjo em forma de cunha de duas "luas", onde cada lua consiste em um quadrado ligado a dois triângulos) e "corona" denotando uma estrutura em forma de coroa composta por 8 triângulos.
-<br><br><b>Faces:</b> 12 triângulos e 2 quadrados | <b>Arestas:</b> 22 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° e 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<br><br><b>Faces:</b> 12 triângulos e 2 quadrados | <b>Arestas:</b> 22 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 143.48°, 135.99°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° e 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
 <h4>25. Esfenocorona aumentada</h4>
 <a href="../vr/j87_augmented_sphenocorona.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/239A.png" class="foto"></a><img src="../ar/239.png" class="qr">
