@@ -169,7 +169,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>24. Sphenocorona </h4>
 <a href="vr/j86_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/238A.png" class="foto"></a><img src="ar/238.png" class="qr">
  <br><span class="titulo">J<sub>86</sub></span> The sphenocorona, or waco, is one of the Johnson solids. It is one of several polyhedra near the end of the list of Johnson solids with no obvious relation to any of the uniform polyhedra. The name is derived from "spheno" (meaning a wedge-like arrangement of two "lunes", where each lune consists of a square attached to two triangles) and "corona" denoting a crown-like structure composed of 8 triangles. 
-<br><br><b>Faces:</b> 12 triangles and 2 squares | <b>Edges:</b> 22 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 143.48°, 135.99°, 114.74°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° and 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 12 triangles and 2 squares | <b>Edges:</b> 22 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 143.48°, 135.99°, 159.89°, 118.89°, 131.44°, 97.46°, 109.52° and 117.02°. <a href="https://polytope.miraheze.org/wiki/Sphenocorona" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>25. Augmented sphenocorona </h4>
 <a href="vr/j87_augmented_sphenocorona.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/239A.png" class="foto"></a><img src="ar/239.png" class="qr">
