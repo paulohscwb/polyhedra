@@ -148,13 +148,13 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>20. Augmented pentagonal prism</h4>
 <a href="vr/j52_augmented_pentagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/204A.png" class="foto"></a><img src="ar/204.png" class="qr">
  <br><span class="titulo">J<sub>52</sub></span> The augmented pentagonal prism, or aupip, is one of the Johnson solids. It can be constructed by attaching a square pyramid to one of the square faces of the pentagonal prism. It consists of 4 triangles, 4 squares and 2 pentagons.     
-<br><br><b>Faces:</b> 4 triangles, 4 squares and 2 pentagons | <b>Edges:</b> 19 | <b>Vertices:</b> 9 | <b>Dihedral angles:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 4 triangles, 4 squares and 2 pentagons | <b>Edges:</b> 19 | <b>Vertices:</b> 11 | <b>Dihedral angles:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <p class="topop"><a href="#p12" class="topo">back to top</a></p>
 <hr>
 <h4>21. Biaugmented pentagonal prism</h4>
 <a href="vr/j53_biaugmented_pentagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/205A.png" class="foto"></a><img src="ar/205.png" class="qr">
  <br><span class="titulo">J<sub>53</sub></span> The biaugmented pentagonal prism, or baupip, is one of the Johnson solids. It can be constructed by attaching square pyramids to two non-adjacent square faces of the pentagonal prism: the solid obtained by attaching pyramids to adjacent equatorial faces is not convex, and thus not a Johnson solid. 
-<br><br><b>Faces:</b> 8 triangles, 3 squares and 2 pentagons | <b>Edges:</b> 23 | <b>Vertices:</b> 10 | <b>Dihedral angles:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_pentagonal_prism" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 8 triangles, 3 squares and 2 pentagons | <b>Edges:</b> 23 | <b>Vertices:</b> 12 | <b>Dihedral angles:</b> 162.74°, 144.74°, 108°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_pentagonal_prism" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>22. Augmented hexagonal prism</h4>
 <a href="vr/j54_augmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/206A.png" class="foto"></a><img src="ar/206.png" class="qr">
