@@ -169,7 +169,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <h4>24. Metabiaugmented hexagonal prism</h4>
 <a href="vr/j56_metabiaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/208A.png" class="foto"></a><img src="ar/208.png" class="qr">
  <br><span class="titulo">J<sub>56</sub></span> The metabiaugmented hexagonal prism, or mabauhip, is one of the Johnson solids. It can be constructed by attaching square pyramids to two non-opposite, non-adjacent square faces of the hexagonal prism. Attaching the pyramids to opposite equatorial faces yields a parabiaugmented hexagonal prism: the solid obtained by attaching pyramids to adjacent equatorial faces is not convex, and thus not a Johnson solid.
-<br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 25 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_hexagonal_prism" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
+<br><br><b>Faces:</b> 8 triangles, 4 squares and 2 hexagons | <b>Edges:</b> 26 | <b>Vertices:</b> 14 | <b>Dihedral angles:</b> 174.74°, 144.74°, 120°, 90° and 109.47°. <a href="https://polytope.miraheze.org/wiki/Metabiaugmented_hexagonal_prism" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
 <hr>
 <h4>25. Triaugmented hexagonal prism</h4>
 <a href="vr/j57_triaugmented_hexagonal_prism.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/209A.png" class="foto"></a><img src="ar/209.png" class="qr">
