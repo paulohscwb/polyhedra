@@ -148,13 +148,13 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
 <h4>20. Prisma pentagonal aumentado</h4>
 <a href="../vr/j52_augmented_pentagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/204A.png" class="foto"></a><img src="../ar/204.png" class="qr">
  <br><span class="titulo">J<sub>52</sub></span> O prisma pentagonal aumentado é um dos sólidos de Johnson. Pode ser construído anexando uma pirâmide quadrada a uma das faces quadradas do prisma pentagonal. É composto por 4 triângulos, 4 quadrados e 2 pentágonos.
-<br><br><b>Faces:</b> 4 triângulos, 4 quadrados e 2 pentágonos | <b>Arestas:</b> 19 | <b>Vértices:</b> 9 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<br><br><b>Faces:</b> 4 triângulos, 4 quadrados e 2 pentágonos | <b>Arestas:</b> 19 | <b>Vértices:</b> 11 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Augmented_pentagonal_prism" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <p class="topop"><a href="#p12" class="topo">voltar ao topo</a></p>
 <hr>
 <h4>21. Prisma pentagonal biaumentado</h4>
 <a href="../vr/j53_biaugmented_pentagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/205A.png" class="foto"></a><img src="../ar/205.png" class="qr">
  <br><span class="titulo">J<sub>53</sub></span> O prisma pentagonal biaumentado é um dos sólidos de Johnson. Pode ser construído anexando pirâmides quadradas a duas faces quadradas não adjacentes do prisma pentagonal: o sólido obtido anexando pirâmides a faces equatoriais adjacentes não é convexo e, portanto, não é um sólido de Johnson.
-<br><br><b>Faces:</b> 8 triângulos, 3 quadrados e 2 pentágonos | <b>Arestas:</b> 23 | <b>Vértices:</b> 10 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_pentagonal_prism" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
+<br><br><b>Faces:</b> 8 triângulos, 3 quadrados e 2 pentágonos | <b>Arestas:</b> 23 | <b>Vértices:</b> 12 | <b>Ângulos diédricos:</b> 162.74°, 144.74°, 108°, 90° e 109.47°. <a href="https://polytope.miraheze.org/wiki/Biaugmented_pentagonal_prism" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
 <hr>
 <h4>22. Prisma hexagonal aumentado</h4>
 <a href="../vr/j54_augmented_hexagonal_prism.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/206A.png" class="foto"></a><img src="../ar/206.png" class="qr">
