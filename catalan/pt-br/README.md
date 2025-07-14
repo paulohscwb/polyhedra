@@ -72,7 +72,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
  <h4>5. Icositetraedro deltoidal</h4>
  <a href="../vr/deltoidal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/168A.png" class="foto"></a><img src="../ar/168.png" class="qr">
- <br>O icositetraedro deltoide é o poliedro dual de 24 faces do rombicuboctaedro. Um icositetraedro deltoide aparece na metade direita como uma das "estrelas" poliédricas na gravura em madeira "Stars" de M. C. Escher de 1948. Um octaedro estrelado, um octaedro atrativo 4-composto (cujo dual é um cubo atrativo 4-composto) e um cubo podem ser todos inscritos em um icositetraedro deltoide. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos dos vértices com medidas de 94.42° (duas vezes), 71.69° (uma vez) e 99.48° (uma vez).
+ <br>O icositetraedro deltoide é o poliedro dual de 24 faces do rombicuboctaedro. Um icositetraedro deltoide aparece na metade direita como uma das "estrelas" poliédricas na gravura em madeira "Stars" de M. C. Escher de 1948. Um octaedro estrelado, um octaedro atrativo 4-composto (cujo dual é um cubo atrativo 4-composto) e um cubo podem ser todos inscritos em um icositetraedro deltoide. Suas faces têm formato de "pipas" que possuem ângulos dos vértices com medidas de 81.58° (três vezes) e 115.26° (uma vez).
 <br><br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a><br><a href="../ra.html" class="raAR" title="Realidade aumentada" target="_blank"></a>
  <hr>
  <h4>6. Icositetraedro pentagonal</h4>
@@ -117,7 +117,7 @@ com qualquer navegador com um dispositivo de webcam (smartphone, tablet ou noteb
  <hr>
  <h4>14. Pseudo Triacontaedro disdiakis</h4>
  <a href="../vr/pseudo_deltoidal_icositetrahedron.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/179B.png" class="foto"></a>
- <br><br><br>O pseudo icositetraedro deltoidal é obtido pela rotação de metade de um icositetraedro deltoidal, com um ângulo de 45°, em torno de um eixo que passa pela diagonal principal do sólido. É o dual da girobicúpula quadrada alongada de Johnson. Suas faces têm formato de "pipas" tri-equiangulares que possuem ângulos dos vértices com medidas de 94.42° (duas vezes), 71.69° (uma vez) e 99.48° (uma vez).
+ <br><br><br>O pseudo icositetraedro deltoidal é obtido pela rotação de metade de um icositetraedro deltoidal, com um ângulo de 45°, em torno de um eixo que passa pela diagonal principal do sólido. É o dual da girobicúpula quadrada alongada de Johnson. Suas faces têm formato de "pipas" que possuem ângulos dos vértices com medidas de 81.58° (três vezes) e 115.26° (uma vez).
 <br><br><br><br><b>Faces:</b> 24 "pipas" tri-equiangulares | <b>Arestas:</b> 48 | <b>Vértices:</b> 26 | <b>Ângulo diédrico:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">Mais sobre...</a>
  <hr>
  <h4>15. Poliedros de Catalan e seus duais de Arquimedes</h4>
