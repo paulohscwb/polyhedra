@@ -72,7 +72,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
  <hr>
  <h4>5. Deltoidal Icositetrahedron</h4>
  <a href="vr/deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/168A.png" class="foto"></a><img src="ar/168.png" class="qr">
- <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its tri-equiangular kites faces have vertex angles of 94.42° (twice), 71.69° (once) and 99.48° (once).
+ <br>The deltoidal icositetrahedron is the 24-faced dual polyhedron of rhombicuboctahedron. A deltoidal icositetrahedron appears in the middle right as one of the polyhedral "stars" in M. C. Escher's 1948 wood engraving "Stars". A stella octangula, attractive octahedron 4-compound (whose dual is an attractive cube 4-compound), and cube can all be inscribed in a deltoidal icositetrahedron. Its kites faces have vertex angles of 81.58° (three times) and 115.26° (once).
 <br><br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Dihedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a><br><a href="ra.html" class="raAR" title="Augmented reality" target="_blank"></a>
  <hr>
  <h4>6. Pentagonal Icositetrahedron</h4>
@@ -117,7 +117,7 @@ with any browser with a webcam device (smartphone, tablet or notebook).
 <hr>
 <h4>14. Pseudo Deltoidal Icositetrahedron</h4>
  <a href="vr/pseudo_deltoidal_icositetrahedron.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/179B.png" class="foto"></a>
- <br><br><br><br>The pseudo deltoidal icositetrahedron is obtained by rotating half of a deltoidal icositetrahedron, at an angle of 45° around an axis that passes through the main diagonal of the solid. It is the dual of Johnson's elongated square gyrobicupola. Its tri-equiangular kites faces have vertex angles of 94.42° (twice), 71.69° (once) and 99.48° (once).
+ <br><br><br><br>The pseudo deltoidal icositetrahedron is obtained by rotating half of a deltoidal icositetrahedron, at an angle of 45° around an axis that passes through the main diagonal of the solid. It is the dual of Johnson's elongated square gyrobicupola. Its kites faces have vertex angles of 81.58° (three times) and 115.26° (once).
 <br><br><br><b>Faces:</b> 24 tri-equiangular kites | <b>Edges:</b> 48 | <b>Vertices:</b> 26 | <b>Dihedral angle:</b> 138.12°. <a href="https://mathworld.wolfram.com/DeltoidalIcositetrahedron.html" target="_blank">More...</a>
 <hr>
  <h4>15. Catalan polyhedra and their Archimedean duals</h4>
