@@ -5,8 +5,9 @@
  <b>author:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/polyhedra/pt-br/">versão em português</a>
- <br><br> Archimedes, Plato, Catalan, Johnson, non-convex, self-intersecting and quasi- regular polyhedra can be seen in Augmented Reality (AR) with the indicated markers, and through the links created in the markers, the 3D model of each polyhedron can be seen in Virtual Reality (VR).
- <br>A <b>uniform polyhedron</b> has regular polygons as faces and is isogonal, that is, it has an isometry that allows the set of its vertices to correspond to each other through symmetry relations. The notation used for the <b>n<sup>th</sup></b> uniform polyhedron is <b>U<sub>n</sub></b>.
+ <div><img align="right" src="imagens/qr.png"/>
+  <br><br> Archimedes, Plato, Catalan, Johnson, non-convex, self-intersecting and quasi- regular polyhedra can be seen in Augmented Reality (AR) with the indicated markers, and through the links created in the markers, the 3D model of each polyhedron can be seen in Virtual Reality (VR).
+ <br>A <b>uniform polyhedron</b> has regular polygons as faces and is isogonal, that is, it has an isometry that allows the set of its vertices to correspond to each other through symmetry relations. The notation used for the <b>n<sup>th</sup></b> uniform polyhedron is <b>U<sub>n</sub></b>.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="archimedes/"><img src="archimedes/ar/18A.png" style="margin-bottom:-10px" width="40"> Archimedean polyhedra</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="platonic/"><img src="platonic/ar/9A.png" style="margin-bottom:-10px" width="40"> Platonic polyhedra</a></h3>
