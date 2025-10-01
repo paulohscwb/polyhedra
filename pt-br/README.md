@@ -5,8 +5,9 @@
 <b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná
 <br><b>contato:</b> <a href="#"> paulohscwb@gmail.com </a>
 <br><a href="https://paulohscwb.github.io/polyhedra/">english version</a>
+<div><img align="right" src="../imagens/qr.png"/>
 <br><br>Os poliedros de Arquimedes, Platão, Catalan, Johnson, não convexos, de auto-interseção e quase regulares podem ser vistos em Realidade Aumentada (RA) com os marcadores indicados, e por meio dos links criados nos marcadores, o modelo 3D de cada poliedro pode ser visto em Realidade Virtual (RV).
-<br>Um <b>poliedro uniforme</b> possui polígonos regulares como faces e é isogonal, ou seja, possui uma isometria que permite que o conjunto de seus vértices correspondam entre si por meio de relações de simetria. A notação usada para o <b>n-ésimo</b> poliedro uniforme é <b>U<sub>n</sub></b>.
+<br>Um <b>poliedro uniforme</b> possui polígonos regulares como faces e é isogonal, ou seja, possui uma isometria que permite que o conjunto de seus vértices correspondam entre si por meio de relações de simetria. A notação usada para o <b>n-ésimo</b> poliedro uniforme é <b>U<sub>n</sub></b>.</div>
 <hr>
 <h3 style="margin-top:3px"><a target="_blank" href="../archimedes/pt-br/"><img src="../archimedes/ar/18A.png" style="margin-bottom:-10px" width="40"> Poliedros de Arquimedes</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../platonic/pt-br/"><img src="../platonic/ar/9A.png" style="margin-bottom:-10px" width="40"> Poliedros de Platão</a></h3>
