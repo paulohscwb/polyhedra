@@ -363,9 +363,7 @@ l 51 25
 usemtl CorL
 l 26 60
 usemtl CorL
-l 60 48
-usemtl CorL
-l 40 26 
+l 60 48 
 usemtl CorL
 l 27 1
 usemtl CorL
